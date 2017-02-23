@@ -1,684 +1,5 @@
 Grailbird.data.tweets_2011_11 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "142135684365418496",
-  "text" : "\u3053\u3093\u306A\u6642\u9593\u306B\u5E30\u308B\u306A\u3093\u3066\u3059\u3052\u30FC\u4E45\u3005 \u4F53\u304C\u8EFD\u3044\u306A\u3046",
-  "id" : 142135684365418496,
-  "created_at" : "2011-12-01 06:59:22 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141906650490609666",
-  "text" : "\u65E5\u7167\u6A29\u304C\u30C4\u30DC\u306B\u5165\u3063\u305F\u6240\u3067\u30D9\u30C3\u30C9\u306E\u4E2D\u304C\u6696\u304B\u304F\u306A\u3063\u305F\u306E\u3067\u5BDD\u307E\u3059\uFF7D\uFF8B\uFF9F\uFF70",
-  "id" : 141906650490609666,
-  "created_at" : "2011-11-30 15:49:16 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
-      "screen_name" : "hyb_530",
-      "indices" : [ 0, 8 ],
-      "id_str" : "2985413085",
-      "id" : 2985413085
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141905861663666176",
-  "text" : "@hyb_530 \u3044\u3044\u611F\u3058\u3060\u3088\u306D \u3042\u305B\u3063\u304B\u304D\u3060\u304B\u3089\u590F\u306F\u8996\u7DDA\u304C\u3084\u3070\u3044 \u3044\u3084\u30FC\u3060\u30FC",
-  "id" : 141905861663666176,
-  "created_at" : "2011-11-30 15:46:08 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u9244\u5206@\u8179\u8089\u306E\u60C5\u71B1",
-      "screen_name" : "tetubun4",
-      "indices" : [ 0, 9 ],
-      "id_str" : "372741004",
-      "id" : 372741004
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "141904997079195649",
-  "geo" : { },
-  "id_str" : "141905377825525763",
-  "in_reply_to_user_id" : 372741004,
-  "text" : "@tetubun4 \u304A\u3084\u3059\u307F\u306A\u3055\u3044\uFF01",
-  "id" : 141905377825525763,
-  "in_reply_to_status_id" : 141904997079195649,
-  "created_at" : "2011-11-30 15:44:13 +0000",
-  "in_reply_to_screen_name" : "tetubun4",
-  "in_reply_to_user_id_str" : "372741004",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141905130604855296",
-  "text" : "\u5BD2\u3044\u65B9\u304C\u597D\u304D\u306A\u4FFA\u306F\u5317\u9678\u306F\u904E\u3054\u3057\u3084\u3059\u3044\u203B\u305F\u3060\u3057\u51AC\u306B\u9650\u308B",
-  "id" : 141905130604855296,
-  "created_at" : "2011-11-30 15:43:14 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u9244\u5206@\u8179\u8089\u306E\u60C5\u71B1",
-      "screen_name" : "tetubun4",
-      "indices" : [ 0, 9 ],
-      "id_str" : "372741004",
-      "id" : 372741004
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "141904196625629184",
-  "geo" : { },
-  "id_str" : "141904773464072192",
-  "in_reply_to_user_id" : 372741004,
-  "text" : "@tetubun4 \u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\uFF01 (\u4E09\u56DE\u76EE",
-  "id" : 141904773464072192,
-  "in_reply_to_status_id" : 141904196625629184,
-  "created_at" : "2011-11-30 15:41:49 +0000",
-  "in_reply_to_screen_name" : "tetubun4",
-  "in_reply_to_user_id_str" : "372741004",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "\u308F\u3044\u306F\u5BDD\u308D",
-      "indices" : [ 24, 30 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141904150765121536",
-  "text" : "\u5317\u6D77\u9053\u884C\u3063\u305F\u3089\u8AB0\u304C\u51FA\u8FCE\u3048\u3066\u304F\u308C\u308B\u3093\u3060\u3044\uFF81\uFF97\uFF81\uFF97 #\u308F\u3044\u306F\u5BDD\u308D",
-  "id" : 141904150765121536,
-  "created_at" : "2011-11-30 15:39:20 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u9244\u5206@\u8179\u8089\u306E\u60C5\u71B1",
-      "screen_name" : "tetubun4",
-      "indices" : [ 0, 9 ],
-      "id_str" : "372741004",
-      "id" : 372741004
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "141902302964490240",
-  "geo" : { },
-  "id_str" : "141903747851878401",
-  "in_reply_to_user_id" : 372741004,
-  "text" : "@tetubun4 \u3042\u308C\u306F\u3068\u308A\u3042\u3048\u305A\u9332\u3063\u3066\u307F\u305F\u3063\u3066\u611F\u3058\u3067\u3059\uFF57\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\uFF57  \u672C\u5F53\u306F\u3061\u3083\u3093\u3068\u3057\u305F\u306E\u4E0A\u3052\u305F\u3044\u3093\u3067\u3059\u3088\uFF65\uFF65\uFF65\uFF01",
-  "id" : 141903747851878401,
-  "in_reply_to_status_id" : 141902302964490240,
-  "created_at" : "2011-11-30 15:37:44 +0000",
-  "in_reply_to_screen_name" : "tetubun4",
-  "in_reply_to_user_id_str" : "372741004",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141903439096590336",
-  "text" : "@nakaka_yasagure \u3082\u3046\u65E2\u306B\u308A\u3077\u3092\u3068\u3070\u3057\u3042\u3046\u30CA\u30AB\u3055 \u3075\u3075\u3075",
-  "id" : 141903439096590336,
-  "created_at" : "2011-11-30 15:36:30 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u9244\u5206@\u8179\u8089\u306E\u60C5\u71B1",
-      "screen_name" : "tetubun4",
-      "indices" : [ 0, 9 ],
-      "id_str" : "372741004",
-      "id" : 372741004
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "141900803806990337",
-  "geo" : { },
-  "id_str" : "141901989595451392",
-  "in_reply_to_user_id" : 372741004,
-  "text" : "@tetubun4 \u304A\u306F\u3088\u3046\u3054\u3056\u3044\u307E\u3059\uFF01 \u30D5\u30A9\u30ED\u30FC\u8FD4\u3057\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\uFF01\u30C4\u30A4\u30C3\u30BF\u30FC\u3068\u304B\u3041\u3001\u3041\u3093\u307E\u308A\u5206\u304B\u3093\u306A\u304F\u3066\u307C\u30FC\u3061\u3083\u3093\u3057\u3066\u307E\u3059\uFF77\uFF6C\uFF8B\uFF9F\u2606\u3068\u3044\u3046\u306E\u306F\u5197\u8AC7\u3067\u3059\u304C\u3088\u308D\u3057\u304F\u304A\u9858\u3044\u3057\u307E\u3059",
-  "id" : 141901989595451392,
-  "in_reply_to_status_id" : 141900803806990337,
-  "created_at" : "2011-11-30 15:30:45 +0000",
-  "in_reply_to_screen_name" : "tetubun4",
-  "in_reply_to_user_id_str" : "372741004",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141900952872562688",
-  "text" : "@nakaka_yasagure \u5B9F\u306F\u306A\uFF84\uFF9E\uFF94\uFF67",
-  "id" : 141900952872562688,
-  "created_at" : "2011-11-30 15:26:38 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "\u308F\u3044\u306F\u5BDD\u308D",
-      "indices" : [ 0, 6 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141900647023915008",
-  "text" : "#\u308F\u3044\u306F\u5BDD\u308D",
-  "id" : 141900647023915008,
-  "created_at" : "2011-11-30 15:25:25 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141900465918062592",
-  "text" : "\u3048\u3001\u30AD\u30B9\u30B7\u30B9\uFF19\u3082\u3046\u767A\u58F2\u3057\u3066\u305F\uFF1F",
-  "id" : 141900465918062592,
-  "created_at" : "2011-11-30 15:24:42 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30B5\u30EF\u30EA\u30FC\u30DE\u30F3CHIN\u592A\u90CE",
-      "screen_name" : "you_tarou",
-      "indices" : [ 0, 10 ],
-      "id_str" : "96357653",
-      "id" : 96357653
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "141896364056510465",
-  "geo" : { },
-  "id_str" : "141900160996343809",
-  "in_reply_to_user_id" : 96357653,
-  "text" : "@you_tarou \u4ED6\u306E\u30AB\u30C6\u30B4\u30EA\u306F\u77E5\u3089\u306A\u3044\u3051\u3069\u3001\u6B4C\u3063\u3066\u307F\u305F\u754C\u9688\u306F\u305D\u3046\u3044\u3046\u306E\u591A\u3044\u6C17\u304C\u3059\u308B\uFF57",
-  "id" : 141900160996343809,
-  "in_reply_to_status_id" : 141896364056510465,
-  "created_at" : "2011-11-30 15:23:29 +0000",
-  "in_reply_to_screen_name" : "you_tarou",
-  "in_reply_to_user_id_str" : "96357653",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141899074575151104",
-  "text" : "@kamo032 \u6C17\u306E\u305B\u3044  \u3061\u3087\u3063\u3068\u30CE\u30FC\u30C8\u306B\u30B9\u30DA\u30C3\u30AF\u4E0D\u8DB3\u611F\u3058\u3066\u305F\u3057\u3001\u81EA\u4F5C\u306E\u8155\u3082\u6301\u3063\u3066\u308B\u3068\u4F7F\u3048\u305D\u3046\u3060\u3063\u305F\u304B\u3089\u306D\u30FC",
-  "id" : 141899074575151104,
-  "created_at" : "2011-11-30 15:19:10 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30AC\u30A4\u30DCGO",
-      "screen_name" : "gaibo86",
-      "indices" : [ 0, 8 ],
-      "id_str" : "123141447",
-      "id" : 123141447
-    }, {
-      "name" : "\u308B\u30FC\u305F\u308D\uFF20\u3084\u3063\u3074",
-      "screen_name" : "xxxluuxxx",
-      "indices" : [ 9, 19 ],
-      "id_str" : "75224536",
-      "id" : 75224536
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141898352399876096",
-  "in_reply_to_user_id" : 123141447,
-  "text" : "@gaibo86 @xxxluuxxx \u304A\u3084\u3059\u307F\u30FC\uFF01",
-  "id" : 141898352399876096,
-  "created_at" : "2011-11-30 15:16:18 +0000",
-  "in_reply_to_screen_name" : "gaibo86",
-  "in_reply_to_user_id_str" : "123141447",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "negoto",
-      "indices" : [ 11, 18 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141898121763504128",
-  "text" : "\u6795\u3092\u6D99\u3067\u6FE1\u3089\u3059\u7CFB\u7537\u5B50 #negoto",
-  "id" : 141898121763504128,
-  "created_at" : "2011-11-30 15:15:23 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141896370536726528",
-  "text" : "\u5BDD\u308B\u5BDD\u308B\u30FC\u3000\u304A\u3084\u3059\u307F\u3093\u3061\u3085\u3002",
-  "id" : 141896370536726528,
-  "created_at" : "2011-11-30 15:08:25 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30B5\u30EF\u30EA\u30FC\u30DE\u30F3CHIN\u592A\u90CE",
-      "screen_name" : "you_tarou",
-      "indices" : [ 0, 10 ],
-      "id_str" : "96357653",
-      "id" : 96357653
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "141895844730380288",
-  "geo" : { },
-  "id_str" : "141896216769343488",
-  "in_reply_to_user_id" : 96357653,
-  "text" : "@you_tarou CM\u30A2\u30D5\u30EC\u30B3\u52D5\u753B\u306E\u305B\u3044\u3058\u3083\u306A\u3044\uFF1F\uFF57",
-  "id" : 141896216769343488,
-  "in_reply_to_status_id" : 141895844730380288,
-  "created_at" : "2011-11-30 15:07:49 +0000",
-  "in_reply_to_screen_name" : "you_tarou",
-  "in_reply_to_user_id_str" : "96357653",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141895988095881216",
-  "text" : "@kamo032 \u3054\u3063\u3081\u30FC\u3093\u2606\u6700\u8FD1PC\u65B0\u8ABF\u3057\u3066\u30B5\u30AF\u30B5\u30AF\u3060\u308F\u3054\u3063\u3081\u30FC\u3093\u2606",
-  "id" : 141895988095881216,
-  "created_at" : "2011-11-30 15:06:54 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141895722801954819",
-  "text" : "\u3053\u308C\u3067\u30D6\u30ED\u30C3\u30AF\u3055\u308C\u305F\u3089\u3069\u3046\u306A\u308B\u3093\u3060\u308D\u3046",
-  "id" : 141895722801954819,
-  "created_at" : "2011-11-30 15:05:51 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141895348577779712",
-  "text" : "@kamo032 \u304A\u3046\u3075\u2026\u3000\u5C65\u6B74\u524A\u9664\u3068\u304B\u307B\u3068\u3093\u3069\u3057\u306A\u3044\u308F",
-  "id" : 141895348577779712,
-  "created_at" : "2011-11-30 15:04:22 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141895047976198145",
-  "text" : "\u3010\u8CEA\u554F\u3011\u4E00\u4F53\u4FFA\u3063\u3066\u3069\u3093\u306A\u4EBA",
-  "id" : 141895047976198145,
-  "created_at" : "2011-11-30 15:03:10 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141894700146769920",
-  "text" : "@kamo032 \u5207\u3063\u3066\u306A\u3044\u306E\uFF1F\uFF1E\u3058\u307B\u30FC",
-  "id" : 141894700146769920,
-  "created_at" : "2011-11-30 15:01:47 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141894594232197120",
-  "text" : "12\u6708\u300C\u5E2B\u5320\u8D70\u308A\u51FA\u3057\u3061\u3083\u3046\u308F\u30FC\u3063\u3079\u30FC\u300D",
-  "id" : 141894594232197120,
-  "created_at" : "2011-11-30 15:01:22 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
-      "screen_name" : "kbo_dgw",
-      "indices" : [ 0, 8 ],
-      "id_str" : "193293167",
-      "id" : 193293167
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "141894233169731584",
-  "geo" : { },
-  "id_str" : "141894492612599810",
-  "in_reply_to_user_id" : 193293167,
-  "text" : "@kbo_dgw \u3048\u3063\uFF08\u771F\u9854\uFF09",
-  "id" : 141894492612599810,
-  "in_reply_to_status_id" : 141894233169731584,
-  "created_at" : "2011-11-30 15:00:57 +0000",
-  "in_reply_to_screen_name" : "kbo_dgw",
-  "in_reply_to_user_id_str" : "193293167",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -803,7 +124,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -858,7 +179,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -913,7 +234,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -979,7 +300,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -1012,7 +333,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -1045,7 +366,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -1078,7 +399,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -1133,7 +454,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -1188,7 +509,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -1298,7 +619,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -1353,7 +674,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -1386,7 +707,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -1441,7 +762,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -1496,7 +817,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -1529,7 +850,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -1562,7 +883,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -1614,7 +935,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1636,7 +957,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1658,7 +979,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1680,7 +1001,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1702,7 +1023,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3052\u3053\u30B1\u30EB\u30B9\u30B9\uFF30",
@@ -1735,7 +1056,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1757,7 +1078,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1779,7 +1100,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u307E\u3055\u306F\u308B\u541B",
@@ -1830,7 +1151,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1852,7 +1173,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1877,7 +1198,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "m264",
@@ -1905,7 +1226,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1927,7 +1248,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1949,7 +1270,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1974,7 +1295,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1996,7 +1317,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "kyui_momonga",
@@ -2029,7 +1350,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "kyui_momonga",
@@ -2062,7 +1383,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2084,10 +1405,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AC\u30A4\u30DCGO",
+      "name" : "\u30AC\u30A4\u30DC\uFF08\u6709\uFF09",
       "screen_name" : "gaibo86",
       "indices" : [ 0, 8 ],
       "id_str" : "123141447",
@@ -2117,7 +1438,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2139,7 +1460,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2166,10 +1487,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E9\u30D9\u30EB\u306F\u30A4\u30AB\u306B\u306A\u308B",
+      "name" : "\u30E9\u30D9\u30EB",
       "screen_name" : "_label_",
       "indices" : [ 0, 8 ],
       "id_str" : "83583988",
@@ -2199,7 +1520,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2221,7 +1542,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2243,7 +1564,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2265,7 +1586,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u307E\u3055\u304D\u306Ebot",
@@ -2293,7 +1614,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2315,7 +1636,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "E",
@@ -2348,7 +1669,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2370,10 +1691,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -2752,7 +2073,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2774,7 +2095,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2884,29 +2205,18 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30DD\u30B1\u30E2\u30F3\u30C8\u30EC\u30FC\u30CA\u30FC\u306E\u304F\u3058\u3089PAPA",
-      "screen_name" : "kujira_papa_",
-      "indices" : [ 0, 13 ],
-      "id_str" : "118695328",
-      "id" : 118695328
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "140653461988573185",
   "geo" : { },
   "id_str" : "140653692415262720",
-  "in_reply_to_user_id" : 118695328,
   "text" : "@kujira_papa_ \u304A\u306F\u3088\u30FC\u306F\u3088\u30FC",
   "id" : 140653692415262720,
-  "in_reply_to_status_id" : 140653461988573185,
   "created_at" : "2011-11-27 04:50:28 +0000",
-  "in_reply_to_screen_name" : "kujira_papa_",
-  "in_reply_to_user_id_str" : "118695328",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -2917,7 +2227,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2944,10 +2254,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C0F\u6307\u304C\u75DB\u3044\u3048\u306A\u30FC",
+      "name" : "\u3010\u56DB\u5929\u738B\u3011\u75DB\u98A8\u306E\u3048\u306A\u30FC\u3010\u6700\u5F31\u3011",
       "screen_name" : "ena18782",
       "indices" : [ 0, 9 ],
       "id_str" : "99909212",
@@ -2977,7 +2287,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2999,7 +2309,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3026,10 +2336,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30C6\u30C8\u30E9\u30DD\u30C3\u30C8\u767B\u308B\u30DE\u30F3",
+      "name" : "\u30AC\u30AA\u30AC\u30A8\u30F3\u4F50\u3005\u6728",
       "screen_name" : "AK_wine",
       "indices" : [ 0, 8 ],
       "id_str" : "245827951",
@@ -3059,7 +2369,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "doradio_nico",
@@ -3092,10 +2402,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -3125,7 +2435,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "hk",
@@ -3158,7 +2468,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3180,7 +2490,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "doradio_nico",
@@ -3213,7 +2523,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "hk",
@@ -3246,7 +2556,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3268,7 +2578,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3290,7 +2600,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3312,7 +2622,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3334,7 +2644,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "pilar presas",
@@ -3362,7 +2672,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3384,7 +2694,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3406,7 +2716,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3428,7 +2738,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3450,10 +2760,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -3483,7 +2793,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3505,10 +2815,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -3538,7 +2848,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3560,7 +2870,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3582,7 +2892,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3604,7 +2914,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3042\u308A\u3055\u3093@Web\u95A2\u9023\u304B\u30C6\u30B9\u30BF\u30FC\u3067\u6C42\u8077\u4E2D",
@@ -3637,7 +2947,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3659,7 +2969,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3042\u308A\u3055\u3093@Web\u95A2\u9023\u304B\u30C6\u30B9\u30BF\u30FC\u3067\u6C42\u8077\u4E2D",
@@ -3692,7 +3002,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3042\u308A\u3055\u3093@Web\u95A2\u9023\u304B\u30C6\u30B9\u30BF\u30FC\u3067\u6C42\u8077\u4E2D",
@@ -3760,7 +3070,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3782,7 +3092,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3804,7 +3114,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4285,7 +3595,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -5148,7 +4458,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "syun@\u5408\u8846\u56FD\u653E\u706B\u72AF",
@@ -5269,7 +4579,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5313,7 +4623,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5335,7 +4645,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5357,7 +4667,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u041C\u0430\u043A\u0441\u044F\u0442\u0438\u043Da \u041B\u044E\u0431\u043E\u0432\u044C",
@@ -5385,7 +4695,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5407,7 +4717,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u041C\u0430\u043A\u0441\u044F\u0442\u0438\u043Da \u041B\u044E\u0431\u043E\u0432\u044C",
@@ -5435,7 +4745,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "m264",
@@ -5463,7 +4773,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5485,7 +4795,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "m264",
@@ -5513,7 +4823,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3042\u308A\u3055\u3093@Web\u95A2\u9023\u304B\u30C6\u30B9\u30BF\u30FC\u3067\u6C42\u8077\u4E2D",
@@ -5546,7 +4856,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3042\u308A\u3055\u3093@Web\u95A2\u9023\u304B\u30C6\u30B9\u30BF\u30FC\u3067\u6C42\u8077\u4E2D",
@@ -5597,7 +4907,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5619,7 +4929,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5641,7 +4951,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5663,7 +4973,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5762,7 +5072,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C0F\u6307\u304C\u75DB\u3044\u3048\u306A\u30FC",
+      "name" : "\u3010\u56DB\u5929\u738B\u3011\u75DB\u98A8\u306E\u3048\u306A\u30FC\u3010\u6700\u5F31\u3011",
       "screen_name" : "ena18782",
       "indices" : [ 0, 9 ],
       "id_str" : "99909212",
@@ -5825,7 +5135,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C0F\u6307\u304C\u75DB\u3044\u3048\u306A\u30FC",
+      "name" : "\u3010\u56DB\u5929\u738B\u3011\u75DB\u98A8\u306E\u3048\u306A\u30FC\u3010\u6700\u5F31\u3011",
       "screen_name" : "ena18782",
       "indices" : [ 0, 9 ],
       "id_str" : "99909212",
@@ -5858,7 +5168,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C0F\u6307\u304C\u75DB\u3044\u3048\u306A\u30FC",
+      "name" : "\u3010\u56DB\u5929\u738B\u3011\u75DB\u98A8\u306E\u3048\u306A\u30FC\u3010\u6700\u5F31\u3011",
       "screen_name" : "ena18782",
       "indices" : [ 0, 9 ],
       "id_str" : "99909212",
@@ -5888,7 +5198,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5946,7 +5256,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5968,7 +5278,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5990,7 +5300,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6067,10 +5377,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3061\u3087\u3081\u5409@8\/6\u30D1\u30E0\u30D7\u30ED\u51FA\u6F14",
+      "name" : "\u3061\u3087\u3081\u5409\uFF202\/26\u3042\u306B\u305D\u3093\u30E9\u30A4\u30D6&FES",
       "screen_name" : "tyomekiti",
       "indices" : [ 0, 10 ],
       "id_str" : "97887922",
@@ -6100,7 +5410,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "syun@\u5408\u8846\u56FD\u653E\u706B\u72AF",
@@ -6133,7 +5443,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6155,7 +5465,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "syun@\u5408\u8846\u56FD\u653E\u706B\u72AF",
@@ -6567,7 +5877,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6589,10 +5899,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u843D\u5408\u6D0B\u53F8\uFF08\u30AA\u30F3\u30E9\u30A4\u30F3\u30C1\u30E3\u30C3\u30C8\u76F8\u8AC7\u5BFE\u5FDC\u53EF\uFF09",
+      "name" : "\u843D\u5408\u6D0B\u53F8 Yoji Ochiai",
       "screen_name" : "yjochi",
       "indices" : [ 25, 32 ],
       "id_str" : "40434503",
@@ -6617,7 +5927,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6639,7 +5949,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6661,7 +5971,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6683,7 +5993,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6705,7 +6015,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6727,7 +6037,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6749,7 +6059,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6771,7 +6081,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6793,7 +6103,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6815,7 +6125,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6837,7 +6147,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "syun@\u5408\u8846\u56FD\u653E\u706B\u72AF",
@@ -7260,7 +6570,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "syun@\u5408\u8846\u56FD\u653E\u706B\u72AF",
@@ -7293,7 +6603,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u30B9\u30C6\u30A3-sty-",
@@ -7326,7 +6636,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7373,7 +6683,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u85E4\u5143\u3000\u4EC1@\u30A2\u30F4\u30A3",
+      "name" : "\u30CB\u30B4\u30EA\u30B6\u30B13%\u4EC1\u3061\u3083\u3093@\u30A2\u30F4\u30A3",
       "screen_name" : "30fukuyama",
       "indices" : [ 0, 11 ],
       "id_str" : "133392122",
@@ -7640,7 +6950,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u3055\u3072\uFF12\uFF16",
+      "name" : "\u3042\u3055\u3072\uFF12\uFF16@\u7953\u9B54\u5E2B",
       "screen_name" : "asahi_26",
       "indices" : [ 0, 9 ],
       "id_str" : "88185630",
@@ -7772,7 +7082,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u3055\u3072\uFF12\uFF16",
+      "name" : "\u3042\u3055\u3072\uFF12\uFF16@\u7953\u9B54\u5E2B",
       "screen_name" : "asahi_26",
       "indices" : [ 0, 9 ],
       "id_str" : "88185630",
@@ -7882,7 +7192,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C0F\u6307\u304C\u75DB\u3044\u3048\u306A\u30FC",
+      "name" : "\u3010\u56DB\u5929\u738B\u3011\u75DB\u98A8\u306E\u3048\u306A\u30FC\u3010\u6700\u5F31\u3011",
       "screen_name" : "ena18782",
       "indices" : [ 0, 9 ],
       "id_str" : "99909212",
@@ -8190,7 +7500,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 0, 8 ],
       "id_str" : "2985413085",
@@ -8248,7 +7558,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 4, 12 ],
       "id_str" : "2985413085",
@@ -8320,7 +7630,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8342,7 +7652,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "syun@\u5408\u8846\u56FD\u653E\u706B\u72AF",
@@ -8375,7 +7685,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8824,7 +8134,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -8876,7 +8186,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8898,7 +8208,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8920,7 +8230,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8942,7 +8252,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8964,10 +8274,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 0, 8 ],
       "id_str" : "2985413085",
@@ -8992,7 +8302,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9014,7 +8324,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9036,7 +8346,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9058,7 +8368,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9080,7 +8390,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9102,7 +8412,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9124,7 +8434,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9146,7 +8456,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9168,7 +8478,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "PLUCK\uFF20(21)\u3048\u3082\u3093",
@@ -9201,7 +8511,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9223,10 +8533,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -9256,7 +8566,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9278,7 +8588,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "PLUCK\uFF20(21)\u3048\u3082\u3093",
@@ -9311,7 +8621,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lasta",
@@ -9320,7 +8630,7 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "93424459",
       "id" : 93424459
     }, {
-      "name" : "\u30E9\u30D9\u30EB\u306F\u30A4\u30AB\u306B\u306A\u308B",
+      "name" : "\u30E9\u30D9\u30EB",
       "screen_name" : "_label_",
       "indices" : [ 39, 47 ],
       "id_str" : "83583988",
@@ -9351,7 +8661,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9373,7 +8683,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9395,7 +8705,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9417,10 +8727,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -9450,10 +8760,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -9483,10 +8793,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -9516,7 +8826,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Yuuto@s\u76F8\u4E92\u30D5\u30A9\u30ED\u30FC",
@@ -9544,7 +8854,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u67D3\u305F",
@@ -9577,7 +8887,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9602,7 +8912,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u67D3\u305F",
@@ -9635,7 +8945,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u67D3\u305F",
@@ -9668,7 +8978,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9690,10 +9000,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 0, 8 ],
       "id_str" : "2985413085",
@@ -9718,10 +9028,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 0, 8 ],
       "id_str" : "2985413085",
@@ -9746,10 +9056,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 0, 8 ],
       "id_str" : "2985413085",
@@ -9774,10 +9084,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 0, 8 ],
       "id_str" : "2985413085",
@@ -9802,7 +9112,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9824,7 +9134,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9846,7 +9156,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9868,10 +9178,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307E\u3064\u3060\u3044",
+      "name" : "\u307E\u3064\u3060\u3044@2\u67083\u65E5\u306F\u8A95\u751F\u796D",
       "screen_name" : "matsudai23",
       "indices" : [ 0, 11 ],
       "id_str" : "73305153",
@@ -9901,7 +9211,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9923,10 +9233,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307E\u3064\u3060\u3044",
+      "name" : "\u307E\u3064\u3060\u3044@2\u67083\u65E5\u306F\u8A95\u751F\u796D",
       "screen_name" : "matsudai23",
       "indices" : [ 0, 11 ],
       "id_str" : "73305153",
@@ -9956,7 +9266,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "enju@\u4E57\u308A\u9244",
@@ -9989,7 +9299,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "enju@\u4E57\u308A\u9244",
@@ -10022,7 +9332,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "enju@\u4E57\u308A\u9244",
@@ -10055,7 +9365,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -10077,7 +9387,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -10099,10 +9409,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307E\u3064\u3060\u3044",
+      "name" : "\u307E\u3064\u3060\u3044@2\u67083\u65E5\u306F\u8A95\u751F\u796D",
       "screen_name" : "matsudai23",
       "indices" : [ 0, 11 ],
       "id_str" : "73305153",
@@ -10132,7 +9442,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -10159,7 +9469,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -10181,7 +9491,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -10203,7 +9513,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -10225,7 +9535,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -10247,7 +9557,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -10805,7 +10115,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -10827,7 +10137,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -10849,7 +10159,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u30B9\u30C6\u30A3-sty-",
@@ -10882,7 +10192,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11211,7 +10521,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11233,7 +10543,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11255,7 +10565,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "doradio_nico",
@@ -11288,7 +10598,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11310,7 +10620,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11332,7 +10642,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11354,7 +10664,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11376,7 +10686,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11398,7 +10708,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11420,7 +10730,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "_(:D)\uFFE3\u2502_\uFF08\uFF1C\u3057\u3044\u306Abot\u3067\u3059\uFF09",
@@ -11453,7 +10763,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11654,7 +10964,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -11720,7 +11030,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 18, 30 ],
       "id_str" : "99437114",
@@ -11745,10 +11055,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -11778,10 +11088,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -11811,7 +11121,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11833,7 +11143,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11855,7 +11165,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11877,7 +11187,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "m264",
@@ -11905,7 +11215,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "m264",
@@ -11933,7 +11243,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11958,7 +11268,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11980,7 +11290,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -12230,7 +11540,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -12761,7 +12071,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -12783,7 +12093,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3075\u308F\u3075\u308F\u30DA\u30C9\u3061\u3083\u3093",
@@ -12816,7 +12126,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -12838,10 +12148,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 0, 8 ],
       "id_str" : "2985413085",
@@ -12866,7 +12176,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -12888,10 +12198,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 0, 8 ],
       "id_str" : "2985413085",
@@ -12916,7 +12226,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u041C\u0430\u043A\u0441\u044F\u0442\u0438\u043Da \u041B\u044E\u0431\u043E\u0432\u044C",
@@ -12944,10 +12254,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3052\u3053\u592A\u3002",
+      "name" : "\u3052\u3053\u592A\u3002@\uFF12\u9031\u9593\u540D\u53E4\u5C4B",
       "screen_name" : "gekotan37",
       "indices" : [ 0, 10 ],
       "id_str" : "100897256",
@@ -12977,7 +12287,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -13004,10 +12314,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3052\u3053\u592A\u3002",
+      "name" : "\u3052\u3053\u592A\u3002@\uFF12\u9031\u9593\u540D\u53E4\u5C4B",
       "screen_name" : "gekotan37",
       "indices" : [ 0, 10 ],
       "id_str" : "100897256",
@@ -13037,7 +12347,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -13059,7 +12369,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -13273,7 +12583,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -13298,7 +12608,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 0, 8 ],
       "id_str" : "2985413085",
@@ -13414,7 +12724,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 0, 8 ],
       "id_str" : "2985413085",
@@ -13541,7 +12851,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u304A\u59C9\u3055\u3093\u5B50\u4F9B\u4F53\u578B",
@@ -13587,7 +12897,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "jinsei_is_gmkz",
       "protected" : true,
       "id_str" : "287751940",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/710291551704862721\/0gOBE_12_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/792996298328674305\/HmzDEdri_normal.jpg",
       "id" : 287751940,
       "verified" : false
     }
@@ -13604,7 +12914,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -13651,7 +12961,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AC\u30A4\u30DCGO",
+      "name" : "\u30AC\u30A4\u30DC\uFF08\u6709\uFF09",
       "screen_name" : "gaibo86",
       "indices" : [ 0, 8 ],
       "id_str" : "123141447",
@@ -13684,7 +12994,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AC\u30A4\u30DCGO",
+      "name" : "\u30AC\u30A4\u30DC\uFF08\u6709\uFF09",
       "screen_name" : "gaibo86",
       "indices" : [ 0, 8 ],
       "id_str" : "123141447",
@@ -13739,7 +13049,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AC\u30A4\u30DCGO",
+      "name" : "\u30AC\u30A4\u30DC\uFF08\u6709\uFF09",
       "screen_name" : "gaibo86",
       "indices" : [ 0, 8 ],
       "id_str" : "123141447",
@@ -13769,7 +13079,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -13791,10 +13101,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AC\u30A4\u30DCGO",
+      "name" : "\u30AC\u30A4\u30DC\uFF08\u6709\uFF09",
       "screen_name" : "gaibo86",
       "indices" : [ 0, 8 ],
       "id_str" : "123141447",
@@ -13824,10 +13134,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AC\u30A4\u30DCGO",
+      "name" : "\u30AC\u30A4\u30DC\uFF08\u6709\uFF09",
       "screen_name" : "gaibo86",
       "indices" : [ 0, 8 ],
       "id_str" : "123141447",
@@ -13857,7 +13167,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -13879,7 +13189,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -13901,7 +13211,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -13923,10 +13233,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AC\u30A4\u30DCGO",
+      "name" : "\u30AC\u30A4\u30DC\uFF08\u6709\uFF09",
       "screen_name" : "gaibo86",
       "indices" : [ 0, 8 ],
       "id_str" : "123141447",
@@ -13956,7 +13266,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -13978,7 +13288,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3042\u308A\u3055\u3093@Web\u95A2\u9023\u304B\u30C6\u30B9\u30BF\u30FC\u3067\u6C42\u8077\u4E2D",
@@ -14011,7 +13321,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14033,10 +13343,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AC\u30A4\u30DCGO",
+      "name" : "\u30AC\u30A4\u30DC\uFF08\u6709\uFF09",
       "screen_name" : "gaibo86",
       "indices" : [ 0, 8 ],
       "id_str" : "123141447",
@@ -14066,7 +13376,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14088,7 +13398,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14113,7 +13423,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14135,10 +13445,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C0F\u6307\u304C\u75DB\u3044\u3048\u306A\u30FC",
+      "name" : "\u3010\u56DB\u5929\u738B\u3011\u75DB\u98A8\u306E\u3048\u306A\u30FC\u3010\u6700\u5F31\u3011",
       "screen_name" : "ena18782",
       "indices" : [ 0, 9 ],
       "id_str" : "99909212",
@@ -14168,7 +13478,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14195,7 +13505,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14217,7 +13527,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14244,10 +13554,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u304B\u3055\u3093\u306F\u304A\u9152\u304C\u98F2\u307F\u305F\u3044",
+      "name" : "\u307F\u304B\u3055\u3093\u3002",
       "screen_name" : "pinkrit",
       "indices" : [ 0, 8 ],
       "id_str" : "100307622",
@@ -14277,10 +13587,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C0F\u6307\u304C\u75DB\u3044\u3048\u306A\u30FC",
+      "name" : "\u3010\u56DB\u5929\u738B\u3011\u75DB\u98A8\u306E\u3048\u306A\u30FC\u3010\u6700\u5F31\u3011",
       "screen_name" : "ena18782",
       "indices" : [ 0, 9 ],
       "id_str" : "99909212",
@@ -14310,7 +13620,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14332,7 +13642,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14354,7 +13664,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3042\u308A\u3055\u3093@Web\u95A2\u9023\u304B\u30C6\u30B9\u30BF\u30FC\u3067\u6C42\u8077\u4E2D",
@@ -14387,7 +13697,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14414,7 +13724,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14436,7 +13746,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14463,10 +13773,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C0F\u6307\u304C\u75DB\u3044\u3048\u306A\u30FC",
+      "name" : "\u3010\u56DB\u5929\u738B\u3011\u75DB\u98A8\u306E\u3048\u306A\u30FC\u3010\u6700\u5F31\u3011",
       "screen_name" : "ena18782",
       "indices" : [ 0, 9 ],
       "id_str" : "99909212",
@@ -14496,7 +13806,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14523,7 +13833,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14545,7 +13855,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14567,7 +13877,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14589,7 +13899,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14611,7 +13921,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14633,7 +13943,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14655,7 +13965,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14677,7 +13987,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14699,7 +14009,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14721,7 +14031,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14743,7 +14053,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u30CB\u30B3\u30AF\u30FC\u30DD\u30F3\u306E\u30CB\u30B3\u30DD\u30F3",
@@ -14794,7 +14104,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14816,7 +14126,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14838,7 +14148,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14860,7 +14170,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14882,7 +14192,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14907,7 +14217,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u304D\u3061\u3085\u306D",
+      "name" : "\u304D\u3061\u3085\u306D \u2741 \u30B2\u30FC\u30E0\u5236\u4F5C\u4E2D \u2661",
       "screen_name" : "kityune",
       "indices" : [ 0, 8 ],
       "id_str" : "208138759",
@@ -14973,7 +14283,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u3055\u3072\uFF12\uFF16",
+      "name" : "\u3042\u3055\u3072\uFF12\uFF16@\u7953\u9B54\u5E2B",
       "screen_name" : "asahi_26",
       "indices" : [ 0, 9 ],
       "id_str" : "88185630",
@@ -15039,7 +14349,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u3055\u3072\uFF12\uFF16",
+      "name" : "\u3042\u3055\u3072\uFF12\uFF16@\u7953\u9B54\u5E2B",
       "screen_name" : "asahi_26",
       "indices" : [ 0, 9 ],
       "id_str" : "88185630",
@@ -15127,7 +14437,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u3055\u3072\uFF12\uFF16",
+      "name" : "\u3042\u3055\u3072\uFF12\uFF16@\u7953\u9B54\u5E2B",
       "screen_name" : "asahi_26",
       "indices" : [ 0, 9 ],
       "id_str" : "88185630",
@@ -15465,7 +14775,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -15487,7 +14797,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -15509,7 +14819,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -15531,10 +14841,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u304D\u3061\u3085\u306D",
+      "name" : "\u304D\u3061\u3085\u306D \u2741 \u30B2\u30FC\u30E0\u5236\u4F5C\u4E2D \u2661",
       "screen_name" : "kityune",
       "indices" : [ 0, 8 ],
       "id_str" : "208138759",
@@ -15564,7 +14874,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -15586,7 +14896,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -15608,7 +14918,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u30B5\u30EF\u30EA\u30FC\u30DE\u30F3CHIN\u592A\u90CE",
@@ -15641,10 +14951,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u3055\u3072\uFF12\uFF16",
+      "name" : "\u3042\u3055\u3072\uFF12\uFF16@\u7953\u9B54\u5E2B",
       "screen_name" : "asahi_26",
       "indices" : [ 0, 9 ],
       "id_str" : "88185630",
@@ -15674,7 +14984,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -15699,10 +15009,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u3055\u3072\uFF12\uFF16",
+      "name" : "\u3042\u3055\u3072\uFF12\uFF16@\u7953\u9B54\u5E2B",
       "screen_name" : "asahi_26",
       "indices" : [ 0, 9 ],
       "id_str" : "88185630",
@@ -15732,7 +15042,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -15754,10 +15064,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u3055\u3072\uFF12\uFF16",
+      "name" : "\u3042\u3055\u3072\uFF12\uFF16@\u7953\u9B54\u5E2B",
       "screen_name" : "asahi_26",
       "indices" : [ 0, 9 ],
       "id_str" : "88185630",
@@ -15787,7 +15097,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -15809,7 +15119,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -15831,10 +15141,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 0, 8 ],
       "id_str" : "2985413085",
@@ -15859,7 +15169,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u30B9\u30C6\u30A3-sty-",
@@ -15892,7 +15202,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -15914,7 +15224,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "m264",
@@ -15942,7 +15252,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -16778,7 +16088,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -16811,7 +16121,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -16885,7 +16195,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u30B9\u30C6\u30A3-sty-",
@@ -16918,7 +16228,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -17329,7 +16639,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -17630,7 +16940,7 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "75224536",
       "id" : 75224536
     }, {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 102, 110 ],
       "id_str" : "193293167",
@@ -17658,7 +16968,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -17724,7 +17034,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -17757,7 +17067,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -17856,7 +17166,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -17977,7 +17287,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -18238,7 +17548,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -18260,7 +17570,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "m264",
@@ -18288,7 +17598,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -18310,7 +17620,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "m264",
@@ -18338,7 +17648,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "m264",
@@ -18366,7 +17676,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -18388,10 +17698,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u304B\u3055\u3093\u306F\u304A\u9152\u304C\u98F2\u307F\u305F\u3044",
+      "name" : "\u307F\u304B\u3055\u3093\u3002",
       "screen_name" : "pinkrit",
       "indices" : [ 3, 11 ],
       "id_str" : "100307622",
@@ -18436,11 +17746,11 @@ Grailbird.data.tweets_2011_11 =
     "id" : 136084941095182337,
     "created_at" : "2011-11-14 14:15:52 +0000",
     "user" : {
-      "name" : "\u307F\u304B\u3055\u3093\u306F\u304A\u9152\u304C\u98F2\u307F\u305F\u3044",
+      "name" : "\u307F\u304B\u3055\u3093\u3002",
       "screen_name" : "pinkrit",
       "protected" : false,
       "id_str" : "100307622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747057607773323264\/MIaqAj3D_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/830417963954024448\/m_M00YSl_normal.jpg",
       "id" : 100307622,
       "verified" : false
     }
@@ -18457,7 +17767,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Sara moro garcia",
@@ -18485,7 +17795,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Sara moro garcia",
@@ -18799,7 +18109,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u304B\u3055\u3093\u306F\u304A\u9152\u304C\u98F2\u307F\u305F\u3044",
+      "name" : "\u307F\u304B\u3055\u3093\u3002",
       "screen_name" : "pinkrit",
       "indices" : [ 7, 15 ],
       "id_str" : "100307622",
@@ -19042,7 +18352,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u305B\u3093\u3068",
@@ -19070,7 +18380,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "hk",
@@ -19103,7 +18413,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u305B\u3093\u3068",
@@ -19131,7 +18441,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -19153,7 +18463,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "hk",
@@ -19186,7 +18496,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u30C9\u30E9\u30B4",
@@ -19219,7 +18529,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -19241,7 +18551,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -19263,7 +18573,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -19285,7 +18595,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -19307,7 +18617,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -19329,7 +18639,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -19351,7 +18661,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -19431,7 +18741,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -19500,7 +18810,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30B7\u30F3\u30FB\u30B4\u30B8\u30E9\u3044\u3044\u3088\u306D",
+      "name" : "\u308D",
       "screen_name" : "launch726",
       "indices" : [ 0, 10 ],
       "id_str" : "2403908924",
@@ -19528,7 +18838,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u304D\u3061\u3085\u306D",
+      "name" : "\u304D\u3061\u3085\u306D \u2741 \u30B2\u30FC\u30E0\u5236\u4F5C\u4E2D \u2661",
       "screen_name" : "kityune",
       "indices" : [ 0, 8 ],
       "id_str" : "208138759",
@@ -19690,7 +19000,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3042\u307E\u308D\u3042\u30C1\u30E3\u30F3\u30CD\u30EB",
@@ -20122,7 +19432,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -20144,7 +19454,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -20166,7 +19476,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -20188,7 +19498,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -20210,7 +19520,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -20232,7 +19542,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -20254,7 +19564,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
@@ -20287,7 +19597,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -20309,7 +19619,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
@@ -20342,7 +19652,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -20364,7 +19674,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -20458,7 +19768,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -21230,7 +20540,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -21252,7 +20562,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -21274,7 +20584,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -21296,7 +20606,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -21318,7 +20628,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u8328\u57CE\u65B0\u805E\u793E",
@@ -21369,10 +20679,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C0F\u6307\u304C\u75DB\u3044\u3048\u306A\u30FC",
+      "name" : "\u3010\u56DB\u5929\u738B\u3011\u75DB\u98A8\u306E\u3048\u306A\u30FC\u3010\u6700\u5F31\u3011",
       "screen_name" : "ena18782",
       "indices" : [ 0, 9 ],
       "id_str" : "99909212",
@@ -21402,7 +20712,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -21424,7 +20734,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -21454,7 +20764,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -21476,10 +20786,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C0F\u6307\u304C\u75DB\u3044\u3048\u306A\u30FC",
+      "name" : "\u3010\u56DB\u5929\u738B\u3011\u75DB\u98A8\u306E\u3048\u306A\u30FC\u3010\u6700\u5F31\u3011",
       "screen_name" : "ena18782",
       "indices" : [ 0, 9 ],
       "id_str" : "99909212",
@@ -21509,7 +20819,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -21531,7 +20841,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u308B\u30FC\u305F\u308D\uFF20\u3084\u3063\u3074",
@@ -21564,7 +20874,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u041C\u0430\u043A\u0441\u044F\u0442\u0438\u043Da \u041B\u044E\u0431\u043E\u0432\u044C",
@@ -21592,10 +20902,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C0F\u6307\u304C\u75DB\u3044\u3048\u306A\u30FC",
+      "name" : "\u3010\u56DB\u5929\u738B\u3011\u75DB\u98A8\u306E\u3048\u306A\u30FC\u3010\u6700\u5F31\u3011",
       "screen_name" : "ena18782",
       "indices" : [ 0, 9 ],
       "id_str" : "99909212",
@@ -21625,7 +20935,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -21647,7 +20957,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -21933,7 +21243,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -21955,7 +21265,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -21977,7 +21287,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -21999,7 +21309,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -22021,7 +21331,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -22043,7 +21353,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -22065,7 +21375,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -22087,7 +21397,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -22109,7 +21419,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -22131,7 +21441,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -22153,7 +21463,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -22175,7 +21485,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -22197,7 +21507,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -22219,7 +21529,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -22246,7 +21556,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -22268,7 +21578,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -22290,7 +21600,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -22312,7 +21622,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -22389,7 +21699,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3052\u3053\u30B1\u30EB\u30B9\u30B9\uFF30",
@@ -22590,7 +21900,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3061\u3087\u3081\u5409@8\/6\u30D1\u30E0\u30D7\u30ED\u51FA\u6F14",
+      "name" : "\u3061\u3087\u3081\u5409\uFF202\/26\u3042\u306B\u305D\u3093\u30E9\u30A4\u30D6&FES",
       "screen_name" : "tyomekiti",
       "indices" : [ 0, 10 ],
       "id_str" : "97887922",
@@ -22645,7 +21955,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3061\u3087\u3081\u5409@8\/6\u30D1\u30E0\u30D7\u30ED\u51FA\u6F14",
+      "name" : "\u3061\u3087\u3081\u5409\uFF202\/26\u3042\u306B\u305D\u3093\u30E9\u30A4\u30D6&FES",
       "screen_name" : "tyomekiti",
       "indices" : [ 0, 10 ],
       "id_str" : "97887922",
@@ -22730,7 +22040,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -22763,7 +22073,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 0, 8 ],
       "id_str" : "2985413085",
@@ -22791,7 +22101,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -22824,7 +22134,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 0, 8 ],
       "id_str" : "2985413085",
@@ -22852,7 +22162,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -22907,7 +22217,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 0, 8 ],
       "id_str" : "2985413085",
@@ -22935,7 +22245,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -22968,7 +22278,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 0, 8 ],
       "id_str" : "2985413085",
@@ -22996,7 +22306,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -23051,7 +22361,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -23084,7 +22394,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -23117,7 +22427,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -23150,7 +22460,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -23216,7 +22526,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -23433,7 +22743,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -23533,7 +22843,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -23555,7 +22865,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -23577,7 +22887,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -23599,7 +22909,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -23621,7 +22931,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -23643,7 +22953,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -23717,7 +23027,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3080\u30FC\u3061\u3087@mmucho#1102",
+      "name" : "\u3080\u30FC\u3061\u3087",
       "screen_name" : "mmucho",
       "indices" : [ 0, 7 ],
       "id_str" : "47368334",
@@ -23918,7 +23228,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -23943,7 +23253,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u0423\u043B\u044C\u044F\u043D\u0430\r\n ",
+      "name" : "\u0423\u043B\u044C\u044F\u043D\u0430",
       "screen_name" : "manboh_of_usa",
       "indices" : [ 0, 14 ],
       "id_str" : "3002165927",
@@ -24042,7 +23352,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3066\u3044",
+      "name" : "\u3066\u3044  \u82B1\u6FA4\u3055\u3093\u597D\u304D\u306E\u30D5\u30EC\u30F3\u30BA",
       "screen_name" : "teinico",
       "indices" : [ 0, 8 ],
       "id_str" : "96106753",
@@ -24378,15 +23688,9 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "*\u3061\u308D\u308B\u3002",
+      "name" : "\u30D6\u30EB\u30BE\u30F3\u3061\u308D\u308B",
       "screen_name" : "_chiico_",
       "indices" : [ 3, 12 ],
-      "id_str" : "191298637",
-      "id" : 191298637
-    }, {
-      "name" : "*\u3061\u308D\u308B\u3002",
-      "screen_name" : "_chiico_",
-      "indices" : [ 139, 140 ],
       "id_str" : "191298637",
       "id" : 191298637
     } ],
@@ -24406,7 +23710,7 @@ Grailbird.data.tweets_2011_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "*\u3061\u308D\u308B\u3002",
+        "name" : "\u30D6\u30EB\u30BE\u30F3\u3061\u308D\u308B",
         "screen_name" : "_chiico_",
         "indices" : [ 115, 124 ],
         "id_str" : "191298637",
@@ -24427,11 +23731,11 @@ Grailbird.data.tweets_2011_11 =
     "id" : 133826433863786496,
     "created_at" : "2011-11-08 08:41:22 +0000",
     "user" : {
-      "name" : "*\u3061\u308D\u308B\u3002",
+      "name" : "\u30D6\u30EB\u30BE\u30F3\u3061\u308D\u308B",
       "screen_name" : "_chiico_",
       "protected" : false,
       "id_str" : "191298637",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755032995820478464\/RGFJ4PUl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823561228714815489\/MNX5j9pd_normal.jpg",
       "id" : 191298637,
       "verified" : false
     }
@@ -25026,7 +24330,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -25048,7 +24352,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3042\u308A\u3055\u3093@Web\u95A2\u9023\u304B\u30C6\u30B9\u30BF\u30FC\u3067\u6C42\u8077\u4E2D",
@@ -25081,7 +24385,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -25103,7 +24407,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3042\u308A\u3055\u3093@Web\u95A2\u9023\u304B\u30C6\u30B9\u30BF\u30FC\u3067\u6C42\u8077\u4E2D",
@@ -25136,7 +24440,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -25158,10 +24462,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C0F\u6307\u304C\u75DB\u3044\u3048\u306A\u30FC",
+      "name" : "\u3010\u56DB\u5929\u738B\u3011\u75DB\u98A8\u306E\u3048\u306A\u30FC\u3010\u6700\u5F31\u3011",
       "screen_name" : "ena18782",
       "indices" : [ 0, 9 ],
       "id_str" : "99909212",
@@ -25191,7 +24495,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -25345,7 +24649,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -25367,7 +24671,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -25466,7 +24770,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -25488,7 +24792,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -25510,7 +24814,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -25532,7 +24836,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -25554,7 +24858,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lix_\u30DC\u30A2",
@@ -25587,7 +24891,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -25609,17 +24913,11 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "igo",
-      "indices" : [ 139, 140 ]
-    }, {
-      "text" : "\u56F2\u7881",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 101, 121 ],
       "url" : "http:\/\/t.co\/vid3VcLF",
@@ -25676,7 +24974,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lix_\u30DC\u30A2",
@@ -25709,7 +25007,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lix_\u30DC\u30A2",
@@ -25742,7 +25040,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lix_\u30DC\u30A2",
@@ -25775,7 +25073,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u305B\u3093\u3068",
@@ -25803,7 +25101,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lix_\u30DC\u30A2",
@@ -25836,7 +25134,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u305B\u3093\u3068",
@@ -25864,7 +25162,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lix_\u30DC\u30A2",
@@ -25897,7 +25195,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u305B\u3093\u3068",
@@ -25925,7 +25223,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lix_\u30DC\u30A2",
@@ -25958,7 +25256,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u305B\u3093\u3068",
@@ -25986,7 +25284,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -26008,7 +25306,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u305B\u3093\u3068",
@@ -26036,7 +25334,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -26058,7 +25356,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -26080,7 +25378,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -26344,7 +25642,13 @@ Grailbird.data.tweets_2011_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Sukonnbu",
+      "screen_name" : "wakamesukonbu",
+      "indices" : [ 0, 14 ],
+      "id_str" : "789591225380708352",
+      "id" : 789591225380708352
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -26971,7 +26275,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u307E\u3069\u3084\u2606\u30DE\u30AE\u30AB",
@@ -27004,7 +26308,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "PLUCK\uFF20(21)\u3048\u3082\u3093",
@@ -27037,10 +26341,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -27068,7 +26372,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -27791,7 +27095,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -27813,7 +27117,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -27838,7 +27142,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -27863,7 +27167,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -28051,7 +27355,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E9\u30D9\u30EB\u306F\u30A4\u30AB\u306B\u306A\u308B",
+      "name" : "\u30E9\u30D9\u30EB",
       "screen_name" : "_label_",
       "indices" : [ 0, 8 ],
       "id_str" : "83583988",
@@ -28111,7 +27415,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -28193,7 +27497,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E9\u30D9\u30EB\u306F\u30A4\u30AB\u306B\u306A\u308B",
+      "name" : "\u30E9\u30D9\u30EB",
       "screen_name" : "_label_",
       "indices" : [ 0, 8 ],
       "id_str" : "83583988",
@@ -28298,7 +27602,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -28383,7 +27687,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3075\u308F\u3075\u308F\u30DA\u30C9\u3061\u3083\u3093",
@@ -28416,10 +27720,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -28449,7 +27753,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3075\u308F\u3075\u308F\u30DA\u30C9\u3061\u3083\u3093",
@@ -28482,7 +27786,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3075\u308F\u3075\u308F\u30DA\u30C9\u3061\u3083\u3093",
@@ -28515,10 +27819,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -28548,7 +27852,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Martyna Kuchta ",
@@ -28576,7 +27880,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u3075\u308F\u3075\u308F\u30DA\u30C9\u3061\u3083\u3093",
@@ -28609,7 +27913,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -28631,7 +27935,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Martyna Kuchta ",
@@ -28741,7 +28045,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Sara moro garcia",
@@ -28904,7 +28208,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u304B\u3055\u3093\u306F\u304A\u9152\u304C\u98F2\u307F\u305F\u3044",
+      "name" : "\u307F\u304B\u3055\u3093\u3002",
       "screen_name" : "pinkrit",
       "indices" : [ 0, 8 ],
       "id_str" : "100307622",
@@ -29082,7 +28386,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -29104,7 +28408,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -29126,7 +28430,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "kyui_momonga",
@@ -29159,7 +28463,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u304F\u307E\u3063\u3061\u3083@\u5927\u548C&\u697D22\u6B73LOVE",
@@ -29192,7 +28496,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -29214,7 +28518,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -29236,7 +28540,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -29258,7 +28562,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -29280,7 +28584,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -29302,7 +28606,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -29479,7 +28783,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -29501,7 +28805,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -29750,7 +29054,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D\r\n",
+      "name" : "\u041A\u0430\u043F\u0438\u0442\u043E\u043D",
       "screen_name" : "hyb_530",
       "indices" : [ 0, 8 ],
       "id_str" : "2985413085",
@@ -29938,7 +29242,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -29999,7 +29303,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -30032,7 +29336,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -30065,7 +29369,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -30131,7 +29435,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -30164,7 +29468,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -30263,7 +29567,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -30323,7 +29627,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -30383,7 +29687,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -30460,7 +29764,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -30755,7 +30059,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -30810,7 +30114,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -31283,7 +30587,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -31308,7 +30612,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -31333,7 +30637,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -31531,7 +30835,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -31553,7 +30857,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -31575,7 +30879,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -31597,7 +30901,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -31619,7 +30923,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "DJ\uFF20",
@@ -31652,7 +30956,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -31674,10 +30978,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E9\u30D9\u30EB\u306F\u30A4\u30AB\u306B\u306A\u308B",
+      "name" : "\u30E9\u30D9\u30EB",
       "screen_name" : "_label_",
       "indices" : [ 0, 8 ],
       "id_str" : "83583988",
@@ -31707,10 +31011,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 0, 8 ],
       "id_str" : "193293167",
@@ -31722,7 +31026,7 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "79701624",
       "id" : 79701624
     }, {
-      "name" : "\u30E9\u30D9\u30EB\u306F\u30A4\u30AB\u306B\u306A\u308B",
+      "name" : "\u30E9\u30D9\u30EB",
       "screen_name" : "_label_",
       "indices" : [ 19, 27 ],
       "id_str" : "83583988",
@@ -31752,7 +31056,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u305B\u3093\u3068",
@@ -31761,13 +31065,13 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "79701624",
       "id" : 79701624
     }, {
-      "name" : "KBO2016 a.k.a. \u3071\u3071\u304A",
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
       "screen_name" : "kbo_dgw",
       "indices" : [ 10, 18 ],
       "id_str" : "193293167",
       "id" : 193293167
     }, {
-      "name" : "\u30E9\u30D9\u30EB\u306F\u30A4\u30AB\u306B\u306A\u308B",
+      "name" : "\u30E9\u30D9\u30EB",
       "screen_name" : "_label_",
       "indices" : [ 19, 27 ],
       "id_str" : "83583988",
@@ -31792,7 +31096,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "DJ\uFF20",
@@ -31825,7 +31129,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -31847,10 +31151,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E9\u30D9\u30EB\u306F\u30A4\u30AB\u306B\u306A\u308B",
+      "name" : "\u30E9\u30D9\u30EB",
       "screen_name" : "_label_",
       "indices" : [ 0, 8 ],
       "id_str" : "83583988",
@@ -31886,7 +31190,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -31908,7 +31212,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -31930,10 +31234,10 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -31990,7 +31294,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -32012,7 +31316,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -32034,7 +31338,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -32056,7 +31360,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -32078,7 +31382,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -32136,7 +31440,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -32158,7 +31462,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -32180,7 +31484,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -32192,6 +31496,540 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@sirocrowsis \u4E3B\u6210\u5206:\uFF37\uFF28\uFF39",
   "id" : 131278291905691648,
   "created_at" : "2011-11-01 07:55:58 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131215620829224961",
+  "text" : "\u4F55\u5E74\u304B\u524D\u306B\u884C\u3063\u305F\u9577\u671F\u30AD\u30E3\u30F3\u30D7\u3067\u30AD\u30E3\u30F3\u30D7\u4E2D\u305A\u3063\u3068\u53E3\u6570\u306E\u5C11\u306A\u304B\u3063\u305F\u30AF\u30FC\u30EB\u30A4\u30B1\u30E1\u30F3\u304C\u5E30\u308A\u306E\u30D0\u30B9\u3067\u51FA\u305F\uFF33\uFF2F\uFF39\uFF2A\uFF2F\uFF39\u3092\u898B\u305F\u77AC\u9593\u9952\u820C\u306B\u306A\u3063\u3066\uFF33\uFF2F\uFF39\uFF2A\uFF2F\uFF39\u306E\u4E0A\u624B\u3055\u3092\u71B1\u304F\u8A9E\u3063\u3066\u304F\u308C\u305F\u306E\u306F\u3044\u3044\u601D\u3044\u51FA",
+  "id" : 131215620829224961,
+  "created_at" : "2011-11-01 03:46:56 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131214449007804416",
+  "text" : "\uFF33\uFF2F\uFF39\uFF2A\uFF2F\uFF39\uFF37\uFF28\uFF39\u3068\u540D\u4E57\u3063\u3066\u3082\u3044\u3044\u3053\u308D\u3060\u306A",
+  "id" : 131214449007804416,
+  "created_at" : "2011-11-01 03:42:17 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131214292992278528",
+  "text" : "\u672C\u65E5\u306E\u671D\u98DF \uFF33\uFF2F\uFF39\uFF2A\uFF2F\uFF39\u30AB\u30AB\u30AA\u30AA\u30EC\u30F3\u30B8  \u663C\u98DF  \uFF33\uFF2F\uFF39\uFF2A\uFF2F\uFF39 \u30B9\u30C8\u30ED\u30D9\u30EA\u30FC \uFF33\uFF2F\uFF39\uFF2A\uFF2F\uFF39 \u30D0\u30CA\u30CA",
+  "id" : 131214292992278528,
+  "created_at" : "2011-11-01 03:41:39 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131039781550432256",
+  "text" : "\u5BDD\u308B\u3002\u304A\u3084\u3059\u307F\u3093\u3061\u3085\u3002",
+  "id" : 131039781550432256,
+  "created_at" : "2011-10-31 16:08:13 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3061",
+      "screen_name" : "CHiAKi__1995",
+      "indices" : [ 0, 13 ],
+      "id_str" : "2185807604",
+      "id" : 2185807604
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131036033021247488",
+  "text" : "@chiaki__1995 \uFF3C\u3073\u3063\u304F\u308A\u3060\u306D\uFF0F",
+  "id" : 131036033021247488,
+  "created_at" : "2011-10-31 15:53:19 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u041C\u0430\u043A\u0441\u044F\u0442\u0438\u043Da \u041B\u044E\u0431\u043E\u0432\u044C",
+      "screen_name" : "Spit_it_out1",
+      "indices" : [ 0, 13 ],
+      "id_str" : "2837220747",
+      "id" : 2837220747
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131034821324570624",
+  "text" : "@Spit_it_out1 \u3044\u3066\u3089\u30FC",
+  "id" : 131034821324570624,
+  "created_at" : "2011-10-31 15:48:30 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131033932916473856",
+  "text" : "\u305D\u308C\uFF1DFirefox",
+  "id" : 131033932916473856,
+  "created_at" : "2011-10-31 15:44:58 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131033898254737410",
+  "text" : "100\u30BF\u30D6\u3082\u958B\u3044\u305F\u3089\u305D\u308C\u3057\u304B\u52D5\u304B\u306A\u304F\u306A\u308B\u308F",
+  "id" : 131033898254737410,
+  "created_at" : "2011-10-31 15:44:50 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131032729654538243",
+  "text" : "@nakaka_yasagure 11\u6708\u300C\u307E\u3041\u7D42\u308F\u308B\u306E\u306F12\u6708\u3055\u3093\u306E\u62C5\u5F53\u306A\u3093\u3059\u3051\u3069\u306D\uFF57\uFF57\uFF57\uFF57\u4FFA\u306E\u6642\u306B\u7D42\u308F\u308B\u3068\u304B\u8A00\u308F\u308C\u3066\u3082\u77E5\u3089\u306A\u3044\u3063\u3066\u3044\u3046\u304B\uFF57\uFF57\uFF57\u300D",
+  "id" : 131032729654538243,
+  "created_at" : "2011-10-31 15:40:11 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131031863174238208",
+  "text" : "@nakaka_yasagure 11\u6708\u300C\u304A\u75B2\u308C\u69D8\u3067\u3059\uFF0D\uFF3E\uFF3E\u300D",
+  "id" : 131031863174238208,
+  "created_at" : "2011-10-31 15:36:45 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131031769377013761",
+  "text" : "\u30CB\u30B3\u30CB\u30B3\u30DD\u30A4\u30F3\u30C8\u306F\u3042\u30681\u5E74\u3042\u3063\u305F",
+  "id" : 131031769377013761,
+  "created_at" : "2011-10-31 15:36:22 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131031599914565632",
+  "text" : "\u6574\u7406\u3057\u306653\u30BF\u30D6\u3002\u3053\u3093\u306A\u3082\u3093\u3060\u306A",
+  "id" : 131031599914565632,
+  "created_at" : "2011-10-31 15:35:42 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3042\u308A\u3055\u3093@Web\u95A2\u9023\u304B\u30C6\u30B9\u30BF\u30FC\u3067\u6C42\u8077\u4E2D",
+      "screen_name" : "arigayas",
+      "indices" : [ 0, 9 ],
+      "id_str" : "5733542",
+      "id" : 5733542
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "131030784864829440",
+  "geo" : { },
+  "id_str" : "131031359195066369",
+  "in_reply_to_user_id" : 5733542,
+  "text" : "@arigayas \u305D\u3046\u3060\u30BF\u30D6\u4E0A\u3067\u53F3\u30AF\u30EA\u3060\u3002\u5B8C\u5168\u306B\u5FD8\u308C\u3066\u305F\uFF57\u3000\u3069\u3046\u3082\u3067\u3059\u30FC",
+  "id" : 131031359195066369,
+  "in_reply_to_status_id" : 131030784864829440,
+  "created_at" : "2011-10-31 15:34:45 +0000",
+  "in_reply_to_screen_name" : "arigayas",
+  "in_reply_to_user_id_str" : "5733542",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "KBO a.k.a. \u65E5\u66DC\u65E5\u306E\u7537",
+      "screen_name" : "kbo_dgw",
+      "indices" : [ 0, 8 ],
+      "id_str" : "193293167",
+      "id" : 193293167
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "131029860532494337",
+  "geo" : { },
+  "id_str" : "131030087217852416",
+  "in_reply_to_user_id" : 193293167,
+  "text" : "@kbo_dgw \u304A\u3084\u304B\u3070",
+  "id" : 131030087217852416,
+  "in_reply_to_status_id" : 131029860532494337,
+  "created_at" : "2011-10-31 15:29:41 +0000",
+  "in_reply_to_screen_name" : "kbo_dgw",
+  "in_reply_to_user_id_str" : "193293167",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3042\u308A\u3055\u3093@Web\u95A2\u9023\u304B\u30C6\u30B9\u30BF\u30FC\u3067\u6C42\u8077\u4E2D",
+      "screen_name" : "arigayas",
+      "indices" : [ 0, 9 ],
+      "id_str" : "5733542",
+      "id" : 5733542
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "131028898292056064",
+  "geo" : { },
+  "id_str" : "131029283853447168",
+  "in_reply_to_user_id" : 5733542,
+  "text" : "@arigayas \uFF08 \uFF3E\u03C9\uFF3E\uFF09\u5B8C\u5168\u306B\u5FD8\u308C\u3066\u3082\u3046\u8AE6\u3081\u3066\u539F\u66F2\u30E1\u30C9\u30EC\u30FC\u805E\u3044\u3066\u308B\u3093\u3067\u6559\u3048\u3066\u4E0B\u3055\u3044",
+  "id" : 131029283853447168,
+  "in_reply_to_status_id" : 131028898292056064,
+  "created_at" : "2011-10-31 15:26:30 +0000",
+  "in_reply_to_screen_name" : "arigayas",
+  "in_reply_to_user_id_str" : "5733542",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131028315430588416",
+  "text" : "\u30D4\u30C3\u30C1\u5909\u308F\u308A\u307E\u304F\u3063\u3066\u305F\u3093\u3060\u306A\uFF57",
+  "id" : 131028315430588416,
+  "created_at" : "2011-10-31 15:22:39 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.nicovideo.jp\/\" rel=\"nofollow\"\u003Eniconico \u30CB\u30B3\u30EC\u30DD\u9023\u643A\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "sm16022888",
+      "indices" : [ 51, 62 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 30, 50 ],
+      "url" : "http:\/\/t.co\/qUOcLT7R",
+      "expanded_url" : "http:\/\/nico.ms\/sm16022888",
+      "display_url" : "nico.ms\/sm16022888"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "131027836344598528",
+  "text" : "\u3010\u30DE\u30A4\u30EA\u30B9\u30C8\u3011Nico Start!\u3092\u5143\u306E\u66F2\u3067\u518D\u73FE\u3057\u3066\u307F\u305F http:\/\/t.co\/qUOcLT7R #sm16022888",
+  "id" : 131027836344598528,
+  "created_at" : "2011-10-31 15:20:45 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131027639451402240",
+  "text" : "\u3053\u308C\u306F\u5B09\u3057\u3044\u3000",
+  "id" : 131027639451402240,
+  "created_at" : "2011-10-31 15:19:58 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "nicovideo",
+      "indices" : [ 31, 41 ]
+    }, {
+      "text" : "sm16022888",
+      "indices" : [ 42, 53 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 54, 74 ],
+      "url" : "http:\/\/t.co\/qUOcLT7R",
+      "expanded_url" : "http:\/\/nico.ms\/sm16022888",
+      "display_url" : "nico.ms\/sm16022888"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "131027499403591680",
+  "text" : "Nico Start!\u3092\u5143\u306E\u66F2\u3067\u518D\u73FE\u3057\u3066\u307F\u305F (15:06) #nicovideo #sm16022888 http:\/\/t.co\/qUOcLT7R\u3000\u539F\u66F2\u518D\u73FE\u304D\u3066\u305F\u30FC\uFF01\u3053\u308C\u306F\u304B\u3064\u308B\uFF01",
+  "id" : 131027499403591680,
+  "created_at" : "2011-10-31 15:19:24 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"erased_81836\" rel=\"nofollow\"\u003Eerased_81836\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "miteru",
+      "indices" : [ 57, 64 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 36, 56 ],
+      "url" : "http:\/\/t.co\/w39XQK2z",
+      "expanded_url" : "http:\/\/ux.nu\/KbkDg",
+      "display_url" : "ux.nu\/KbkDg"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "131025618480533504",
+  "text" : "Firefox\u306E\u74B0\u5883\u79FB\u884C\u65B9\u6CD5 - smartboy\u306EWeb\u88FD\u4F5C\u30E1\u30E2\u5E33: http:\/\/t.co\/w39XQK2z #miteru",
+  "id" : 131025618480533504,
+  "created_at" : "2011-10-31 15:11:56 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131025155257417729",
+  "text" : "\u3042\u308C\u3001\u51FA\u6765\u306A\u304B\u3063\u305F\u3063\u3051\u305D\u3093\u306A\u4E8B\u3000\u5168\u90E8\u4E00\u6589\u306B\u30D6\u30AF\u30DE\u3059\u308B\u6A5F\u80FD",
+  "id" : 131025155257417729,
+  "created_at" : "2011-10-31 15:10:05 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",

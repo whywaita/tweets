@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2010_07 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/i.ttlv.jp\/\" rel=\"nofollow\"\u003Era\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19997503669",
+  "text" : "\u307E\u3060\u8377\u9020\u308A\u306A\u3046\u3002 \u51FA\u767A6\u6642\u3067\u3059\u3002",
+  "id" : 19997503669,
+  "created_at" : "2010-07-31 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "20001107668",
+  "text" : "\u8377\u9020\u308A\u304A\u308F\u3063\u305F\u30FC\uFF01",
+  "id" : 20001107668,
+  "created_at" : "2010-07-31 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "20001445457",
+  "text" : "\u660E\u65E5\uFF16\u6642\u96C6\u5408\u3067\u3059\u3063\u3066\u3088\u5965\u3055\u3093",
+  "id" : 20001445457,
+  "created_at" : "2010-07-31 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
+      "screen_name" : "minardikaivbx",
+      "indices" : [ 0, 14 ],
+      "id_str" : "66997484",
+      "id" : 66997484
+    }, {
+      "name" : "ark",
+      "screen_name" : "alto794",
+      "indices" : [ 15, 23 ],
+      "id_str" : "100776789",
+      "id" : 100776789
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "20001278652",
+  "geo" : { },
+  "id_str" : "20001526014",
+  "in_reply_to_user_id" : 66997484,
+  "text" : "@minardikaivbx @alto794 \u3046\u3080\u3002\u79C1\u3082\u304A\u4E16\u8A71\u306B\u306A\u308A\u307E\u3057\u3066\uFF08\uFF52\uFF59",
+  "id" : 20001526014,
+  "in_reply_to_status_id" : 20001278652,
+  "created_at" : "2010-07-31 00:00:00 +0000",
+  "in_reply_to_screen_name" : "minardikaivbx",
+  "in_reply_to_user_id_str" : "66997484",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "ark",
+      "screen_name" : "alto794",
+      "indices" : [ 0, 8 ],
+      "id_str" : "100776789",
+      "id" : 100776789
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "20001558517",
+  "geo" : { },
+  "id_str" : "20001737453",
+  "in_reply_to_user_id" : 100776789,
+  "text" : "@alto794 \u52DD\u624B\u306B\u304A\u4E16\u8A71\u3055\u308C\u3061\u3083\u3063\u305F\u611F\u3058\u3067\u3059\u306D\uFF01",
+  "id" : 20001737453,
+  "in_reply_to_status_id" : 20001558517,
+  "created_at" : "2010-07-31 00:00:00 +0000",
+  "in_reply_to_screen_name" : "alto794",
+  "in_reply_to_user_id_str" : "100776789",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u308A\u3085\u3046",
+      "screen_name" : "ryuu_key",
+      "indices" : [ 0, 9 ],
+      "id_str" : "106477287",
+      "id" : 106477287
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "20001577462",
+  "geo" : { },
+  "id_str" : "20001750828",
+  "in_reply_to_user_id" : 106477287,
+  "text" : "@ryuu_key AHAHAHA",
+  "id" : 20001750828,
+  "in_reply_to_status_id" : 20001577462,
+  "created_at" : "2010-07-31 00:00:00 +0000",
+  "in_reply_to_screen_name" : "ryuu_key",
+  "in_reply_to_user_id_str" : "106477287",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
+      "screen_name" : "minardikaivbx",
+      "indices" : [ 0, 14 ],
+      "id_str" : "66997484",
+      "id" : 66997484
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "20001740476",
+  "geo" : { },
+  "id_str" : "20001942633",
+  "in_reply_to_user_id" : 66997484,
+  "text" : "@minardikaivbx \u666E\u901A\u306E\u3068\uFF15\uFF1A\uFF15\u3050\u3089\u3044\u306E\u5272\u5408\u3067\u7F6E\u3044\u3066\u3042\u308A\u307E\u3059\u3002",
+  "id" : 20001942633,
+  "in_reply_to_status_id" : 20001740476,
+  "created_at" : "2010-07-31 00:00:00 +0000",
+  "in_reply_to_screen_name" : "minardikaivbx",
+  "in_reply_to_user_id_str" : "66997484",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "20002584358",
+  "text" : "\u3088\u3057\u5BDD\u307E\u3059\u3088\u3002\u3067\u306F\u3053\u308C\u3067\u5931\u793C\u3057\u307E\u3059\u3002\u3000\u307E\u3041\u3064\u3044\u3063\u305F\u3060\u3051\u306F\u4E0A\u304C\u3063\u3066\u304F\u308B\u3088\u3046\u306A\u6C17\u304C\u3057\u307E\u3059\u306E\u3067\u3001\u3069\u3046\u305E\u3088\u308D\u3057\u304F",
+  "id" : 20002584358,
+  "created_at" : "2010-07-31 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11,10 +237,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "20033522071",
-  "text" : "\u30D0\u30B98\u6642\u9593\u3067\u3059\u3063\u3066 #whysizuoka",
-  "id" : 20033522071,
-  "created_at" : "2010-08-01 00:00:00 +0000",
+  "id_str" : "20002610262",
+  "text" : "\u899A\u3048\u3066\u305F\u3089\u4F7F\u3044\u307E\u3059 #whysizuoka",
+  "id" : 20002610262,
+  "created_at" : "2010-07-31 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -27,30 +253,16 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/i.ttlv.jp\/\" rel=\"nofollow\"\u003Era\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3075\u308F\u3075\u308F\u30DA\u30C9\u3061\u3083\u3093",
-      "screen_name" : "pedoro24",
-      "indices" : [ 0, 9 ],
-      "id_str" : "98882068",
-      "id" : 98882068
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "whysizuoka",
-      "indices" : [ 17, 28 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "20034848888",
   "geo" : { },
-  "id_str" : "20035813316",
-  "in_reply_to_user_id" : 98882068,
-  "text" : "@pedoro24 \u307A\u3063\u305F\u3093\u304A\u3081 #whysizuoka",
-  "id" : 20035813316,
-  "in_reply_to_status_id" : 20034848888,
-  "created_at" : "2010-08-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "pedoro24",
-  "in_reply_to_user_id_str" : "98882068",
+  "id_str" : "20026466306",
+  "text" : "\u30D0\u30B9\u304B\u3089\u3053\u3093\u306B\u3061\u306F",
+  "id" : 20026466306,
+  "created_at" : "2010-07-31 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -75,6 +287,149 @@ Grailbird.data.tweets_2010_07 =
   "id_str" : "20026619114",
   "text" : "\u65C5\u884C\u4E2D\u306F\u3053\u308C\u3092\u4F7F\u3046\u4E88\u5B9A #whysizuoka",
   "id" : 20026619114,
+  "created_at" : "2010-07-31 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19950104700",
+  "text" : "\u3080\u304F\u308A",
+  "id" : 19950104700,
+  "created_at" : "2010-07-31 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19950915673",
+  "text" : "\u4ECA\u56DE\u306F\u4E00\u6B21\u5275\u4F5C\u3060\u304B\u3089\u306A\u3041\u30FB\u30FB\u30FB\u305D\u308D\u305D\u308D\u4E0A\u3052\u3088\u3046",
+  "id" : 19950915673,
+  "created_at" : "2010-07-31 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
+      "screen_name" : "why_tathibana",
+      "indices" : [ 1, 15 ],
+      "id_str" : "262494533",
+      "id" : 262494533
+    }, {
+      "name" : "\u3046\u3055",
+      "screen_name" : "usa0926",
+      "indices" : [ 24, 32 ],
+      "id_str" : "1547624924",
+      "id" : 1547624924
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19951161217",
+  "text" : ".@why_tathibana\u3068\u4E00\u756A\u4EF2\u304C\u3044\u3044\u306E\u306F@usa0926\u3067\u3059! - \u306A\u304B\u3088\u3057\u3063\u305F\u30FC [ http:\/\/j.mp\/nkyst ] \u304A\u3088\u3001\u5B87\u4F50\u898B\u3060",
+  "id" : 19951161217,
+  "created_at" : "2010-07-31 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
+      "screen_name" : "why_tathibana",
+      "indices" : [ 1, 15 ],
+      "id_str" : "262494533",
+      "id" : 262494533
+    }, {
+      "name" : "\u308A\u304D\u304A",
+      "screen_name" : "rikio0505",
+      "indices" : [ 25, 35 ],
+      "id_str" : "74137135",
+      "id" : 74137135
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "nakayoshi",
+      "indices" : [ 100, 110 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19951220090",
+  "text" : ".@why_tathibana\u3068\u4E00\u756A\u4EF2\u304C\u3044\u3044\u306E\u306F @rikio0505\u3055\u3093\u3067\u3059\uFF01 http:\/\/nakayoshi.satotter.jp\/result.php?user=why_tathibana #nakayoshi \u304D\u3083\u30FC\u308A\u304D\u304A\u3055\u30FC\u3093\uFF01",
+  "id" : 19951220090,
+  "created_at" : "2010-07-31 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u0627\u0644\u0639\u0635\u0641\u0648\u0631 \u0644\u0627\u0631\u064A ",
+      "screen_name" : "d4_ss",
+      "indices" : [ 0, 6 ],
+      "id_str" : "2503830129",
+      "id" : 2503830129
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19951245759",
+  "text" : "@D4_SS \u3046\u3044\u3063\u3059",
+  "id" : 19951245759,
   "created_at" : "2010-07-31 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
@@ -409,7 +764,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "96357653",
       "id" : 96357653
     }, {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 34, 46 ],
       "id_str" : "99437114",
@@ -449,7 +804,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "96357653",
       "id" : 96357653
     }, {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 35, 47 ],
       "id_str" : "99437114",
@@ -1132,10 +1487,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19997503669",
-  "text" : "\u307E\u3060\u8377\u9020\u308A\u306A\u3046\u3002 \u51FA\u767A6\u6642\u3067\u3059\u3002",
-  "id" : 19997503669,
-  "created_at" : "2010-07-31 00:00:00 +0000",
+  "id_str" : "19917754821",
+  "text" : "\u3075\u3068\u601D\u3063\u305F \u4F8B\u3048\u9759\u5CA1\u3078\u30AD\u30E3\u30F3\u30D7\u3067\u3082\u30C4\u30A4\u30FC\u30C8\u3057\u3066\u308B\u3093\u3058\u3083\u306A\u3044\u304B\u3068",
+  "id" : 19917754821,
+  "created_at" : "2010-07-30 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -1146,7 +1501,7 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1154,10 +1509,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "20001107668",
-  "text" : "\u8377\u9020\u308A\u304A\u308F\u3063\u305F\u30FC\uFF01",
-  "id" : 20001107668,
-  "created_at" : "2010-07-31 00:00:00 +0000",
+  "id_str" : "19917931233",
+  "text" : "\u3046\u3080\u3002\u30D0\u30A4\u30C8\u3057\u3066\u81EA\u7531\u306B\u4F7F\u3048\u308B\u91D1\u5897\u3084\u3057\u305F\u3044\u304C\u9AD8\u6821\u306B\u898B\u3064\u304B\u3063\u305F\u3089\u9000\u5B66\u3063\u3066\u3044\u3046",
+  "id" : 19917931233,
+  "created_at" : "2010-07-30 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -1168,203 +1523,29 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "20001445457",
-  "text" : "\u660E\u65E5\uFF16\u6642\u96C6\u5408\u3067\u3059\u3063\u3066\u3088\u5965\u3055\u3093",
-  "id" : 20001445457,
-  "created_at" : "2010-07-31 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
-      "screen_name" : "minardikaivbx",
-      "indices" : [ 0, 14 ],
-      "id_str" : "66997484",
-      "id" : 66997484
-    }, {
-      "name" : "ark",
-      "screen_name" : "alto794",
-      "indices" : [ 15, 23 ],
-      "id_str" : "100776789",
-      "id" : 100776789
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "20001278652",
-  "geo" : { },
-  "id_str" : "20001526014",
-  "in_reply_to_user_id" : 66997484,
-  "text" : "@minardikaivbx @alto794 \u3046\u3080\u3002\u79C1\u3082\u304A\u4E16\u8A71\u306B\u306A\u308A\u307E\u3057\u3066\uFF08\uFF52\uFF59",
-  "id" : 20001526014,
-  "in_reply_to_status_id" : 20001278652,
-  "created_at" : "2010-07-31 00:00:00 +0000",
-  "in_reply_to_screen_name" : "minardikaivbx",
-  "in_reply_to_user_id_str" : "66997484",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "ark",
-      "screen_name" : "alto794",
-      "indices" : [ 0, 8 ],
-      "id_str" : "100776789",
-      "id" : 100776789
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "20001558517",
-  "geo" : { },
-  "id_str" : "20001737453",
-  "in_reply_to_user_id" : 100776789,
-  "text" : "@alto794 \u52DD\u624B\u306B\u304A\u4E16\u8A71\u3055\u308C\u3061\u3083\u3063\u305F\u611F\u3058\u3067\u3059\u306D\uFF01",
-  "id" : 20001737453,
-  "in_reply_to_status_id" : 20001558517,
-  "created_at" : "2010-07-31 00:00:00 +0000",
-  "in_reply_to_screen_name" : "alto794",
-  "in_reply_to_user_id_str" : "100776789",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u3085\u3046",
-      "screen_name" : "ryuu_key",
+      "name" : "hinaki",
+      "screen_name" : "Hinaki03",
       "indices" : [ 0, 9 ],
-      "id_str" : "106477287",
-      "id" : 106477287
+      "id_str" : "2757041808",
+      "id" : 2757041808
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "20001577462",
+  "in_reply_to_status_id_str" : "19917821501",
   "geo" : { },
-  "id_str" : "20001750828",
-  "in_reply_to_user_id" : 106477287,
-  "text" : "@ryuu_key AHAHAHA",
-  "id" : 20001750828,
-  "in_reply_to_status_id" : 20001577462,
-  "created_at" : "2010-07-31 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ryuu_key",
-  "in_reply_to_user_id_str" : "106477287",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
-      "screen_name" : "minardikaivbx",
-      "indices" : [ 0, 14 ],
-      "id_str" : "66997484",
-      "id" : 66997484
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "20001740476",
-  "geo" : { },
-  "id_str" : "20001942633",
-  "in_reply_to_user_id" : 66997484,
-  "text" : "@minardikaivbx \u666E\u901A\u306E\u3068\uFF15\uFF1A\uFF15\u3050\u3089\u3044\u306E\u5272\u5408\u3067\u7F6E\u3044\u3066\u3042\u308A\u307E\u3059\u3002",
-  "id" : 20001942633,
-  "in_reply_to_status_id" : 20001740476,
-  "created_at" : "2010-07-31 00:00:00 +0000",
-  "in_reply_to_screen_name" : "minardikaivbx",
-  "in_reply_to_user_id_str" : "66997484",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "20002584358",
-  "text" : "\u3088\u3057\u5BDD\u307E\u3059\u3088\u3002\u3067\u306F\u3053\u308C\u3067\u5931\u793C\u3057\u307E\u3059\u3002\u3000\u307E\u3041\u3064\u3044\u3063\u305F\u3060\u3051\u306F\u4E0A\u304C\u3063\u3066\u304F\u308B\u3088\u3046\u306A\u6C17\u304C\u3057\u307E\u3059\u306E\u3067\u3001\u3069\u3046\u305E\u3088\u308D\u3057\u304F",
-  "id" : 20002584358,
-  "created_at" : "2010-07-31 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "whysizuoka",
-      "indices" : [ 10, 21 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "20002610262",
-  "text" : "\u899A\u3048\u3066\u305F\u3089\u4F7F\u3044\u307E\u3059 #whysizuoka",
-  "id" : 20002610262,
-  "created_at" : "2010-07-31 00:00:00 +0000",
+  "id_str" : "19918066236",
+  "in_reply_to_user_id" : 100762060,
+  "text" : "@hinaki03 \u6614\u4FFA\u306F\u305D\u3046\u547C\u3093\u3067\u3044\u305F\u4EBA\u304C\u5C45\u305F\u306E\u3055\u2026 \u906D\u96E3\u306F\u305B\u3093\u3060\u308D\u3046",
+  "id" : 19918066236,
+  "in_reply_to_status_id" : 19917821501,
+  "created_at" : "2010-07-30 00:00:00 +0000",
+  "in_reply_to_screen_name" : "hina9533",
+  "in_reply_to_user_id_str" : "100762060",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -1377,16 +1558,27 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/i.ttlv.jp\/\" rel=\"nofollow\"\u003Era\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u3057\u3083\u308F\u6C70@\u898F\u5236\u57A2",
+      "screen_name" : "syawatan",
+      "indices" : [ 0, 9 ],
+      "id_str" : "1147707150",
+      "id" : 1147707150
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "19917915710",
   "geo" : { },
-  "id_str" : "20026466306",
-  "text" : "\u30D0\u30B9\u304B\u3089\u3053\u3093\u306B\u3061\u306F",
-  "id" : 20026466306,
-  "created_at" : "2010-07-31 00:00:00 +0000",
+  "id_str" : "19918266863",
+  "in_reply_to_user_id" : 48647469,
+  "text" : "@syawatan \u671D\u9727\u9AD8\u539F\u306B\u5C45\u307E\u3059",
+  "id" : 19918266863,
+  "in_reply_to_status_id" : 19917915710,
+  "created_at" : "2010-07-30 00:00:00 +0000",
+  "in_reply_to_screen_name" : "atochi1",
+  "in_reply_to_user_id_str" : "48647469",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -1397,74 +1589,24 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19950104700",
-  "text" : "\u3080\u304F\u308A",
-  "id" : 19950104700,
-  "created_at" : "2010-07-31 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19950915673",
-  "text" : "\u4ECA\u56DE\u306F\u4E00\u6B21\u5275\u4F5C\u3060\u304B\u3089\u306A\u3041\u30FB\u30FB\u30FB\u305D\u308D\u305D\u308D\u4E0A\u3052\u3088\u3046",
-  "id" : 19950915673,
-  "created_at" : "2010-07-31 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/i.ttlv.jp\/\" rel=\"nofollow\"\u003Era\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
-      "screen_name" : "why_tathibana",
-      "indices" : [ 1, 15 ],
-      "id_str" : "262494533",
-      "id" : 262494533
-    }, {
-      "name" : "\u3046\u3055",
-      "screen_name" : "usa0926",
-      "indices" : [ 24, 32 ],
-      "id_str" : "1547624924",
-      "id" : 1547624924
+      "name" : "test",
+      "screen_name" : "masimarokuma",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1929987068",
+      "id" : 1929987068
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19951161217",
-  "text" : ".@why_tathibana\u3068\u4E00\u756A\u4EF2\u304C\u3044\u3044\u306E\u306F@usa0926\u3067\u3059! - \u306A\u304B\u3088\u3057\u3063\u305F\u30FC [ http:\/\/j.mp\/nkyst ] \u304A\u3088\u3001\u5B87\u4F50\u898B\u3060",
-  "id" : 19951161217,
-  "created_at" : "2010-07-31 00:00:00 +0000",
+  "id_str" : "19918350647",
+  "text" : "@masimarokuma \uFF62\u3077\u304E\u3083\u30FC\uFF63\u3002 \u30FB\u30FB\u30FB\u5F7C\u306B\u3001\u305D\u3046\u4F1D\u3048\u3066\u304A\u3044\u3066\u304F\u308C",
+  "id" : 19918350647,
+  "created_at" : "2010-07-30 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -1475,33 +1617,216 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19899577452",
+  "text" : "\u3042\u308C\u3001\u306A\u3093\u304B\u4ECA\u65E5\u7686\u5BDD\u308B\u306E\u65E9\u304F\u306D\uFF1F \u660E\u65E5\u4F55\u304B\u306A\u3093\u304B\u3042\u308B\u306E\u304B\u3057\u3089",
+  "id" : 19899577452,
+  "created_at" : "2010-07-30 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19902158848",
+  "text" : "@shima_franky \u304A\u3081\u30FC",
+  "id" : 19902158848,
+  "created_at" : "2010-07-30 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19902286513",
+  "text" : "\u304A\u3063\u3071\u3044\u306A\u3046",
+  "id" : 19902286513,
+  "created_at" : "2010-07-30 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
-      "screen_name" : "why_tathibana",
-      "indices" : [ 1, 15 ],
-      "id_str" : "262494533",
-      "id" : 262494533
-    }, {
+      "name" : "\u30C9\u30E9\u30B4",
+      "screen_name" : "doragonism",
+      "indices" : [ 0, 11 ],
+      "id_str" : "119367267",
+      "id" : 119367267
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19902317434",
+  "geo" : { },
+  "id_str" : "19902382292",
+  "in_reply_to_user_id" : 119367267,
+  "text" : "@doragonism \u30CD\u30BF\u30D0\u30EC \u304A\u306A\u304B\u3044\u3063\u3071\u3044\u306E\u7565",
+  "id" : 19902382292,
+  "in_reply_to_status_id" : 19902317434,
+  "created_at" : "2010-07-30 00:00:00 +0000",
+  "in_reply_to_screen_name" : "doragonism",
+  "in_reply_to_user_id_str" : "119367267",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30C9\u30E9\u30B4",
+      "screen_name" : "doragonism",
+      "indices" : [ 0, 11 ],
+      "id_str" : "119367267",
+      "id" : 119367267
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19902408300",
+  "geo" : { },
+  "id_str" : "19902555516",
+  "in_reply_to_user_id" : 119367267,
+  "text" : "@doragonism  \u3042\u3048\u3066\u8A00\u304A\u3046\u2026\uFF62m9\uFF63",
+  "id" : 19902555516,
+  "in_reply_to_status_id" : 19902408300,
+  "created_at" : "2010-07-30 00:00:00 +0000",
+  "in_reply_to_screen_name" : "doragonism",
+  "in_reply_to_user_id_str" : "119367267",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u307F\u304B\u3055\u3093\u3002",
+      "screen_name" : "pinkrit",
+      "indices" : [ 0, 8 ],
+      "id_str" : "100307622",
+      "id" : 100307622
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19902544121",
+  "geo" : { },
+  "id_str" : "19902606264",
+  "in_reply_to_user_id" : 100307622,
+  "text" : "@pinkrit \u3093\u3067\u3001\u98F2\u3093\u3060\u611F\u60F3\u306F\uFF1F",
+  "id" : 19902606264,
+  "in_reply_to_status_id" : 19902544121,
+  "created_at" : "2010-07-30 00:00:00 +0000",
+  "in_reply_to_screen_name" : "pinkrit",
+  "in_reply_to_user_id_str" : "100307622",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/photozou.jp\/\" rel=\"nofollow\"\u003E\u30D5\u30A9\u30C8\u8535\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19902871041",
+  "text" : "\u306A\u3093\u304B\u3044\u305F\u30FC\uFF01 http:\/\/photozou.jp\/photo\/show\/642523\/44434907",
+  "id" : 19902871041,
+  "created_at" : "2010-07-30 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "\u308A\u304D\u304A",
       "screen_name" : "rikio0505",
-      "indices" : [ 25, 35 ],
+      "indices" : [ 0, 10 ],
       "id_str" : "74137135",
       "id" : 74137135
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "nakayoshi",
-      "indices" : [ 100, 110 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "19903435401",
   "geo" : { },
-  "id_str" : "19951220090",
-  "text" : ".@why_tathibana\u3068\u4E00\u756A\u4EF2\u304C\u3044\u3044\u306E\u306F @rikio0505\u3055\u3093\u3067\u3059\uFF01 http:\/\/nakayoshi.satotter.jp\/result.php?user=why_tathibana #nakayoshi \u304D\u3083\u30FC\u308A\u304D\u304A\u3055\u30FC\u3093\uFF01",
-  "id" : 19951220090,
-  "created_at" : "2010-07-31 00:00:00 +0000",
+  "id_str" : "19903598949",
+  "in_reply_to_user_id" : 74137135,
+  "text" : "@rikio0505 \u304A\u304B\u3048\u308A\u306A\u3055\u30FC\u3044",
+  "id" : 19903598949,
+  "in_reply_to_status_id" : 19903435401,
+  "created_at" : "2010-07-30 00:00:00 +0000",
+  "in_reply_to_screen_name" : "rikio0505",
+  "in_reply_to_user_id_str" : "74137135",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -1512,24 +1837,21 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u0627\u0644\u0639\u0635\u0641\u0648\u0631 \u0644\u0627\u0631\u064A ",
-      "screen_name" : "d4_ss",
-      "indices" : [ 0, 6 ],
-      "id_str" : "2503830129",
-      "id" : 2503830129
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "kasyo_now",
+      "indices" : [ 26, 36 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19951245759",
-  "text" : "@D4_SS \u3046\u3044\u3063\u3059",
-  "id" : 19951245759,
-  "created_at" : "2010-07-31 00:00:00 +0000",
+  "id_str" : "19903769275",
+  "text" : "\u4F11\u61A9\u631F\u3093\u30678\u6642\u9593\u6B4C\u3044\u307E\u304F\u308A\u306A\u3069\u3002\u5F53\u7136\u58F0\u67AF\u308C\u3066\u307E\u3059\u3002 #kasyo_now",
+  "id" : 19903769275,
+  "created_at" : "2010-07-30 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -1659,7 +1981,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u7C73\u5009\u671B",
+      "name" : "\u7C73",
       "screen_name" : "Steiner02",
       "indices" : [ 0, 10 ],
       "id_str" : "101044478",
@@ -1756,7 +2078,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "namajun",
       "protected" : false,
       "id_str" : "146355666",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/759781479907942400\/D51leu_Y_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/824831932873658368\/HInilbTw_normal.jpg",
       "id" : 146355666,
       "verified" : false
     }
@@ -2360,7 +2682,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30DF\u30F3\u30DF\u30F3\u30BC\u30DF\u3055\u3093\u30C1\u30FC\u30E0",
+      "name" : "\u30DF\u30F3\u30DF\u30F3@\u30B3\u30DF\u30B1\u304A\u75B2\u308C\u69D8\u3067\u3057\u305F",
       "screen_name" : "linelinet",
       "indices" : [ 0, 10 ],
       "id_str" : "116694698",
@@ -2694,7 +3016,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3072\u306A\u306E\u3059\u3051*LINE\u30B9\u30BF\u30F3\u30D7\u767A\u58F2\u4E2D",
+      "name" : "\u3072\u306A\u306E\u3059\u3051(\u4E0A\u5D8B\u30CF\u30EB\u30AD)",
       "screen_name" : "hinanon1217",
       "indices" : [ 0, 12 ],
       "id_str" : "71551815",
@@ -2765,144 +3087,6 @@ Grailbird.data.tweets_2010_07 =
   "created_at" : "2010-07-30 00:00:00 +0000",
   "in_reply_to_screen_name" : "hina9533",
   "in_reply_to_user_id_str" : "100762060",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19917754821",
-  "text" : "\u3075\u3068\u601D\u3063\u305F \u4F8B\u3048\u9759\u5CA1\u3078\u30AD\u30E3\u30F3\u30D7\u3067\u3082\u30C4\u30A4\u30FC\u30C8\u3057\u3066\u308B\u3093\u3058\u3083\u306A\u3044\u304B\u3068",
-  "id" : 19917754821,
-  "created_at" : "2010-07-30 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19917931233",
-  "text" : "\u3046\u3080\u3002\u30D0\u30A4\u30C8\u3057\u3066\u81EA\u7531\u306B\u4F7F\u3048\u308B\u91D1\u5897\u3084\u3057\u305F\u3044\u304C\u9AD8\u6821\u306B\u898B\u3064\u304B\u3063\u305F\u3089\u9000\u5B66\u3063\u3066\u3044\u3046",
-  "id" : 19917931233,
-  "created_at" : "2010-07-30 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "hinaki",
-      "screen_name" : "Hinaki03",
-      "indices" : [ 0, 9 ],
-      "id_str" : "2757041808",
-      "id" : 2757041808
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19917821501",
-  "geo" : { },
-  "id_str" : "19918066236",
-  "in_reply_to_user_id" : 100762060,
-  "text" : "@hinaki03 \u6614\u4FFA\u306F\u305D\u3046\u547C\u3093\u3067\u3044\u305F\u4EBA\u304C\u5C45\u305F\u306E\u3055\u2026 \u906D\u96E3\u306F\u305B\u3093\u3060\u308D\u3046",
-  "id" : 19918066236,
-  "in_reply_to_status_id" : 19917821501,
-  "created_at" : "2010-07-30 00:00:00 +0000",
-  "in_reply_to_screen_name" : "hina9533",
-  "in_reply_to_user_id_str" : "100762060",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/i.ttlv.jp\/\" rel=\"nofollow\"\u003Era\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3057\u3083\u308F\u6C70@\u898F\u5236\u57A2",
-      "screen_name" : "syawatan",
-      "indices" : [ 0, 9 ],
-      "id_str" : "1147707150",
-      "id" : 1147707150
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19917915710",
-  "geo" : { },
-  "id_str" : "19918266863",
-  "in_reply_to_user_id" : 48647469,
-  "text" : "@syawatan \u671D\u9727\u9AD8\u539F\u306B\u5C45\u307E\u3059",
-  "id" : 19918266863,
-  "in_reply_to_status_id" : 19917915710,
-  "created_at" : "2010-07-30 00:00:00 +0000",
-  "in_reply_to_screen_name" : "atochi1",
-  "in_reply_to_user_id_str" : "48647469",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/i.ttlv.jp\/\" rel=\"nofollow\"\u003Era\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "test",
-      "screen_name" : "masimarokuma",
-      "indices" : [ 0, 13 ],
-      "id_str" : "1929987068",
-      "id" : 1929987068
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19918350647",
-  "text" : "@masimarokuma \uFF62\u3077\u304E\u3083\u30FC\uFF63\u3002 \u30FB\u30FB\u30FB\u5F7C\u306B\u3001\u305D\u3046\u4F1D\u3048\u3066\u304A\u3044\u3066\u304F\u308C",
-  "id" : 19918350647,
-  "created_at" : "2010-07-30 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -3146,7 +3330,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
       "screen_name" : "erogewota",
       "indices" : [ 11, 21 ],
       "id_str" : "50268644",
@@ -3158,7 +3342,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "76299985",
       "id" : 76299985
     }, {
-      "name" : "\u85E4\u5802\u591C\u5BB5\/\u65E5\u66DC\u897Fm-31a",
+      "name" : "\u85E4\u5802\u591C\u5BB5\uFF08\u65E7\uFF09",
       "screen_name" : "Yayoi_0622",
       "indices" : [ 62, 73 ],
       "id_str" : "56055825",
@@ -3250,7 +3434,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "enokyou",
       "protected" : false,
       "id_str" : "96145178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/741568199351640065\/ZgP8W4wT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/778291392967606272\/a-lIgmYE_normal.jpg",
       "id" : 96145178,
       "verified" : false
     }
@@ -3637,7 +3821,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -3693,194 +3877,7 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19899577452",
-  "text" : "\u3042\u308C\u3001\u306A\u3093\u304B\u4ECA\u65E5\u7686\u5BDD\u308B\u306E\u65E9\u304F\u306D\uFF1F \u660E\u65E5\u4F55\u304B\u306A\u3093\u304B\u3042\u308B\u306E\u304B\u3057\u3089",
-  "id" : 19899577452,
-  "created_at" : "2010-07-30 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19902158848",
-  "text" : "@shima_franky \u304A\u3081\u30FC",
-  "id" : 19902158848,
-  "created_at" : "2010-07-30 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19902286513",
-  "text" : "\u304A\u3063\u3071\u3044\u306A\u3046",
-  "id" : 19902286513,
-  "created_at" : "2010-07-30 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30C9\u30E9\u30B4",
-      "screen_name" : "doragonism",
-      "indices" : [ 0, 11 ],
-      "id_str" : "119367267",
-      "id" : 119367267
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19902317434",
-  "geo" : { },
-  "id_str" : "19902382292",
-  "in_reply_to_user_id" : 119367267,
-  "text" : "@doragonism \u30CD\u30BF\u30D0\u30EC \u304A\u306A\u304B\u3044\u3063\u3071\u3044\u306E\u7565",
-  "id" : 19902382292,
-  "in_reply_to_status_id" : 19902317434,
-  "created_at" : "2010-07-30 00:00:00 +0000",
-  "in_reply_to_screen_name" : "doragonism",
-  "in_reply_to_user_id_str" : "119367267",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30C9\u30E9\u30B4",
-      "screen_name" : "doragonism",
-      "indices" : [ 0, 11 ],
-      "id_str" : "119367267",
-      "id" : 119367267
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19902408300",
-  "geo" : { },
-  "id_str" : "19902555516",
-  "in_reply_to_user_id" : 119367267,
-  "text" : "@doragonism  \u3042\u3048\u3066\u8A00\u304A\u3046\u2026\uFF62m9\uFF63",
-  "id" : 19902555516,
-  "in_reply_to_status_id" : 19902408300,
-  "created_at" : "2010-07-30 00:00:00 +0000",
-  "in_reply_to_screen_name" : "doragonism",
-  "in_reply_to_user_id_str" : "119367267",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u307F\u304B\u3055\u3093\u306F\u304A\u9152\u304C\u98F2\u307F\u305F\u3044",
-      "screen_name" : "pinkrit",
-      "indices" : [ 0, 8 ],
-      "id_str" : "100307622",
-      "id" : 100307622
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19902544121",
-  "geo" : { },
-  "id_str" : "19902606264",
-  "in_reply_to_user_id" : 100307622,
-  "text" : "@pinkrit \u3093\u3067\u3001\u98F2\u3093\u3060\u611F\u60F3\u306F\uFF1F",
-  "id" : 19902606264,
-  "in_reply_to_status_id" : 19902544121,
-  "created_at" : "2010-07-30 00:00:00 +0000",
-  "in_reply_to_screen_name" : "pinkrit",
-  "in_reply_to_user_id_str" : "100307622",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/photozou.jp\/\" rel=\"nofollow\"\u003E\u30D5\u30A9\u30C8\u8535\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19902871041",
-  "text" : "\u306A\u3093\u304B\u3044\u305F\u30FC\uFF01 http:\/\/photozou.jp\/photo\/show\/642523\/44434907",
-  "id" : 19902871041,
-  "created_at" : "2010-07-30 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u308A\u304D\u304A",
@@ -3893,41 +3890,16 @@ Grailbird.data.tweets_2010_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "19903435401",
+  "in_reply_to_status_id_str" : "19824940169",
   "geo" : { },
-  "id_str" : "19903598949",
+  "id_str" : "19825164190",
   "in_reply_to_user_id" : 74137135,
-  "text" : "@rikio0505 \u304A\u304B\u3048\u308A\u306A\u3055\u30FC\u3044",
-  "id" : 19903598949,
-  "in_reply_to_status_id" : 19903435401,
-  "created_at" : "2010-07-30 00:00:00 +0000",
+  "text" : "@rikio0505 \uFF76\uFF9E\uFF80\uFF6F",
+  "id" : 19825164190,
+  "in_reply_to_status_id" : 19824940169,
+  "created_at" : "2010-07-29 00:00:00 +0000",
   "in_reply_to_screen_name" : "rikio0505",
   "in_reply_to_user_id_str" : "74137135",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "kasyo_now",
-      "indices" : [ 26, 36 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19903769275",
-  "text" : "\u4F11\u61A9\u631F\u3093\u30678\u6642\u9593\u6B4C\u3044\u307E\u304F\u308A\u306A\u3069\u3002\u5F53\u7136\u58F0\u67AF\u308C\u3066\u307E\u3059\u3002 #kasyo_now",
-  "id" : 19903769275,
-  "created_at" : "2010-07-30 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -3941,7 +3913,310 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "\u2661\u91CE",
+      "screen_name" : "taidaoh",
+      "indices" : [ 3, 11 ],
+      "id_str" : "114923819",
+      "id" : 114923819
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19825510397",
+  "text" : "RT @taidaoh: \u60A3\u8005\u300C\u30D6\u30E9\u30C3\u30AF\u30B8\u30E3\u30C3\u30AF\u5148\u751F\u30FB\u30FB\u30FB\u5F8C\u751F\u3060\u30FB\u30FB\u30FB\u52A9\u3051\u3066\u304F\u308C\u3063\u30FB\u30FB\u30FB\u5909\u614B\u3092\u30FB\u30FB\u30FB\u5909\u614B\u3092\u6CBB\u3057\u3066\u304F\u308C\u3048\u3063\uFF01\uFF01\u304A\u91D1\u306F\u30FB\u30FB\u30FB\u4E00\u751F\u304B\u3051\u3066\u3067\u3082\u6255\u3044\u307E\u3059\uFF01\uFF01\u300D\u3000\uFF22\uFF2A\u300C\u7121\u7406\u300D",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twipple.jp\/\" rel=\"nofollow\"\u003E\u3064\u3044\u3063\u3077\u308B\u3000\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "19823761288",
+    "text" : "\u60A3\u8005\u300C\u30D6\u30E9\u30C3\u30AF\u30B8\u30E3\u30C3\u30AF\u5148\u751F\u30FB\u30FB\u30FB\u5F8C\u751F\u3060\u30FB\u30FB\u30FB\u52A9\u3051\u3066\u304F\u308C\u3063\u30FB\u30FB\u30FB\u5909\u614B\u3092\u30FB\u30FB\u30FB\u5909\u614B\u3092\u6CBB\u3057\u3066\u304F\u308C\u3048\u3063\uFF01\uFF01\u304A\u91D1\u306F\u30FB\u30FB\u30FB\u4E00\u751F\u304B\u3051\u3066\u3067\u3082\u6255\u3044\u307E\u3059\uFF01\uFF01\u300D\u3000\uFF22\uFF2A\u300C\u7121\u7406\u300D",
+    "id" : 19823761288,
+    "created_at" : "2010-07-29 13:00:07 +0000",
+    "user" : {
+      "name" : "\u2661\u91CE",
+      "screen_name" : "taidaoh",
+      "protected" : false,
+      "id_str" : "114923819",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513691004021399552\/Q2zW1115_normal.jpeg",
+      "id" : 114923819,
+      "verified" : false
+    }
+  },
+  "id" : 19825510397,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u795E\u4E3B\u3042\u3093\u3071\u3093",
+      "screen_name" : "kannusiAP",
+      "indices" : [ 0, 10 ],
+      "id_str" : "101756063",
+      "id" : 101756063
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19825201237",
+  "geo" : { },
+  "id_str" : "19825548338",
+  "in_reply_to_user_id" : 101756063,
+  "text" : "@kannusiAP \u304A\u304B\u3048\u308A\u306A\u3057\u3083\u30FC\u3044",
+  "id" : 19825548338,
+  "in_reply_to_status_id" : 19825201237,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kannusiAP",
+  "in_reply_to_user_id_str" : "101756063",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
+      "screen_name" : "why_tathibana",
+      "indices" : [ 21, 35 ],
+      "id_str" : "262494533",
+      "id" : 262494533
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19825769779",
+  "text" : "\uFF01\uFF1FRT: @shima_franky: @why_tathibana  \u3055\u3059\u304C\u306E\u3058\u3083\u3073\u3055\u3093\u3067\u3082\u7121\u7406\u3060\u3063\u305F\u304B\u2026\uFF1C\u5909\u614B\u306A\u304A\u3059\u306E",
+  "id" : 19825769779,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3046\u3055",
+      "screen_name" : "usa0926",
+      "indices" : [ 0, 8 ],
+      "id_str" : "1547624924",
+      "id" : 1547624924
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19827955655",
+  "text" : "@usa0926 \u6211\u304C\u59B9\u306F\u6B4C\u3082\u55DC\u3080\u306E\u3060\u306A\u3002\u3044\u3084\u306F\u3084\u5049\u3044\u305E\u3002",
+  "id" : 19827955655,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3072\u306A\u306E\u3059\u3051(\u4E0A\u5D8B\u30CF\u30EB\u30AD)",
+      "screen_name" : "hinanon1217",
+      "indices" : [ 15, 27 ],
+      "id_str" : "71551815",
+      "id" : 71551815
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19828073640",
+  "text" : "\u540C\u3044\u5E74\u3068\u306F\u601D\u3048\u306A\u3044\u753B\u529BRT: @hinanon1217: http:\/\/twitpic.com\/29pyu1 - \u9AD8\uFF11\u306E\u3068\u304D\u63CF\u3044\u305F",
+  "id" : 19828073640,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3046\u3055",
+      "screen_name" : "usa0926",
+      "indices" : [ 0, 8 ],
+      "id_str" : "1547624924",
+      "id" : 1547624924
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19828872231",
+  "text" : "@usa0926 \u6700\u8FD1\u512A\u3057\u3044\u59B9LOVE\u5144\u306E\u5B9A\u7FA9\u304C\u5206\u304B\u3089\u3093\uFF5C\u30FB\u03C9\u30FB)",
+  "id" : 19828872231,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30B8\u30A7\u30E9\u30FC\u30C9\uFF08\u7121\u5370\uFF09",
+      "screen_name" : "gerrard2009",
+      "indices" : [ 3, 15 ],
+      "id_str" : "19540998",
+      "id" : 19540998
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19829180842",
+  "text" : "RT @gerrard2009: \u3010\u30C4\u30A4\u30C3\u30BF\u30FC\u98A8\u3053\u3068\u308F\u3056\u3011\u30D5\u30A9\u30ED\u30FC\u306F\u30EA\u30E0\u30FC\u30D6\u306E\u59CB\u3081\u3001\u3057\u3085\u3046\u307E\u3044\u306E\u8033\u306B\u30EA\u30D7\u30E9\u30A4\u3001\u30C4\u30A4\u30FC\u30C8\u306F\u707D\u3044\u306E\u5143\u3001\u6CE3\u304F\u5B50\u3068\u5909\u614B\u306B\u306F\u52DD\u3066\u306C\u3001\u82E6\u3057\u3044\u3068\u304D\u306ERT\u983C\u307F\u3001\u51FA\u308Bdis\u308A\u306F\u6253\u305F\u308C\u308B\u3001\u30CD\u30BF\u30AF\u30E9\u30B9\u30BF\u3082\u7B46\u306E\u8AA4\u307E\u308A\u3001\u6CE3\u304D\u3063\u9762\u306B\u30D6\u30ED\u30C3\u30AF\u3001dis\u3089\u308C\u3063\u5B50\u4E16\u306B\u619A\u308B\u3001\u6642 ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/sites.google.com\/site\/tweentwitterclient\/\" rel=\"nofollow\"\u003ETween\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "19752391961",
+    "text" : "\u3010\u30C4\u30A4\u30C3\u30BF\u30FC\u98A8\u3053\u3068\u308F\u3056\u3011\u30D5\u30A9\u30ED\u30FC\u306F\u30EA\u30E0\u30FC\u30D6\u306E\u59CB\u3081\u3001\u3057\u3085\u3046\u307E\u3044\u306E\u8033\u306B\u30EA\u30D7\u30E9\u30A4\u3001\u30C4\u30A4\u30FC\u30C8\u306F\u707D\u3044\u306E\u5143\u3001\u6CE3\u304F\u5B50\u3068\u5909\u614B\u306B\u306F\u52DD\u3066\u306C\u3001\u82E6\u3057\u3044\u3068\u304D\u306ERT\u983C\u307F\u3001\u51FA\u308Bdis\u308A\u306F\u6253\u305F\u308C\u308B\u3001\u30CD\u30BF\u30AF\u30E9\u30B9\u30BF\u3082\u7B46\u306E\u8AA4\u307E\u308A\u3001\u6CE3\u304D\u3063\u9762\u306B\u30D6\u30ED\u30C3\u30AF\u3001dis\u3089\u308C\u3063\u5B50\u4E16\u306B\u619A\u308B\u3001\u6642\u306F\u3075\u3041\u307C\u306A\u308A\u3001\u985E\u306F\u30AF\u30E9\u30B9\u30BF\u3092\u547C\u3076",
+    "id" : 19752391961,
+    "created_at" : "2010-07-28 16:14:39 +0000",
+    "user" : {
+      "name" : "\u30B8\u30A7\u30E9\u30FC\u30C9\uFF08\u7121\u5370\uFF09",
+      "screen_name" : "gerrard2009",
+      "protected" : false,
+      "id_str" : "19540998",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3283011716\/2e5ccd4c85868207878d93f8cd57fb6c_normal.png",
+      "id" : 19540998,
+      "verified" : false
+    }
+  },
+  "id" : 19829180842,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u308A\u304D\u304A",
+      "screen_name" : "rikio0505",
+      "indices" : [ 16, 26 ],
+      "id_str" : "74137135",
+      "id" : 74137135
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19829203026",
+  "text" : "5\u756A\u60B2\u3057\u3059\u304E\u308B\uFF57\uFF57\uFF57\uFF57\uFF57RT: @rikio0505: \u91E3\u3089\u308C\u3066\u308B\u9B5A\u5F79\uFF57\uFF57\uFF57\uFF57\uFF57\u3000RT @Jabby_BJ: \u58F0\u51FA\u3057\u3066\u7B11\u3063\u305F\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57 http:\/\/bit.ly\/9HydDc",
+  "id" : 19829203026,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3046\u3055",
+      "screen_name" : "usa0926",
+      "indices" : [ 0, 8 ],
+      "id_str" : "1547624924",
+      "id" : 1547624924
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19829288106",
+  "text" : "@usa0926 (\u03A6\u03C9\u03A6)\uFF8C\uFF8C\uFF8C\u2026",
+  "id" : 19829288106,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 7, 19 ],
       "id_str" : "99437114",
@@ -4046,7 +4321,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -4169,7 +4444,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u306E\u304C\u308F Jumping Heart",
+      "name" : "\u6298\u308C\u306A\u3044\u3064\u306E\u304C\u308F",
       "screen_name" : "angleriver",
       "indices" : [ 3, 14 ],
       "id_str" : "77215910",
@@ -4208,11 +4483,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19831510976,
     "created_at" : "2010-07-29 14:51:35 +0000",
     "user" : {
-      "name" : "\u3064\u306E\u304C\u308F Jumping Heart",
+      "name" : "\u6298\u308C\u306A\u3044\u3064\u306E\u304C\u308F",
       "screen_name" : "angleriver",
       "protected" : false,
       "id_str" : "77215910",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756864057601236993\/7WS4Ft8z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795966690483810304\/LkVg_fYE_normal.jpg",
       "id" : 77215910,
       "verified" : false
     }
@@ -4268,6 +4543,221 @@ Grailbird.data.tweets_2010_07 =
   "id_str" : "19832005243",
   "text" : "@D4_SS \u305D\u3046\u8A00\u3063\u3066\u5439\u3063\u5207\u308C\u308B\u306E\u3082\u3044\u3044\u3093\u3067\u3059\u3051\u3069\u306D\u3047\u3002",
   "id" : 19832005243,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u5E79\u4E8B\u7537",
+      "screen_name" : "kanji_man",
+      "indices" : [ 0, 10 ],
+      "id_str" : "56417997",
+      "id" : 56417997
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19809147392",
+  "geo" : { },
+  "id_str" : "19809176507",
+  "in_reply_to_user_id" : 56417997,
+  "text" : "@kanji_man \u304A\u75B2\u308C\u69D8\u306A\u306E\u3060\u305C",
+  "id" : 19809176507,
+  "in_reply_to_status_id" : 19809147392,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kanji_man",
+  "in_reply_to_user_id_str" : "56417997",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u304B\u3044\u305F\u30FC\u30FC\u306A",
+      "screen_name" : "ZeroTiten",
+      "indices" : [ 6, 16 ],
+      "id_str" : "2904282133",
+      "id" : 2904282133
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19809417414",
+  "text" : "\u62E1\u6563RT: @zerotiten: \u3010\u81EA\u52D5POST\u3011\u590F\u4F11\u307F\u30D7\u30EC\u30BC\u30F3\u30C8\u4F01\u753B\u6C7A\u5B9A\uFF01\uFF08\u5024\u6BB5\u306B\u3088\u3063\u3066\u306F\u4E2D\u6B62\uFF57\u3010\u518D\u63B2\u8F09\u3011",
+  "id" : 19809417414,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "twittie",
+      "screen_name" : "twittie_jp",
+      "indices" : [ 0, 11 ],
+      "id_str" : "51004609",
+      "id" : 51004609
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19810419791",
+  "in_reply_to_user_id" : 51004609,
+  "text" : "@twittie_jp \u5C11\u3057\u524D\u304B\u3089\u901A\u4FE1\u30A8\u30E9\u30FC\u304C\u767A\u751F\u3059\u308B\u306E\u3067\u3059\u304C\u3001\u3069\u3046\u3044\u3046\u4E8B\u3067\u3057\u3087\u3046\uFF1F",
+  "id" : 19810419791,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "in_reply_to_screen_name" : "twittie_jp",
+  "in_reply_to_user_id_str" : "51004609",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u677E\u7530\u3000\u30A2\u30AD\u30CE\u30EA",
+      "screen_name" : "macchaanko",
+      "indices" : [ 12, 23 ],
+      "id_str" : "62466568",
+      "id" : 62466568
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19811196818",
+  "text" : "\u5730\u5143\u3058\u3083\u306D\u3047\u304B\uFF57RT: @macchaanko: \uFF3B\u7DCA\u6025\u544A\u77E5]\u91D1\u6CA2\u5E02\u5468\u8FBA\u3067\u5F53\u305F\u308A\u5C4B\u30B0\u30EB\u30FC\u30D7\u306B\u3088\u308B\u88AB\u5BB3\u304C\u7D9A\u51FA\u3057\u3066\u3044\u308B\u305D\u3046\u3067\u3059\u52E4\u52D9\u5148\u306B\u91D1\u6CA2\u5E02\u3088\u308A\uFF26\uFF21\uFF38\u304C\u6765\u307E\u3057\u305F\u78BA\u8A8D\u3055\u308C\u3066\u3044\u308B\u306E\u306F\u3010\u5C71\u53E3\u30FB\u95A2\u897F\u65B9\u9762\u306E\u30CA\u30F3\u30D0\u30FC\u3011\u3067\u5408\u8A0884\u53F0\u3060\u305D\u3046\u3067\u3059\u63A5\u89E6\u3057\u305F\u5834\u5408\u3001\u76F4\u3061\u306B\u8B66\u5BDF\u306B\u9023\u7D61\u3057\u3001\u7D76\u5BFE\u306B\u8B66\u5B98\u304C\u5230\u7740\u3059\u308B",
+  "id" : 19811196818,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19811359128",
+  "text" : "why_tathibana\u3055\u3093\u306B\u5C4A\u3044\u305F\u82E6\u60C5\u2192\u3010\u30C4\u30A4\u30FC\u30C8\u304C\u3042\u308B\u305F\u3073\u306B\u3001\u3046\u3061\u306E\u72AC\u305F\u3061\u306E\u9060\u5420\u3048\u304C\u9177\u3044\u3002\u8FD1\u6240\u304B\u3089\u3082\u6587\u53E5\u8A00\u308F\u308C\u3066\u307E\u3059\u2026\uFF0F\u30D5\u30A9\u30ED\u30EF\u30FC\uFF23\u3055\u3093\u3011 http:\/\/shindanmaker.com\/35696  \u72AC\u300C\u3064\u3044\u3063\u305F\u30FC\u306A\u3046\u308F\u3093\uFF01\u300D",
+  "id" : 19811359128,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3057\u3083\u308F\u6C70@\u898F\u5236\u57A2",
+      "screen_name" : "syawatan",
+      "indices" : [ 0, 9 ],
+      "id_str" : "1147707150",
+      "id" : 1147707150
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19811506710",
+  "geo" : { },
+  "id_str" : "19811519019",
+  "in_reply_to_user_id" : 48647469,
+  "text" : "@syawatan (\u3000\uFF9F\u0434\uFF9F)",
+  "id" : 19811519019,
+  "in_reply_to_status_id" : 19811506710,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "in_reply_to_screen_name" : "atochi1",
+  "in_reply_to_user_id_str" : "48647469",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
+      "screen_name" : "ayaka_chicken",
+      "indices" : [ 0, 14 ],
+      "id_str" : "3322453124",
+      "id" : 3322453124
+    }, {
+      "name" : "\u30C9\u30E9\u30B4",
+      "screen_name" : "doragonism",
+      "indices" : [ 15, 26 ],
+      "id_str" : "119367267",
+      "id" : 119367267
+    }, {
+      "name" : "jujubell",
+      "screen_name" : "juju_bell",
+      "indices" : [ 27, 37 ],
+      "id_str" : "94965206",
+      "id" : 94965206
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19811883162",
+  "text" : "@Ayaka_chicken @doragonism @juju_bell @Johnny_nm7 \u3066\u3089\u3042\u308A\u30FC",
+  "id" : 19811883162,
   "created_at" : "2010-07-29 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
@@ -4805,7 +5295,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -5066,7 +5556,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/i.ttlv.jp\/\" rel=\"nofollow\"\u003Era\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -5489,77 +5979,15 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u304D\u304A",
-      "screen_name" : "rikio0505",
-      "indices" : [ 0, 10 ],
-      "id_str" : "74137135",
-      "id" : 74137135
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19824940169",
-  "geo" : { },
-  "id_str" : "19825164190",
-  "in_reply_to_user_id" : 74137135,
-  "text" : "@rikio0505 \uFF76\uFF9E\uFF80\uFF6F",
-  "id" : 19825164190,
-  "in_reply_to_status_id" : 19824940169,
-  "created_at" : "2010-07-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "rikio0505",
-  "in_reply_to_user_id_str" : "74137135",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u2661\u91CE",
-      "screen_name" : "taidaoh",
-      "indices" : [ 3, 11 ],
-      "id_str" : "114923819",
-      "id" : 114923819
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19825510397",
-  "text" : "RT @taidaoh: \u60A3\u8005\u300C\u30D6\u30E9\u30C3\u30AF\u30B8\u30E3\u30C3\u30AF\u5148\u751F\u30FB\u30FB\u30FB\u5F8C\u751F\u3060\u30FB\u30FB\u30FB\u52A9\u3051\u3066\u304F\u308C\u3063\u30FB\u30FB\u30FB\u5909\u614B\u3092\u30FB\u30FB\u30FB\u5909\u614B\u3092\u6CBB\u3057\u3066\u304F\u308C\u3048\u3063\uFF01\uFF01\u304A\u91D1\u306F\u30FB\u30FB\u30FB\u4E00\u751F\u304B\u3051\u3066\u3067\u3082\u6255\u3044\u307E\u3059\uFF01\uFF01\u300D\u3000\uFF22\uFF2A\u300C\u7121\u7406\u300D",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twipple.jp\/\" rel=\"nofollow\"\u003E\u3064\u3044\u3063\u3077\u308B\u3000\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "19823761288",
-    "text" : "\u60A3\u8005\u300C\u30D6\u30E9\u30C3\u30AF\u30B8\u30E3\u30C3\u30AF\u5148\u751F\u30FB\u30FB\u30FB\u5F8C\u751F\u3060\u30FB\u30FB\u30FB\u52A9\u3051\u3066\u304F\u308C\u3063\u30FB\u30FB\u30FB\u5909\u614B\u3092\u30FB\u30FB\u30FB\u5909\u614B\u3092\u6CBB\u3057\u3066\u304F\u308C\u3048\u3063\uFF01\uFF01\u304A\u91D1\u306F\u30FB\u30FB\u30FB\u4E00\u751F\u304B\u3051\u3066\u3067\u3082\u6255\u3044\u307E\u3059\uFF01\uFF01\u300D\u3000\uFF22\uFF2A\u300C\u7121\u7406\u300D",
-    "id" : 19823761288,
-    "created_at" : "2010-07-29 13:00:07 +0000",
-    "user" : {
-      "name" : "\u2661\u91CE",
-      "screen_name" : "taidaoh",
-      "protected" : false,
-      "id_str" : "114923819",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513691004021399552\/Q2zW1115_normal.jpeg",
-      "id" : 114923819,
-      "verified" : false
-    }
-  },
-  "id" : 19825510397,
+  "id_str" : "19781527689",
+  "text" : "\u304A\u306F\u3088\u3046\u3067\u3059",
+  "id" : 19781527689,
   "created_at" : "2010-07-29 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
@@ -5574,53 +6002,26 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u795E\u4E3B\u3042\u3093\u3071\u3093",
-      "screen_name" : "kannusiAP",
-      "indices" : [ 0, 10 ],
-      "id_str" : "101756063",
-      "id" : 101756063
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19825201237",
-  "geo" : { },
-  "id_str" : "19825548338",
-  "in_reply_to_user_id" : 101756063,
-  "text" : "@kannusiAP \u304A\u304B\u3048\u308A\u306A\u3057\u3083\u30FC\u3044",
-  "id" : 19825548338,
-  "in_reply_to_status_id" : 19825201237,
-  "created_at" : "2010-07-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kannusiAP",
-  "in_reply_to_user_id_str" : "101756063",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
-      "screen_name" : "why_tathibana",
-      "indices" : [ 21, 35 ],
-      "id_str" : "262494533",
-      "id" : 262494533
+      "name" : "\/\/",
+      "screen_name" : "AsakoSenpai",
+      "indices" : [ 0, 12 ],
+      "id_str" : "2764468667",
+      "id" : 2764468667
+    }, {
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
+      "screen_name" : "ayaka_chicken",
+      "indices" : [ 13, 27 ],
+      "id_str" : "3322453124",
+      "id" : 3322453124
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19825769779",
-  "text" : "\uFF01\uFF1FRT: @shima_franky: @why_tathibana  \u3055\u3059\u304C\u306E\u3058\u3083\u3073\u3055\u3093\u3067\u3082\u7121\u7406\u3060\u3063\u305F\u304B\u2026\uFF1C\u5909\u614B\u306A\u304A\u3059\u306E",
-  "id" : 19825769779,
+  "id_str" : "19781875103",
+  "text" : "@ASAkoSenpai @Ayaka_chicken \u3042\u306F\u306F\u30FC\uFF01",
+  "id" : 19781875103,
   "created_at" : "2010-07-29 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
@@ -5646,9 +6047,9 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19827955655",
-  "text" : "@usa0926 \u6211\u304C\u59B9\u306F\u6B4C\u3082\u55DC\u3080\u306E\u3060\u306A\u3002\u3044\u3084\u306F\u3084\u5049\u3044\u305E\u3002",
-  "id" : 19827955655,
+  "id_str" : "19781903010",
+  "text" : "@usa0926 \uFF5C\u30FB\u03C9\u30FB)\u3042\u3089\u3046\u3055\u30FC\u307F\u3067\u306F\u3042\u308A\u307E\u305B\u3093\u304B",
+  "id" : 19781903010,
   "created_at" : "2010-07-29 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
@@ -5662,128 +6063,15 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3072\u306A\u306E\u3059\u3051*LINE\u30B9\u30BF\u30F3\u30D7\u767A\u58F2\u4E2D",
-      "screen_name" : "hinanon1217",
-      "indices" : [ 15, 27 ],
-      "id_str" : "71551815",
-      "id" : 71551815
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19828073640",
-  "text" : "\u540C\u3044\u5E74\u3068\u306F\u601D\u3048\u306A\u3044\u753B\u529BRT: @hinanon1217: http:\/\/twitpic.com\/29pyu1 - \u9AD8\uFF11\u306E\u3068\u304D\u63CF\u3044\u305F",
-  "id" : 19828073640,
-  "created_at" : "2010-07-29 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3046\u3055",
-      "screen_name" : "usa0926",
-      "indices" : [ 0, 8 ],
-      "id_str" : "1547624924",
-      "id" : 1547624924
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19828872231",
-  "text" : "@usa0926 \u6700\u8FD1\u512A\u3057\u3044\u59B9LOVE\u5144\u306E\u5B9A\u7FA9\u304C\u5206\u304B\u3089\u3093\uFF5C\u30FB\u03C9\u30FB)",
-  "id" : 19828872231,
-  "created_at" : "2010-07-29 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30B8\u30A7\u30E9\u30FC\u30C9\uFF08\u7121\u5370\uFF09",
-      "screen_name" : "gerrard2009",
-      "indices" : [ 3, 15 ],
-      "id_str" : "19540998",
-      "id" : 19540998
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19829180842",
-  "text" : "RT @gerrard2009: \u3010\u30C4\u30A4\u30C3\u30BF\u30FC\u98A8\u3053\u3068\u308F\u3056\u3011\u30D5\u30A9\u30ED\u30FC\u306F\u30EA\u30E0\u30FC\u30D6\u306E\u59CB\u3081\u3001\u3057\u3085\u3046\u307E\u3044\u306E\u8033\u306B\u30EA\u30D7\u30E9\u30A4\u3001\u30C4\u30A4\u30FC\u30C8\u306F\u707D\u3044\u306E\u5143\u3001\u6CE3\u304F\u5B50\u3068\u5909\u614B\u306B\u306F\u52DD\u3066\u306C\u3001\u82E6\u3057\u3044\u3068\u304D\u306ERT\u983C\u307F\u3001\u51FA\u308Bdis\u308A\u306F\u6253\u305F\u308C\u308B\u3001\u30CD\u30BF\u30AF\u30E9\u30B9\u30BF\u3082\u7B46\u306E\u8AA4\u307E\u308A\u3001\u6CE3\u304D\u3063\u9762\u306B\u30D6\u30ED\u30C3\u30AF\u3001dis\u3089\u308C\u3063\u5B50\u4E16\u306B\u619A\u308B\u3001\u6642 ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/sites.google.com\/site\/tweentwitterclient\/\" rel=\"nofollow\"\u003ETween\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "19752391961",
-    "text" : "\u3010\u30C4\u30A4\u30C3\u30BF\u30FC\u98A8\u3053\u3068\u308F\u3056\u3011\u30D5\u30A9\u30ED\u30FC\u306F\u30EA\u30E0\u30FC\u30D6\u306E\u59CB\u3081\u3001\u3057\u3085\u3046\u307E\u3044\u306E\u8033\u306B\u30EA\u30D7\u30E9\u30A4\u3001\u30C4\u30A4\u30FC\u30C8\u306F\u707D\u3044\u306E\u5143\u3001\u6CE3\u304F\u5B50\u3068\u5909\u614B\u306B\u306F\u52DD\u3066\u306C\u3001\u82E6\u3057\u3044\u3068\u304D\u306ERT\u983C\u307F\u3001\u51FA\u308Bdis\u308A\u306F\u6253\u305F\u308C\u308B\u3001\u30CD\u30BF\u30AF\u30E9\u30B9\u30BF\u3082\u7B46\u306E\u8AA4\u307E\u308A\u3001\u6CE3\u304D\u3063\u9762\u306B\u30D6\u30ED\u30C3\u30AF\u3001dis\u3089\u308C\u3063\u5B50\u4E16\u306B\u619A\u308B\u3001\u6642\u306F\u3075\u3041\u307C\u306A\u308A\u3001\u985E\u306F\u30AF\u30E9\u30B9\u30BF\u3092\u547C\u3076",
-    "id" : 19752391961,
-    "created_at" : "2010-07-28 16:14:39 +0000",
-    "user" : {
-      "name" : "\u30B8\u30A7\u30E9\u30FC\u30C9\uFF08\u7121\u5370\uFF09",
-      "screen_name" : "gerrard2009",
-      "protected" : false,
-      "id_str" : "19540998",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3283011716\/2e5ccd4c85868207878d93f8cd57fb6c_normal.png",
-      "id" : 19540998,
-      "verified" : false
-    }
-  },
-  "id" : 19829180842,
-  "created_at" : "2010-07-29 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u304D\u304A",
-      "screen_name" : "rikio0505",
-      "indices" : [ 16, 26 ],
-      "id_str" : "74137135",
-      "id" : 74137135
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19829203026",
-  "text" : "5\u756A\u60B2\u3057\u3059\u304E\u308B\uFF57\uFF57\uFF57\uFF57\uFF57RT: @rikio0505: \u91E3\u3089\u308C\u3066\u308B\u9B5A\u5F79\uFF57\uFF57\uFF57\uFF57\uFF57\u3000RT @Jabby_BJ: \u58F0\u51FA\u3057\u3066\u7B11\u3063\u305F\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57 http:\/\/bit.ly\/9HydDc",
-  "id" : 19829203026,
+  "id_str" : "19786249185",
+  "text" : "\u5E30\u5B85\u306A\u3046",
+  "id" : 19786249185,
   "created_at" : "2010-07-29 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
@@ -5809,9 +6097,37 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19829288106",
-  "text" : "@usa0926 (\u03A6\u03C9\u03A6)\uFF8C\uFF8C\uFF8C\u2026",
-  "id" : 19829288106,
+  "id_str" : "19786275810",
+  "text" : "@usa0926 \u6211\u304C\u59B9\u3088\u3001\u4ECA\u65E5\u3082\u611B\u304F\u308B\u3057\u3044\u59FF\u3060\uFF5C\u30FB\u03C9\u30FB)",
+  "id" : 19786275810,
+  "created_at" : "2010-07-29 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
+      "screen_name" : "ayaka_chicken",
+      "indices" : [ 0, 14 ],
+      "id_str" : "3322453124",
+      "id" : 3322453124
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19786669078",
+  "text" : "@Ayaka_chicken \u03B5\uFF1D(\uFF89\uFF9F\u0434\uFF9F)\uFF89 \uFF80\uFF80\uFF9E\uFF72\uFF8F\uFF70",
+  "id" : 19786669078,
   "created_at" : "2010-07-29 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
@@ -6224,13 +6540,13 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u306B\u307E@\u6B4C\u3046\u63D0\u7763\u30E9\u30A4\u30D0\u30FCP",
+      "name" : "\u3042\u306B\u307E\u306F\u6B4C\u304C\u5927\u597D\u304D\u306A\u30D5\u30EC\u30F3\u30BA",
       "screen_name" : "anima913",
       "indices" : [ 14, 23 ],
       "id_str" : "90374149",
       "id" : 90374149
     }, {
-      "name" : "\u307E\u304A@\u590F\uFF7A\uFF90 \u897Fa-31b",
+      "name" : "\u307E\u304A",
       "screen_name" : "maoppai",
       "indices" : [ 42, 50 ],
       "id_str" : "77247019",
@@ -6341,7 +6657,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "48\u6642\u9593\u9023\u4F11\u3092\u8B33\u6B4C\u3059\u308B\u51A0\u30A6\u30B5\u30AE",
+      "name" : "\u51A0\u30A6\u30B5\u30AE",
       "screen_name" : "uzumakiP",
       "indices" : [ 3, 12 ],
       "id_str" : "98407181",
@@ -6380,7 +6696,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19802105972,
     "created_at" : "2010-07-29 05:25:23 +0000",
     "user" : {
-      "name" : "48\u6642\u9593\u9023\u4F11\u3092\u8B33\u6B4C\u3059\u308B\u51A0\u30A6\u30B5\u30AE",
+      "name" : "\u51A0\u30A6\u30B5\u30AE",
       "screen_name" : "uzumakiP",
       "protected" : false,
       "id_str" : "98407181",
@@ -6404,7 +6720,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -6488,7 +6804,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -6516,7 +6832,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -6544,7 +6860,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -6597,7 +6913,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3057\u3089\u3073@3\u65E5\u76EE\u6771\u30B733a",
+      "name" : "\u3057\u3089\u3073",
       "screen_name" : "shirabii",
       "indices" : [ 3, 12 ],
       "id_str" : "119082707",
@@ -6624,11 +6940,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19803509503,
     "created_at" : "2010-07-29 05:52:09 +0000",
     "user" : {
-      "name" : "\u3057\u3089\u3073@3\u65E5\u76EE\u6771\u30B733a",
+      "name" : "\u3057\u3089\u3073",
       "screen_name" : "shirabii",
       "protected" : false,
       "id_str" : "119082707",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728786717331759108\/hgMhrx8d_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823055794144825344\/8k6wNQvm_normal.jpg",
       "id" : 119082707,
       "verified" : false
     }
@@ -6648,7 +6964,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -6690,7 +7006,7 @@ Grailbird.data.tweets_2010_07 =
   "id_str" : "19803978731",
   "text" : "RT @pedoro24: \u74DC\uFF9D\uFF79\uFF9E\uFF98\uFF66\uFF9D\u3002\uFF62\u5BA2 \u8972\u6765\uFF63\uFF62\u898B\u77E5\u3089\u306C\u5E97\u9577\uFF63\uFF62\u9CF4\u3089\u306A\u3044\u96FB\u8A71\uFF63\uFF62\u5BA2\u9154\u3044\u6F70\u308C\u305F\u5F8C\uFF63\uFF62\u30A6\u30A9\u30FC\u30EA\u30FC\u3001\u5FC3\u306E\u5411\u3053\u3046\u306B\uFF63\uFF62\u6C7A\u6226\u7B2C\uFF13\u65B0\u4E2D\u6D32\u5DDD\u7AEF\uFF63\uFF62\u74DC\u306E\u9020\u308A\u3057\u9152\uFF63\uFF62\u30A2\u30B9\u30D6\u3001\u6765\u65E5\uFF63\uFF62\u958B\u5E97\u3001\u770B\u677F\u3001\u91CD\u306D\u3066\uFF63",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.movatwi.jp\" rel=\"nofollow\"\u003E\u30E2\u30D0\u30C4\u30A4 \/ www.movatwi.jp\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/erased63316.com\" rel=\"nofollow\"\u003Eerased63316\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6755,7 +7071,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -6834,7 +7150,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -6862,7 +7178,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -7037,168 +7353,21 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5E79\u4E8B\u7537",
-      "screen_name" : "kanji_man",
-      "indices" : [ 0, 10 ],
-      "id_str" : "56417997",
-      "id" : 56417997
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19809147392",
-  "geo" : { },
-  "id_str" : "19809176507",
-  "in_reply_to_user_id" : 56417997,
-  "text" : "@kanji_man \u304A\u75B2\u308C\u69D8\u306A\u306E\u3060\u305C",
-  "id" : 19809176507,
-  "in_reply_to_status_id" : 19809147392,
-  "created_at" : "2010-07-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kanji_man",
-  "in_reply_to_user_id_str" : "56417997",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u304B\u3044\u305F\u30FC\u30FC\u306A",
-      "screen_name" : "ZeroTiten",
-      "indices" : [ 6, 16 ],
-      "id_str" : "2904282133",
-      "id" : 2904282133
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19809417414",
-  "text" : "\u62E1\u6563RT: @zerotiten: \u3010\u81EA\u52D5POST\u3011\u590F\u4F11\u307F\u30D7\u30EC\u30BC\u30F3\u30C8\u4F01\u753B\u6C7A\u5B9A\uFF01\uFF08\u5024\u6BB5\u306B\u3088\u3063\u3066\u306F\u4E2D\u6B62\uFF57\u3010\u518D\u63B2\u8F09\u3011",
-  "id" : 19809417414,
-  "created_at" : "2010-07-29 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "twittie",
-      "screen_name" : "twittie_jp",
-      "indices" : [ 0, 11 ],
-      "id_str" : "51004609",
-      "id" : 51004609
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19810419791",
-  "in_reply_to_user_id" : 51004609,
-  "text" : "@twittie_jp \u5C11\u3057\u524D\u304B\u3089\u901A\u4FE1\u30A8\u30E9\u30FC\u304C\u767A\u751F\u3059\u308B\u306E\u3067\u3059\u304C\u3001\u3069\u3046\u3044\u3046\u4E8B\u3067\u3057\u3087\u3046\uFF1F",
-  "id" : 19810419791,
-  "created_at" : "2010-07-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "twittie_jp",
-  "in_reply_to_user_id_str" : "51004609",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u677E\u7530\u3000\u30A2\u30AD\u30CE\u30EA",
-      "screen_name" : "macchaanko",
-      "indices" : [ 12, 23 ],
-      "id_str" : "62466568",
-      "id" : 62466568
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19811196818",
-  "text" : "\u5730\u5143\u3058\u3083\u306D\u3047\u304B\uFF57RT: @macchaanko: \uFF3B\u7DCA\u6025\u544A\u77E5]\u91D1\u6CA2\u5E02\u5468\u8FBA\u3067\u5F53\u305F\u308A\u5C4B\u30B0\u30EB\u30FC\u30D7\u306B\u3088\u308B\u88AB\u5BB3\u304C\u7D9A\u51FA\u3057\u3066\u3044\u308B\u305D\u3046\u3067\u3059\u52E4\u52D9\u5148\u306B\u91D1\u6CA2\u5E02\u3088\u308A\uFF26\uFF21\uFF38\u304C\u6765\u307E\u3057\u305F\u78BA\u8A8D\u3055\u308C\u3066\u3044\u308B\u306E\u306F\u3010\u5C71\u53E3\u30FB\u95A2\u897F\u65B9\u9762\u306E\u30CA\u30F3\u30D0\u30FC\u3011\u3067\u5408\u8A0884\u53F0\u3060\u305D\u3046\u3067\u3059\u63A5\u89E6\u3057\u305F\u5834\u5408\u3001\u76F4\u3061\u306B\u8B66\u5BDF\u306B\u9023\u7D61\u3057\u3001\u7D76\u5BFE\u306B\u8B66\u5B98\u304C\u5230\u7740\u3059\u308B",
-  "id" : 19811196818,
-  "created_at" : "2010-07-29 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19811359128",
-  "text" : "why_tathibana\u3055\u3093\u306B\u5C4A\u3044\u305F\u82E6\u60C5\u2192\u3010\u30C4\u30A4\u30FC\u30C8\u304C\u3042\u308B\u305F\u3073\u306B\u3001\u3046\u3061\u306E\u72AC\u305F\u3061\u306E\u9060\u5420\u3048\u304C\u9177\u3044\u3002\u8FD1\u6240\u304B\u3089\u3082\u6587\u53E5\u8A00\u308F\u308C\u3066\u307E\u3059\u2026\uFF0F\u30D5\u30A9\u30ED\u30EF\u30FC\uFF23\u3055\u3093\u3011 http:\/\/shindanmaker.com\/35696  \u72AC\u300C\u3064\u3044\u3063\u305F\u30FC\u306A\u3046\u308F\u3093\uFF01\u300D",
-  "id" : 19811359128,
-  "created_at" : "2010-07-29 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3057\u3083\u308F\u6C70@\u898F\u5236\u57A2",
-      "screen_name" : "syawatan",
+      "name" : "monokiro",
+      "screen_name" : "monokiro",
       "indices" : [ 0, 9 ],
-      "id_str" : "1147707150",
-      "id" : 1147707150
+      "id_str" : "877053686",
+      "id" : 877053686
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "19811506710",
   "geo" : { },
-  "id_str" : "19811519019",
-  "in_reply_to_user_id" : 48647469,
-  "text" : "@syawatan (\u3000\uFF9F\u0434\uFF9F)",
-  "id" : 19811519019,
-  "in_reply_to_status_id" : 19811506710,
-  "created_at" : "2010-07-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "atochi1",
-  "in_reply_to_user_id_str" : "48647469",
+  "id_str" : "19757161741",
+  "text" : "@monokiro \u3046\u3080\u3002\u5E95\u738B\u304CTV\u51FA\u6F14\u3060\u3088\uFF57\uFF57",
+  "id" : 19757161741,
+  "created_at" : "2010-07-28 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -7212,33 +7381,48 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
-      "screen_name" : "ayaka_chicken",
-      "indices" : [ 0, 14 ],
-      "id_str" : "3322453124",
-      "id" : 3322453124
-    }, {
-      "name" : "\u30C9\u30E9\u30B4",
-      "screen_name" : "doragonism",
-      "indices" : [ 15, 26 ],
-      "id_str" : "119367267",
-      "id" : 119367267
-    }, {
-      "name" : "jujubell",
-      "screen_name" : "juju_bell",
-      "indices" : [ 27, 37 ],
-      "id_str" : "94965206",
-      "id" : 94965206
+      "name" : "test",
+      "screen_name" : "masimarokuma",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1929987068",
+      "id" : 1929987068
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19811883162",
-  "text" : "@Ayaka_chicken @doragonism @juju_bell @Johnny_nm7 \u3066\u3089\u3042\u308A\u30FC",
-  "id" : 19811883162,
-  "created_at" : "2010-07-29 00:00:00 +0000",
+  "id_str" : "19757661787",
+  "text" : "@masimarokuma \u304A\u3084\u3059\u30FC\uFF01",
+  "id" : 19757661787,
+  "created_at" : "2010-07-28 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19759102345",
+  "geo" : { },
+  "id_str" : "19759259886",
+  "in_reply_to_user_id" : 94287562,
+  "text" : "@kyou_ya0083 \u4EE5\u524D\u3042\u3063\u305F\u901A\u8A7155\u6642\u9593\u304C\u6700\u9577\u8A18\u9332",
+  "id" : 19759259886,
+  "in_reply_to_status_id" : 19759102345,
+  "created_at" : "2010-07-28 00:00:00 +0000",
+  "in_reply_to_screen_name" : "shaku_mkmkrn",
+  "in_reply_to_user_id_str" : "94287562",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -7257,10 +7441,114 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19781527689",
-  "text" : "\u304A\u306F\u3088\u3046\u3067\u3059",
-  "id" : 19781527689,
-  "created_at" : "2010-07-29 00:00:00 +0000",
+  "id_str" : "19760793488",
+  "text" : "\u30AB\u30A4\u3055\u3093\u304C\u898B\u3066\u305F\u30D1\u30EF\u30DD\u30B18\u306E\u51AC\u5B50\u30EB\u30FC\u30C8\u52D5\u753B\u307F\u304A\u308F\u3063\u305F\u3057\u5BDD\u3088\u3046\u305D\u3046\u3057\u3088\u3046",
+  "id" : 19760793488,
+  "created_at" : "2010-07-28 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twimi.jp\/?r=via\" rel=\"nofollow\"\u003Etwimi\u2606new\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u308A\u304D\u304A",
+      "screen_name" : "rikio0505",
+      "indices" : [ 0, 10 ],
+      "id_str" : "74137135",
+      "id" : 74137135
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19736636830",
+  "geo" : { },
+  "id_str" : "19736939691",
+  "in_reply_to_user_id" : 74137135,
+  "text" : "@rikio0505  55\u3068\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3001\u77E5\u540D\u5EA6\u304C\u5730\u57DF\u306B\u3088\u3063\u3066\u5FAE\u5999\u306B\u9055\u3046\u6C17\u304C\u3057\u307E\u3059",
+  "id" : 19736939691,
+  "in_reply_to_status_id" : 19736636830,
+  "created_at" : "2010-07-28 00:00:00 +0000",
+  "in_reply_to_screen_name" : "rikio0505",
+  "in_reply_to_user_id_str" : "74137135",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twimi.jp\/?r=via\" rel=\"nofollow\"\u003Etwimi\u2606new\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19737021868",
+  "text" : "@Johnny_nm7 \u3048\u3048\u3001\u4ED6\u306E\u3068\u306E\u9055\u3044\u3092\u898B\u3064\u3051\u3066\u4E0B\u3055\u3044w",
+  "id" : 19737021868,
+  "created_at" : "2010-07-28 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twimi.jp\/?r=via\" rel=\"nofollow\"\u003Etwimi\u2606new\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19737127248",
+  "text" : "\u3054\u3061\u305D\u3046\u3055\u307E\u3067\u3057\u305F\uFF01 http:\/\/p.twittie.jp\/Unqnq1",
+  "id" : 19737127248,
+  "created_at" : "2010-07-28 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19737959150",
+  "geo" : { },
+  "id_str" : "19738050426",
+  "in_reply_to_user_id" : 95460867,
+  "text" : "@kyui_pmpkn \u304D\u3086\u305F\u3093\u3061\u3085\u3063\u3061\u3085\u3000\u3042\u30681\u65E5\u3084\u308C\u3070\u3044\u3044\u3093\u3058\u3083\u306A\u3044\uFF1F",
+  "id" : 19738050426,
+  "in_reply_to_status_id" : 19737959150,
+  "created_at" : "2010-07-28 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kyuii_momonga",
+  "in_reply_to_user_id_str" : "95460867",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -7274,27 +7562,53 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liv",
-      "screen_name" : "AsakoSenpai",
-      "indices" : [ 0, 12 ],
-      "id_str" : "2764468667",
-      "id" : 2764468667
-    }, {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
-      "screen_name" : "ayaka_chicken",
-      "indices" : [ 13, 27 ],
-      "id_str" : "3322453124",
-      "id" : 3322453124
+      "name" : "\u308A\u3085\u3046",
+      "screen_name" : "ryuu_key",
+      "indices" : [ 0, 9 ],
+      "id_str" : "106477287",
+      "id" : 106477287
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "19737693195",
   "geo" : { },
-  "id_str" : "19781875103",
-  "text" : "@ASAkoSenpai @Ayaka_chicken \u3042\u306F\u306F\u30FC\uFF01",
-  "id" : 19781875103,
-  "created_at" : "2010-07-29 00:00:00 +0000",
+  "id_str" : "19738087547",
+  "in_reply_to_user_id" : 106477287,
+  "text" : "@ryuu_key wiki\u304C\u51FA\u6765\u308C\u3070\u305D\u308C\u3067\u3044\u3044\u3058\u3083\u306A\u3044\u304B",
+  "id" : 19738087547,
+  "in_reply_to_status_id" : 19737693195,
+  "created_at" : "2010-07-28 00:00:00 +0000",
+  "in_reply_to_screen_name" : "ryuu_key",
+  "in_reply_to_user_id_str" : "106477287",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19738139564",
+  "geo" : { },
+  "id_str" : "19739022894",
+  "in_reply_to_user_id" : 95460867,
+  "text" : "@kyui_pmpkn \u3044\u3084\u307E\u3041\u3001\u9023\u7D61\u4E8B\u9805\u3060\u3057\u3044\u3044\u3093\u3058\u3083\u306A\u3044\uFF1F\uFF57",
+  "id" : 19739022894,
+  "in_reply_to_status_id" : 19738139564,
+  "created_at" : "2010-07-28 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kyuii_momonga",
+  "in_reply_to_user_id_str" : "95460867",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -7308,21 +7622,44 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3046\u3055",
-      "screen_name" : "usa0926",
-      "indices" : [ 0, 8 ],
-      "id_str" : "1547624924",
-      "id" : 1547624924
+      "name" : "\u304F\u307E\u306E\u3059\u3051",
+      "screen_name" : "kumanosuke",
+      "indices" : [ 3, 14 ],
+      "id_str" : "14965263",
+      "id" : 14965263
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19781903010",
-  "text" : "@usa0926 \uFF5C\u30FB\u03C9\u30FB)\u3042\u3089\u3046\u3055\u30FC\u307F\u3067\u306F\u3042\u308A\u307E\u305B\u3093\u304B",
-  "id" : 19781903010,
-  "created_at" : "2010-07-29 00:00:00 +0000",
+  "id_str" : "19740180747",
+  "text" : "RT @kumanosuke: \u3064\u3044\u3063\u305F\u30FC\u3067\u3053\u306E\u4EBA\u5510\u7A81\u306B\u4F55\u3044\u3044\u3060\u3059\u306E\uFF1F\u3063\u3066\u601D\u3063\u3066\u308B\u3042\u306A\u305F\u3001\u30AD\u30E2\u304C\u3089\u306A\u3044\u3067\u304F\u3060\u3055\u3044\u3002\u305D\u306E\u4EBA\u305F\u3044\u3066\u3044\u3042\u306A\u305F\u306E\u77E5\u3089\u306A\u3044\u3069\u3053\u304B\u306E\u5225\u306ETL\u3092\u898B\u306A\u304C\u3089\u3064\u3076\u3084\u3044\u3066\u3044\u308B\u306E\u3067\u3059\u3002",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "19569407184",
+    "text" : "\u3064\u3044\u3063\u305F\u30FC\u3067\u3053\u306E\u4EBA\u5510\u7A81\u306B\u4F55\u3044\u3044\u3060\u3059\u306E\uFF1F\u3063\u3066\u601D\u3063\u3066\u308B\u3042\u306A\u305F\u3001\u30AD\u30E2\u304C\u3089\u306A\u3044\u3067\u304F\u3060\u3055\u3044\u3002\u305D\u306E\u4EBA\u305F\u3044\u3066\u3044\u3042\u306A\u305F\u306E\u77E5\u3089\u306A\u3044\u3069\u3053\u304B\u306E\u5225\u306ETL\u3092\u898B\u306A\u304C\u3089\u3064\u3076\u3084\u3044\u3066\u3044\u308B\u306E\u3067\u3059\u3002",
+    "id" : 19569407184,
+    "created_at" : "2010-07-26 12:25:28 +0000",
+    "user" : {
+      "name" : "\u304F\u307E\u306E\u3059\u3051",
+      "screen_name" : "kumanosuke",
+      "protected" : false,
+      "id_str" : "14965263",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3097492718\/c9d8b38ad8e633ec8f5b0a5771789f09_normal.jpeg",
+      "id" : 14965263,
+      "verified" : false
+    }
+  },
+  "id" : 19740180747,
+  "created_at" : "2010-07-28 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -7341,10 +7678,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19786249185",
-  "text" : "\u5E30\u5B85\u306A\u3046",
-  "id" : 19786249185,
-  "created_at" : "2010-07-29 00:00:00 +0000",
+  "id_str" : "19740215363",
+  "text" : "\u3055\u3066\u67D0\u30C1\u30E3\u306B\u6F5C\u5165\u3057\u305F\u3002\uFF3C\u8AB0\u3082\u3044\u306D\u3047\uFF01\uFF0F",
+  "id" : 19740215363,
+  "created_at" : "2010-07-28 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -7357,50 +7694,16 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3046\u3055",
-      "screen_name" : "usa0926",
-      "indices" : [ 0, 8 ],
-      "id_str" : "1547624924",
-      "id" : 1547624924
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19786275810",
-  "text" : "@usa0926 \u6211\u304C\u59B9\u3088\u3001\u4ECA\u65E5\u3082\u611B\u304F\u308B\u3057\u3044\u59FF\u3060\uFF5C\u30FB\u03C9\u30FB)",
-  "id" : 19786275810,
-  "created_at" : "2010-07-29 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
-      "screen_name" : "ayaka_chicken",
-      "indices" : [ 0, 14 ],
-      "id_str" : "3322453124",
-      "id" : 3322453124
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19786669078",
-  "text" : "@Ayaka_chicken \u03B5\uFF1D(\uFF89\uFF9F\u0434\uFF9F)\uFF89 \uFF80\uFF80\uFF9E\uFF72\uFF8F\uFF70",
-  "id" : 19786669078,
-  "created_at" : "2010-07-29 00:00:00 +0000",
+  "id_str" : "19740389420",
+  "text" : "\u30CB\u30B3\u751F\u306A\u3046\uFF01\u5F7C\u5973\u3068",
+  "id" : 19740389420,
+  "created_at" : "2010-07-28 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -7420,7 +7723,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "96357653",
       "id" : 96357653
     }, {
-      "name" : "\u7C73\u5009\u671B",
+      "name" : "\u7C73",
       "screen_name" : "Steiner02",
       "indices" : [ 11, 21 ],
       "id_str" : "101044478",
@@ -7475,7 +7778,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liv",
+      "name" : "\/\/",
       "screen_name" : "AsakoSenpai",
       "indices" : [ 24, 36 ],
       "id_str" : "2764468667",
@@ -7844,12 +8147,6 @@ Grailbird.data.tweets_2010_07 =
       "indices" : [ 3, 12 ],
       "id_str" : "1180951171",
       "id" : 1180951171
-    }, {
-      "name" : "\u3042\u304F\u3042",
-      "screen_name" : "aqua877",
-      "indices" : [ 90, 98 ],
-      "id_str" : "105078921",
-      "id" : 105078921
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7861,33 +8158,22 @@ Grailbird.data.tweets_2010_07 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"https:\/\/sites.google.com\/site\/tweentwitterclient\/\" rel=\"nofollow\"\u003ETween\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "\u3042\u304F\u3042",
-        "screen_name" : "aqua877",
-        "indices" : [ 76, 84 ],
-        "id_str" : "105078921",
-        "id" : 105078921
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "in_reply_to_status_id_str" : "19745164931",
     "geo" : { },
     "id_str" : "19745574069",
-    "in_reply_to_user_id" : 105078921,
     "text" : "\u8907\u7D20\u89E3\u6790\u306E\u7F8E\u3057\u3055\u304C\u5206\u304B\u308B\u4EBA\u9593\u306A\u3089 http:\/\/nico.ms\/sm9829050 \u6D41\u4F53\u529B\u5B66\u304C\u597D\u304D\u306A\u3089 http:\/\/bit.ly\/aM6072 QT @aqua877: \u8CA7\u4E73\u306E\u826F\u3055\u3092\u8AB0\u304B\u6559\u3048\u3066\u304F\u3060\u3055\u3044\u3002\u95A2\u6771\u5E73\u91CE\u3068\u304B\u5948\u826F\u76C6\u5730\u3092\u773A\u3081\u3066\u3066\u3082\u5168\u7136\u697D\u3057\u304F\u306A\u3044\u3093\u3067\u3059\u304C\u3002",
     "id" : 19745574069,
-    "in_reply_to_status_id" : 19745164931,
     "created_at" : "2010-07-28 14:40:06 +0000",
-    "in_reply_to_screen_name" : "aqua877",
-    "in_reply_to_user_id_str" : "105078921",
     "user" : {
       "name" : "\u76F8\u8EE2\u79FBP",
       "screen_name" : "phasetr",
       "protected" : false,
       "id_str" : "72528916",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/589451317149454337\/oC0MxNfm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/762149377200693248\/a7gdRpAY_normal.jpg",
       "id" : 72528916,
       "verified" : false
     }
@@ -7973,7 +8259,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -8090,13 +8376,13 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "163419958",
       "id" : 163419958
     }, {
-      "name" : "\u3058\u3085\u3093\u307A\u3044",
+      "name" : "\u3058\u3085\u3093\u307A\u3044@16\u6B73",
       "screen_name" : "motimrk2",
       "indices" : [ 89, 98 ],
       "id_str" : "113363046",
       "id" : 113363046
     }, {
-      "name" : "\u4F4E\u6D6E\u4E0A",
+      "name" : "Lupa@\u8AD6\u7834\u30CD\u30BF\u30D0\u30EC",
       "screen_name" : "lupamannara36",
       "indices" : [ 108, 122 ],
       "id_str" : "748421158945624064",
@@ -8582,7 +8868,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)",
+      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)\u306E\u30D5\u30EC\u30F3\u30BA",
       "screen_name" : "niconicokikka",
       "indices" : [ 0, 14 ],
       "id_str" : "36291433",
@@ -8634,111 +8920,6 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "monokiro",
-      "screen_name" : "monokiro",
-      "indices" : [ 0, 9 ],
-      "id_str" : "877053686",
-      "id" : 877053686
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19757161741",
-  "text" : "@monokiro \u3046\u3080\u3002\u5E95\u738B\u304CTV\u51FA\u6F14\u3060\u3088\uFF57\uFF57",
-  "id" : 19757161741,
-  "created_at" : "2010-07-28 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "test",
-      "screen_name" : "masimarokuma",
-      "indices" : [ 0, 13 ],
-      "id_str" : "1929987068",
-      "id" : 1929987068
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19757661787",
-  "text" : "@masimarokuma \u304A\u3084\u3059\u30FC\uFF01",
-  "id" : 19757661787,
-  "created_at" : "2010-07-28 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19759102345",
-  "geo" : { },
-  "id_str" : "19759259886",
-  "in_reply_to_user_id" : 94287562,
-  "text" : "@kyou_ya0083 \u4EE5\u524D\u3042\u3063\u305F\u901A\u8A7155\u6642\u9593\u304C\u6700\u9577\u8A18\u9332",
-  "id" : 19759259886,
-  "in_reply_to_status_id" : 19759102345,
-  "created_at" : "2010-07-28 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shaku_mkmkrn",
-  "in_reply_to_user_id_str" : "94287562",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19760793488",
-  "text" : "\u30AB\u30A4\u3055\u3093\u304C\u898B\u3066\u305F\u30D1\u30EF\u30DD\u30B18\u306E\u51AC\u5B50\u30EB\u30FC\u30C8\u52D5\u753B\u307F\u304A\u308F\u3063\u305F\u3057\u5BDD\u3088\u3046\u305D\u3046\u3057\u3088\u3046",
-  "id" : 19760793488,
-  "created_at" : "2010-07-28 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twimi.jp\/?r=via\" rel=\"nofollow\"\u003Etwimi\u2606new\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -8764,7 +8945,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
       "screen_name" : "erogewota",
       "indices" : [ 0, 10 ],
       "id_str" : "50268644",
@@ -8940,7 +9121,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u306E\u304C\u308F Jumping Heart",
+      "name" : "\u6298\u308C\u306A\u3044\u3064\u306E\u304C\u308F",
       "screen_name" : "angleriver",
       "indices" : [ 3, 14 ],
       "id_str" : "77215910",
@@ -8967,11 +9148,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19721558546,
     "created_at" : "2010-07-28 06:56:58 +0000",
     "user" : {
-      "name" : "\u3064\u306E\u304C\u308F Jumping Heart",
+      "name" : "\u6298\u308C\u306A\u3044\u3064\u306E\u304C\u308F",
       "screen_name" : "angleriver",
       "protected" : false,
       "id_str" : "77215910",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756864057601236993\/7WS4Ft8z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795966690483810304\/LkVg_fYE_normal.jpg",
       "id" : 77215910,
       "verified" : false
     }
@@ -9112,7 +9293,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twimi.jp\/?r=via\" rel=\"nofollow\"\u003Etwimi\u2606new\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -9422,40 +9603,7 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twimi.jp\/?r=via\" rel=\"nofollow\"\u003Etwimi\u2606new\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u304D\u304A",
-      "screen_name" : "rikio0505",
-      "indices" : [ 0, 10 ],
-      "id_str" : "74137135",
-      "id" : 74137135
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19736636830",
-  "geo" : { },
-  "id_str" : "19736939691",
-  "in_reply_to_user_id" : 74137135,
-  "text" : "@rikio0505  55\u3068\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3001\u77E5\u540D\u5EA6\u304C\u5730\u57DF\u306B\u3088\u3063\u3066\u5FAE\u5999\u306B\u9055\u3046\u6C17\u304C\u3057\u307E\u3059",
-  "id" : 19736939691,
-  "in_reply_to_status_id" : 19736636830,
-  "created_at" : "2010-07-28 00:00:00 +0000",
-  "in_reply_to_screen_name" : "rikio0505",
-  "in_reply_to_user_id_str" : "74137135",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twimi.jp\/?r=via\" rel=\"nofollow\"\u003Etwimi\u2606new\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9463,32 +9611,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19737021868",
-  "text" : "@Johnny_nm7 \u3048\u3048\u3001\u4ED6\u306E\u3068\u306E\u9055\u3044\u3092\u898B\u3064\u3051\u3066\u4E0B\u3055\u3044w",
-  "id" : 19737021868,
-  "created_at" : "2010-07-28 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twimi.jp\/?r=via\" rel=\"nofollow\"\u003Etwimi\u2606new\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19737127248",
-  "text" : "\u3054\u3061\u305D\u3046\u3055\u307E\u3067\u3057\u305F\uFF01 http:\/\/p.twittie.jp\/Unqnq1",
-  "id" : 19737127248,
-  "created_at" : "2010-07-28 00:00:00 +0000",
+  "id_str" : "19661913351",
+  "text" : "\u66F8\u304D\u8D77\u3053\u3057\u3084\u3063\u30688\u5272\u3050\u3089\u3044\u3060\u30FB\u30FB\u30FB\u3084\u306F\u308A\u9762\u5012\u3060\uFF57\uFF57",
+  "id" : 19661913351,
+  "created_at" : "2010-07-27 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -9506,14 +9632,14 @@ Grailbird.data.tweets_2010_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "19737959150",
+  "in_reply_to_status_id_str" : "19662033777",
   "geo" : { },
-  "id_str" : "19738050426",
+  "id_str" : "19662249840",
   "in_reply_to_user_id" : 95460867,
-  "text" : "@kyui_pmpkn \u304D\u3086\u305F\u3093\u3061\u3085\u3063\u3061\u3085\u3000\u3042\u30681\u65E5\u3084\u308C\u3070\u3044\u3044\u3093\u3058\u3083\u306A\u3044\uFF1F",
-  "id" : 19738050426,
-  "in_reply_to_status_id" : 19737959150,
-  "created_at" : "2010-07-28 00:00:00 +0000",
+  "text" : "@_pmpkn \u304A\u75B2\u308C\u3055\u3093\uFF57",
+  "id" : 19662249840,
+  "in_reply_to_status_id" : 19662033777,
+  "created_at" : "2010-07-27 00:00:00 +0000",
   "in_reply_to_screen_name" : "kyuii_momonga",
   "in_reply_to_user_id_str" : "95460867",
   "user" : {
@@ -9529,53 +9655,21 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u308A\u3085\u3046",
-      "screen_name" : "ryuu_key",
-      "indices" : [ 0, 9 ],
-      "id_str" : "106477287",
-      "id" : 106477287
+      "name" : "\u30C9\u30E9\u30B4",
+      "screen_name" : "doragonism",
+      "indices" : [ 6, 17 ],
+      "id_str" : "119367267",
+      "id" : 119367267
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "19737693195",
   "geo" : { },
-  "id_str" : "19738087547",
-  "in_reply_to_user_id" : 106477287,
-  "text" : "@ryuu_key wiki\u304C\u51FA\u6765\u308C\u3070\u305D\u308C\u3067\u3044\u3044\u3058\u3083\u306A\u3044\u304B",
-  "id" : 19738087547,
-  "in_reply_to_status_id" : 19737693195,
-  "created_at" : "2010-07-28 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ryuu_key",
-  "in_reply_to_user_id_str" : "106477287",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19738139564",
-  "geo" : { },
-  "id_str" : "19739022894",
-  "in_reply_to_user_id" : 95460867,
-  "text" : "@kyui_pmpkn \u3044\u3084\u307E\u3041\u3001\u9023\u7D61\u4E8B\u9805\u3060\u3057\u3044\u3044\u3093\u3058\u3083\u306A\u3044\uFF1F\uFF57",
-  "id" : 19739022894,
-  "in_reply_to_status_id" : 19738139564,
-  "created_at" : "2010-07-28 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kyuii_momonga",
-  "in_reply_to_user_id_str" : "95460867",
+  "id_str" : "19662866383",
+  "text" : "\u540C\u610FRT: @doragonism: \u30A8\u30B0\u30BC\u3067\u601D\u3044\u51FA\u3059\u306E\u306F\uFF16\u306E\u30C6\u30FC\u30DE\u3002",
+  "id" : 19662866383,
+  "created_at" : "2010-07-27 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -9589,21 +9683,49 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u304F\u307E\u306E\u3059\u3051",
-      "screen_name" : "kumanosuke",
-      "indices" : [ 3, 14 ],
-      "id_str" : "14965263",
-      "id" : 14965263
+      "name" : "\u30DF\u30F3\u30DF\u30F3@\u30B3\u30DF\u30B1\u304A\u75B2\u308C\u69D8\u3067\u3057\u305F",
+      "screen_name" : "linelinet",
+      "indices" : [ 8, 18 ],
+      "id_str" : "116694698",
+      "id" : 116694698
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19740180747",
-  "text" : "RT @kumanosuke: \u3064\u3044\u3063\u305F\u30FC\u3067\u3053\u306E\u4EBA\u5510\u7A81\u306B\u4F55\u3044\u3044\u3060\u3059\u306E\uFF1F\u3063\u3066\u601D\u3063\u3066\u308B\u3042\u306A\u305F\u3001\u30AD\u30E2\u304C\u3089\u306A\u3044\u3067\u304F\u3060\u3055\u3044\u3002\u305D\u306E\u4EBA\u305F\u3044\u3066\u3044\u3042\u306A\u305F\u306E\u77E5\u3089\u306A\u3044\u3069\u3053\u304B\u306E\u5225\u306ETL\u3092\u898B\u306A\u304C\u3089\u3064\u3076\u3084\u3044\u3066\u3044\u308B\u306E\u3067\u3059\u3002",
+  "id_str" : "19663552208",
+  "text" : "SorMRT: @linelinet: \u3010\u8CEA\u554F\u3011\u5973\u6027\u306B\u7D76\u5BFE\u306B\u805E\u3044\u3066\u306F\u3044\u3051\u306A\u3044\u3053\u3068",
+  "id" : 19663552208,
+  "created_at" : "2010-07-27 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Daisuke Seno",
+      "screen_name" : "sayno_923",
+      "indices" : [ 3, 13 ],
+      "id_str" : "72270554",
+      "id" : 72270554
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19664194528",
+  "text" : "RT @sayno_923: \u65E2\u8996\u611F\u306E\u591A\u3044\u4F5C\u54C1\u306F\u3001\u5927\u6210\u529F\u3057\u306A\u3044\u3002\u4E8C\u6B21\u4F53\u9A13\u306F\u4E00\u6B21\u4F53\u9A13\u306B\u3042\u3089\u3086\u308B\u9762\u3067\u52DD\u3066\u306A\u3044\u304B\u3089\u3002\u6210\u529F\u4F8B\u3092\u8FFD\u3044\u304C\u3061\u306A\u4F5C\u308A\u624B\u306F\u610F\u8B58\u3059\u3079\u304D\u3053\u3068\u3060\u3068\u601D\u3044\u307E\u3059\u3002",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -9611,22 +9733,55 @@ Grailbird.data.tweets_2010_07 =
       "urls" : [ ]
     },
     "geo" : { },
-    "id_str" : "19569407184",
-    "text" : "\u3064\u3044\u3063\u305F\u30FC\u3067\u3053\u306E\u4EBA\u5510\u7A81\u306B\u4F55\u3044\u3044\u3060\u3059\u306E\uFF1F\u3063\u3066\u601D\u3063\u3066\u308B\u3042\u306A\u305F\u3001\u30AD\u30E2\u304C\u3089\u306A\u3044\u3067\u304F\u3060\u3055\u3044\u3002\u305D\u306E\u4EBA\u305F\u3044\u3066\u3044\u3042\u306A\u305F\u306E\u77E5\u3089\u306A\u3044\u3069\u3053\u304B\u306E\u5225\u306ETL\u3092\u898B\u306A\u304C\u3089\u3064\u3076\u3084\u3044\u3066\u3044\u308B\u306E\u3067\u3059\u3002",
-    "id" : 19569407184,
-    "created_at" : "2010-07-26 12:25:28 +0000",
+    "id_str" : "19663815291",
+    "text" : "\u65E2\u8996\u611F\u306E\u591A\u3044\u4F5C\u54C1\u306F\u3001\u5927\u6210\u529F\u3057\u306A\u3044\u3002\u4E8C\u6B21\u4F53\u9A13\u306F\u4E00\u6B21\u4F53\u9A13\u306B\u3042\u3089\u3086\u308B\u9762\u3067\u52DD\u3066\u306A\u3044\u304B\u3089\u3002\u6210\u529F\u4F8B\u3092\u8FFD\u3044\u304C\u3061\u306A\u4F5C\u308A\u624B\u306F\u610F\u8B58\u3059\u3079\u304D\u3053\u3068\u3060\u3068\u601D\u3044\u307E\u3059\u3002",
+    "id" : 19663815291,
+    "created_at" : "2010-07-27 15:10:03 +0000",
     "user" : {
-      "name" : "\u304F\u307E\u306E\u3059\u3051",
-      "screen_name" : "kumanosuke",
+      "name" : "Daisuke Seno",
+      "screen_name" : "sayno_923",
       "protected" : false,
-      "id_str" : "14965263",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3097492718\/c9d8b38ad8e633ec8f5b0a5771789f09_normal.jpeg",
-      "id" : 14965263,
+      "id_str" : "72270554",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730379385350414336\/zq3rOHgA_normal.jpg",
+      "id" : 72270554,
       "verified" : false
     }
   },
-  "id" : 19740180747,
-  "created_at" : "2010-07-28 00:00:00 +0000",
+  "id" : 19664194528,
+  "created_at" : "2010-07-27 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u795E\u4E3B\u3042\u3093\u3071\u3093",
+      "screen_name" : "kannusiAP",
+      "indices" : [ 0, 10 ],
+      "id_str" : "101756063",
+      "id" : 101756063
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19664029081",
+  "geo" : { },
+  "id_str" : "19664200549",
+  "in_reply_to_user_id" : 101756063,
+  "text" : "@kannusiAP \u304A\u304B\u304B\u30FC",
+  "id" : 19664200549,
+  "in_reply_to_status_id" : 19664029081,
+  "created_at" : "2010-07-27 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kannusiAP",
+  "in_reply_to_user_id_str" : "101756063",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -9645,10 +9800,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19740215363",
-  "text" : "\u3055\u3066\u67D0\u30C1\u30E3\u306B\u6F5C\u5165\u3057\u305F\u3002\uFF3C\u8AB0\u3082\u3044\u306D\u3047\uFF01\uFF0F",
-  "id" : 19740215363,
-  "created_at" : "2010-07-28 00:00:00 +0000",
+  "id_str" : "19664227245",
+  "text" : "@coill929 \u3048\u3063\u306A\u306B\u306A\u306B\u3069\u3046\u3044\u3046\u610F\u5473\uFF1F",
+  "id" : 19664227245,
+  "created_at" : "2010-07-27 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -9667,10 +9822,65 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19740389420",
-  "text" : "\u30CB\u30B3\u751F\u306A\u3046\uFF01\u5F7C\u5973\u3068",
-  "id" : 19740389420,
-  "created_at" : "2010-07-28 00:00:00 +0000",
+  "id_str" : "19664444784",
+  "text" : "@coill929 \u305D\u308C\u3063\u3066\u30DB\u30F3\u30C8\u306B\u5730\u58F0\uFF1F\u3063\u3066\u3084\u3064",
+  "id" : 19664444784,
+  "created_at" : "2010-07-27 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "asli",
+      "screen_name" : "aslite",
+      "indices" : [ 0, 7 ],
+      "id_str" : "333348256",
+      "id" : 333348256
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19664497645",
+  "geo" : { },
+  "id_str" : "19664614799",
+  "in_reply_to_user_id" : 97555953,
+  "text" : "@aslite \u304A\u3084\u3059\u307F\u306A\u3055\u3044\u307E\u3057",
+  "id" : 19664614799,
+  "in_reply_to_status_id" : 19664497645,
+  "created_at" : "2010-07-27 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Sorairo_as",
+  "in_reply_to_user_id_str" : "97555953",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19664691558",
+  "text" : "\u3084\u3063\u3068\u66F8\u304D\u8D77\u3053\u3057\u7D42\u4E86\uFF01\u3064\u304B\u3063\u308C\u305F\uFF01\uFF57",
+  "id" : 19664691558,
+  "created_at" : "2010-07-27 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -10032,11 +10242,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19671277112,
     "created_at" : "2010-07-27 16:56:25 +0000",
     "user" : {
-      "name" : "\u3055\u3068\u3053",
+      "name" : "3105\u266111\/26.27\u30DF\u30CB\u30E9\u30A4\u30D6",
       "screen_name" : "3105_satoko",
       "protected" : false,
       "id_str" : "109654553",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753654303798140928\/Fj6BxSQJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/801042693237317632\/Ci6SJL_7_normal.jpg",
       "id" : 109654553,
       "verified" : false
     }
@@ -10062,7 +10272,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "127789298",
       "id" : 127789298
     }, {
-      "name" : "\uFF4D\uFF4D\uFF4D",
+      "name" : "\uFF4D\uFF4D\uFF4D \u22C8 \u3082\u3082\u307F",
       "screen_name" : "mo_mmm",
       "indices" : [ 22, 29 ],
       "id_str" : "61575876",
@@ -10079,7 +10289,7 @@ Grailbird.data.tweets_2010_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\uFF4D\uFF4D\uFF4D",
+        "name" : "\uFF4D\uFF4D\uFF4D \u22C8 \u3082\u3082\u307F",
         "screen_name" : "mo_mmm",
         "indices" : [ 3, 10 ],
         "id_str" : "61575876",
@@ -10119,7 +10329,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30DF\u30F3\u30DF\u30F3\u30BC\u30DF\u3055\u3093\u30C1\u30FC\u30E0",
+      "name" : "\u30DF\u30F3\u30DF\u30F3@\u30B3\u30DF\u30B1\u304A\u75B2\u308C\u69D8\u3067\u3057\u305F",
       "screen_name" : "linelinet",
       "indices" : [ 0, 10 ],
       "id_str" : "116694698",
@@ -10139,6 +10349,301 @@ Grailbird.data.tweets_2010_07 =
   "created_at" : "2010-07-27 00:00:00 +0000",
   "in_reply_to_screen_name" : "linelinet",
   "in_reply_to_user_id_str" : "116694698",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19626420035",
+  "text" : "\u3010\u6025\u52DF\u3011\u30A2\u30DE\u30AC\u30DForKanonorAIRorONE  \u81E8\u6642\u53CE\u5165\u5165\u3063\u305F\u3068\u306F\u3044\u3048\u30FB\u30FB\u30FB\u3046\u30FC\u3093",
+  "id" : 19626420035,
+  "created_at" : "2010-07-27 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30C9\u30E9\u30B4",
+      "screen_name" : "doragonism",
+      "indices" : [ 26, 37 ],
+      "id_str" : "119367267",
+      "id" : 119367267
+    }, {
+      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
+      "screen_name" : "why_tathibana",
+      "indices" : [ 62, 76 ],
+      "id_str" : "262494533",
+      "id" : 262494533
+    }, {
+      "name" : "\u30C9\u30E9\u30B4",
+      "screen_name" : "doragonism",
+      "indices" : [ 96, 107 ],
+      "id_str" : "119367267",
+      "id" : 119367267
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19626649521",
+  "text" : "\uFF77\uFF9E\uFF78\uFF6F\u3000\u305D\u3001\u305D\u3093\u306A\u3053\u3068\u306A\u3044\u3088\uFF01\uFF76\uFF9E\uFF80\uFF76\uFF9E\uFF80RT: @doragonism: \u30A2\u30DE\u30AC\u30DF\u597D\u304D\u306B\u7D14\u60C5\u306A\u5974\u306A\u3093\u304B\u3044\u306D\u30FC\u3088\uFF01\u3000RT @why_tathibana    \u8A02\u6B63\u3001\u7D14\u60C5\u306A\u30A2\u30DE\u30AC\u30DF\u597D\u304DRT: @doragonism: \u305D\u3082\u305D\u3082\u7D14\u60C5\u306A\u5C11\u5E74\u306F\u30A2\u30DE\u30AC\u30DF\u306E\u30A2\u30F3\u30BD\u30ED\u3092\u6C42\u3081\u305F\u308A\u3057\u306A\u3044\u3000RT",
+  "id" : 19626649521,
+  "created_at" : "2010-07-27 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19626942316",
+  "text" : "\u5965\u83EF\u5B50CM\u304B\u306A\u308A\u6709\u540D\u6240\u3067\u3066\u3093\u3060\u306A\uFF57\uFF57",
+  "id" : 19626942316,
+  "created_at" : "2010-07-27 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"erased_81836\" rel=\"nofollow\"\u003Eerased_81836\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19627179648",
+  "text" : "akito\u5FA9\u5E30\uFF57\uFF57\uFF57\uFF57\u3057\u304B\u3082\u3053\u308C\u3067\uFF57\uFF57\uFF57\uFF57 - \u898B\u3066\u308B\u306A\u3046: \u5965\u83EF\u5B50\u3055\u3093CM\u3092\u30CA\u30EC\u30FC\u30B7\u30E7\u30F3\u3057\u3066\u307F\u305F \/ akito\u2010\u30CB\u30B3\u30CB\u30B3\u52D5\u753B(9) - http:\/\/j.mp\/abgPPO",
+  "id" : 19627179648,
+  "created_at" : "2010-07-27 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u0627\u0644\u0639\u0635\u0641\u0648\u0631 \u0644\u0627\u0631\u064A ",
+      "screen_name" : "d4_ss",
+      "indices" : [ 0, 6 ],
+      "id_str" : "2503830129",
+      "id" : 2503830129
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19628102383",
+  "text" : "@D4_SS \u305D\u308C\u306F\u3042\u308A\u304C\u305F\u3044\uFF57\u3000\u3053\u308C\u304B\u3082\u3088\u308D\u3057\u304F\u3067\u3059",
+  "id" : 19628102383,
+  "created_at" : "2010-07-27 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u5E78\u97F3\u30D9\u30CB",
+      "screen_name" : "sachine_beni",
+      "indices" : [ 3, 16 ],
+      "id_str" : "112709714",
+      "id" : 112709714
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19628462070",
+  "text" : "RT @sachine_beni: \u79C1\u304C\u6B4C\u3063\u3066\u308B\u52D5\u753B \u89B3\u3066\u306D\u30FC\uFF01 http:\/\/nico.ms\/sm7628863",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twittbot.net\/\" rel=\"nofollow\"\u003Etwittbot.net\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "19628279403",
+    "text" : "\u79C1\u304C\u6B4C\u3063\u3066\u308B\u52D5\u753B \u89B3\u3066\u306D\u30FC\uFF01 http:\/\/nico.ms\/sm7628863",
+    "id" : 19628279403,
+    "created_at" : "2010-07-27 04:01:36 +0000",
+    "user" : {
+      "name" : "\u5E78\u97F3\u30D9\u30CB",
+      "screen_name" : "sachine_beni",
+      "protected" : false,
+      "id_str" : "112709714",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1276730662\/sachine_be_normal.png",
+      "id" : 112709714,
+      "verified" : false
+    }
+  },
+  "id" : 19628462070,
+  "created_at" : "2010-07-27 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19628534129",
+  "text" : "RT: @Johnny_nm7: RT @wilhelm_casper3: \u30DE\u30AF\u30C9\u3063\u3066\u9B54\u6027\u306E\u30AF\u30C9\u30EA\u30E3\u30D5\u30AB\u306E\u7565\u3067\u3059\u304B",
+  "id" : 19628534129,
+  "created_at" : "2010-07-27 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"erased_81836\" rel=\"nofollow\"\u003Eerased_81836\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19628865241",
+  "text" : "\u30E9\u30D0\u30FC\u30BA\u7D44\u306F\u307B\u307C\u7DCF\u3058\u3066\u30AC\u30C1\u306A\u306E\u304B\u30FC - \u898B\u3066\u308B\u306A\u3046: \u30BF\u30B0\u3067\u52D5\u753B\u691C\u7D22 \u5965\u83EF\u5B50\u30CA\u30EC\u30FC\u30B7\u30E7\u30F3\u30B3\u30F3\u30C6\u30B9\u30C8\u2010\u30CB\u30B3\u30CB\u30B3\u52D5\u753B(9) - http:\/\/j.mp\/ccJ8vF",
+  "id" : 19628865241,
+  "created_at" : "2010-07-27 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19631854998",
+  "text" : "\u4FFA\u306Etxt\u3092\u307E\u3068\u3081\u3066\u3044\u308B\u30D5\u30A9\u30EB\u30C0\u540D\u306F\u300C\u97F3\u697D\u300D\u3067\u3059\u3002",
+  "id" : 19631854998,
+  "created_at" : "2010-07-27 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"erased_81836\" rel=\"nofollow\"\u003Eerased_81836\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19632020856",
+  "text" : "\u5225\u306B\u666E\u901A\u306B\u3044\u3044\u58F0\u304C\u6B4C\u3063\u3066\u308B\u3068\u3044\u3046\u611F\u3058\u3002\u3053\u3053\u307E\u3067\u306E\u4FE1\u8005\u306F\u4E45\u3057\u3076\u308A\u306B\u307F\u305F\u306A\u3041\u3002 - \u898B\u3066\u308B\u306A\u3046: \u3048\uFF1F\u3042\u3041\u3001\u305D\u3046\u3002ver.\u2020\u5239\u90A3\u2020\u2010\u30CB\u30B3\u30CB\u30B3\u52D5\u753B(9) - http:\/\/j.mp\/9oOokS",
+  "id" : 19632020856,
+  "created_at" : "2010-07-27 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"erased_81836\" rel=\"nofollow\"\u003Eerased_81836\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19632145512",
+  "text" : "\u3053\u306E\u4EA4\u6D41\u306E\u3042\u308B\u6B4C\u3044\u624B\u3063\u3066\u30AC\u30C1\u306A\u3093\u3060\u308D\u3046\u304B\u30FB\u30FB\u30FB\uFF1F\u306A\u3093\u304B\u591A\u3059\u304E\u3066\u80E1\u6563\u81ED\u3044\u3068\u601D\u3046\u306E\u306F\u4FFA\u3060\u3051\uFF1F - \u898B\u3066\u308B\u306A\u3046: \u2020\u5239\u90A3\u2020\u3068\u306F (\u30BB\u30C4\u30CA\u3068\u306F) - \u30CB\u30B3\u30CB\u30B3\u5927\u767E\u79D1 - http:\/\/j.mp\/aBGu1M",
+  "id" : 19632145512,
+  "created_at" : "2010-07-27 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -10271,7 +10776,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "nojiri_h",
       "protected" : false,
       "id_str" : "15204557",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1266786320\/_______normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/834350912864821248\/1J8xNxMM_normal.jpg",
       "id" : 15204557,
       "verified" : false
     }
@@ -10388,7 +10893,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "119367267",
       "id" : 119367267
     }, {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 12, 24 ],
       "id_str" : "99437114",
@@ -10517,7 +11022,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30DF\u30F3\u30DF\u30F3\u30BC\u30DF\u3055\u3093\u30C1\u30FC\u30E0",
+      "name" : "\u30DF\u30F3\u30DF\u30F3@\u30B3\u30DF\u30B1\u304A\u75B2\u308C\u69D8\u3067\u3057\u305F",
       "screen_name" : "linelinet",
       "indices" : [ 7, 17 ],
       "id_str" : "116694698",
@@ -10594,7 +11099,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "kazusa12",
       "protected" : false,
       "id_str" : "72477647",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742075317263564804\/bAA54MIp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833248266003238912\/wwUAmkf1_normal.jpg",
       "id" : 72477647,
       "verified" : false
     }
@@ -10672,7 +11177,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "yuiharu_193_37",
       "protected" : false,
       "id_str" : "81286802",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747141894816227328\/tSj8MmRc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829772350551842816\/1_cX4v4v_normal.jpg",
       "id" : 81286802,
       "verified" : false
     }
@@ -11375,294 +11880,6 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19661913351",
-  "text" : "\u66F8\u304D\u8D77\u3053\u3057\u3084\u3063\u30688\u5272\u3050\u3089\u3044\u3060\u30FB\u30FB\u30FB\u3084\u306F\u308A\u9762\u5012\u3060\uFF57\uFF57",
-  "id" : 19661913351,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19662033777",
-  "geo" : { },
-  "id_str" : "19662249840",
-  "in_reply_to_user_id" : 95460867,
-  "text" : "@_pmpkn \u304A\u75B2\u308C\u3055\u3093\uFF57",
-  "id" : 19662249840,
-  "in_reply_to_status_id" : 19662033777,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kyuii_momonga",
-  "in_reply_to_user_id_str" : "95460867",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30C9\u30E9\u30B4",
-      "screen_name" : "doragonism",
-      "indices" : [ 6, 17 ],
-      "id_str" : "119367267",
-      "id" : 119367267
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19662866383",
-  "text" : "\u540C\u610FRT: @doragonism: \u30A8\u30B0\u30BC\u3067\u601D\u3044\u51FA\u3059\u306E\u306F\uFF16\u306E\u30C6\u30FC\u30DE\u3002",
-  "id" : 19662866383,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30DF\u30F3\u30DF\u30F3\u30BC\u30DF\u3055\u3093\u30C1\u30FC\u30E0",
-      "screen_name" : "linelinet",
-      "indices" : [ 8, 18 ],
-      "id_str" : "116694698",
-      "id" : 116694698
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19663552208",
-  "text" : "SorMRT: @linelinet: \u3010\u8CEA\u554F\u3011\u5973\u6027\u306B\u7D76\u5BFE\u306B\u805E\u3044\u3066\u306F\u3044\u3051\u306A\u3044\u3053\u3068",
-  "id" : 19663552208,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daisuke Seno",
-      "screen_name" : "sayno_923",
-      "indices" : [ 3, 13 ],
-      "id_str" : "72270554",
-      "id" : 72270554
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19664194528",
-  "text" : "RT @sayno_923: \u65E2\u8996\u611F\u306E\u591A\u3044\u4F5C\u54C1\u306F\u3001\u5927\u6210\u529F\u3057\u306A\u3044\u3002\u4E8C\u6B21\u4F53\u9A13\u306F\u4E00\u6B21\u4F53\u9A13\u306B\u3042\u3089\u3086\u308B\u9762\u3067\u52DD\u3066\u306A\u3044\u304B\u3089\u3002\u6210\u529F\u4F8B\u3092\u8FFD\u3044\u304C\u3061\u306A\u4F5C\u308A\u624B\u306F\u610F\u8B58\u3059\u3079\u304D\u3053\u3068\u3060\u3068\u601D\u3044\u307E\u3059\u3002",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.nibirutech.com\" rel=\"nofollow\"\u003ETwitBird\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "19663815291",
-    "text" : "\u65E2\u8996\u611F\u306E\u591A\u3044\u4F5C\u54C1\u306F\u3001\u5927\u6210\u529F\u3057\u306A\u3044\u3002\u4E8C\u6B21\u4F53\u9A13\u306F\u4E00\u6B21\u4F53\u9A13\u306B\u3042\u3089\u3086\u308B\u9762\u3067\u52DD\u3066\u306A\u3044\u304B\u3089\u3002\u6210\u529F\u4F8B\u3092\u8FFD\u3044\u304C\u3061\u306A\u4F5C\u308A\u624B\u306F\u610F\u8B58\u3059\u3079\u304D\u3053\u3068\u3060\u3068\u601D\u3044\u307E\u3059\u3002",
-    "id" : 19663815291,
-    "created_at" : "2010-07-27 15:10:03 +0000",
-    "user" : {
-      "name" : "Daisuke Seno",
-      "screen_name" : "sayno_923",
-      "protected" : false,
-      "id_str" : "72270554",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730379385350414336\/zq3rOHgA_normal.jpg",
-      "id" : 72270554,
-      "verified" : false
-    }
-  },
-  "id" : 19664194528,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u795E\u4E3B\u3042\u3093\u3071\u3093",
-      "screen_name" : "kannusiAP",
-      "indices" : [ 0, 10 ],
-      "id_str" : "101756063",
-      "id" : 101756063
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19664029081",
-  "geo" : { },
-  "id_str" : "19664200549",
-  "in_reply_to_user_id" : 101756063,
-  "text" : "@kannusiAP \u304A\u304B\u304B\u30FC",
-  "id" : 19664200549,
-  "in_reply_to_status_id" : 19664029081,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kannusiAP",
-  "in_reply_to_user_id_str" : "101756063",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19664227245",
-  "text" : "@coill929 \u3048\u3063\u306A\u306B\u306A\u306B\u3069\u3046\u3044\u3046\u610F\u5473\uFF1F",
-  "id" : 19664227245,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19664444784",
-  "text" : "@coill929 \u305D\u308C\u3063\u3066\u30DB\u30F3\u30C8\u306B\u5730\u58F0\uFF1F\u3063\u3066\u3084\u3064",
-  "id" : 19664444784,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "asli",
-      "screen_name" : "aslite",
-      "indices" : [ 0, 7 ],
-      "id_str" : "333348256",
-      "id" : 333348256
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19664497645",
-  "geo" : { },
-  "id_str" : "19664614799",
-  "in_reply_to_user_id" : 97555953,
-  "text" : "@aslite \u304A\u3084\u3059\u307F\u306A\u3055\u3044\u307E\u3057",
-  "id" : 19664614799,
-  "in_reply_to_status_id" : 19664497645,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Sorairo_as",
-  "in_reply_to_user_id_str" : "97555953",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19664691558",
-  "text" : "\u3084\u3063\u3068\u66F8\u304D\u8D77\u3053\u3057\u7D42\u4E86\uFF01\u3064\u304B\u3063\u308C\u305F\uFF01\uFF57",
-  "id" : 19664691558,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "19619110648",
   "text" : "\u3080\u304F\u308A",
   "id" : 19619110648,
@@ -11985,10 +12202,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19626420035",
-  "text" : "\u3010\u6025\u52DF\u3011\u30A2\u30DE\u30AC\u30DForKanonorAIRorONE  \u81E8\u6642\u53CE\u5165\u5165\u3063\u305F\u3068\u306F\u3044\u3048\u30FB\u30FB\u30FB\u3046\u30FC\u3093",
-  "id" : 19626420035,
-  "created_at" : "2010-07-27 00:00:00 +0000",
+  "id_str" : "19537266574",
+  "text" : "\u6B6F\u533B\u8005\u3088\u308A\u5E30\u5B85",
+  "id" : 19537266574,
+  "created_at" : "2010-07-26 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -12000,268 +12217,283 @@ Grailbird.data.tweets_2010_07 =
   }
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19538320740",
+  "text" : "@Johnny_nm7 \u305F\u3060\u307E\u30FC",
+  "id" : 19538320740,
+  "created_at" : "2010-07-26 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19538743289",
+  "text" : "\u305D\u3057\u3066\u307E\u305F\u304A\u51FA\u304B\u3051\u3060\u3088\uFF01",
+  "id" : 19538743289,
+  "created_at" : "2010-07-26 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
+      "screen_name" : "erogewota",
+      "indices" : [ 4, 14 ],
+      "id_str" : "50268644",
+      "id" : 50268644
+    }, {
+      "name" : "\u6065P",
+      "screen_name" : "peke_hajiP",
+      "indices" : [ 19, 30 ],
+      "id_str" : "71534297",
+      "id" : 71534297
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19550497418",
+  "text" : "RT: @erogewota: RT @peke_hajiP: \u3010\u304A\u846C\u5F0F\u3067\u9CF4\u3063\u305F\u3089\u307E\u305A\u3044\u7740\u3046\u305F\u30E9\u30F3\u30AD\u30F3\u30B0\u3011\u25CF3\u4F4D\u30EA\u30A2\u5145\u7206\u767A\u3057\u308D\u25CF2\u4F4D\u307C\u304B\u3089\u3093\u8A50\u6B3A\u25CF1\u4F4D\u30AA\u30DE\u30FC\u30F3\u6E56",
+  "id" : 19550497418,
+  "created_at" : "2010-07-26 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u304B\u3044\u305F\u30FC\u30FC\u306A",
+      "screen_name" : "ZeroTiten",
+      "indices" : [ 4, 14 ],
+      "id_str" : "2904282133",
+      "id" : 2904282133
+    }, {
+      "name" : "\u306A\u306A\u3057",
+      "screen_name" : "5Ksf",
+      "indices" : [ 37, 42 ],
+      "id_str" : "1578563252",
+      "id" : 1578563252
+    }, {
+      "name" : "\u0410\u043D\u044F",
+      "screen_name" : "akasata_ccs",
+      "indices" : [ 46, 58 ],
+      "id_str" : "108618541",
+      "id" : 108618541
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19551002522",
+  "text" : "RT: @zerotiten: RT: @memgmgmgmgm: RT @5KSF RT @akasata_ccs: \u3010\u62E1\u6563\u3011\u30A2\u30A4\u30B3\u30F3\u5909\u3048\u308C\u307E\u3059",
+  "id" : 19551002522,
+  "created_at" : "2010-07-26 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u306A\u306A\u3072\u3089",
+      "screen_name" : "nanahira",
+      "indices" : [ 15, 24 ],
+      "id_str" : "231926590",
+      "id" : 231926590
+    }, {
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
+      "screen_name" : "erogewota",
+      "indices" : [ 26, 36 ],
+      "id_str" : "50268644",
+      "id" : 50268644
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19551461846",
+  "text" : "\u3042\u308A\u304C\u305F\u304F\u3044\u305F\u3060\u304F\u3088\uFF01RT: @nanahira: @erogewota \u306A\u306A\u3072\u3089\u306E\u3079\u305F\u3079\u305F\u6C41\uFF08\u6C57\uFF09\u3064\u304D\u3000\u30A4\u30E9\u30CD\uFF01",
+  "id" : 19551461846,
+  "created_at" : "2010-07-26 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30DF\u30F3\u30DF\u30F3@\u30B3\u30DF\u30B1\u304A\u75B2\u308C\u69D8\u3067\u3057\u305F",
+      "screen_name" : "linelinet",
+      "indices" : [ 0, 10 ],
+      "id_str" : "116694698",
+      "id" : 116694698
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19551784840",
+  "geo" : { },
+  "id_str" : "19551883988",
+  "in_reply_to_user_id" : 116694698,
+  "text" : "@linelinet \u306A\u3093\u3068\u3044\u3046\u304B\u30FB\u30FB\u30FB\u4F0F\u7DDA\u3092\u56DE\u53CE\u3057\u304D\u308C\u3066\u306A\u3044\u611F\u306F\u3042\u308A\u307E\u3057\u305F\u306D\u3002\u300C\u3053\u308C\u306F\u4E00\u4F53\u3069\u3046\u3044\u3046\u4E8B\u306A\u3093\u3060\uFF1F\u300D\u307F\u305F\u3044\u306A\u306E\u304C\u591A\u304F\u3042\u3063\u3066\u3001\u305D\u308C\u304C\u89E3\u6C7A\u3059\u308B\u524D\u306B\u7D42\u4E86\u3059\u308B\u3093\u3067\u3059\u3088\u3002\u3053\u3053\u304B\u3089\u7D9A\u304F\u306E\u306A\u3089\u9762\u767D\u3044\u3068\u81EA\u5206\u306F\u601D\u3046\u3093\u3067\u3059\u304C\u306D\u3047",
+  "id" : 19551883988,
+  "in_reply_to_status_id" : 19551784840,
+  "created_at" : "2010-07-26 00:00:00 +0000",
+  "in_reply_to_screen_name" : "linelinet",
+  "in_reply_to_user_id_str" : "116694698",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19568801481",
+  "text" : "\u5E30\u5B85\uFF01\u4ECA\u65E5\u306F\u4E45\u3005\u306B\u6B4C\u5531\u306A\u3046\u304B\u3082",
+  "id" : 19568801481,
+  "created_at" : "2010-07-26 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19569274922",
+  "text" : "\u4ECA\u65E5\u306F\u4E11\u306E\u65E5\u3002\u5B9F\u306F\u9C3B\u306E\u65EC\u3067\u306F\u3042\u308A\u307E\u305B\u3093\u3002\u305D\u306E\u6614\u3001\u6804\u990A\u4FA1\u306E\u9AD8\u3044\u9C3B\u3092\u65EC\u3058\u3083\u306A\u3044\u304B\u3089\u3068\u3044\u3063\u3066\u7686\u98DF\u3079\u305A\u3001\u305D\u308C\u3092\u898B\u304B\u306D\u305F\u9818\u4E3B\u304C\u4E11\u306E\u65E5\u3092\u89E6\u308C\u56DE\u3063\u305F\u306E\u304C\u306F\u3058\u307E\u308A\u3002",
+  "id" : 19569274922,
+  "created_at" : "2010-07-26 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19569312582",
+  "text" : "\u78BA\u304B\u3053\u308C\u3067\u3042\u3063\u3066\u308B\u306F\u305A",
+  "id" : 19569312582,
+  "created_at" : "2010-07-26 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u30C9\u30E9\u30B4",
       "screen_name" : "doragonism",
-      "indices" : [ 26, 37 ],
+      "indices" : [ 13, 24 ],
       "id_str" : "119367267",
       "id" : 119367267
     }, {
-      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
-      "screen_name" : "why_tathibana",
-      "indices" : [ 62, 76 ],
-      "id_str" : "262494533",
-      "id" : 262494533
-    }, {
-      "name" : "\u30C9\u30E9\u30B4",
-      "screen_name" : "doragonism",
-      "indices" : [ 96, 107 ],
-      "id_str" : "119367267",
-      "id" : 119367267
+      "name" : "\u308A\u304D\u304A",
+      "screen_name" : "rikio0505",
+      "indices" : [ 25, 35 ],
+      "id_str" : "74137135",
+      "id" : 74137135
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19626649521",
-  "text" : "\uFF77\uFF9E\uFF78\uFF6F\u3000\u305D\u3001\u305D\u3093\u306A\u3053\u3068\u306A\u3044\u3088\uFF01\uFF76\uFF9E\uFF80\uFF76\uFF9E\uFF80RT: @doragonism: \u30A2\u30DE\u30AC\u30DF\u597D\u304D\u306B\u7D14\u60C5\u306A\u5974\u306A\u3093\u304B\u3044\u306D\u30FC\u3088\uFF01\u3000RT @why_tathibana    \u8A02\u6B63\u3001\u7D14\u60C5\u306A\u30A2\u30DE\u30AC\u30DF\u597D\u304DRT: @doragonism: \u305D\u3082\u305D\u3082\u7D14\u60C5\u306A\u5C11\u5E74\u306F\u30A2\u30DE\u30AC\u30DF\u306E\u30A2\u30F3\u30BD\u30ED\u3092\u6C42\u3081\u305F\u308A\u3057\u306A\u3044\u3000RT",
-  "id" : 19626649521,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19626942316",
-  "text" : "\u5965\u83EF\u5B50CM\u304B\u306A\u308A\u6709\u540D\u6240\u3067\u3066\u3093\u3060\u306A\uFF57\uFF57",
-  "id" : 19626942316,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"erased_81836\" rel=\"nofollow\"\u003Eerased_81836\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19627179648",
-  "text" : "akito\u5FA9\u5E30\uFF57\uFF57\uFF57\uFF57\u3057\u304B\u3082\u3053\u308C\u3067\uFF57\uFF57\uFF57\uFF57 - \u898B\u3066\u308B\u306A\u3046: \u5965\u83EF\u5B50\u3055\u3093CM\u3092\u30CA\u30EC\u30FC\u30B7\u30E7\u30F3\u3057\u3066\u307F\u305F \/ akito\u2010\u30CB\u30B3\u30CB\u30B3\u52D5\u753B(9) - http:\/\/j.mp\/abgPPO",
-  "id" : 19627179648,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u0627\u0644\u0639\u0635\u0641\u0648\u0631 \u0644\u0627\u0631\u064A ",
-      "screen_name" : "d4_ss",
-      "indices" : [ 0, 6 ],
-      "id_str" : "2503830129",
-      "id" : 2503830129
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19628102383",
-  "text" : "@D4_SS \u305D\u308C\u306F\u3042\u308A\u304C\u305F\u3044\uFF57\u3000\u3053\u308C\u304B\u3082\u3088\u308D\u3057\u304F\u3067\u3059",
-  "id" : 19628102383,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u5E78\u97F3\u30D9\u30CB",
-      "screen_name" : "sachine_beni",
-      "indices" : [ 3, 16 ],
-      "id_str" : "112709714",
-      "id" : 112709714
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19628462070",
-  "text" : "RT @sachine_beni: \u79C1\u304C\u6B4C\u3063\u3066\u308B\u52D5\u753B \u89B3\u3066\u306D\u30FC\uFF01 http:\/\/nico.ms\/sm7628863",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twittbot.net\/\" rel=\"nofollow\"\u003Etwittbot.net\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "19628279403",
-    "text" : "\u79C1\u304C\u6B4C\u3063\u3066\u308B\u52D5\u753B \u89B3\u3066\u306D\u30FC\uFF01 http:\/\/nico.ms\/sm7628863",
-    "id" : 19628279403,
-    "created_at" : "2010-07-27 04:01:36 +0000",
-    "user" : {
-      "name" : "\u5E78\u97F3\u30D9\u30CB",
-      "screen_name" : "sachine_beni",
-      "protected" : false,
-      "id_str" : "112709714",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1276730662\/sachine_be_normal.png",
-      "id" : 112709714,
-      "verified" : false
-    }
-  },
-  "id" : 19628462070,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19628534129",
-  "text" : "RT: @Johnny_nm7: RT @wilhelm_casper3: \u30DE\u30AF\u30C9\u3063\u3066\u9B54\u6027\u306E\u30AF\u30C9\u30EA\u30E3\u30D5\u30AB\u306E\u7565\u3067\u3059\u304B",
-  "id" : 19628534129,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"erased_81836\" rel=\"nofollow\"\u003Eerased_81836\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19628865241",
-  "text" : "\u30E9\u30D0\u30FC\u30BA\u7D44\u306F\u307B\u307C\u7DCF\u3058\u3066\u30AC\u30C1\u306A\u306E\u304B\u30FC - \u898B\u3066\u308B\u306A\u3046: \u30BF\u30B0\u3067\u52D5\u753B\u691C\u7D22 \u5965\u83EF\u5B50\u30CA\u30EC\u30FC\u30B7\u30E7\u30F3\u30B3\u30F3\u30C6\u30B9\u30C8\u2010\u30CB\u30B3\u30CB\u30B3\u52D5\u753B(9) - http:\/\/j.mp\/ccJ8vF",
-  "id" : 19628865241,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19631854998",
-  "text" : "\u4FFA\u306Etxt\u3092\u307E\u3068\u3081\u3066\u3044\u308B\u30D5\u30A9\u30EB\u30C0\u540D\u306F\u300C\u97F3\u697D\u300D\u3067\u3059\u3002",
-  "id" : 19631854998,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"erased_81836\" rel=\"nofollow\"\u003Eerased_81836\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19632020856",
-  "text" : "\u5225\u306B\u666E\u901A\u306B\u3044\u3044\u58F0\u304C\u6B4C\u3063\u3066\u308B\u3068\u3044\u3046\u611F\u3058\u3002\u3053\u3053\u307E\u3067\u306E\u4FE1\u8005\u306F\u4E45\u3057\u3076\u308A\u306B\u307F\u305F\u306A\u3041\u3002 - \u898B\u3066\u308B\u306A\u3046: \u3048\uFF1F\u3042\u3041\u3001\u305D\u3046\u3002ver.\u2020\u5239\u90A3\u2020\u2010\u30CB\u30B3\u30CB\u30B3\u52D5\u753B(9) - http:\/\/j.mp\/9oOokS",
-  "id" : 19632020856,
-  "created_at" : "2010-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"erased_81836\" rel=\"nofollow\"\u003Eerased_81836\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19632145512",
-  "text" : "\u3053\u306E\u4EA4\u6D41\u306E\u3042\u308B\u6B4C\u3044\u624B\u3063\u3066\u30AC\u30C1\u306A\u3093\u3060\u308D\u3046\u304B\u30FB\u30FB\u30FB\uFF1F\u306A\u3093\u304B\u591A\u3059\u304E\u3066\u80E1\u6563\u81ED\u3044\u3068\u601D\u3046\u306E\u306F\u4FFA\u3060\u3051\uFF1F - \u898B\u3066\u308B\u306A\u3046: \u2020\u5239\u90A3\u2020\u3068\u306F (\u30BB\u30C4\u30CA\u3068\u306F) - \u30CB\u30B3\u30CB\u30B3\u5927\u767E\u79D1 - http:\/\/j.mp\/aBGu1M",
-  "id" : 19632145512,
-  "created_at" : "2010-07-27 00:00:00 +0000",
+  "id_str" : "19569557185",
+  "in_reply_to_user_id" : 107705140,
+  "text" : "@thousands_k @doragonism @rikio0505 @Johnny_nm7 \u304A\u304B\u3042\u308A\uFF01",
+  "id" : 19569557185,
+  "created_at" : "2010-07-26 00:00:00 +0000",
+  "in_reply_to_screen_name" : "komaki_nm7",
+  "in_reply_to_user_id_str" : "107705140",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -12341,7 +12573,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30DF\u30F3\u30DF\u30F3\u30BC\u30DF\u3055\u3093\u30C1\u30FC\u30E0",
+      "name" : "\u30DF\u30F3\u30DF\u30F3@\u30B3\u30DF\u30B1\u304A\u75B2\u308C\u69D8\u3067\u3057\u305F",
       "screen_name" : "linelinet",
       "indices" : [ 4, 14 ],
       "id_str" : "116694698",
@@ -12514,7 +12746,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liv",
+      "name" : "\/\/",
       "screen_name" : "AsakoSenpai",
       "indices" : [ 0, 12 ],
       "id_str" : "2764468667",
@@ -12641,7 +12873,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Foo\u3055\u3093",
+      "name" : "Foo\u3055\u3093@#\u30B3\u30F3\u30D1\u30B9",
       "screen_name" : "Foo_san",
       "indices" : [ 53, 61 ],
       "id_str" : "88633646",
@@ -12806,7 +13038,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u7C73\u5009\u671B",
+      "name" : "\u7C73",
       "screen_name" : "Steiner02",
       "indices" : [ 15, 25 ],
       "id_str" : "101044478",
@@ -12928,7 +13160,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liv",
+      "name" : "\/\/",
       "screen_name" : "AsakoSenpai",
       "indices" : [ 0, 12 ],
       "id_str" : "2764468667",
@@ -12956,7 +13188,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liv",
+      "name" : "\/\/",
       "screen_name" : "AsakoSenpai",
       "indices" : [ 0, 12 ],
       "id_str" : "2764468667",
@@ -13056,7 +13288,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "96357653",
       "id" : 96357653
     }, {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 11, 23 ],
       "id_str" : "99437114",
@@ -13122,7 +13354,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30D6\u30E9\u30B6\u30FC",
+      "name" : "\u30B5\u30AB\u30A4 \u30E6\u30A6\u30A4\u30C1(\u30D6\u30E9\u30B6\u30FC)",
       "screen_name" : "Brother_PV",
       "indices" : [ 3, 14 ],
       "id_str" : "35894069",
@@ -13149,7 +13381,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19532336858,
     "created_at" : "2010-07-26 00:30:15 +0000",
     "user" : {
-      "name" : "\u30D6\u30E9\u30B6\u30FC",
+      "name" : "\u30B5\u30AB\u30A4 \u30E6\u30A6\u30A4\u30C1(\u30D6\u30E9\u30B6\u30FC)",
       "screen_name" : "Brother_PV",
       "protected" : false,
       "id_str" : "35894069",
@@ -13200,10 +13432,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19537266574",
-  "text" : "\u6B6F\u533B\u8005\u3088\u308A\u5E30\u5B85",
-  "id" : 19537266574,
-  "created_at" : "2010-07-26 00:00:00 +0000",
+  "id_str" : "19468762258",
+  "text" : "@coill929 \u30EB\u30FC\u30C4\u6C0F\u306E\u30EA\u30B9\u30DA\u30AF\u30C8\u3067\u304A\uFF4B",
+  "id" : 19468762258,
+  "created_at" : "2010-07-25 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -13222,10 +13454,76 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19538320740",
-  "text" : "@Johnny_nm7 \u305F\u3060\u307E\u30FC",
-  "id" : 19538320740,
-  "created_at" : "2010-07-26 00:00:00 +0000",
+  "id_str" : "19471159747",
+  "text" : "@coill929 \u30B3\u30A4\u30EB\u300C\u30EA\u30B9\u30DA\u30AF\u30C8\u3067\u3059(\uFF77\uFF98\uFF6F\u300D",
+  "id" : 19471159747,
+  "created_at" : "2010-07-25 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u306E\u3089\u732B",
+      "screen_name" : "chaneko3",
+      "indices" : [ 0, 9 ],
+      "id_str" : "549787189",
+      "id" : 549787189
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19471868638",
+  "geo" : { },
+  "id_str" : "19471929355",
+  "in_reply_to_user_id" : 86759700,
+  "text" : "@chaneko3 \u306F\u308D\u308D\u30FC",
+  "id" : 19471929355,
+  "in_reply_to_status_id" : 19471868638,
+  "created_at" : "2010-07-25 00:00:00 +0000",
+  "in_reply_to_screen_name" : "qs_some14",
+  "in_reply_to_user_id_str" : "86759700",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u308A\u3085\u3046",
+      "screen_name" : "ryuu_key",
+      "indices" : [ 0, 9 ],
+      "id_str" : "106477287",
+      "id" : 106477287
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19473154403",
+  "geo" : { },
+  "id_str" : "19473253652",
+  "in_reply_to_user_id" : 106477287,
+  "text" : "@ryuu_key \u306F\u308D\u306F\u308D\u308A\u3085\u3046\u3055\u3093",
+  "id" : 19473253652,
+  "in_reply_to_status_id" : 19473154403,
+  "created_at" : "2010-07-25 00:00:00 +0000",
+  "in_reply_to_screen_name" : "ryuu_key",
+  "in_reply_to_user_id_str" : "106477287",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -13244,10 +13542,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19538743289",
-  "text" : "\u305D\u3057\u3066\u307E\u305F\u304A\u51FA\u304B\u3051\u3060\u3088\uFF01",
-  "id" : 19538743289,
-  "created_at" : "2010-07-26 00:00:00 +0000",
+  "id_str" : "19474148449",
+  "text" : "\u5E8A\u5C4B\u3044\u3063\u3066\u304F\u308B",
+  "id" : 19474148449,
+  "created_at" : "2010-07-25 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -13259,147 +13557,6 @@ Grailbird.data.tweets_2010_07 =
   }
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
-      "screen_name" : "erogewota",
-      "indices" : [ 4, 14 ],
-      "id_str" : "50268644",
-      "id" : 50268644
-    }, {
-      "name" : "\u6065P",
-      "screen_name" : "peke_hajiP",
-      "indices" : [ 19, 30 ],
-      "id_str" : "71534297",
-      "id" : 71534297
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19550497418",
-  "text" : "RT: @erogewota: RT @peke_hajiP: \u3010\u304A\u846C\u5F0F\u3067\u9CF4\u3063\u305F\u3089\u307E\u305A\u3044\u7740\u3046\u305F\u30E9\u30F3\u30AD\u30F3\u30B0\u3011\u25CF3\u4F4D\u30EA\u30A2\u5145\u7206\u767A\u3057\u308D\u25CF2\u4F4D\u307C\u304B\u3089\u3093\u8A50\u6B3A\u25CF1\u4F4D\u30AA\u30DE\u30FC\u30F3\u6E56",
-  "id" : 19550497418,
-  "created_at" : "2010-07-26 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u304B\u3044\u305F\u30FC\u30FC\u306A",
-      "screen_name" : "ZeroTiten",
-      "indices" : [ 4, 14 ],
-      "id_str" : "2904282133",
-      "id" : 2904282133
-    }, {
-      "name" : "\u306A\u306A\u3057",
-      "screen_name" : "5Ksf",
-      "indices" : [ 37, 42 ],
-      "id_str" : "1578563252",
-      "id" : 1578563252
-    }, {
-      "name" : "\u262D\u0410\u043D\u044F\uFF20\u0422\u043E\u043A\u043D\u043E10-16",
-      "screen_name" : "akasata_ccs",
-      "indices" : [ 46, 58 ],
-      "id_str" : "108618541",
-      "id" : 108618541
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19551002522",
-  "text" : "RT: @zerotiten: RT: @memgmgmgmgm: RT @5KSF RT @akasata_ccs: \u3010\u62E1\u6563\u3011\u30A2\u30A4\u30B3\u30F3\u5909\u3048\u308C\u307E\u3059",
-  "id" : 19551002522,
-  "created_at" : "2010-07-26 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u306A\u306A\u3072\u3089@3\u65E5\u76EE \u897Fa-46b",
-      "screen_name" : "nanahira",
-      "indices" : [ 15, 24 ],
-      "id_str" : "231926590",
-      "id" : 231926590
-    }, {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
-      "screen_name" : "erogewota",
-      "indices" : [ 26, 36 ],
-      "id_str" : "50268644",
-      "id" : 50268644
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19551461846",
-  "text" : "\u3042\u308A\u304C\u305F\u304F\u3044\u305F\u3060\u304F\u3088\uFF01RT: @nanahira: @erogewota \u306A\u306A\u3072\u3089\u306E\u3079\u305F\u3079\u305F\u6C41\uFF08\u6C57\uFF09\u3064\u304D\u3000\u30A4\u30E9\u30CD\uFF01",
-  "id" : 19551461846,
-  "created_at" : "2010-07-26 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30DF\u30F3\u30DF\u30F3\u30BC\u30DF\u3055\u3093\u30C1\u30FC\u30E0",
-      "screen_name" : "linelinet",
-      "indices" : [ 0, 10 ],
-      "id_str" : "116694698",
-      "id" : 116694698
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19551784840",
-  "geo" : { },
-  "id_str" : "19551883988",
-  "in_reply_to_user_id" : 116694698,
-  "text" : "@linelinet \u306A\u3093\u3068\u3044\u3046\u304B\u30FB\u30FB\u30FB\u4F0F\u7DDA\u3092\u56DE\u53CE\u3057\u304D\u308C\u3066\u306A\u3044\u611F\u306F\u3042\u308A\u307E\u3057\u305F\u306D\u3002\u300C\u3053\u308C\u306F\u4E00\u4F53\u3069\u3046\u3044\u3046\u4E8B\u306A\u3093\u3060\uFF1F\u300D\u307F\u305F\u3044\u306A\u306E\u304C\u591A\u304F\u3042\u3063\u3066\u3001\u305D\u308C\u304C\u89E3\u6C7A\u3059\u308B\u524D\u306B\u7D42\u4E86\u3059\u308B\u3093\u3067\u3059\u3088\u3002\u3053\u3053\u304B\u3089\u7D9A\u304F\u306E\u306A\u3089\u9762\u767D\u3044\u3068\u81EA\u5206\u306F\u601D\u3046\u3093\u3067\u3059\u304C\u306D\u3047",
-  "id" : 19551883988,
-  "in_reply_to_status_id" : 19551784840,
-  "created_at" : "2010-07-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "linelinet",
-  "in_reply_to_user_id_str" : "116694698",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -13407,10 +13564,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19568801481",
-  "text" : "\u5E30\u5B85\uFF01\u4ECA\u65E5\u306F\u4E45\u3005\u306B\u6B4C\u5531\u306A\u3046\u304B\u3082",
-  "id" : 19568801481,
-  "created_at" : "2010-07-26 00:00:00 +0000",
+  "id_str" : "19479204926",
+  "text" : "\u5E8A\u5C4B\u3088\u308A\u5E30\u5B85",
+  "id" : 19479204926,
+  "created_at" : "2010-07-25 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -13421,77 +13578,101 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19569274922",
-  "text" : "\u4ECA\u65E5\u306F\u4E11\u306E\u65E5\u3002\u5B9F\u306F\u9C3B\u306E\u65EC\u3067\u306F\u3042\u308A\u307E\u305B\u3093\u3002\u305D\u306E\u6614\u3001\u6804\u990A\u4FA1\u306E\u9AD8\u3044\u9C3B\u3092\u65EC\u3058\u3083\u306A\u3044\u304B\u3089\u3068\u3044\u3063\u3066\u7686\u98DF\u3079\u305A\u3001\u305D\u308C\u3092\u898B\u304B\u306D\u305F\u9818\u4E3B\u304C\u4E11\u306E\u65E5\u3092\u89E6\u308C\u56DE\u3063\u305F\u306E\u304C\u306F\u3058\u307E\u308A\u3002",
-  "id" : 19569274922,
-  "created_at" : "2010-07-26 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19569312582",
-  "text" : "\u78BA\u304B\u3053\u308C\u3067\u3042\u3063\u3066\u308B\u306F\u305A",
-  "id" : 19569312582,
-  "created_at" : "2010-07-26 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30C9\u30E9\u30B4",
-      "screen_name" : "doragonism",
-      "indices" : [ 13, 24 ],
-      "id_str" : "119367267",
-      "id" : 119367267
-    }, {
-      "name" : "\u308A\u304D\u304A",
-      "screen_name" : "rikio0505",
-      "indices" : [ 25, 35 ],
-      "id_str" : "74137135",
-      "id" : 74137135
+      "name" : "\u30AC\u30A4\u30DC\uFF08\u6709\uFF09",
+      "screen_name" : "gaibo86",
+      "indices" : [ 0, 8 ],
+      "id_str" : "123141447",
+      "id" : 123141447
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "19479323427",
   "geo" : { },
-  "id_str" : "19569557185",
-  "in_reply_to_user_id" : 107705140,
-  "text" : "@thousands_k @doragonism @rikio0505 @Johnny_nm7 \u304A\u304B\u3042\u308A\uFF01",
-  "id" : 19569557185,
-  "created_at" : "2010-07-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "komaki_nm7",
-  "in_reply_to_user_id_str" : "107705140",
+  "id_str" : "19479495016",
+  "in_reply_to_user_id" : 123141447,
+  "text" : "@gaibo86 \u305F\u3060\u307E\uFF01\uFF01\uFF01",
+  "id" : 19479495016,
+  "in_reply_to_status_id" : 19479323427,
+  "created_at" : "2010-07-25 00:00:00 +0000",
+  "in_reply_to_screen_name" : "gaibo86",
+  "in_reply_to_user_id_str" : "123141447",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19479508205",
+  "text" : "@daiflux \u9A0E\u4E57\u4F4D\u5927\u597D\u304D\u305F\u3060\u3044\u307E",
+  "id" : 19479508205,
+  "created_at" : "2010-07-25 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.nicovideo.jp\/\" rel=\"nofollow\"\u003Eniconico \u30CB\u30B3\u30EC\u30DD\u9023\u643A\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "lv22408039",
+      "indices" : [ 54, 65 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19479597121",
+  "text" : "\u3010\u751F\u653E\u9001\u3011\u544A\u77E5\uFF1A\u7F70\u30B2\u30FC\u30E0\u3084\u308B\u3088\uFF01\uFF01\uFF01 \u3092\u958B\u59CB\u3057\u307E\u3057\u305F\u3002 http:\/\/nico.ms\/lv22408039 #lv22408039",
+  "id" : 19479597121,
+  "created_at" : "2010-07-25 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "tagutuker",
+      "indices" : [ 99, 109 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19481207188",
+  "text" : "why_tathibana\u306E\u30BF\u30B0\u306F\u3010\u6B8B\u5FF5\u306A\u30A4\u30B1\u30E1\u30F3\u3011\u3000\u3010\u30BF\u30A4\u30C8\u30EB\u4E00\u672C\u91E3\u308A\u3011\u3000\u3010\u30DF\u30EA\u30AA\u30F3\u5F85\u6A5F\u7D44\u3011\u3000\u3010\u6DF7\u305C\u308B\u306A\u4E0D\u81EA\u7136\u3011\u3000\u3010\u9854\u9762\u5D29\u58CA\u3011\u3000\u3067\u3059\u3002 http:\/\/shindanmaker.com\/34597 #tagutuker \u30AB\u30C3\u30B3\u3044\u3044\u306E\u304B\u60AA\u3044\u306E\u304B\u30EF\u30AB\u30E9\u30CA\u30A4",
+  "id" : 19481207188,
+  "created_at" : "2010-07-25 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -13775,7 +13956,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19497035798,
     "created_at" : "2010-07-25 13:45:33 +0000",
     "user" : {
-      "name" : "\u304A\u3046\u3061\u304C\u30AD\u30F3\u30BF\u30DE\u3060\u3088\uFF01kms",
+      "name" : "kms\uFF20\u5143\u65E6\u304C\u7D50\u5A5A\u8A18\u5FF5\u65E5",
       "screen_name" : "mmk_065",
       "protected" : true,
       "id_str" : "95438153",
@@ -13833,13 +14014,13 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u9B31\u30B5\u30D0\u30A4\u30D0\u30FC",
+      "name" : "\u3010\u672C\u5384\u3011kefian",
       "screen_name" : "kefian1go",
       "indices" : [ 67, 77 ],
       "id_str" : "58752234",
       "id" : 58752234
     }, {
-      "name" : "\u9B31\u30B5\u30D0\u30A4\u30D0\u30FC",
+      "name" : "\u3010\u672C\u5384\u3011kefian",
       "screen_name" : "kefian1go",
       "indices" : [ 104, 114 ],
       "id_str" : "58752234",
@@ -14015,7 +14196,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "94965206",
       "id" : 94965206
     }, {
-      "name" : "\u30DF\u30F3\u30DF\u30F3\u30BC\u30DF\u3055\u3093\u30C1\u30FC\u30E0",
+      "name" : "\u30DF\u30F3\u30DF\u30F3@\u30B3\u30DF\u30B1\u304A\u75B2\u308C\u69D8\u3067\u3057\u305F",
       "screen_name" : "linelinet",
       "indices" : [ 46, 56 ],
       "id_str" : "116694698",
@@ -14324,7 +14505,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "freshkun",
       "protected" : false,
       "id_str" : "78900323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/656430387120373760\/Zdu1nLm6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797135621126909952\/U-op2BHz_normal.jpg",
       "id" : 78900323,
       "verified" : false
     }
@@ -14344,7 +14525,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3057\u304A\u3093\u306C",
+      "name" : "\u3057\u304A\u3093\u306C@10\/22\u5F7C\u306F\u8AB0\u6642",
       "screen_name" : "_j_u_p_i_t_e_r",
       "indices" : [ 3, 18 ],
       "id_str" : "116164453",
@@ -14371,7 +14552,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19504412904,
     "created_at" : "2010-07-25 15:45:03 +0000",
     "user" : {
-      "name" : "\u3057\u304A\u3093\u306C",
+      "name" : "\u3057\u304A\u3093\u306C@10\/22\u5F7C\u306F\u8AB0\u6642",
       "screen_name" : "_j_u_p_i_t_e_r",
       "protected" : false,
       "id_str" : "116164453",
@@ -14395,7 +14576,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30DF\u30F3\u30DF\u30F3\u30BC\u30DF\u3055\u3093\u30C1\u30FC\u30E0",
+      "name" : "\u30DF\u30F3\u30DF\u30F3@\u30B3\u30DF\u30B1\u304A\u75B2\u308C\u69D8\u3067\u3057\u305F",
       "screen_name" : "linelinet",
       "indices" : [ 9, 19 ],
       "id_str" : "116694698",
@@ -14629,164 +14810,10 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19468762258",
-  "text" : "@coill929 \u30EB\u30FC\u30C4\u6C0F\u306E\u30EA\u30B9\u30DA\u30AF\u30C8\u3067\u304A\uFF4B",
-  "id" : 19468762258,
-  "created_at" : "2010-07-25 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19471159747",
-  "text" : "@coill929 \u30B3\u30A4\u30EB\u300C\u30EA\u30B9\u30DA\u30AF\u30C8\u3067\u3059(\uFF77\uFF98\uFF6F\u300D",
-  "id" : 19471159747,
-  "created_at" : "2010-07-25 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u306E\u3089\u732B",
-      "screen_name" : "chaneko3",
-      "indices" : [ 0, 9 ],
-      "id_str" : "549787189",
-      "id" : 549787189
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19471868638",
-  "geo" : { },
-  "id_str" : "19471929355",
-  "in_reply_to_user_id" : 86759700,
-  "text" : "@chaneko3 \u306F\u308D\u308D\u30FC",
-  "id" : 19471929355,
-  "in_reply_to_status_id" : 19471868638,
-  "created_at" : "2010-07-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "qs_some14",
-  "in_reply_to_user_id_str" : "86759700",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u3085\u3046",
-      "screen_name" : "ryuu_key",
-      "indices" : [ 0, 9 ],
-      "id_str" : "106477287",
-      "id" : 106477287
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19473154403",
-  "geo" : { },
-  "id_str" : "19473253652",
-  "in_reply_to_user_id" : 106477287,
-  "text" : "@ryuu_key \u306F\u308D\u306F\u308D\u308A\u3085\u3046\u3055\u3093",
-  "id" : 19473253652,
-  "in_reply_to_status_id" : 19473154403,
-  "created_at" : "2010-07-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ryuu_key",
-  "in_reply_to_user_id_str" : "106477287",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19474148449",
-  "text" : "\u5E8A\u5C4B\u3044\u3063\u3066\u304F\u308B",
-  "id" : 19474148449,
-  "created_at" : "2010-07-25 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19479204926",
-  "text" : "\u5E8A\u5C4B\u3088\u308A\u5E30\u5B85",
-  "id" : 19479204926,
-  "created_at" : "2010-07-25 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30AC\u30A4\u30DCGO",
+      "name" : "\u30AC\u30A4\u30DC\uFF08\u6709\uFF09",
       "screen_name" : "gaibo86",
       "indices" : [ 0, 8 ],
       "id_str" : "123141447",
@@ -14796,14 +14823,97 @@ Grailbird.data.tweets_2010_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "19479323427",
+  "in_reply_to_status_id_str" : "19398954772",
   "geo" : { },
-  "id_str" : "19479495016",
+  "id_str" : "19399212802",
   "in_reply_to_user_id" : 123141447,
-  "text" : "@gaibo86 \u305F\u3060\u307E\uFF01\uFF01\uFF01",
-  "id" : 19479495016,
-  "in_reply_to_status_id" : 19479323427,
-  "created_at" : "2010-07-25 00:00:00 +0000",
+  "text" : "@gaibo86 \u3010\u89E3\u7B54\u3011\u8CB7\u3063\u3066w\u3068h\u3068y\u304C\u4ED8\u304F\u4EBA\u306B\u3042\u3052\u308B\u3068\u559C\u3076\u3067\u3057\u3087\u3046\u3002",
+  "id" : 19399212802,
+  "in_reply_to_status_id" : 19398954772,
+  "created_at" : "2010-07-24 00:00:00 +0000",
+  "in_reply_to_screen_name" : "gaibo86",
+  "in_reply_to_user_id_str" : "123141447",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19399243344",
+  "text" : "\u304D\u305F\u30FC\u304F\uFF01",
+  "id" : 19399243344,
+  "created_at" : "2010-07-24 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30B5\u30D5\u30A1\u30A4\u30A2",
+      "screen_name" : "sapphire_bot",
+      "indices" : [ 23, 36 ],
+      "id_str" : "79209723",
+      "id" : 79209723
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19399359920",
+  "text" : "\u6027\u5C11\u5E74\u306B\u3053\u3053\u3060\u3051\u8AAD\u307E\u305B\u308B\u3068\u53CD\u5FDC\u3059\u308B\u304B\u3082 QT @sapphire_bot: \uFF01\uFF01\u3000\u306D\u3001\u3053\u308C\u5165\u3063\u3066\u3082\u3088\u304B\u3068\uFF01\uFF1F\u4ECA\u3042\u305F\u3057\u306B\u5473\u308F\u3063\u3066\u307B\u3057\u3044\u3063\u3066\u8A00\u3046\u305F\u3084\u308D\uFF1F\u3053\u308C\u3082\u3059\u3050\u51B7\u3081\u3066\u3057\u307E\u3046\u304B\u3082\u3057\u308C\u3093\uFF01\u5165\u3089\u3093\u3068\u3082\u3063\u305F\u3044\u306A\u304B\uFF01\uFF01",
+  "id" : 19399359920,
+  "created_at" : "2010-07-24 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30AC\u30A4\u30DC\uFF08\u6709\uFF09",
+      "screen_name" : "gaibo86",
+      "indices" : [ 4, 12 ],
+      "id_str" : "123141447",
+      "id" : 123141447
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19399308675",
+  "geo" : { },
+  "id_str" : "19399424094",
+  "in_reply_to_user_id" : 123141447,
+  "text" : "\u2190\u3053\u3044\u3064@gaibo86",
+  "id" : 19399424094,
+  "in_reply_to_status_id" : 19399308675,
+  "created_at" : "2010-07-24 00:00:00 +0000",
   "in_reply_to_screen_name" : "gaibo86",
   "in_reply_to_user_id_str" : "123141447",
   "user" : {
@@ -14818,16 +14928,34 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u5BAE\u65B9 \u7720",
+      "screen_name" : "mirufi_0714",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1227653384",
+      "id" : 1227653384
+    }, {
+      "name" : "\u30C9\u30E9\u30B4",
+      "screen_name" : "doragonism",
+      "indices" : [ 13, 24 ],
+      "id_str" : "119367267",
+      "id" : 119367267
+    }, {
+      "name" : "\u308A\u304D\u304A",
+      "screen_name" : "rikio0505",
+      "indices" : [ 25, 35 ],
+      "id_str" : "74137135",
+      "id" : 74137135
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19479508205",
-  "text" : "@daiflux \u9A0E\u4E57\u4F4D\u5927\u597D\u304D\u305F\u3060\u3044\u307E",
-  "id" : 19479508205,
-  "created_at" : "2010-07-25 00:00:00 +0000",
+  "id_str" : "19399692783",
+  "text" : "@mirufi_0714 @doragonism @rikio0505 @Johnny_nm7 \u305F\u3060\u3044\u307E\u30FC\uFF01",
+  "id" : 19399692783,
+  "created_at" : "2010-07-24 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -14838,21 +14966,23 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.nicovideo.jp\/\" rel=\"nofollow\"\u003Eniconico \u30CB\u30B3\u30EC\u30DD\u9023\u643A\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "lv22408039",
-      "indices" : [ 54, 65 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "19399647241",
   "geo" : { },
-  "id_str" : "19479597121",
-  "text" : "\u3010\u751F\u653E\u9001\u3011\u544A\u77E5\uFF1A\u7F70\u30B2\u30FC\u30E0\u3084\u308B\u3088\uFF01\uFF01\uFF01 \u3092\u958B\u59CB\u3057\u307E\u3057\u305F\u3002 http:\/\/nico.ms\/lv22408039 #lv22408039",
-  "id" : 19479597121,
-  "created_at" : "2010-07-25 00:00:00 +0000",
+  "id_str" : "19399820444",
+  "in_reply_to_user_id" : 107705140,
+  "text" : "@thousands_k \u305F\u3060\u307E\u306A\u306E\u3067\u3059\u3059\u3088\uFF01",
+  "id" : 19399820444,
+  "in_reply_to_status_id" : 19399647241,
+  "created_at" : "2010-07-24 00:00:00 +0000",
+  "in_reply_to_screen_name" : "komaki_nm7",
+  "in_reply_to_user_id_str" : "107705140",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -14863,21 +14993,29 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "tagutuker",
-      "indices" : [ 99, 109 ]
+    "user_mentions" : [ {
+      "name" : "\u30C9\u30E9\u30B4",
+      "screen_name" : "doragonism",
+      "indices" : [ 0, 11 ],
+      "id_str" : "119367267",
+      "id" : 119367267
     } ],
+    "media" : [ ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "19399476383",
   "geo" : { },
-  "id_str" : "19481207188",
-  "text" : "why_tathibana\u306E\u30BF\u30B0\u306F\u3010\u6B8B\u5FF5\u306A\u30A4\u30B1\u30E1\u30F3\u3011\u3000\u3010\u30BF\u30A4\u30C8\u30EB\u4E00\u672C\u91E3\u308A\u3011\u3000\u3010\u30DF\u30EA\u30AA\u30F3\u5F85\u6A5F\u7D44\u3011\u3000\u3010\u6DF7\u305C\u308B\u306A\u4E0D\u81EA\u7136\u3011\u3000\u3010\u9854\u9762\u5D29\u58CA\u3011\u3000\u3067\u3059\u3002 http:\/\/shindanmaker.com\/34597 #tagutuker \u30AB\u30C3\u30B3\u3044\u3044\u306E\u304B\u60AA\u3044\u306E\u304B\u30EF\u30AB\u30E9\u30CA\u30A4",
-  "id" : 19481207188,
-  "created_at" : "2010-07-25 00:00:00 +0000",
+  "id_str" : "19400337435",
+  "in_reply_to_user_id" : 119367267,
+  "text" : "@doragonism \u3053\u308C\u3001\u5C0F\u5B66\u25CB\u5E74\u751F\u306B\u8F09\u3063\u3066\u308B\u6F2B\u753B\u306E\u30BB\u30EA\u30D5\u306A\u3093\u3060\u305C\u30FB\u30FB\u30FB\uFF1F",
+  "id" : 19400337435,
+  "in_reply_to_status_id" : 19399476383,
+  "created_at" : "2010-07-24 00:00:00 +0000",
+  "in_reply_to_screen_name" : "doragonism",
+  "in_reply_to_user_id_str" : "119367267",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -15207,69 +15345,6 @@ Grailbird.data.tweets_2010_07 =
   "id_str" : "19424711046",
   "text" : "\u3042\u308C\u3001\u3086\u3044\u306B\u3083\u3093\u30A2\u30D5\u30BF\u30FC RT @yui_nyhan: \u3042\u305F\u3057\u306D\u3001\u697D\u306B\u3057\u3066\u304F\u308C\u305F\u65E5\u5411\u5148\u8F29\u306B\u306F\u611F\u8B1D\u3057\u3066\u308B\u3093\u3060\u301C\u30FB\u30FB\u30FB\u5909\u306A\u610F\u5473\u3058\u3083\u306A\u304F\u3066\u30FB\u30FB\u30FB\u7D14\u7C8B\u306B\u30FB\u30FB\u30FB!!",
   "id" : 19424711046,
-  "created_at" : "2010-07-24 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3074\u3043",
-      "screen_name" : "pixinukarumi",
-      "indices" : [ 3, 16 ],
-      "id_str" : "49036578",
-      "id" : 49036578
-    }, {
-      "name" : "p",
-      "screen_name" : "vocarakugaki",
-      "indices" : [ 60, 73 ],
-      "id_str" : "170217176",
-      "id" : 170217176
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19424789359",
-  "text" : "RT @pixinukarumi: \u4F01\u753B\u7528\u30A2\u30AB\u30A6\u30F3\u30C8\u4F5C\u3063\u3066\u307F\u307E\u3057\u305F\u3001\u5B9F\u9A13\u7684\u306B\u3002\u3088\u308D\u3057\u304F\u3067\u3059\u3002\u3088\u308D\u3057\u3051\u308C\u3070\u62E1\u6563\u3092\u3070\u3002RT\u3000@vocarakugaki",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "p",
-        "screen_name" : "vocarakugaki",
-        "indices" : [ 42, 55 ],
-        "id_str" : "170217176",
-        "id" : 170217176
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "19424648043",
-    "text" : "\u4F01\u753B\u7528\u30A2\u30AB\u30A6\u30F3\u30C8\u4F5C\u3063\u3066\u307F\u307E\u3057\u305F\u3001\u5B9F\u9A13\u7684\u306B\u3002\u3088\u308D\u3057\u304F\u3067\u3059\u3002\u3088\u308D\u3057\u3051\u308C\u3070\u62E1\u6563\u3092\u3070\u3002RT\u3000@vocarakugaki",
-    "id" : 19424648043,
-    "created_at" : "2010-07-24 14:35:41 +0000",
-    "user" : {
-      "name" : "\u3074\u3043",
-      "screen_name" : "pixinukarumi",
-      "protected" : false,
-      "id_str" : "49036578",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420864837443280896\/jHCxo18f_normal.jpeg",
-      "id" : 49036578,
-      "verified" : false
-    }
-  },
-  "id" : 19424789359,
   "created_at" : "2010-07-24 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
@@ -15676,7 +15751,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -15899,140 +15974,12 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30AC\u30A4\u30DCGO",
-      "screen_name" : "gaibo86",
-      "indices" : [ 0, 8 ],
-      "id_str" : "123141447",
-      "id" : 123141447
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19398954772",
-  "geo" : { },
-  "id_str" : "19399212802",
-  "in_reply_to_user_id" : 123141447,
-  "text" : "@gaibo86 \u3010\u89E3\u7B54\u3011\u8CB7\u3063\u3066w\u3068h\u3068y\u304C\u4ED8\u304F\u4EBA\u306B\u3042\u3052\u308B\u3068\u559C\u3076\u3067\u3057\u3087\u3046\u3002",
-  "id" : 19399212802,
-  "in_reply_to_status_id" : 19398954772,
-  "created_at" : "2010-07-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "gaibo86",
-  "in_reply_to_user_id_str" : "123141447",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19399243344",
-  "text" : "\u304D\u305F\u30FC\u304F\uFF01",
-  "id" : 19399243344,
-  "created_at" : "2010-07-24 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30B5\u30D5\u30A1\u30A4\u30A2",
-      "screen_name" : "sapphire_bot",
-      "indices" : [ 23, 36 ],
-      "id_str" : "79209723",
-      "id" : 79209723
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19399359920",
-  "text" : "\u6027\u5C11\u5E74\u306B\u3053\u3053\u3060\u3051\u8AAD\u307E\u305B\u308B\u3068\u53CD\u5FDC\u3059\u308B\u304B\u3082 QT @sapphire_bot: \uFF01\uFF01\u3000\u306D\u3001\u3053\u308C\u5165\u3063\u3066\u3082\u3088\u304B\u3068\uFF01\uFF1F\u4ECA\u3042\u305F\u3057\u306B\u5473\u308F\u3063\u3066\u307B\u3057\u3044\u3063\u3066\u8A00\u3046\u305F\u3084\u308D\uFF1F\u3053\u308C\u3082\u3059\u3050\u51B7\u3081\u3066\u3057\u307E\u3046\u304B\u3082\u3057\u308C\u3093\uFF01\u5165\u3089\u3093\u3068\u3082\u3063\u305F\u3044\u306A\u304B\uFF01\uFF01",
-  "id" : 19399359920,
-  "created_at" : "2010-07-24 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30AC\u30A4\u30DCGO",
-      "screen_name" : "gaibo86",
-      "indices" : [ 4, 12 ],
-      "id_str" : "123141447",
-      "id" : 123141447
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19399308675",
-  "geo" : { },
-  "id_str" : "19399424094",
-  "in_reply_to_user_id" : 123141447,
-  "text" : "\u2190\u3053\u3044\u3064@gaibo86",
-  "id" : 19399424094,
-  "in_reply_to_status_id" : 19399308675,
-  "created_at" : "2010-07-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "gaibo86",
-  "in_reply_to_user_id_str" : "123141447",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5BAE\u65B9 \u7720",
-      "screen_name" : "mirufi_0714",
-      "indices" : [ 0, 12 ],
-      "id_str" : "1227653384",
-      "id" : 1227653384
-    }, {
-      "name" : "\u30C9\u30E9\u30B4",
-      "screen_name" : "doragonism",
-      "indices" : [ 13, 24 ],
-      "id_str" : "119367267",
-      "id" : 119367267
-    }, {
       "name" : "\u308A\u304D\u304A",
       "screen_name" : "rikio0505",
-      "indices" : [ 25, 35 ],
+      "indices" : [ 7, 17 ],
       "id_str" : "74137135",
       "id" : 74137135
     } ],
@@ -16041,37 +15988,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19399692783",
-  "text" : "@mirufi_0714 @doragonism @rikio0505 @Johnny_nm7 \u305F\u3060\u3044\u307E\u30FC\uFF01",
-  "id" : 19399692783,
-  "created_at" : "2010-07-24 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19399647241",
-  "geo" : { },
-  "id_str" : "19399820444",
-  "in_reply_to_user_id" : 107705140,
-  "text" : "@thousands_k \u305F\u3060\u307E\u306A\u306E\u3067\u3059\u3059\u3088\uFF01",
-  "id" : 19399820444,
-  "in_reply_to_status_id" : 19399647241,
-  "created_at" : "2010-07-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "komaki_nm7",
-  "in_reply_to_user_id_str" : "107705140",
+  "id_str" : "19351946003",
+  "text" : "\u78BA\u304B\u306BRT: @rikio0505: \u99AC\u5834\u793E\u9577\u306E\u300E\u307F\u3093\u306A\u300F\u3068\u306F\u8AB0\u306A\u306E\u304B",
+  "id" : 19351946003,
+  "created_at" : "2010-07-23 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -16095,16 +16015,416 @@ Grailbird.data.tweets_2010_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "19399476383",
+  "in_reply_to_status_id_str" : "19352004259",
   "geo" : { },
-  "id_str" : "19400337435",
+  "id_str" : "19352397767",
   "in_reply_to_user_id" : 119367267,
-  "text" : "@doragonism \u3053\u308C\u3001\u5C0F\u5B66\u25CB\u5E74\u751F\u306B\u8F09\u3063\u3066\u308B\u6F2B\u753B\u306E\u30BB\u30EA\u30D5\u306A\u3093\u3060\u305C\u30FB\u30FB\u30FB\uFF1F",
-  "id" : 19400337435,
-  "in_reply_to_status_id" : 19399476383,
-  "created_at" : "2010-07-24 00:00:00 +0000",
+  "text" : "@doragonism \u304A\u3000\u3084\u3000\u3059\u3000\u307F",
+  "id" : 19352397767,
+  "in_reply_to_status_id" : 19352004259,
+  "created_at" : "2010-07-23 00:00:00 +0000",
   "in_reply_to_screen_name" : "doragonism",
   "in_reply_to_user_id_str" : "119367267",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19353696686",
+  "text" : "\u3046\u304A\u3001\u3061\u3087\u3063\u3068\uFF50\uFF43\u306E\u8FD1\u304F\u306B\u3042\u3063\u305F\u65B0\u805E\u3069\u304B\u3057\u305F\u3060\u3051\u3067\uFF50\uFF43\u30D5\u30A1\u30F3\u306E\u97F3\u304C\u9759\u304B\u306B\u306A\u3063\u305F\u3002\u3000\u3084\u3063\u3071\u6392\u71B1\u554F\u984C\u30B7\u30AB\u30C8\u3057\u3066\u308B\u306E\u306F\u30C0\u30E1\u3060\u3088\u306A\u3041",
+  "id" : 19353696686,
+  "created_at" : "2010-07-23 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19355806026",
+  "text" : "\u3055\u3066\u5BDD\u3088\u3046\u3002\u3068\u3044\u3046\u304BK\u3055\u3093\u308F\u3075\u305F\u30FC\u3069\u3093\u306A\u901F\u5EA6\u3067\u9032\u3081\u305F\u3093\u3060\u30FB\u30FB\u30FB\uFF1F",
+  "id" : 19355806026,
+  "created_at" : "2010-07-23 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19247721304",
+  "text" : "\u4ECA\u304B\u3089\u5E30\u308A\u307E\u3059\u3002\u305D\u3053\u304B\u3089\u66F4\u306B\u51FA\u639B\u3051\u306A\u3044\u3068",
+  "id" : 19247721304,
+  "created_at" : "2010-07-23 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19257909357",
+  "text" : "\uFF50\uFF43\u8D77\u52D5\u306A\u3046",
+  "id" : 19257909357,
+  "created_at" : "2010-07-23 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u900F\u660E\u30E9\u30F3\u30CA\u30FC",
+      "screen_name" : "_k18",
+      "indices" : [ 3, 8 ],
+      "id_str" : "52691012",
+      "id" : 52691012
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19258321107",
+  "text" : "RT @_k18: \u300C\u300E\u30C7\u30A3\u30BA\u30CB\u30FC\u30C8\u30E9\u30F3\u30C9\u3078\u3088\u3046\u3053\u305D\uFF01\u50D5\u306F\u30D2\u30C3\u30AD\u30FC\u3060\u30E8\u300F\u300E\u3042\u305F\u3057\u306F\u30DF\u30CB\u30FC\u30C8\u3088\u300F\u300E\u50D5\u306F\u30D7\u30FC\u3055\u3093\u3060\u3088\u300F\u300D",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/yubitter.com\/\" rel=\"nofollow\"\u003Eyubitter\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "19093229189",
+    "text" : "\u300C\u300E\u30C7\u30A3\u30BA\u30CB\u30FC\u30C8\u30E9\u30F3\u30C9\u3078\u3088\u3046\u3053\u305D\uFF01\u50D5\u306F\u30D2\u30C3\u30AD\u30FC\u3060\u30E8\u300F\u300E\u3042\u305F\u3057\u306F\u30DF\u30CB\u30FC\u30C8\u3088\u300F\u300E\u50D5\u306F\u30D7\u30FC\u3055\u3093\u3060\u3088\u300F\u300D",
+    "id" : 19093229189,
+    "created_at" : "2010-07-21 17:36:12 +0000",
+    "user" : {
+      "name" : "\u900F\u660E\u30E9\u30F3\u30CA\u30FC",
+      "screen_name" : "_k18",
+      "protected" : false,
+      "id_str" : "52691012",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549951797322711041\/W2UKhuvN_normal.jpeg",
+      "id" : 52691012,
+      "verified" : false
+    }
+  },
+  "id" : 19258321107,
+  "created_at" : "2010-07-23 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u308A\u3085\u3046",
+      "screen_name" : "ryuu_key",
+      "indices" : [ 0, 9 ],
+      "id_str" : "106477287",
+      "id" : 106477287
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19258302316",
+  "geo" : { },
+  "id_str" : "19258655115",
+  "in_reply_to_user_id" : 106477287,
+  "text" : "@ryuu_key \u3082\u3063\u3068\uFF01\u3082\u3063\u3068\u79C1\u3092\u3044\u3058\u3063\u3066\u3047\uFF01\u30E9\u30B8\u30AA",
+  "id" : 19258655115,
+  "in_reply_to_status_id" : 19258302316,
+  "created_at" : "2010-07-23 00:00:00 +0000",
+  "in_reply_to_screen_name" : "ryuu_key",
+  "in_reply_to_user_id_str" : "106477287",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u308A\u3085\u3046",
+      "screen_name" : "ryuu_key",
+      "indices" : [ 0, 9 ],
+      "id_str" : "106477287",
+      "id" : 106477287
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19258953388",
+  "geo" : { },
+  "id_str" : "19259383855",
+  "in_reply_to_user_id" : 106477287,
+  "text" : "@ryuu_key \u5F53\u305F\u3063\u3066\uFF01\u7815\u3051\u3066\uFF01\u5F04\u3089\u308C\u3066\uFF01\u308A\u3085\u3046\u308A\u3085\u3046\u30E9\u30B8\u30AA\uFF01",
+  "id" : 19259383855,
+  "in_reply_to_status_id" : 19258953388,
+  "created_at" : "2010-07-23 00:00:00 +0000",
+  "in_reply_to_screen_name" : "ryuu_key",
+  "in_reply_to_user_id_str" : "106477287",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u99AC\u5834\u9686\u535A",
+      "screen_name" : "vavasyatyou",
+      "indices" : [ 50, 62 ],
+      "id_str" : "45341400",
+      "id" : 45341400
+    }, {
+      "name" : "\u99AC\u5834\u9686\u535A",
+      "screen_name" : "vavasyatyou",
+      "indices" : [ 87, 99 ],
+      "id_str" : "45341400",
+      "id" : 45341400
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19259542564",
+  "text" : "\u793E\u9577\u304C\u6211\u304C\u5B50\u306E\u69D8\u306B\u53EF\u611B\u304C\u3063\u3066\u308B\u81EA\u793E\u88FD\u54C1\u30AD\u30E3\u30E9\u306E\u8A95\u751F\u65E5\u3092\u5FD8\u308C\u308B\u306A\u3093\u3066\u30FB\u30FB\u30FB\u4F55\u304B\u3042\u3063\u305F\u3093\u3067\u3059\u304B\uFF1FRT: @vavasyatyou: \u30DB\u30F3\u30C8\u3060\uFF01\u5FD8\u308C\u3066\u305F\uFF01RT @sacri25: @vavasyatyou \u3082\u3046\u3059\u3050\u89B3\u9234\u3061\u3093\u306E\u8A95\u751F\u65E5\u3067\u3059\u306D\u793E\u9577\uFF01",
+  "id" : 19259542564,
+  "created_at" : "2010-07-23 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u308A\u3085\u3046",
+      "screen_name" : "ryuu_key",
+      "indices" : [ 34, 43 ],
+      "id_str" : "106477287",
+      "id" : 106477287
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "misuzu0723",
+      "indices" : [ 81, 92 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19261361566",
+  "text" : "\u304A\u3081\u3063\u3068\u3055\u3093\uFF01RT: @Johnny_nm7: \u304A\u3081\u3067\u3068\u3046\uFF01 RT @ryuu_key: \u89B3\u9234\u3061\u3093\u8A95\u751F\u65E5\u304A\u3081\u3067\u3068\u30FC\u30FC\u30FC\uFF01 \u304C\u3049\u30FC\u30FC\u30FC\u30FC\u30FC\u30FC\u30FC\u30FC\u30FC\u30FC\u30FC\u30FC\u30FC\uFF01\uFF01\uFF01\uFF01 #misuzu0723",
+  "id" : 19261361566,
+  "created_at" : "2010-07-23 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u308A\u304D\u304A",
+      "screen_name" : "rikio0505",
+      "indices" : [ 8, 18 ],
+      "id_str" : "74137135",
+      "id" : 74137135
+    }, {
+      "name" : "aozora",
+      "screen_name" : "yosiss",
+      "indices" : [ 63, 70 ],
+      "id_str" : "555701687",
+      "id" : 555701687
+    }, {
+      "name" : "\u308A\u304D\u304A",
+      "screen_name" : "rikio0505",
+      "indices" : [ 72, 82 ],
+      "id_str" : "74137135",
+      "id" : 74137135
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19261647272",
+  "text" : "\uFF77\uFF9E\uFF78\uFF6FRT: @rikio0505: CLANNAD\u4EE5\u964D\u3068\u304B\u30EA\u30C8\u30D0\u30B9\u304B\u3089\u5165\u3063\u305F\u4EBA\u306A\u3089\u3084\u3063\u3066\u306A\u3044\u53EF\u80FD\u6027\u3082\u3042\u308B\u306E\u3067\u3059\u3088\u3002 RT @yosiss: @rikio0505 \u30B2\u30FC\u30E0\u3084\u3063\u3066\u306A\u3044\u6642\u70B9\u3067\u305D\u308C\u306F\u9375\u3063\u5B50\u306A\u306E\u304B\uFF1F\u3063\u3066\u60F3\u3044\u307E\u3059\u3051\u3069",
+  "id" : 19261647272,
+  "created_at" : "2010-07-23 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "misuzu0723",
+      "indices" : [ 26, 37 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19262000076",
+  "text" : "\u307F\u3059\u305A\u3061\u3093\u3001\u8A95\u751F\u65E5\u304A\u3081\u3067\u3068\u3046\uFF01\u304C\u3049\uFF01\u304C\u3049\uFF01\u304C\u3041\u3049\uFF01\u3000#misuzu0723",
+  "id" : 19262000076,
+  "created_at" : "2010-07-23 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3010\u672C\u5384\u3011kefian",
+      "screen_name" : "kefian1go",
+      "indices" : [ 36, 46 ],
+      "id_str" : "58752234",
+      "id" : 58752234
+    }, {
+      "name" : "\u3073\u30FC",
+      "screen_name" : "bee4869",
+      "indices" : [ 91, 99 ],
+      "id_str" : "115598617",
+      "id" : 115598617
+    }, {
+      "name" : "\u3070\u3061",
+      "screen_name" : "bacchi_bacchi",
+      "indices" : [ 110, 124 ],
+      "id_str" : "101242756",
+      "id" : 101242756
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19262341424",
+  "text" : "\u2190\u82F1\u30FB\u6F223\u7D1ART: @Johnny_nm7: \u2190\u3000\u82F1\u691C\u6E962\u30FB\u6F22\u691C2RT @kefian1go    \u2190\u306A\u306B\u3082\u306A\u3044RT @nana7potter: \u2190\u5F13\u9053\u5F10\u6BB5\u30FB\u82F1\u691C\u6E962\u30FB\u6F22\u691C4\u7D1ART @bee4869: \u2190\u82F1\u691C\u6E962\u7D1ART @bacchi_bacchi \u2190\u82F1\u691C\u4E94\u7D1A",
+  "id" : 19262341424,
+  "created_at" : "2010-07-23 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "misuzu0723",
+      "indices" : [ 27, 38 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19262529648",
+  "text" : "\u3055\u3066\u3001\u3053\u308C\u306F\u4ECA\u65E5\u306E7\u664223\u5206\u306E\u793E\u9577\u306E\u30C4\u30A4\u30FC\u30C8\u304C\u898B\u7269\u3002 #misuzu0723",
+  "id" : 19262529648,
+  "created_at" : "2010-07-23 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -16305,13 +16625,13 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)",
+      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)\u306E\u30D5\u30EC\u30F3\u30BA",
       "screen_name" : "niconicokikka",
       "indices" : [ 0, 14 ],
       "id_str" : "36291433",
       "id" : 36291433
     }, {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 27, 41 ],
       "id_str" : "3322453124",
@@ -16474,57 +16794,6 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3044\u3044\u306D",
-      "screen_name" : "hiyorineko",
-      "indices" : [ 3, 14 ],
-      "id_str" : "25079083",
-      "id" : 25079083
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19340099681",
-  "text" : "RT @hiyorineko: \u3055\u3064\u304D\u300C\u96FB\u8A71\u8CB8\u3057\u3066\u304F\u3060\u3055\u3044\uFF01\u300D \u304A\u3070\u3042\u3061\u3083\u3093\u300CApple\u793E\u306E\u8A87\u308B\u6700\u65B0\u306E\u30B9\u30DE\u30FC\u30C8\u30D5\u30A9\u30F3\u3001\u30DE\u30EB\u30C1\u30BF\u30B9\u30AF\u3084VoiceOver\u6A5F\u80FD\u306B\u5BFE\u5FDC\u3057iPad\u3067\u304A\u99B4\u67D3\u307F\u306EA4\u30D7\u30ED\u30BB\u30C3\u30B5\u306E\u9AD8\u901F\u51E6\u7406\u3001\u500D\u306B\u306A\u3063\u305FRAM\u3001\u66F4\u306B\u304D\u3081\u7D30\u304B\u304F\u306A\u3063\u305F\u6DB2\u6676\u306EiPhone4\u3092\u662F\u975E ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "19339028880",
-    "text" : "\u3055\u3064\u304D\u300C\u96FB\u8A71\u8CB8\u3057\u3066\u304F\u3060\u3055\u3044\uFF01\u300D \u304A\u3070\u3042\u3061\u3083\u3093\u300CApple\u793E\u306E\u8A87\u308B\u6700\u65B0\u306E\u30B9\u30DE\u30FC\u30C8\u30D5\u30A9\u30F3\u3001\u30DE\u30EB\u30C1\u30BF\u30B9\u30AF\u3084VoiceOver\u6A5F\u80FD\u306B\u5BFE\u5FDC\u3057iPad\u3067\u304A\u99B4\u67D3\u307F\u306EA4\u30D7\u30ED\u30BB\u30C3\u30B5\u306E\u9AD8\u901F\u51E6\u7406\u3001\u500D\u306B\u306A\u3063\u305FRAM\u3001\u66F4\u306B\u304D\u3081\u7D30\u304B\u304F\u306A\u3063\u305F\u6DB2\u6676\u306EiPhone4\u3092\u662F\u975E\u4F53\u9A13\u3057\u3066\u304F\u3060\u3055\u3044\u300D",
-    "id" : 19339028880,
-    "created_at" : "2010-07-23 13:27:47 +0000",
-    "user" : {
-      "name" : "\u3044\u3044\u306D",
-      "screen_name" : "hiyorineko",
-      "protected" : false,
-      "id_str" : "25079083",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/741431183884484609\/uExQJGPZ_normal.jpg",
-      "id" : 25079083,
-      "verified" : false
-    }
-  },
-  "id" : 19340099681,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -16615,7 +16884,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "96145178",
       "id" : 96145178
     }, {
-      "name" : "\u98DF\u7528\u3048\u306B\u3057",
+      "name" : "\u3048\u306B\u3057",
       "screen_name" : "enishi55",
       "indices" : [ 33, 42 ],
       "id_str" : "61803717",
@@ -17059,7 +17328,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)",
+      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)\u306E\u30D5\u30EC\u30F3\u30BA",
       "screen_name" : "niconicokikka",
       "indices" : [ 0, 14 ],
       "id_str" : "36291433",
@@ -17169,7 +17438,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liv",
+      "name" : "\/\/",
       "screen_name" : "AsakoSenpai",
       "indices" : [ 0, 12 ],
       "id_str" : "2764468667",
@@ -17227,111 +17496,6 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u304D\u304A",
-      "screen_name" : "rikio0505",
-      "indices" : [ 7, 17 ],
-      "id_str" : "74137135",
-      "id" : 74137135
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19351946003",
-  "text" : "\u78BA\u304B\u306BRT: @rikio0505: \u99AC\u5834\u793E\u9577\u306E\u300E\u307F\u3093\u306A\u300F\u3068\u306F\u8AB0\u306A\u306E\u304B",
-  "id" : 19351946003,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30C9\u30E9\u30B4",
-      "screen_name" : "doragonism",
-      "indices" : [ 0, 11 ],
-      "id_str" : "119367267",
-      "id" : 119367267
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19352004259",
-  "geo" : { },
-  "id_str" : "19352397767",
-  "in_reply_to_user_id" : 119367267,
-  "text" : "@doragonism \u304A\u3000\u3084\u3000\u3059\u3000\u307F",
-  "id" : 19352397767,
-  "in_reply_to_status_id" : 19352004259,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "in_reply_to_screen_name" : "doragonism",
-  "in_reply_to_user_id_str" : "119367267",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19353696686",
-  "text" : "\u3046\u304A\u3001\u3061\u3087\u3063\u3068\uFF50\uFF43\u306E\u8FD1\u304F\u306B\u3042\u3063\u305F\u65B0\u805E\u3069\u304B\u3057\u305F\u3060\u3051\u3067\uFF50\uFF43\u30D5\u30A1\u30F3\u306E\u97F3\u304C\u9759\u304B\u306B\u306A\u3063\u305F\u3002\u3000\u3084\u3063\u3071\u6392\u71B1\u554F\u984C\u30B7\u30AB\u30C8\u3057\u3066\u308B\u306E\u306F\u30C0\u30E1\u3060\u3088\u306A\u3041",
-  "id" : 19353696686,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19355806026",
-  "text" : "\u3055\u3066\u5BDD\u3088\u3046\u3002\u3068\u3044\u3046\u304BK\u3055\u3093\u308F\u3075\u305F\u30FC\u3069\u3093\u306A\u901F\u5EA6\u3067\u9032\u3081\u305F\u3093\u3060\u30FB\u30FB\u30FB\uFF1F",
-  "id" : 19355806026,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -17357,7 +17521,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 7, 21 ],
       "id_str" : "3322453124",
@@ -17388,7 +17552,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -17493,7 +17657,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 8, 22 ],
       "id_str" : "3322453124",
@@ -17894,10 +18058,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19247721304",
-  "text" : "\u4ECA\u304B\u3089\u5E30\u308A\u307E\u3059\u3002\u305D\u3053\u304B\u3089\u66F4\u306B\u51FA\u639B\u3051\u306A\u3044\u3068",
-  "id" : 19247721304,
-  "created_at" : "2010-07-23 00:00:00 +0000",
+  "id_str" : "19052552320",
+  "text" : "\u3042\u3061\u3044\u3002\u3082\u3046\u305D\u308D\u305D\u308D\u3057\u305F\u3089\u5E30\u308D\u3046\u304B\u306A",
+  "id" : 19052552320,
+  "created_at" : "2010-07-21 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -17908,7 +18072,7 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -17916,10 +18080,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19257909357",
-  "text" : "\uFF50\uFF43\u8D77\u52D5\u306A\u3046",
-  "id" : 19257909357,
-  "created_at" : "2010-07-23 00:00:00 +0000",
+  "id_str" : "19054233765",
+  "text" : "\u5E30\u5B85\uFF01 \u4ECA\u65E5\u3082\u6691\u3044\u3067\u3059\u306D\uFF01",
+  "id" : 19054233765,
+  "created_at" : "2010-07-21 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -17933,319 +18097,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u900F\u660E\u30E9\u30F3\u30CA\u30FC",
-      "screen_name" : "_k18",
-      "indices" : [ 3, 8 ],
-      "id_str" : "52691012",
-      "id" : 52691012
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19258321107",
-  "text" : "RT @_k18: \u300C\u300E\u30C7\u30A3\u30BA\u30CB\u30FC\u30C8\u30E9\u30F3\u30C9\u3078\u3088\u3046\u3053\u305D\uFF01\u50D5\u306F\u30D2\u30C3\u30AD\u30FC\u3060\u30E8\u300F\u300E\u3042\u305F\u3057\u306F\u30DF\u30CB\u30FC\u30C8\u3088\u300F\u300E\u50D5\u306F\u30D7\u30FC\u3055\u3093\u3060\u3088\u300F\u300D",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/yubitter.com\/\" rel=\"nofollow\"\u003Eyubitter\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "19093229189",
-    "text" : "\u300C\u300E\u30C7\u30A3\u30BA\u30CB\u30FC\u30C8\u30E9\u30F3\u30C9\u3078\u3088\u3046\u3053\u305D\uFF01\u50D5\u306F\u30D2\u30C3\u30AD\u30FC\u3060\u30E8\u300F\u300E\u3042\u305F\u3057\u306F\u30DF\u30CB\u30FC\u30C8\u3088\u300F\u300E\u50D5\u306F\u30D7\u30FC\u3055\u3093\u3060\u3088\u300F\u300D",
-    "id" : 19093229189,
-    "created_at" : "2010-07-21 17:36:12 +0000",
-    "user" : {
-      "name" : "\u900F\u660E\u30E9\u30F3\u30CA\u30FC",
-      "screen_name" : "_k18",
-      "protected" : false,
-      "id_str" : "52691012",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549951797322711041\/W2UKhuvN_normal.jpeg",
-      "id" : 52691012,
-      "verified" : false
-    }
-  },
-  "id" : 19258321107,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u3085\u3046",
-      "screen_name" : "ryuu_key",
-      "indices" : [ 0, 9 ],
-      "id_str" : "106477287",
-      "id" : 106477287
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19258302316",
-  "geo" : { },
-  "id_str" : "19258655115",
-  "in_reply_to_user_id" : 106477287,
-  "text" : "@ryuu_key \u3082\u3063\u3068\uFF01\u3082\u3063\u3068\u79C1\u3092\u3044\u3058\u3063\u3066\u3047\uFF01\u30E9\u30B8\u30AA",
-  "id" : 19258655115,
-  "in_reply_to_status_id" : 19258302316,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ryuu_key",
-  "in_reply_to_user_id_str" : "106477287",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u3085\u3046",
-      "screen_name" : "ryuu_key",
-      "indices" : [ 0, 9 ],
-      "id_str" : "106477287",
-      "id" : 106477287
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19258953388",
-  "geo" : { },
-  "id_str" : "19259383855",
-  "in_reply_to_user_id" : 106477287,
-  "text" : "@ryuu_key \u5F53\u305F\u3063\u3066\uFF01\u7815\u3051\u3066\uFF01\u5F04\u3089\u308C\u3066\uFF01\u308A\u3085\u3046\u308A\u3085\u3046\u30E9\u30B8\u30AA\uFF01",
-  "id" : 19259383855,
-  "in_reply_to_status_id" : 19258953388,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ryuu_key",
-  "in_reply_to_user_id_str" : "106477287",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u99AC\u5834\u9686\u535A",
-      "screen_name" : "vavasyatyou",
-      "indices" : [ 50, 62 ],
-      "id_str" : "45341400",
-      "id" : 45341400
-    }, {
-      "name" : "\u99AC\u5834\u9686\u535A",
-      "screen_name" : "vavasyatyou",
-      "indices" : [ 87, 99 ],
-      "id_str" : "45341400",
-      "id" : 45341400
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19259542564",
-  "text" : "\u793E\u9577\u304C\u6211\u304C\u5B50\u306E\u69D8\u306B\u53EF\u611B\u304C\u3063\u3066\u308B\u81EA\u793E\u88FD\u54C1\u30AD\u30E3\u30E9\u306E\u8A95\u751F\u65E5\u3092\u5FD8\u308C\u308B\u306A\u3093\u3066\u30FB\u30FB\u30FB\u4F55\u304B\u3042\u3063\u305F\u3093\u3067\u3059\u304B\uFF1FRT: @vavasyatyou: \u30DB\u30F3\u30C8\u3060\uFF01\u5FD8\u308C\u3066\u305F\uFF01RT @sacri25: @vavasyatyou \u3082\u3046\u3059\u3050\u89B3\u9234\u3061\u3093\u306E\u8A95\u751F\u65E5\u3067\u3059\u306D\u793E\u9577\uFF01",
-  "id" : 19259542564,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u3085\u3046",
-      "screen_name" : "ryuu_key",
-      "indices" : [ 34, 43 ],
-      "id_str" : "106477287",
-      "id" : 106477287
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "misuzu0723",
-      "indices" : [ 81, 92 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19261361566",
-  "text" : "\u304A\u3081\u3063\u3068\u3055\u3093\uFF01RT: @Johnny_nm7: \u304A\u3081\u3067\u3068\u3046\uFF01 RT @ryuu_key: \u89B3\u9234\u3061\u3093\u8A95\u751F\u65E5\u304A\u3081\u3067\u3068\u30FC\u30FC\u30FC\uFF01 \u304C\u3049\u30FC\u30FC\u30FC\u30FC\u30FC\u30FC\u30FC\u30FC\u30FC\u30FC\u30FC\u30FC\u30FC\uFF01\uFF01\uFF01\uFF01 #misuzu0723",
-  "id" : 19261361566,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u304D\u304A",
-      "screen_name" : "rikio0505",
-      "indices" : [ 8, 18 ],
-      "id_str" : "74137135",
-      "id" : 74137135
-    }, {
-      "name" : "aozora",
-      "screen_name" : "yosiss",
-      "indices" : [ 63, 70 ],
-      "id_str" : "555701687",
-      "id" : 555701687
-    }, {
-      "name" : "\u308A\u304D\u304A",
-      "screen_name" : "rikio0505",
-      "indices" : [ 72, 82 ],
-      "id_str" : "74137135",
-      "id" : 74137135
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19261647272",
-  "text" : "\uFF77\uFF9E\uFF78\uFF6FRT: @rikio0505: CLANNAD\u4EE5\u964D\u3068\u304B\u30EA\u30C8\u30D0\u30B9\u304B\u3089\u5165\u3063\u305F\u4EBA\u306A\u3089\u3084\u3063\u3066\u306A\u3044\u53EF\u80FD\u6027\u3082\u3042\u308B\u306E\u3067\u3059\u3088\u3002 RT @yosiss: @rikio0505 \u30B2\u30FC\u30E0\u3084\u3063\u3066\u306A\u3044\u6642\u70B9\u3067\u305D\u308C\u306F\u9375\u3063\u5B50\u306A\u306E\u304B\uFF1F\u3063\u3066\u60F3\u3044\u307E\u3059\u3051\u3069",
-  "id" : 19261647272,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "misuzu0723",
-      "indices" : [ 26, 37 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19262000076",
-  "text" : "\u307F\u3059\u305A\u3061\u3093\u3001\u8A95\u751F\u65E5\u304A\u3081\u3067\u3068\u3046\uFF01\u304C\u3049\uFF01\u304C\u3049\uFF01\u304C\u3041\u3049\uFF01\u3000#misuzu0723",
-  "id" : 19262000076,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u9B31\u30B5\u30D0\u30A4\u30D0\u30FC",
-      "screen_name" : "kefian1go",
-      "indices" : [ 36, 46 ],
-      "id_str" : "58752234",
-      "id" : 58752234
-    }, {
-      "name" : "\u3073\u30FC",
-      "screen_name" : "bee4869",
-      "indices" : [ 91, 99 ],
-      "id_str" : "115598617",
-      "id" : 115598617
-    }, {
-      "name" : "\u3070\u3061",
-      "screen_name" : "bacchi_bacchi",
-      "indices" : [ 110, 124 ],
-      "id_str" : "101242756",
-      "id" : 101242756
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19262341424",
-  "text" : "\u2190\u82F1\u30FB\u6F223\u7D1ART: @Johnny_nm7: \u2190\u3000\u82F1\u691C\u6E962\u30FB\u6F22\u691C2RT @kefian1go    \u2190\u306A\u306B\u3082\u306A\u3044RT @nana7potter: \u2190\u5F13\u9053\u5F10\u6BB5\u30FB\u82F1\u691C\u6E962\u30FB\u6F22\u691C4\u7D1ART @bee4869: \u2190\u82F1\u691C\u6E962\u7D1ART @bacchi_bacchi \u2190\u82F1\u691C\u4E94\u7D1A",
-  "id" : 19262341424,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "misuzu0723",
-      "indices" : [ 27, 38 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19262529648",
-  "text" : "\u3055\u3066\u3001\u3053\u308C\u306F\u4ECA\u65E5\u306E7\u664223\u5206\u306E\u793E\u9577\u306E\u30C4\u30A4\u30FC\u30C8\u304C\u898B\u7269\u3002 #misuzu0723",
-  "id" : 19262529648,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -18334,7 +18186,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
       "screen_name" : "erogewota",
       "indices" : [ 8, 18 ],
       "id_str" : "50268644",
@@ -18667,7 +18519,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "donpy",
       "protected" : false,
       "id_str" : "14817108",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/754721505087414273\/B-94co8Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/834712697153282048\/o4ZERW-U_normal.jpg",
       "id" : 14817108,
       "verified" : false
     }
@@ -18687,13 +18539,13 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liv",
+      "name" : "\/\/",
       "screen_name" : "AsakoSenpai",
       "indices" : [ 0, 12 ],
       "id_str" : "2764468667",
       "id" : 2764468667
     }, {
-      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)",
+      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)\u306E\u30D5\u30EC\u30F3\u30BA",
       "screen_name" : "niconicokikka",
       "indices" : [ 13, 27 ],
       "id_str" : "36291433",
@@ -18779,7 +18631,7 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -18787,10 +18639,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19052552320",
-  "text" : "\u3042\u3061\u3044\u3002\u3082\u3046\u305D\u308D\u305D\u308D\u3057\u305F\u3089\u5E30\u308D\u3046\u304B\u306A",
-  "id" : 19052552320,
-  "created_at" : "2010-07-21 00:00:00 +0000",
+  "id_str" : "19001208210",
+  "text" : "why_tathibana\u306F\u300E\u81EA\u7136\u4FDD\u8B77\u5B98\u306B\u306A\u308A\u3001\u5E74\u53CE\u306F90\u4E07\u5186\u3067\u3001\u7D75\u672C\u4F5C\u5BB6\u306E\u4EBA\u306847\u6B73\u3067\u7D50\u5A5A\u3057\u307E\u3059\u3002 http:\/\/shindanmaker.com\/33748",
+  "id" : 19001208210,
+  "created_at" : "2010-07-20 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -18801,7 +18653,254 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "asli",
+      "screen_name" : "aslite",
+      "indices" : [ 0, 7 ],
+      "id_str" : "333348256",
+      "id" : 333348256
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19001209480",
+  "geo" : { },
+  "id_str" : "19001320786",
+  "in_reply_to_user_id" : 97555953,
+  "text" : "@aslite \u5929\u4F7F\u3061\u3083\u3093\u3061\u3085\u3063\u3061\u3085\uFF01",
+  "id" : 19001320786,
+  "in_reply_to_status_id" : 19001209480,
+  "created_at" : "2010-07-20 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Sorairo_as",
+  "in_reply_to_user_id_str" : "97555953",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u795E\u4E3B\u3042\u3093\u3071\u3093",
+      "screen_name" : "kannusiAP",
+      "indices" : [ 0, 10 ],
+      "id_str" : "101756063",
+      "id" : 101756063
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19001340219",
+  "geo" : { },
+  "id_str" : "19001420134",
+  "in_reply_to_user_id" : 101756063,
+  "text" : "@kannusiAP \u304A\u3084\u3059\u307F\u306A\u3055\u30FC\u3044",
+  "id" : 19001420134,
+  "in_reply_to_status_id" : 19001340219,
+  "created_at" : "2010-07-20 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kannusiAP",
+  "in_reply_to_user_id_str" : "101756063",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3055\u304F\u3089\u3041",
+      "screen_name" : "autumncherry",
+      "indices" : [ 0, 13 ],
+      "id_str" : "109654734",
+      "id" : 109654734
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19001238387",
+  "geo" : { },
+  "id_str" : "19001445030",
+  "in_reply_to_user_id" : 109654734,
+  "text" : "@autumncherry \u307E\u3063\u305F\u304F\u3060\u3088\u2026(\uFF1B\u00B4\u0414\uFF40)\uFF73\uFF73\uFF6F\u2026",
+  "id" : 19001445030,
+  "in_reply_to_status_id" : 19001238387,
+  "created_at" : "2010-07-20 00:00:00 +0000",
+  "in_reply_to_screen_name" : "autumncherry",
+  "in_reply_to_user_id_str" : "109654734",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
+      "screen_name" : "erogewota",
+      "indices" : [ 3, 13 ],
+      "id_str" : "50268644",
+      "id" : 50268644
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19003188116",
+  "text" : "RT @erogewota: \u30AA\u30CA\u30CB\u30FC\u899A\u3048\u305F\u3066\u306E\u5C11\u5973\u306E\u30AA\u30CA\u30CB\u30FC\u304C\u898B\u305F\u3044",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "19003117742",
+    "text" : "\u30AA\u30CA\u30CB\u30FC\u899A\u3048\u305F\u3066\u306E\u5C11\u5973\u306E\u30AA\u30CA\u30CB\u30FC\u304C\u898B\u305F\u3044",
+    "id" : 19003117742,
+    "created_at" : "2010-07-20 15:45:21 +0000",
+    "user" : {
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
+      "screen_name" : "erogewota",
+      "protected" : false,
+      "id_str" : "50268644",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/834720434645897218\/bUGGML4O_normal.jpg",
+      "id" : 50268644,
+      "verified" : false
+    }
+  },
+  "id" : 19003188116,
+  "created_at" : "2010-07-20 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uFF2B\u30FB\u60A0\u30FB\uFF28\uFF20\u30E2\u30D0\u30B3\u30A4\u30F3\u306B\u5451\u307E\u308C\u308B",
+      "screen_name" : "KH_TOKIDO",
+      "indices" : [ 0, 10 ],
+      "id_str" : "94539288",
+      "id" : 94539288
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19007276425",
+  "geo" : { },
+  "id_str" : "19007588594",
+  "in_reply_to_user_id" : 94539288,
+  "text" : "@KH_TOKIDO \uFF76\uFF9E\uFF80\uFF6F",
+  "id" : 19007588594,
+  "in_reply_to_status_id" : 19007276425,
+  "created_at" : "2010-07-20 00:00:00 +0000",
+  "in_reply_to_screen_name" : "KH_TOKIDO",
+  "in_reply_to_user_id_str" : "94539288",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uFF2B\u30FB\u60A0\u30FB\uFF28\uFF20\u30E2\u30D0\u30B3\u30A4\u30F3\u306B\u5451\u307E\u308C\u308B",
+      "screen_name" : "KH_TOKIDO",
+      "indices" : [ 0, 10 ],
+      "id_str" : "94539288",
+      "id" : 94539288
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19007626688",
+  "geo" : { },
+  "id_str" : "19007824995",
+  "in_reply_to_user_id" : 94539288,
+  "text" : "@KH_TOKIDO \u306A\u3041\u3001\u3053\u3093\u306A\u3093\u3067\u672C\u5F53\u306B\u3044\u3044\u306E\u304B\u3088\uFF1F\uFF08\u62BC\u3057\u5012\u3055\u308C\u306A\u304C\u3089",
+  "id" : 19007824995,
+  "in_reply_to_status_id" : 19007626688,
+  "created_at" : "2010-07-20 00:00:00 +0000",
+  "in_reply_to_screen_name" : "KH_TOKIDO",
+  "in_reply_to_user_id_str" : "94539288",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uFF2B\u30FB\u60A0\u30FB\uFF28\uFF20\u30E2\u30D0\u30B3\u30A4\u30F3\u306B\u5451\u307E\u308C\u308B",
+      "screen_name" : "KH_TOKIDO",
+      "indices" : [ 0, 10 ],
+      "id_str" : "94539288",
+      "id" : 94539288
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19009253963",
+  "in_reply_to_user_id" : 94539288,
+  "text" : "@KH_TOKIDO \u304A\uFF4B\u3001\u6B21\u306E\u30B7\u30FC\u30F3\u306F\u3069\u3093\u306A\u611F\u3058\u3060\u3044\uFF1F",
+  "id" : 19009253963,
+  "created_at" : "2010-07-20 00:00:00 +0000",
+  "in_reply_to_screen_name" : "KH_TOKIDO",
+  "in_reply_to_user_id_str" : "94539288",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -18809,10 +18908,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19054233765",
-  "text" : "\u5E30\u5B85\uFF01 \u4ECA\u65E5\u3082\u6691\u3044\u3067\u3059\u306D\uFF01",
-  "id" : 19054233765,
-  "created_at" : "2010-07-21 00:00:00 +0000",
+  "id_str" : "19010103763",
+  "text" : "\u306D\u307E\u30FC\u3059\uFF01",
+  "id" : 19010103763,
+  "created_at" : "2010-07-20 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -18848,7 +18947,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)",
+      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)\u306E\u30D5\u30EC\u30F3\u30BA",
       "screen_name" : "niconicokikka",
       "indices" : [ 0, 14 ],
       "id_str" : "36291433",
@@ -18884,69 +18983,6 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u5287\u56E3\u3075\u305F\u308A",
-      "screen_name" : "gekifuta",
-      "indices" : [ 3, 12 ],
-      "id_str" : "95939045",
-      "id" : 95939045
-    }, {
-      "name" : "eilene simons",
-      "screen_name" : "tamalagQL771x",
-      "indices" : [ 25, 39 ],
-      "id_str" : "168533420",
-      "id" : 168533420
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18972704568",
-  "text" : "RT @gekifuta: \u3010\u203B\u6CE8\u610F\u203B\u3011\u307F\u306A\u3055\u3093\u226A@tamalagQL771x\u226B \u2190\u3053\u306E\u30A2\u30AB\u30A6\u30F3\u30C8\u304B\u3089\u306E\u30EA\u30D7\u30E9\u30A4\u306B\u8A18\u8F09\u3055\u308C\u3066\u3044\u308BURL\u306F\u7D76\u5BFE\u306B\u30AF\u30EA\u30C3\u30AF\u3057\u306A\u3044\u3067\u304F\u3060\u3055\u3044\uFF01\u30A6\u30A4\u30EB\u30B9\u3067\u3059\uFF01\uFF01\u7121\u5DEE\u5225\u306B\u30EA\u30D7\u30E9\u30A4\u3057\u3066\u30A6\u30A4\u30EB\u30B9\u3070\u3089\u307E\u3044\u3066\u308B\u307F\u305F\u3044\u306A\u306E\u3067\u30D6\u30ED\u30C3\u30AF\u63A8\u5968\u3067\u3059\u3002(RT\u3067\u611F\u67D3\u9632\u6B62\u306B ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "eilene simons",
-        "screen_name" : "tamalagQL771x",
-        "indices" : [ 11, 25 ],
-        "id_str" : "168533420",
-        "id" : 168533420
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "18972408092",
-    "text" : "\u3010\u203B\u6CE8\u610F\u203B\u3011\u307F\u306A\u3055\u3093\u226A@tamalagQL771x\u226B \u2190\u3053\u306E\u30A2\u30AB\u30A6\u30F3\u30C8\u304B\u3089\u306E\u30EA\u30D7\u30E9\u30A4\u306B\u8A18\u8F09\u3055\u308C\u3066\u3044\u308BURL\u306F\u7D76\u5BFE\u306B\u30AF\u30EA\u30C3\u30AF\u3057\u306A\u3044\u3067\u304F\u3060\u3055\u3044\uFF01\u30A6\u30A4\u30EB\u30B9\u3067\u3059\uFF01\uFF01\u7121\u5DEE\u5225\u306B\u30EA\u30D7\u30E9\u30A4\u3057\u3066\u30A6\u30A4\u30EB\u30B9\u3070\u3089\u307E\u3044\u3066\u308B\u307F\u305F\u3044\u306A\u306E\u3067\u30D6\u30ED\u30C3\u30AF\u63A8\u5968\u3067\u3059\u3002(RT\u3067\u611F\u67D3\u9632\u6B62\u306B\u3054\u5354\u529B\u304A\u9858\u3044\u3057\u307E\u3059\u3002)",
-    "id" : 18972408092,
-    "created_at" : "2010-07-20 06:03:56 +0000",
-    "user" : {
-      "name" : "\u5287\u56E3\u3075\u305F\u308A",
-      "screen_name" : "gekifuta",
-      "protected" : false,
-      "id_str" : "95939045",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/647149657664024576\/5DMCCLuw_normal.jpg",
-      "id" : 95939045,
-      "verified" : false
-    }
-  },
-  "id" : 18972704568,
-  "created_at" : "2010-07-20 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -18970,7 +19006,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)",
+      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)\u306E\u30D5\u30EC\u30F3\u30BA",
       "screen_name" : "niconicokikka",
       "indices" : [ 0, 14 ],
       "id_str" : "36291433",
@@ -19092,7 +19128,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u306A\u306A\u3072\u3089@3\u65E5\u76EE \u897Fa-46b",
+      "name" : "\u306A\u306A\u3072\u3089",
       "screen_name" : "nanahira",
       "indices" : [ 0, 9 ],
       "id_str" : "231926590",
@@ -19373,7 +19409,65 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
+      "screen_name" : "minardikaivbx",
+      "indices" : [ 0, 14 ],
+      "id_str" : "66997484",
+      "id" : 66997484
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18894789961",
+  "geo" : { },
+  "id_str" : "18895072837",
+  "in_reply_to_user_id" : 66997484,
+  "text" : "@minardikaivbx \u30C9\u30AD\u30C3\uFF01\u91CE\u90CE\u3060\u3089\u3051\u306E\u6A5F\u68B0\u5BFE\u6C7A",
+  "id" : 18895072837,
+  "in_reply_to_status_id" : 18894789961,
+  "created_at" : "2010-07-19 00:00:00 +0000",
+  "in_reply_to_screen_name" : "minardikaivbx",
+  "in_reply_to_user_id_str" : "66997484",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.nicovideo.jp\/\" rel=\"nofollow\"\u003Eniconico \u30CB\u30B3\u30EC\u30DD\u9023\u643A\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "lv21926272",
+      "indices" : [ 44, 55 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18895841244",
+  "text" : "\u3010\u751F\u653E\u9001\u3011\u30C6\u30B9\u30C8 \u3092\u958B\u59CB\u3057\u307E\u3057\u305F\u3002 http:\/\/nico.ms\/lv21926272 #lv21926272",
+  "id" : 18895841244,
+  "created_at" : "2010-07-19 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -19381,10 +19475,121 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19001208210",
-  "text" : "why_tathibana\u306F\u300E\u81EA\u7136\u4FDD\u8B77\u5B98\u306B\u306A\u308A\u3001\u5E74\u53CE\u306F90\u4E07\u5186\u3067\u3001\u7D75\u672C\u4F5C\u5BB6\u306E\u4EBA\u306847\u6B73\u3067\u7D50\u5A5A\u3057\u307E\u3059\u3002 http:\/\/shindanmaker.com\/33748",
-  "id" : 19001208210,
-  "created_at" : "2010-07-20 00:00:00 +0000",
+  "id_str" : "18896314939",
+  "text" : "\u30A4\u30B1\u30E1\u30F3\u30DC\u30A4\u30B9\u304C\u4F55\u3092\u5165\u3063\u3066\u308B\u3093\u3060\u3044RT: @coill929: \u30A4\u30B1\u30E1\u30F3\u30DC\u30A4\u30B9\u306F\u7279\u3060\u3088\u306A\u301C",
+  "id" : 18896314939,
+  "created_at" : "2010-07-19 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18896626848",
+  "text" : "\u587E\u884C\u3063\u3066\u304F\u308B\uFF01",
+  "id" : 18896626848,
+  "created_at" : "2010-07-19 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18913945397",
+  "text" : "\u305F\u3060\u3044\u307E\u30FC",
+  "id" : 18913945397,
+  "created_at" : "2010-07-19 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "hinaki",
+      "screen_name" : "Hinaki03",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2757041808",
+      "id" : 2757041808
+    }, {
+      "name" : "andrea smith",
+      "screen_name" : "reinbow11",
+      "indices" : [ 10, 20 ],
+      "id_str" : "764430506",
+      "id" : 764430506
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18914099341",
+  "geo" : { },
+  "id_str" : "18914335527",
+  "in_reply_to_user_id" : 100762060,
+  "text" : "@hinaki03 @reinbow11 @Johnny_nm7 \u305F\u3060\u3044\u307E\u30FC",
+  "id" : 18914335527,
+  "in_reply_to_status_id" : 18914099341,
+  "created_at" : "2010-07-19 00:00:00 +0000",
+  "in_reply_to_screen_name" : "hina9533",
+  "in_reply_to_user_id_str" : "100762060",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u5BAE\u65B9 \u7720",
+      "screen_name" : "mirufi_0714",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1227653384",
+      "id" : 1227653384
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18914866454",
+  "text" : "@mirufi_0714 \u304A\u3084\u3059\uFF01",
+  "id" : 18914866454,
+  "created_at" : "2010-07-19 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -19398,26 +19603,43 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "asli",
-      "screen_name" : "aslite",
-      "indices" : [ 0, 7 ],
-      "id_str" : "333348256",
-      "id" : 333348256
+      "name" : "\u308A\u3085\u3046",
+      "screen_name" : "ryuu_key",
+      "indices" : [ 16, 25 ],
+      "id_str" : "106477287",
+      "id" : 106477287
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "19001209480",
   "geo" : { },
-  "id_str" : "19001320786",
-  "in_reply_to_user_id" : 97555953,
-  "text" : "@aslite \u5929\u4F7F\u3061\u3083\u3093\u3061\u3085\u3063\u3061\u3085\uFF01",
-  "id" : 19001320786,
-  "in_reply_to_status_id" : 19001209480,
-  "created_at" : "2010-07-20 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Sorairo_as",
-  "in_reply_to_user_id_str" : "97555953",
+  "id_str" : "18915179913",
+  "text" : "\u308A\u3085\u3046\u3055\u3093\u3092\u5F04\u308A\u5012\u3059\u3068\u805E\u3044\u3066 (@ryuu_key live at http:\/\/ustre.am\/l3lv )",
+  "id" : 18915179913,
+  "created_at" : "2010-07-19 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18915207017",
+  "text" : "@daiflux \u304A\u304B\u30FC\uFF01",
+  "id" : 18915207017,
+  "created_at" : "2010-07-19 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -19431,87 +19653,21 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u795E\u4E3B\u3042\u3093\u3071\u3093",
-      "screen_name" : "kannusiAP",
-      "indices" : [ 0, 10 ],
-      "id_str" : "101756063",
-      "id" : 101756063
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19001340219",
-  "geo" : { },
-  "id_str" : "19001420134",
-  "in_reply_to_user_id" : 101756063,
-  "text" : "@kannusiAP \u304A\u3084\u3059\u307F\u306A\u3055\u30FC\u3044",
-  "id" : 19001420134,
-  "in_reply_to_status_id" : 19001340219,
-  "created_at" : "2010-07-20 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kannusiAP",
-  "in_reply_to_user_id_str" : "101756063",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3055\u304F\u3089\u3041",
-      "screen_name" : "autumncherry",
-      "indices" : [ 0, 13 ],
-      "id_str" : "109654734",
-      "id" : 109654734
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19001238387",
-  "geo" : { },
-  "id_str" : "19001445030",
-  "in_reply_to_user_id" : 109654734,
-  "text" : "@autumncherry \u307E\u3063\u305F\u304F\u3060\u3088\u2026(\uFF1B\u00B4\u0414\uFF40)\uFF73\uFF73\uFF6F\u2026",
-  "id" : 19001445030,
-  "in_reply_to_status_id" : 19001238387,
-  "created_at" : "2010-07-20 00:00:00 +0000",
-  "in_reply_to_screen_name" : "autumncherry",
-  "in_reply_to_user_id_str" : "109654734",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
-      "screen_name" : "erogewota",
-      "indices" : [ 3, 13 ],
-      "id_str" : "50268644",
-      "id" : 50268644
+      "name" : "penimama",
+      "screen_name" : "penimama",
+      "indices" : [ 3, 12 ],
+      "id_str" : "27887422",
+      "id" : 27887422
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19003188116",
-  "text" : "RT @erogewota: \u30AA\u30CA\u30CB\u30FC\u899A\u3048\u305F\u3066\u306E\u5C11\u5973\u306E\u30AA\u30CA\u30CB\u30FC\u304C\u898B\u305F\u3044",
+  "id_str" : "18917193261",
+  "text" : "RT @penimama: \u501F\u308A\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u8CC3\u8CB8\u30DB\u30EF\u30A4\u30C8\uFF01\uFF09\u3000\u4E00\u4EBA\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u5B64\u72EC\u30D6\u30EB\u30FC\uFF01\uFF09\u3000\u5B9F\u5BB6\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u30D1\u30E9\u30B5\u30A4\u30C8\u30A4\u30A8\u30ED\u30FC\uFF01\uFF09\u3000\u5C45\u5019\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u80A9\u8EAB\u30D6\u30E9\u30C3\u30AF\uFF01\uFF09\u3000\u30ED\u30FC\u30F3\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u5BB6\u8A08\u30EC\u30C3\u30C9\uFF01\uFF09\u3000\uFF3C\u6211\u3089\uFF01\u4F4F ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -19519,141 +19675,22 @@ Grailbird.data.tweets_2010_07 =
       "urls" : [ ]
     },
     "geo" : { },
-    "id_str" : "19003117742",
-    "text" : "\u30AA\u30CA\u30CB\u30FC\u899A\u3048\u305F\u3066\u306E\u5C11\u5973\u306E\u30AA\u30CA\u30CB\u30FC\u304C\u898B\u305F\u3044",
-    "id" : 19003117742,
-    "created_at" : "2010-07-20 15:45:21 +0000",
+    "id_str" : "18661850630",
+    "text" : "\u501F\u308A\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u8CC3\u8CB8\u30DB\u30EF\u30A4\u30C8\uFF01\uFF09\u3000\u4E00\u4EBA\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u5B64\u72EC\u30D6\u30EB\u30FC\uFF01\uFF09\u3000\u5B9F\u5BB6\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u30D1\u30E9\u30B5\u30A4\u30C8\u30A4\u30A8\u30ED\u30FC\uFF01\uFF09\u3000\u5C45\u5019\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u80A9\u8EAB\u30D6\u30E9\u30C3\u30AF\uFF01\uFF09\u3000\u30ED\u30FC\u30F3\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u5BB6\u8A08\u30EC\u30C3\u30C9\uFF01\uFF09\u3000\uFF3C\u6211\u3089\uFF01\u4F4F\u5B85\u6226\u968A\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF0F",
+    "id" : 18661850630,
+    "created_at" : "2010-07-16 05:22:23 +0000",
     "user" : {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
-      "screen_name" : "erogewota",
+      "name" : "penimama",
+      "screen_name" : "penimama",
       "protected" : false,
-      "id_str" : "50268644",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748827590081650688\/bCIbmsBi_normal.jpg",
-      "id" : 50268644,
+      "id_str" : "27887422",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1723528613\/3-1794_normal.jpg",
+      "id" : 27887422,
       "verified" : false
     }
   },
-  "id" : 19003188116,
-  "created_at" : "2010-07-20 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uFF2B\u30FB\u60A0\u30FB\uFF28\uFF20\u30E2\u30D0\u30B3\u30A4\u30F3\u306B\u5451\u307E\u308C\u308B",
-      "screen_name" : "KH_TOKIDO",
-      "indices" : [ 0, 10 ],
-      "id_str" : "94539288",
-      "id" : 94539288
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19007276425",
-  "geo" : { },
-  "id_str" : "19007588594",
-  "in_reply_to_user_id" : 94539288,
-  "text" : "@KH_TOKIDO \uFF76\uFF9E\uFF80\uFF6F",
-  "id" : 19007588594,
-  "in_reply_to_status_id" : 19007276425,
-  "created_at" : "2010-07-20 00:00:00 +0000",
-  "in_reply_to_screen_name" : "KH_TOKIDO",
-  "in_reply_to_user_id_str" : "94539288",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uFF2B\u30FB\u60A0\u30FB\uFF28\uFF20\u30E2\u30D0\u30B3\u30A4\u30F3\u306B\u5451\u307E\u308C\u308B",
-      "screen_name" : "KH_TOKIDO",
-      "indices" : [ 0, 10 ],
-      "id_str" : "94539288",
-      "id" : 94539288
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19007626688",
-  "geo" : { },
-  "id_str" : "19007824995",
-  "in_reply_to_user_id" : 94539288,
-  "text" : "@KH_TOKIDO \u306A\u3041\u3001\u3053\u3093\u306A\u3093\u3067\u672C\u5F53\u306B\u3044\u3044\u306E\u304B\u3088\uFF1F\uFF08\u62BC\u3057\u5012\u3055\u308C\u306A\u304C\u3089",
-  "id" : 19007824995,
-  "in_reply_to_status_id" : 19007626688,
-  "created_at" : "2010-07-20 00:00:00 +0000",
-  "in_reply_to_screen_name" : "KH_TOKIDO",
-  "in_reply_to_user_id_str" : "94539288",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uFF2B\u30FB\u60A0\u30FB\uFF28\uFF20\u30E2\u30D0\u30B3\u30A4\u30F3\u306B\u5451\u307E\u308C\u308B",
-      "screen_name" : "KH_TOKIDO",
-      "indices" : [ 0, 10 ],
-      "id_str" : "94539288",
-      "id" : 94539288
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19009253963",
-  "in_reply_to_user_id" : 94539288,
-  "text" : "@KH_TOKIDO \u304A\uFF4B\u3001\u6B21\u306E\u30B7\u30FC\u30F3\u306F\u3069\u3093\u306A\u611F\u3058\u3060\u3044\uFF1F",
-  "id" : 19009253963,
-  "created_at" : "2010-07-20 00:00:00 +0000",
-  "in_reply_to_screen_name" : "KH_TOKIDO",
-  "in_reply_to_user_id_str" : "94539288",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19010103763",
-  "text" : "\u306D\u307E\u30FC\u3059\uFF01",
-  "id" : 19010103763,
-  "created_at" : "2010-07-20 00:00:00 +0000",
+  "id" : 18917193261,
+  "created_at" : "2010-07-19 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -19772,7 +19809,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E8B\u52D9\u54E1G\u30003\u65E5\u76EE\u897Fa33-a\u30EC\u30B7\u30D4\u672C",
+      "name" : "\u4E8B\u52D9\u54E1G\u30003\u6708\u5168\u56FD\u30C4\u30A2\u30FC\u767A\u58F2\u4E2D",
       "screen_name" : "ZimuinG",
       "indices" : [ 3, 11 ],
       "id_str" : "82340720",
@@ -19799,11 +19836,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18919594020,
     "created_at" : "2010-07-19 14:25:40 +0000",
     "user" : {
-      "name" : "\u4E8B\u52D9\u54E1G\u30003\u65E5\u76EE\u897Fa33-a\u30EC\u30B7\u30D4\u672C",
+      "name" : "\u4E8B\u52D9\u54E1G\u30003\u6708\u5168\u56FD\u30C4\u30A2\u30FC\u767A\u58F2\u4E2D",
       "screen_name" : "ZimuinG",
       "protected" : false,
       "id_str" : "82340720",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/622480787888189440\/GdRPZKMf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/830459910034841601\/5c0sT-dM_normal.jpg",
       "id" : 82340720,
       "verified" : false
     }
@@ -19823,7 +19860,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liv",
+      "name" : "\/\/",
       "screen_name" : "AsakoSenpai",
       "indices" : [ 4, 16 ],
       "id_str" : "2764468667",
@@ -19950,7 +19987,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AC\u30A4\u30DCGO",
+      "name" : "\u30AC\u30A4\u30DC\uFF08\u6709\uFF09",
       "screen_name" : "gaibo86",
       "indices" : [ 0, 8 ],
       "id_str" : "123141447",
@@ -19983,7 +20020,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AC\u30A4\u30DCGO",
+      "name" : "\u30AC\u30A4\u30DC\uFF08\u6709\uFF09",
       "screen_name" : "gaibo86",
       "indices" : [ 0, 8 ],
       "id_str" : "123141447",
@@ -20044,7 +20081,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AC\u30A4\u30DCGO",
+      "name" : "\u30AC\u30A4\u30DC\uFF08\u6709\uFF09",
       "screen_name" : "gaibo86",
       "indices" : [ 0, 8 ],
       "id_str" : "123141447",
@@ -20077,7 +20114,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 4, 16 ],
       "id_str" : "99437114",
@@ -20111,7 +20148,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 4, 16 ],
       "id_str" : "99437114",
@@ -20139,7 +20176,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -20172,7 +20209,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
+      "name" : "Fiona Paterson",
       "screen_name" : "tsukkun_555",
       "indices" : [ 0, 12 ],
       "id_str" : "99437114",
@@ -20305,7 +20342,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "74137135",
       "id" : 74137135
     }, {
-      "name" : "\u30AA\u30B6\u30EF\u30A2\u30AA\u30A4\uFF203\u65E5\u76EE\u30CC24b",
+      "name" : "\u30A2\u30AA\u30A4@\u52DD\u624B\u306B\u751F\u8A95\u796D\u4E2D",
       "screen_name" : "lain_aqua",
       "indices" : [ 50, 60 ],
       "id_str" : "87103698",
@@ -20317,7 +20354,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "74137135",
       "id" : 74137135
     }, {
-      "name" : "\u3064\u306E\u304C\u308F Jumping Heart",
+      "name" : "\u6298\u308C\u306A\u3044\u3064\u306E\u304C\u308F",
       "screen_name" : "angleriver",
       "indices" : [ 103, 114 ],
       "id_str" : "77215910",
@@ -20822,7 +20859,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "yuzu.",
+      "name" : "yuzu.\uFF3B\u6D6E\u4E0A\u4F4E\u4E0B\u4E2D\uFF3D",
       "screen_name" : "yuzu_69",
       "indices" : [ 3, 11 ],
       "id_str" : "95032651",
@@ -20849,7 +20886,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18893929036,
     "created_at" : "2010-07-19 05:42:14 +0000",
     "user" : {
-      "name" : "yuzu.",
+      "name" : "yuzu.\uFF3B\u6D6E\u4E0A\u4F4E\u4E0B\u4E2D\uFF3D",
       "screen_name" : "yuzu_69",
       "protected" : false,
       "id_str" : "95032651",
@@ -20906,51 +20943,26 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
-      "screen_name" : "minardikaivbx",
-      "indices" : [ 0, 14 ],
-      "id_str" : "66997484",
-      "id" : 66997484
+      "name" : "\u9ED2\u30D6\u30C1\u30E1\u30AC\u30CD",
+      "screen_name" : "_kurobuti",
+      "indices" : [ 0, 10 ],
+      "id_str" : "147256061",
+      "id" : 147256061
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "18894789961",
+  "in_reply_to_status_id_str" : "18805517492",
   "geo" : { },
-  "id_str" : "18895072837",
-  "in_reply_to_user_id" : 66997484,
-  "text" : "@minardikaivbx \u30C9\u30AD\u30C3\uFF01\u91CE\u90CE\u3060\u3089\u3051\u306E\u6A5F\u68B0\u5BFE\u6C7A",
-  "id" : 18895072837,
-  "in_reply_to_status_id" : 18894789961,
-  "created_at" : "2010-07-19 00:00:00 +0000",
-  "in_reply_to_screen_name" : "minardikaivbx",
-  "in_reply_to_user_id_str" : "66997484",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.nicovideo.jp\/\" rel=\"nofollow\"\u003Eniconico \u30CB\u30B3\u30EC\u30DD\u9023\u643A\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "lv21926272",
-      "indices" : [ 44, 55 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18895841244",
-  "text" : "\u3010\u751F\u653E\u9001\u3011\u30C6\u30B9\u30C8 \u3092\u958B\u59CB\u3057\u307E\u3057\u305F\u3002 http:\/\/nico.ms\/lv21926272 #lv21926272",
-  "id" : 18895841244,
-  "created_at" : "2010-07-19 00:00:00 +0000",
+  "id_str" : "18805614526",
+  "in_reply_to_user_id" : 147256061,
+  "text" : "@_kurobuti \u3044\u3063\u3066\u3089\u3063\u3057\u3083\u30FC\u3044",
+  "id" : 18805614526,
+  "in_reply_to_status_id" : 18805517492,
+  "created_at" : "2010-07-18 00:00:00 +0000",
+  "in_reply_to_screen_name" : "_kurobuti",
+  "in_reply_to_user_id_str" : "147256061",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -20969,10 +20981,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18896314939",
-  "text" : "\u30A4\u30B1\u30E1\u30F3\u30DC\u30A4\u30B9\u304C\u4F55\u3092\u5165\u3063\u3066\u308B\u3093\u3060\u3044RT: @coill929: \u30A4\u30B1\u30E1\u30F3\u30DC\u30A4\u30B9\u306F\u7279\u3060\u3088\u306A\u301C",
-  "id" : 18896314939,
-  "created_at" : "2010-07-19 00:00:00 +0000",
+  "id_str" : "18805647776",
+  "text" : "TL\u306B\u5C45\u308BSS\u95A2\u4FC2\u306E\u4EBA\uFF1D\u30B3\u30DF\u30B1TL\u4F5C\u3063\u3066\u308B\u4EBA",
+  "id" : 18805647776,
+  "created_at" : "2010-07-18 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -20991,10 +21003,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18896626848",
-  "text" : "\u587E\u884C\u3063\u3066\u304F\u308B\uFF01",
-  "id" : 18896626848,
-  "created_at" : "2010-07-19 00:00:00 +0000",
+  "id_str" : "18805689788",
+  "text" : "@Johnny_nm7 \u30B3\u30DF\u30B1\u306E\u4F4D\u7F6E\u60C5\u5831\u308F\u304B\u3063\u3066\u4FBF\u5229\u3067\u3059\u3088\uFF57",
+  "id" : 18805689788,
+  "created_at" : "2010-07-18 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -21013,10 +21025,76 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18913945397",
-  "text" : "\u305F\u3060\u3044\u307E\u30FC",
-  "id" : 18913945397,
-  "created_at" : "2010-07-19 00:00:00 +0000",
+  "id_str" : "18805962513",
+  "text" : "\u3055\u3041\u3066\u30B3\u30DF\u30B1\u306E\u4E8B\u306F\u3069\u3046\u3059\u308B\u304B\u306A\u3002",
+  "id" : 18805962513,
+  "created_at" : "2010-07-18 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18806089684",
+  "text" : "@Johnny_nm7 \u81EA\u5206\u3082\u3044\u3051\u306A\u3044\u306E\u306B\u3064\u3044\u3064\u3044\u898B\u3066\u80F8\u71B1\u306B\u306A\u308A\u307E\u3059\u306D\uFF57",
+  "id" : 18806089684,
+  "created_at" : "2010-07-18 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18806154102",
+  "text" : "\u771F\u30AF\u30C9\u30FB\u30FB\u30FB\u771F\u4EBA\u306E\u3053\u3068\u826F\u304F\u898B\u3066\u306A\u3044\u304B\u3089\u304B\u3051\u306A\uFF08\uFF52\uFF59\u3000\uFF79\uFF9E\uFF8C\uFF9D\uFF79\uFF9E\uFF8C\uFF9D\u3000",
+  "id" : 18806154102,
+  "created_at" : "2010-07-18 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18806361922",
+  "text" : "\u3046\u304A\u3001\u30DC\u30FC\u30DE\u30B9\u3082\u660E\u65E5\u304B\u3002\u6B4C\u3044\u624B\uFF08\u7B11\uFF09\u3068\u3057\u3066\u306F\u6C17\u306B\u306A\u308B\u3093\u3060\u3051\u3069\u306A\u3041\u3002",
+  "id" : 18806361922,
+  "created_at" : "2010-07-18 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -21030,88 +21108,39 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hinaki",
-      "screen_name" : "Hinaki03",
-      "indices" : [ 0, 9 ],
-      "id_str" : "2757041808",
-      "id" : 2757041808
+      "name" : "\u6C37\u96EA\u63D0\u7763",
+      "screen_name" : "hyosetsu",
+      "indices" : [ 28, 37 ],
+      "id_str" : "99993041",
+      "id" : 99993041
     }, {
-      "name" : "andrea smith",
-      "screen_name" : "reinbow11",
-      "indices" : [ 10, 20 ],
-      "id_str" : "764430506",
-      "id" : 764430506
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18914099341",
-  "geo" : { },
-  "id_str" : "18914335527",
-  "in_reply_to_user_id" : 100762060,
-  "text" : "@hinaki03 @reinbow11 @Johnny_nm7 \u305F\u3060\u3044\u307E\u30FC",
-  "id" : 18914335527,
-  "in_reply_to_status_id" : 18914099341,
-  "created_at" : "2010-07-19 00:00:00 +0000",
-  "in_reply_to_screen_name" : "hina9533",
-  "in_reply_to_user_id_str" : "100762060",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u5BAE\u65B9 \u7720",
-      "screen_name" : "mirufi_0714",
-      "indices" : [ 0, 12 ],
-      "id_str" : "1227653384",
-      "id" : 1227653384
+      "name" : "\u308A\u307B\u3053",
+      "screen_name" : "00riko",
+      "indices" : [ 69, 76 ],
+      "id_str" : "2929821738",
+      "id" : 2929821738
+    }, {
+      "name" : "\u967D\u6BEC",
+      "screen_name" : "himaoto",
+      "indices" : [ 83, 91 ],
+      "id_str" : "97851453",
+      "id" : 97851453
+    }, {
+      "name" : "\u3072\u3073\u305F\u3093",
+      "screen_name" : "hibitan1992",
+      "indices" : [ 99, 111 ],
+      "id_str" : "164303046",
+      "id" : 164303046
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18914866454",
-  "text" : "@mirufi_0714 \u304A\u3084\u3059\uFF01",
-  "id" : 18914866454,
-  "created_at" : "2010-07-19 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u3085\u3046",
-      "screen_name" : "ryuu_key",
-      "indices" : [ 16, 25 ],
-      "id_str" : "106477287",
-      "id" : 106477287
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18915179913",
-  "text" : "\u308A\u3085\u3046\u3055\u3093\u3092\u5F04\u308A\u5012\u3059\u3068\u805E\u3044\u3066 (@ryuu_key live at http:\/\/ustre.am\/l3lv )",
-  "id" : 18915179913,
-  "created_at" : "2010-07-19 00:00:00 +0000",
+  "id_str" : "18806646191",
+  "text" : "\u674F\uFF01RT: @Johnny_nm7: \u690B\uFF01\uFF01\uFF01\uFF01\u3000RT @hyosetsu    \u674F\uFF01\uFF01\uFF01 RT @heyabosi16: \u674F\uFF01\uFF01 RT @00riko: \u674F\uFF01RT @himaoto: \u674F\u6D3E\uFF01RT @hibitan1992: CLANNAD\u306E\u85E4\u6797\u59C9\u59B9 \u674F\u6D3E? \u690B\u6D3E?",
+  "id" : 18806646191,
+  "created_at" : "2010-07-18 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -21130,10 +21159,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18915207017",
-  "text" : "@daiflux \u304A\u304B\u30FC\uFF01",
-  "id" : 18915207017,
-  "created_at" : "2010-07-19 00:00:00 +0000",
+  "id_str" : "18806696288",
+  "text" : "@Johnny_nm7 \u305D\u3046\u305D\u3046\uFF57\u3000\u307E\u3063\u305F\u304F\u56F0\u3063\u305F\u3082\u306E\u3067\u3059\uFF08",
+  "id" : 18806696288,
+  "created_at" : "2010-07-18 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -21146,45 +21175,43 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "penimama",
-      "screen_name" : "penimama",
-      "indices" : [ 3, 12 ],
-      "id_str" : "27887422",
-      "id" : 27887422
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18917193261",
-  "text" : "RT @penimama: \u501F\u308A\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u8CC3\u8CB8\u30DB\u30EF\u30A4\u30C8\uFF01\uFF09\u3000\u4E00\u4EBA\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u5B64\u72EC\u30D6\u30EB\u30FC\uFF01\uFF09\u3000\u5B9F\u5BB6\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u30D1\u30E9\u30B5\u30A4\u30C8\u30A4\u30A8\u30ED\u30FC\uFF01\uFF09\u3000\u5C45\u5019\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u80A9\u8EAB\u30D6\u30E9\u30C3\u30AF\uFF01\uFF09\u3000\u30ED\u30FC\u30F3\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u5BB6\u8A08\u30EC\u30C3\u30C9\uFF01\uFF09\u3000\uFF3C\u6211\u3089\uFF01\u4F4F ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "18661850630",
-    "text" : "\u501F\u308A\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u8CC3\u8CB8\u30DB\u30EF\u30A4\u30C8\uFF01\uFF09\u3000\u4E00\u4EBA\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u5B64\u72EC\u30D6\u30EB\u30FC\uFF01\uFF09\u3000\u5B9F\u5BB6\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u30D1\u30E9\u30B5\u30A4\u30C8\u30A4\u30A8\u30ED\u30FC\uFF01\uFF09\u3000\u5C45\u5019\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u80A9\u8EAB\u30D6\u30E9\u30C3\u30AF\uFF01\uFF09\u3000\u30ED\u30FC\u30F3\u66AE\u3089\u3057\u306E\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF08\u5BB6\u8A08\u30EC\u30C3\u30C9\uFF01\uFF09\u3000\uFF3C\u6211\u3089\uFF01\u4F4F\u5B85\u6226\u968A\u30A2\u30EA\u30A8\u30C3\u30C6\u30A3\uFF01\uFF0F",
-    "id" : 18661850630,
-    "created_at" : "2010-07-16 05:22:23 +0000",
-    "user" : {
-      "name" : "penimama",
-      "screen_name" : "penimama",
-      "protected" : false,
-      "id_str" : "27887422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1723528613\/3-1794_normal.jpg",
-      "id" : 27887422,
-      "verified" : false
-    }
+  "id_str" : "18807119749",
+  "text" : "@Johnny_nm7 \u81EA\u5206\u306F3\u5E74\u5F8C\u3042\u305F\u308A\u306B\uFF1E\uFF1C",
+  "id" : 18807119749,
+  "created_at" : "2010-07-18 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
-  "id" : 18917193261,
-  "created_at" : "2010-07-19 00:00:00 +0000",
+  "in_reply_to_status_id_str" : "18807835910",
+  "geo" : { },
+  "id_str" : "18808026979",
+  "in_reply_to_user_id" : 95460867,
+  "text" : "@momon_pmpkn \u304A\u306F",
+  "id" : 18808026979,
+  "in_reply_to_status_id" : 18807835910,
+  "created_at" : "2010-07-18 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kyuii_momonga",
+  "in_reply_to_user_id_str" : "95460867",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -21652,7 +21679,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)",
+      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)\u306E\u30D5\u30EC\u30F3\u30BA",
       "screen_name" : "niconicokikka",
       "indices" : [ 0, 14 ],
       "id_str" : "36291433",
@@ -21940,7 +21967,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "rikio0505",
       "protected" : false,
       "id_str" : "74137135",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/760072422317928448\/icoEgOaJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/784036851967328256\/SrPOBCPv_normal.jpg",
       "id" : 74137135,
       "verified" : false
     }
@@ -22037,288 +22064,6 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u9ED2\u30D6\u30C1\u30E1\u30AC\u30CD",
-      "screen_name" : "_kurobuti",
-      "indices" : [ 0, 10 ],
-      "id_str" : "147256061",
-      "id" : 147256061
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18805517492",
-  "geo" : { },
-  "id_str" : "18805614526",
-  "in_reply_to_user_id" : 147256061,
-  "text" : "@_kurobuti \u3044\u3063\u3066\u3089\u3063\u3057\u3083\u30FC\u3044",
-  "id" : 18805614526,
-  "in_reply_to_status_id" : 18805517492,
-  "created_at" : "2010-07-18 00:00:00 +0000",
-  "in_reply_to_screen_name" : "_kurobuti",
-  "in_reply_to_user_id_str" : "147256061",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18805647776",
-  "text" : "TL\u306B\u5C45\u308BSS\u95A2\u4FC2\u306E\u4EBA\uFF1D\u30B3\u30DF\u30B1TL\u4F5C\u3063\u3066\u308B\u4EBA",
-  "id" : 18805647776,
-  "created_at" : "2010-07-18 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18805689788",
-  "text" : "@Johnny_nm7 \u30B3\u30DF\u30B1\u306E\u4F4D\u7F6E\u60C5\u5831\u308F\u304B\u3063\u3066\u4FBF\u5229\u3067\u3059\u3088\uFF57",
-  "id" : 18805689788,
-  "created_at" : "2010-07-18 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18805962513",
-  "text" : "\u3055\u3041\u3066\u30B3\u30DF\u30B1\u306E\u4E8B\u306F\u3069\u3046\u3059\u308B\u304B\u306A\u3002",
-  "id" : 18805962513,
-  "created_at" : "2010-07-18 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18806089684",
-  "text" : "@Johnny_nm7 \u81EA\u5206\u3082\u3044\u3051\u306A\u3044\u306E\u306B\u3064\u3044\u3064\u3044\u898B\u3066\u80F8\u71B1\u306B\u306A\u308A\u307E\u3059\u306D\uFF57",
-  "id" : 18806089684,
-  "created_at" : "2010-07-18 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18806154102",
-  "text" : "\u771F\u30AF\u30C9\u30FB\u30FB\u30FB\u771F\u4EBA\u306E\u3053\u3068\u826F\u304F\u898B\u3066\u306A\u3044\u304B\u3089\u304B\u3051\u306A\uFF08\uFF52\uFF59\u3000\uFF79\uFF9E\uFF8C\uFF9D\uFF79\uFF9E\uFF8C\uFF9D\u3000",
-  "id" : 18806154102,
-  "created_at" : "2010-07-18 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18806361922",
-  "text" : "\u3046\u304A\u3001\u30DC\u30FC\u30DE\u30B9\u3082\u660E\u65E5\u304B\u3002\u6B4C\u3044\u624B\uFF08\u7B11\uFF09\u3068\u3057\u3066\u306F\u6C17\u306B\u306A\u308B\u3093\u3060\u3051\u3069\u306A\u3041\u3002",
-  "id" : 18806361922,
-  "created_at" : "2010-07-18 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u6C37\u96EA\u63D0\u7763",
-      "screen_name" : "hyosetsu",
-      "indices" : [ 28, 37 ],
-      "id_str" : "99993041",
-      "id" : 99993041
-    }, {
-      "name" : "\u308A\u307B\u3053",
-      "screen_name" : "00riko",
-      "indices" : [ 69, 76 ],
-      "id_str" : "2929821738",
-      "id" : 2929821738
-    }, {
-      "name" : "\u967D\u6BEC",
-      "screen_name" : "himaoto",
-      "indices" : [ 83, 91 ],
-      "id_str" : "97851453",
-      "id" : 97851453
-    }, {
-      "name" : "\u3072\u3073\u305F\u3093",
-      "screen_name" : "hibitan1992",
-      "indices" : [ 99, 111 ],
-      "id_str" : "164303046",
-      "id" : 164303046
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18806646191",
-  "text" : "\u674F\uFF01RT: @Johnny_nm7: \u690B\uFF01\uFF01\uFF01\uFF01\u3000RT @hyosetsu    \u674F\uFF01\uFF01\uFF01 RT @heyabosi16: \u674F\uFF01\uFF01 RT @00riko: \u674F\uFF01RT @himaoto: \u674F\u6D3E\uFF01RT @hibitan1992: CLANNAD\u306E\u85E4\u6797\u59C9\u59B9 \u674F\u6D3E? \u690B\u6D3E?",
-  "id" : 18806646191,
-  "created_at" : "2010-07-18 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18806696288",
-  "text" : "@Johnny_nm7 \u305D\u3046\u305D\u3046\uFF57\u3000\u307E\u3063\u305F\u304F\u56F0\u3063\u305F\u3082\u306E\u3067\u3059\uFF08",
-  "id" : 18806696288,
-  "created_at" : "2010-07-18 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18807119749",
-  "text" : "@Johnny_nm7 \u81EA\u5206\u306F3\u5E74\u5F8C\u3042\u305F\u308A\u306B\uFF1E\uFF1C",
-  "id" : 18807119749,
-  "created_at" : "2010-07-18 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18807835910",
-  "geo" : { },
-  "id_str" : "18808026979",
-  "in_reply_to_user_id" : 95460867,
-  "text" : "@momon_pmpkn \u304A\u306F",
-  "id" : 18808026979,
-  "in_reply_to_status_id" : 18807835910,
-  "created_at" : "2010-07-18 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kyuii_momonga",
-  "in_reply_to_user_id_str" : "95460867",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "puckmeplease",
       "screen_name" : "akaha123",
       "indices" : [ 3, 12 ],
@@ -22350,13 +22095,313 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "aka123ha",
       "protected" : false,
       "id_str" : "79741628",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738641362958962688\/a4GHR_YD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/773943535812816896\/yu6akkls_normal.jpg",
       "id" : 79741628,
       "verified" : false
     }
   },
   "id" : 18746722963,
   "created_at" : "2010-07-17 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
+      "screen_name" : "erogewota",
+      "indices" : [ 0, 10 ],
+      "id_str" : "50268644",
+      "id" : 50268644
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18644948693",
+  "geo" : { },
+  "id_str" : "18645098317",
+  "in_reply_to_user_id" : 50268644,
+  "text" : "@erogewota \u3067\u3082\u3001\u89E6\u308C\u306A\u304D\u3083\u5206\u304B\u3093\u306A\u3044\u3053\u3068\u3060\u3063\u3066\u3042\u308B\u3093\u3060\u305C\u30FB\u30FB\u30FB\uFF1F",
+  "id" : 18645098317,
+  "in_reply_to_status_id" : 18644948693,
+  "created_at" : "2010-07-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "erogewota",
+  "in_reply_to_user_id_str" : "50268644",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
+      "screen_name" : "erogewota",
+      "indices" : [ 4, 14 ],
+      "id_str" : "50268644",
+      "id" : 50268644
+    }, {
+      "name" : "\u308D\u3053\u308D\u3053",
+      "screen_name" : "Roko_3",
+      "indices" : [ 27, 34 ],
+      "id_str" : "86648927",
+      "id" : 86648927
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18645128908",
+  "text" : "RT: @erogewota: HAHAHA\u2026 RT @Roko_3: \u300C\u3082\u3046\uFF01\u3053\u3046\u3057\u3066\u3084\u308B\uFF01(\u3053\u3061\u3087\u3053\u3061\u3087\u300D\u300C\u304A\u307E\u3001\u3070\u2026\u3084\u3001\u3084\u3081\u308D\u3088\u30FC\uFF01\u300D\u300C\u3084\u30FC\u3060\u30FC\uFF01\u3048\u3044\u3048\u3044\u3063\uFF01\u300D\u300C\u304F\u3063\u2026\u306F\u3093\u3052\u304D\u3063\uFF01\u300D\u300C\u3042\u3001\u3093\u3093\u2026\u3082\u3046\u2026\u3084\u3001\u3084\u3081\u3066\u3088\u3049\u2026\/\/\/\u300D",
+  "id" : 18645128908,
+  "created_at" : "2010-07-16 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18646114684",
+  "text" : "@daiflux \u304A\u306F\u3088\u3088\u3046\uFF01",
+  "id" : 18646114684,
+  "created_at" : "2010-07-16 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18646174376",
+  "text" : "@asuna_time \u56DE\u53CE\u3055\u308C\u3066\u3057\u307E\u3063\u305F\u304B\u3089\u3001\u5168\u90E8\u8CB7\u623B\u3057\u3066\u304F\u3060\u3055\u3044",
+  "id" : 18646174376,
+  "created_at" : "2010-07-16 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30B5\u30EF\u30EA\u30FC\u30DE\u30F3CHIN\u592A\u90CE",
+      "screen_name" : "you_tarou",
+      "indices" : [ 40, 50 ],
+      "id_str" : "96357653",
+      "id" : 96357653
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18646473458",
+  "text" : "\u7D50\u8AD6\uFF1A\u6C17\u306E\u826F\u3044\u95A2\u897F\u306E\u304A\u3070\u3061\u3083\u3093\u306B\u52A9\u3051\u3089\u308C\u3001\u898B\u308BRT: @asuna_time: @you_tarou YOU\u592A\u90CE\u306E\u982D\u306B\u30A6\u30BA\u30D9\u30AD\u30B9\u30BF\u30F3\u306E\u65D7\u3092\u3076\u3063\u3055\u3057\u3066\u3001\u305D\u306E\u3042\u3068\u30DB\u30EB\u30DE\u30EA\u30F3\u306B\u3064\u3051\u8FBC\u3093\u3067\u3069\u3053\u306E\u56FD\u306E\u56FD\u65D7\u304B\u5206\u304B\u3089\u306A\u3044\u304F\u3089\u3044\u306B\u306A\u3063\u305F\u3089\u3001\u75C5\u9662\u306B\u9023\u308C\u3066\u884C\u304F\u3068\u898B\u305B\u304B\u3051\u3066\u9053\u9813\u5800\u306E\u5DDD\u306B\u6295\u3052\u6368\u3066\u305F\u3044\u2190",
+  "id" : 18646473458,
+  "created_at" : "2010-07-16 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30B5\u30EF\u30EA\u30FC\u30DE\u30F3CHIN\u592A\u90CE",
+      "screen_name" : "you_tarou",
+      "indices" : [ 0, 10 ],
+      "id_str" : "96357653",
+      "id" : 96357653
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18646726213",
+  "geo" : { },
+  "id_str" : "18646829481",
+  "in_reply_to_user_id" : 96357653,
+  "text" : "@you_tarou \u4EBA\u3088\u308A\u5909\u614B\uFF1F\u305D\u308C\u304C\u3069\u3046\u3057\u305F\uFF01\u3067\u3082\u3044\u3044\u3058\u3083\u306A\u3044\u304B\uFF01",
+  "id" : 18646829481,
+  "in_reply_to_status_id" : 18646726213,
+  "created_at" : "2010-07-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "you_tarou",
+  "in_reply_to_user_id_str" : "96357653",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18647193667",
+  "text" : "@asuna_time \u4F55\u3053\u306E\u3042\u3059\u306B\u3083\u3093\u9B3C\u755C",
+  "id" : 18647193667,
+  "created_at" : "2010-07-16 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
+      "screen_name" : "erogewota",
+      "indices" : [ 9, 19 ],
+      "id_str" : "50268644",
+      "id" : 50268644
+    }, {
+      "name" : "\u308D\u3053\u308D\u3053",
+      "screen_name" : "Roko_3",
+      "indices" : [ 29, 36 ],
+      "id_str" : "86648927",
+      "id" : 86648927
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18647212262",
+  "text" : "\u3072\u3067\u3047\uFF57\uFF57RT: @erogewota: \uFF57\uFF57\uFF57\uFF57 RT @Roko_3: \u3053\u308C\u306F\u30D2\u30C9\u3044wwwww QT @wadatakeaki: \u305D\u3046\u3044\u3048\u3070\u5B66\u6821\u306B\u300C\u76E3\u7981\u30EC\u30A4\u30D7\u6700\u7D42\u7AE0\u300D\u3063\u3066AV\u3092\u6301\u3063\u3066\u304D\u3066\u305F\u306E\u304C\u3070\u308C\u3066\u300C\u6700\u7D42\u7AE0\u300D\u3063\u3066\u3042\u3060\u540D\u306B\u306A\u3063\u305F\u5148\u751F\u3082\u3044\u305F\u3002",
+  "id" : 18647212262,
+  "created_at" : "2010-07-16 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30B5\u30EF\u30EA\u30FC\u30DE\u30F3CHIN\u592A\u90CE",
+      "screen_name" : "you_tarou",
+      "indices" : [ 12, 22 ],
+      "id_str" : "96357653",
+      "id" : 96357653
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18648078116",
+  "text" : "@asuna_time @you_tarou \u3068\u308A\u3042\u3048\u305A\u3053\u306E\u4E8C\u4EBA\u3048\u3063\u3061\u3043\u3067\u3059\uFF1E\uFF1C\u3000\u3048\u3063\u3061\u3043\u306E\u306F\u3044\u3044\u3068\u601D\u3044\u307E\u3059\uFF01\u3000\u305D\u3057\u3066\u3042\u3059\u306B\u3083\u3093\u306F\u4E00\u4F53\u3069\u308C\u304F\u3089\u3044\u3053\u3093\u306A\u4F1A\u8A71\u3057\u3066\u308B\u3093\u3060\u308D\u3046\u304B\uFF57",
+  "id" : 18648078116,
+  "created_at" : "2010-07-16 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18648512659",
+  "text" : "@asuna_time \u6E05\u695A\u306A\uFF08\u7B11\uFF09\u5973\u6027\u3067\u3059\u306D\u3000\u308F\u304B\u308A\u307E\u3059",
+  "id" : 18648512659,
+  "created_at" : "2010-07-16 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18650339242",
+  "text" : "\u98A8\u5442\u3063\u3066\u304F\u308B",
+  "id" : 18650339242,
+  "created_at" : "2010-07-16 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -22442,7 +22487,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -22503,7 +22548,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liv",
+      "name" : "\/\/",
       "screen_name" : "AsakoSenpai",
       "indices" : [ 0, 12 ],
       "id_str" : "2764468667",
@@ -22592,7 +22637,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "74137135",
       "id" : 74137135
     }, {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 11, 25 ],
       "id_str" : "3322453124",
@@ -22865,7 +22910,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liv",
+      "name" : "\/\/",
       "screen_name" : "AsakoSenpai",
       "indices" : [ 0, 12 ],
       "id_str" : "2764468667",
@@ -22988,13 +23033,7 @@ Grailbird.data.tweets_2010_07 =
       "id" : 56420457
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "k_on",
-      "indices" : [ 139, 140 ]
-    }, {
-      "text" : "keion",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -23418,7 +23457,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
       "screen_name" : "erogewota",
       "indices" : [ 16, 26 ],
       "id_str" : "50268644",
@@ -23521,7 +23560,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
       "screen_name" : "erogewota",
       "indices" : [ 0, 10 ],
       "id_str" : "50268644",
@@ -23642,7 +23681,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
       "screen_name" : "erogewota",
       "indices" : [ 4, 14 ],
       "id_str" : "50268644",
@@ -23886,61 +23925,19 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
-      "screen_name" : "erogewota",
-      "indices" : [ 0, 10 ],
-      "id_str" : "50268644",
-      "id" : 50268644
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18644948693",
-  "geo" : { },
-  "id_str" : "18645098317",
-  "in_reply_to_user_id" : 50268644,
-  "text" : "@erogewota \u3067\u3082\u3001\u89E6\u308C\u306A\u304D\u3083\u5206\u304B\u3093\u306A\u3044\u3053\u3068\u3060\u3063\u3066\u3042\u308B\u3093\u3060\u305C\u30FB\u30FB\u30FB\uFF1F",
-  "id" : 18645098317,
-  "in_reply_to_status_id" : 18644948693,
-  "created_at" : "2010-07-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "erogewota",
-  "in_reply_to_user_id_str" : "50268644",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
-      "screen_name" : "erogewota",
-      "indices" : [ 4, 14 ],
-      "id_str" : "50268644",
-      "id" : 50268644
-    }, {
-      "name" : "\u308D\u3053\u308D\u3053",
-      "screen_name" : "Roko_3",
-      "indices" : [ 27, 34 ],
-      "id_str" : "86648927",
-      "id" : 86648927
+    "hashtags" : [ {
+      "text" : "ookaminananin",
+      "indices" : [ 29, 43 ]
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18645128908",
-  "text" : "RT: @erogewota: HAHAHA\u2026 RT @Roko_3: \u300C\u3082\u3046\uFF01\u3053\u3046\u3057\u3066\u3084\u308B\uFF01(\u3053\u3061\u3087\u3053\u3061\u3087\u300D\u300C\u304A\u307E\u3001\u3070\u2026\u3084\u3001\u3084\u3081\u308D\u3088\u30FC\uFF01\u300D\u300C\u3084\u30FC\u3060\u30FC\uFF01\u3048\u3044\u3048\u3044\u3063\uFF01\u300D\u300C\u304F\u3063\u2026\u306F\u3093\u3052\u304D\u3063\uFF01\u300D\u300C\u3042\u3001\u3093\u3093\u2026\u3082\u3046\u2026\u3084\u3001\u3084\u3081\u3066\u3088\u3049\u2026\/\/\/\u300D",
-  "id" : 18645128908,
-  "created_at" : "2010-07-16 00:00:00 +0000",
+  "id_str" : "18604685304",
+  "text" : "\u30A2\u30F3\u30C1\u3063\u3066\u5358\u8A9E\u304C\u666E\u901A\u306B\u51FA\u3066\u304F\u308B\u30A2\u30CB\u30E1\u3063\u3066\u306A\u3093\u306A\u3093\u3060\u308D\u3046\uFF57 #ookaminananin",
+  "id" : 18604685304,
+  "created_at" : "2010-07-15 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -23955,14 +23952,17 @@ Grailbird.data.tweets_2010_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "ookaminananin",
+      "indices" : [ 10, 24 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18646114684",
-  "text" : "@daiflux \u304A\u306F\u3088\u3088\u3046\uFF01",
-  "id" : 18646114684,
-  "created_at" : "2010-07-16 00:00:00 +0000",
+  "id_str" : "18604764058",
+  "text" : "\u9ED2\u304F\u304E\u307F\u30FC\u3060\uFF57\uFF57\uFF57 #ookaminananin",
+  "id" : 18604764058,
+  "created_at" : "2010-07-15 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -23977,75 +23977,17 @@ Grailbird.data.tweets_2010_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18646174376",
-  "text" : "@asuna_time \u56DE\u53CE\u3055\u308C\u3066\u3057\u307E\u3063\u305F\u304B\u3089\u3001\u5168\u90E8\u8CB7\u623B\u3057\u3066\u304F\u3060\u3055\u3044",
-  "id" : 18646174376,
-  "created_at" : "2010-07-16 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30B5\u30EF\u30EA\u30FC\u30DE\u30F3CHIN\u592A\u90CE",
-      "screen_name" : "you_tarou",
-      "indices" : [ 40, 50 ],
-      "id_str" : "96357653",
-      "id" : 96357653
+    "hashtags" : [ {
+      "text" : "ookaminananin",
+      "indices" : [ 20, 34 ]
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18646473458",
-  "text" : "\u7D50\u8AD6\uFF1A\u6C17\u306E\u826F\u3044\u95A2\u897F\u306E\u304A\u3070\u3061\u3083\u3093\u306B\u52A9\u3051\u3089\u308C\u3001\u898B\u308BRT: @asuna_time: @you_tarou YOU\u592A\u90CE\u306E\u982D\u306B\u30A6\u30BA\u30D9\u30AD\u30B9\u30BF\u30F3\u306E\u65D7\u3092\u3076\u3063\u3055\u3057\u3066\u3001\u305D\u306E\u3042\u3068\u30DB\u30EB\u30DE\u30EA\u30F3\u306B\u3064\u3051\u8FBC\u3093\u3067\u3069\u3053\u306E\u56FD\u306E\u56FD\u65D7\u304B\u5206\u304B\u3089\u306A\u3044\u304F\u3089\u3044\u306B\u306A\u3063\u305F\u3089\u3001\u75C5\u9662\u306B\u9023\u308C\u3066\u884C\u304F\u3068\u898B\u305B\u304B\u3051\u3066\u9053\u9813\u5800\u306E\u5DDD\u306B\u6295\u3052\u6368\u3066\u305F\u3044\u2190",
-  "id" : 18646473458,
-  "created_at" : "2010-07-16 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30B5\u30EF\u30EA\u30FC\u30DE\u30F3CHIN\u592A\u90CE",
-      "screen_name" : "you_tarou",
-      "indices" : [ 0, 10 ],
-      "id_str" : "96357653",
-      "id" : 96357653
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18646726213",
-  "geo" : { },
-  "id_str" : "18646829481",
-  "in_reply_to_user_id" : 96357653,
-  "text" : "@you_tarou \u4EBA\u3088\u308A\u5909\u614B\uFF1F\u305D\u308C\u304C\u3069\u3046\u3057\u305F\uFF01\u3067\u3082\u3044\u3044\u3058\u3083\u306A\u3044\u304B\uFF01",
-  "id" : 18646829481,
-  "in_reply_to_status_id" : 18646726213,
-  "created_at" : "2010-07-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "you_tarou",
-  "in_reply_to_user_id_str" : "96357653",
+  "id_str" : "18604827988",
+  "text" : "\u3053\u308C\u4E00\u4F4D\u30D5\u30E9\u30B0\u305F\u3063\u3066\u308B\u3058\u3083\u306D\u3047\u304B\uFF57\uFF57\uFF57 #ookaminananin",
+  "id" : 18604827988,
+  "created_at" : "2010-07-15 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -24060,76 +24002,17 @@ Grailbird.data.tweets_2010_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18647193667",
-  "text" : "@asuna_time \u4F55\u3053\u306E\u3042\u3059\u306B\u3083\u3093\u9B3C\u755C",
-  "id" : 18647193667,
-  "created_at" : "2010-07-16 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
-      "screen_name" : "erogewota",
-      "indices" : [ 9, 19 ],
-      "id_str" : "50268644",
-      "id" : 50268644
-    }, {
-      "name" : "\u308D\u3053\u308D\u3053",
-      "screen_name" : "Roko_3",
-      "indices" : [ 29, 36 ],
-      "id_str" : "86648927",
-      "id" : 86648927
+    "hashtags" : [ {
+      "text" : "ookaminananin",
+      "indices" : [ 20, 34 ]
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18647212262",
-  "text" : "\u3072\u3067\u3047\uFF57\uFF57RT: @erogewota: \uFF57\uFF57\uFF57\uFF57 RT @Roko_3: \u3053\u308C\u306F\u30D2\u30C9\u3044wwwww QT @wadatakeaki: \u305D\u3046\u3044\u3048\u3070\u5B66\u6821\u306B\u300C\u76E3\u7981\u30EC\u30A4\u30D7\u6700\u7D42\u7AE0\u300D\u3063\u3066AV\u3092\u6301\u3063\u3066\u304D\u3066\u305F\u306E\u304C\u3070\u308C\u3066\u300C\u6700\u7D42\u7AE0\u300D\u3063\u3066\u3042\u3060\u540D\u306B\u306A\u3063\u305F\u5148\u751F\u3082\u3044\u305F\u3002",
-  "id" : 18647212262,
-  "created_at" : "2010-07-16 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30B5\u30EF\u30EA\u30FC\u30DE\u30F3CHIN\u592A\u90CE",
-      "screen_name" : "you_tarou",
-      "indices" : [ 12, 22 ],
-      "id_str" : "96357653",
-      "id" : 96357653
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18648078116",
-  "text" : "@asuna_time @you_tarou \u3068\u308A\u3042\u3048\u305A\u3053\u306E\u4E8C\u4EBA\u3048\u3063\u3061\u3043\u3067\u3059\uFF1E\uFF1C\u3000\u3048\u3063\u3061\u3043\u306E\u306F\u3044\u3044\u3068\u601D\u3044\u307E\u3059\uFF01\u3000\u305D\u3057\u3066\u3042\u3059\u306B\u3083\u3093\u306F\u4E00\u4F53\u3069\u308C\u304F\u3089\u3044\u3053\u3093\u306A\u4F1A\u8A71\u3057\u3066\u308B\u3093\u3060\u308D\u3046\u304B\uFF57",
-  "id" : 18648078116,
-  "created_at" : "2010-07-16 00:00:00 +0000",
+  "id_str" : "18604936519",
+  "text" : "\u5B8C\u5168\u306B\u30BC\u30ED\u306E\u4F7F\u3044\u9B54\u30D1\u30AF\u30EA\u3058\u3083\u306D\u3047\u304B\uFF57\uFF57 #ookaminananin",
+  "id" : 18604936519,
+  "created_at" : "2010-07-15 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -24144,14 +24027,17 @@ Grailbird.data.tweets_2010_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "ookaminananin",
+      "indices" : [ 26, 40 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18648512659",
-  "text" : "@asuna_time \u6E05\u695A\u306A\uFF08\u7B11\uFF09\u5973\u6027\u3067\u3059\u306D\u3000\u308F\u304B\u308A\u307E\u3059",
-  "id" : 18648512659,
-  "created_at" : "2010-07-16 00:00:00 +0000",
+  "id_str" : "18604992688",
+  "text" : "\u3068\u3044\u3046\u304B\u4E2D\u306E\u4EBA\u3064\u306A\u304C\u308A\u304B\uFF57\u82E5\u5E72\u5206\u304B\u3089\u306A\u304B\u3063\u305F\uFF3E\uFF50\uFF3E #ookaminananin",
+  "id" : 18604992688,
+  "created_at" : "2010-07-15 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -24166,14 +24052,170 @@ Grailbird.data.tweets_2010_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
+    "hashtags" : [ {
+      "text" : "ookaminananin",
+      "indices" : [ 31, 45 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18605131391",
+  "text" : "\u3055\u3063\u3066\u3069\u3046\u306A\u308B\u3053\u3068\u3084\u3089\u30FB\u30FB\u30FB\u307E\u3041\u30D5\u30E9\u30B0\u7ACB\u3063\u3061\u3083\u3066\u308B\u304B\u3089\uFF08\uFF52\uFF59 #ookaminananin",
+  "id" : 18605131391,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "ookaminananin",
+      "indices" : [ 28, 42 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18605237210",
+  "text" : "\u96FB\u6CE2\u7684\u306A\u5F7C\u5973\u304B\u3089\u79FB\u884C\u3057\u305F\u73FE\u72B6\u3001\u4F5C\u753B\u3082\u3044\u3044\u611F\u3058\u3067\u3059\uFF3E\uFF51\uFF3E #ookaminananin",
+  "id" : 18605237210,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "ookaminananin",
+      "indices" : [ 30, 44 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18605297433",
+  "text" : "\u5408\u6CD5\u30ED\u30EA\uFF57\u305D\u308C\u3063\u3066\u30CB\u30B3\u30CB\u30B3\u306D\uFF08\uFF52\uFF59\u3000\u3042\u308C\u3001\u306A\u306A\u25CB\u3089\u6C0F\u3060\u3063\u3051 #ookaminananin",
+  "id" : 18605297433,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "ookaminananin",
+      "indices" : [ 9, 23 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18605386549",
+  "text" : "\u8B0E\u306E\u7F8E\u5C11\u5973\uFF57\uFF57\uFF57 #ookaminananin",
+  "id" : 18605386549,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "ookaminananin",
+      "indices" : [ 29, 43 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18605469697",
+  "text" : "\u3082\u3046\u304F\u304E\u307F\u30FC\u304C\u5927\u6CB3\u3067\u3059\u672C\u5F53\u306B\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3057\uFF54\uFF08\uFF52\uFF59 #ookaminananin",
+  "id" : 18605469697,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "ookaminananin",
+      "indices" : [ 13, 27 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18605542448",
+  "text" : "\u6D66\u5CF6\u30A4\u30B1\u30E1\u30F3\u3059\u304E\u3066\u6CE3\u3051\u308B #ookaminananin",
+  "id" : 18605542448,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
+      "screen_name" : "why_tathibana",
+      "indices" : [ 30, 44 ],
+      "id_str" : "262494533",
+      "id" : 262494533
+    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18650339242",
-  "text" : "\u98A8\u5442\u3063\u3066\u304F\u308B",
-  "id" : 18650339242,
-  "created_at" : "2010-07-16 00:00:00 +0000",
+  "id_str" : "18605619025",
+  "text" : "\u6CE3\u3051\u308B\u306B\u53CD\u5FDC\u3057\u305Fbot\u304C\uFF57\uFF57RT: @yui_nyhan: @why_tathibana why\u5148\u8F29\u3001\u5143\u6C17\u51FA\u3057\u3066!!",
+  "id" : 18605619025,
+  "created_at" : "2010-07-15 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -24235,10 +24277,7 @@ Grailbird.data.tweets_2010_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "twitcomike",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -24575,6 +24614,340 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
+      "screen_name" : "minardikaivbx",
+      "indices" : [ 13, 27 ],
+      "id_str" : "66997484",
+      "id" : 66997484
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18599906574",
+  "text" : "\u3069\u3046\u3057\u3066\u305D\u3046\u306A\u3063\u305FRT: @minardikaivbx: \u30B5\u30E9\u30C0\u306E\u4E0B\u306B\u30C9\u30EC\u30C3\u30B7\u30F3\u30B0\u306E\u888B\u3092\u5165\u308C\u308B\u3068\u3044\u3046\u914D\u7F6E\u306F\u3001\u9AD8\u51FA\u529B\u30FB\u9AD8\u51FA\u529B\u306A\u672C\u4F53\u30E1\u30AC\u7C92\u5B50\u7832\u3092\u30B3\u30AF\u30D4\u30C3\u30C8\u306E\u76F4\u4E0B\u306B\u914D\u7F6E\u3057\u3066\u3044\u308B\u30E2\u30D3\u30EB\u30B9\u30FC\u30C4\u30C9\u30FC\u30D9\u30F3\u30A6\u30EB\u30D5\u306E\u8A2D\u8A08\u601D\u60F3\u3068\u4F3C\u3066\u3044\u308B\u3002",
+  "id" : 18599906574,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "denpatekinakanojo",
+      "indices" : [ 40, 58 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18600154828",
+  "text" : "\u96E8\u306E\u76EE\u306E\u898B\u305B\u65B9\u304C\u306A\u3041\u30FB\u30FB\u30FB\u307E\u3001\u30D0\u30E9\u30F3\u30B9\u304C\u60AA\u3044\u3053\u306E\u72B6\u614B\u3001\u9AEA\u3067\u96A0\u308C\u3066\u308B\u304B\u3089\u304B\u30FB\u30FB\u30FB #denpatekinakanojo",
+  "id" : 18600154828,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
+      "screen_name" : "minardikaivbx",
+      "indices" : [ 0, 14 ],
+      "id_str" : "66997484",
+      "id" : 66997484
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18600047958",
+  "geo" : { },
+  "id_str" : "18600268992",
+  "in_reply_to_user_id" : 66997484,
+  "text" : "@minardikaivbx \u305D\u308C\u3060\u3051\u5206\u304B\u308C\u3070\u5927\u4E08\u592B\u3067\u3059\uFF3E\uFF50\uFF3E",
+  "id" : 18600268992,
+  "in_reply_to_status_id" : 18600047958,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "in_reply_to_screen_name" : "minardikaivbx",
+  "in_reply_to_user_id_str" : "66997484",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "denpatekinakanojo",
+      "indices" : [ 17, 35 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18600318747",
+  "text" : "\u3048\u3001\u4ECA\u306E\u96EA\u59EB\uFF1F\u5186\uFF1F\u3046\u3063\u308F\u3041\u30FB\u30FB\u30FB #denpatekinakanojo",
+  "id" : 18600318747,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "denpatekinakanojo",
+      "indices" : [ 21, 39 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18600359211",
+  "text" : "\u5149\u3082\u5149\u3060\u30FB\u30FB\u30FB\u3082\u3046\u5206\u304B\u3089\u3093\u3002\u3084\u3060\u3041orz #denpatekinakanojo",
+  "id" : 18600359211,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "denpatekinakanojo",
+      "indices" : [ 30, 48 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18600447930",
+  "text" : "\u7D05\u306F\u539F\u4F5C\u3068\u5225\u7269\u3068\u3057\u3066\u8003\u3048\u308C\u3070\u9762\u767D\u304B\u3063\u305F\u3002\u3067\u3082\u3001\u3053\u308C\u306F\u30FB\u30FB\u30FB #denpatekinakanojo",
+  "id" : 18600447930,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18600641000",
+  "text" : "\u4E00\u4EBA\u79F0\u304C\u300C\u5C0F\u751F\u300D\u3060\u3063\u305F\u6642\u671F\u304C\u4FFA\u306B\u3082\u3042\u308A\u307E\u3057\u305F",
+  "id" : 18600641000,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "marlhollo2",
+      "screen_name" : "marlhollo",
+      "indices" : [ 3, 13 ],
+      "id_str" : "131491157",
+      "id" : 131491157
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18600728105",
+  "text" : "RT @marlhollo: \u300C\u3084\u3001\u3084\u3060\u305D\u3093\u306A\u3068\u3053\u3063\u3001\u6C5A\u3044\u2026\u2026\uFF01\u300D\u300C\u25CB\u25CB\u306B\u6C5A\u3044\u3068\u3053\u308D\u306A\u3093\u3066\u306A\u3044\u3088\u300D\u3068\u3044\u3046\u639B\u3051\u5408\u3044\u3092\u308F\u308A\u304B\u3057\u898B\u304B\u3051\u308B\u3088\u3046\u306A\u6C17\u304C\u3059\u308B\u304C\u3001\u672A\u3060\u306B\u3053\u306E\u5FDC\u916C\u304C\u4F55\u3092\u610F\u5473\u3059\u308B\u3082\u306E\u306A\u306E\u304B\u3088\u304F\u308F\u304B\u3089\u306A\u3044\u3067\u3044\u308B\u3002\u30A8\u30ED\u7684\u306B\u306F\u300C\u3080\u3001\u3080\u3057\u308D\u6C5A\u3044\u65B9\u304C\u8208\u596E\u3059\u308B\u3093\u3060\u306A\u3063\u3001\u30CF\u30A1\u30CF\u30A1\u300D\u3068\u304B\u306E ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "18600595834",
+    "text" : "\u300C\u3084\u3001\u3084\u3060\u305D\u3093\u306A\u3068\u3053\u3063\u3001\u6C5A\u3044\u2026\u2026\uFF01\u300D\u300C\u25CB\u25CB\u306B\u6C5A\u3044\u3068\u3053\u308D\u306A\u3093\u3066\u306A\u3044\u3088\u300D\u3068\u3044\u3046\u639B\u3051\u5408\u3044\u3092\u308F\u308A\u304B\u3057\u898B\u304B\u3051\u308B\u3088\u3046\u306A\u6C17\u304C\u3059\u308B\u304C\u3001\u672A\u3060\u306B\u3053\u306E\u5FDC\u916C\u304C\u4F55\u3092\u610F\u5473\u3059\u308B\u3082\u306E\u306A\u306E\u304B\u3088\u304F\u308F\u304B\u3089\u306A\u3044\u3067\u3044\u308B\u3002\u30A8\u30ED\u7684\u306B\u306F\u300C\u3080\u3001\u3080\u3057\u308D\u6C5A\u3044\u65B9\u304C\u8208\u596E\u3059\u308B\u3093\u3060\u306A\u3063\u3001\u30CF\u30A1\u30CF\u30A1\u300D\u3068\u304B\u306E\u65B9\u304C\u3044\u3044\u3093\u3058\u3083\u306A\u3044\u306E\u304B",
+    "id" : 18600595834,
+    "created_at" : "2010-07-15 13:08:43 +0000",
+    "user" : {
+      "name" : "marlhollo2",
+      "screen_name" : "marlhollo",
+      "protected" : false,
+      "id_str" : "131491157",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/415821369142566912\/n_07fEdw_normal.png",
+      "id" : 131491157,
+      "verified" : false
+    }
+  },
+  "id" : 18600728105,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "ookaminananin",
+      "indices" : [ 19, 33 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18600942890",
+  "text" : "\u30AA\u30AA\u30AB\u30DF\u3055\u3093\u3068\u4E03\u4EBA\u306E\u4EF2\u9593\u305F\u3061\u307F\u308B\u3088\uFF01 #ookaminananin",
+  "id" : 18600942890,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "ookaminananin",
+      "indices" : [ 22, 36 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18600994452",
+  "text" : "\u3084\u306F\u308A\u9ED2\u5B50\u30FB\u5927\u6CB3\u30FB\u5B50\u840C\u5148\u751F\u306E\u5171\u6F14\u3060\u3088\u306A\u3041\uFF57 #ookaminananin",
+  "id" : 18600994452,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "ookaminananin",
+      "indices" : [ 22, 36 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18601267368",
+  "text" : "\u3061\u3087\u3063\u3068\u5F85\u3066\uFF57\uFF57\uFF57\u5316\u7269\u8A9E\u304B\u3089\u3082\u767B\u5834\u304B\u3088\uFF57\uFF57 #ookaminananin",
+  "id" : 18601267368,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "ookaminananin",
+      "indices" : [ 20, 34 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18601324811",
+  "text" : "\u73FE\u5728\u30FB\u5927\u6CB3\u30FB\u9ED2\u5B50\u30FB\u5B50\u840C\u5148\u751F\u30FB\u963F\u826F\u3005\u6728\u66A6 #ookaminananin",
+  "id" : 18601324811,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
@@ -24654,7 +25027,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -25026,7 +25399,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u306A\u306A\u3072\u3089@3\u65E5\u76EE \u897Fa-46b",
+      "name" : "\u306A\u306A\u3072\u3089",
       "screen_name" : "nanahira",
       "indices" : [ 0, 9 ],
       "id_str" : "231926590",
@@ -25521,7 +25894,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3061\u3087\u3080[C90]3\u65E5\u897Fk-24a",
+      "name" : "\u3061\u3087\u3080",
       "screen_name" : "chom",
       "indices" : [ 3, 8 ],
       "id_str" : "17797886",
@@ -25548,11 +25921,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18604266597,
     "created_at" : "2010-07-15 14:03:39 +0000",
     "user" : {
-      "name" : "\u3061\u3087\u3080[C90]3\u65E5\u897Fk-24a",
+      "name" : "\u3061\u3087\u3080",
       "screen_name" : "chom",
       "protected" : false,
       "id_str" : "17797886",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752585735971020800\/LKflW-4M_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/805585719737520128\/2uFhfZV0_normal.jpg",
       "id" : 17797886,
       "verified" : false
     }
@@ -25646,19 +26019,27 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ookaminananin",
-      "indices" : [ 29, 43 ]
+    "user_mentions" : [ {
+      "name" : "\u3055\u304F\u3089\u3041",
+      "screen_name" : "autumncherry",
+      "indices" : [ 0, 13 ],
+      "id_str" : "109654734",
+      "id" : 109654734
     } ],
+    "media" : [ ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "18562297275",
   "geo" : { },
-  "id_str" : "18604685304",
-  "text" : "\u30A2\u30F3\u30C1\u3063\u3066\u5358\u8A9E\u304C\u666E\u901A\u306B\u51FA\u3066\u304F\u308B\u30A2\u30CB\u30E1\u3063\u3066\u306A\u3093\u306A\u3093\u3060\u308D\u3046\uFF57 #ookaminananin",
-  "id" : 18604685304,
+  "id_str" : "18562859018",
+  "in_reply_to_user_id" : 109654734,
+  "text" : "@autumncherry \u306E\u3069\u304B\u3084\uFF57\uFF57\u3000\u304A\u306F\u3088\u30FC",
+  "id" : 18562859018,
+  "in_reply_to_status_id" : 18562297275,
   "created_at" : "2010-07-15 00:00:00 +0000",
+  "in_reply_to_screen_name" : "autumncherry",
+  "in_reply_to_user_id_str" : "109654734",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -25673,241 +26054,13 @@ Grailbird.data.tweets_2010_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ookaminananin",
-      "indices" : [ 10, 24 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18604764058",
-  "text" : "\u9ED2\u304F\u304E\u307F\u30FC\u3060\uFF57\uFF57\uFF57 #ookaminananin",
-  "id" : 18604764058,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ookaminananin",
-      "indices" : [ 20, 34 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18604827988",
-  "text" : "\u3053\u308C\u4E00\u4F4D\u30D5\u30E9\u30B0\u305F\u3063\u3066\u308B\u3058\u3083\u306D\u3047\u304B\uFF57\uFF57\uFF57 #ookaminananin",
-  "id" : 18604827988,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ookaminananin",
-      "indices" : [ 20, 34 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18604936519",
-  "text" : "\u5B8C\u5168\u306B\u30BC\u30ED\u306E\u4F7F\u3044\u9B54\u30D1\u30AF\u30EA\u3058\u3083\u306D\u3047\u304B\uFF57\uFF57 #ookaminananin",
-  "id" : 18604936519,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ookaminananin",
-      "indices" : [ 26, 40 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18604992688",
-  "text" : "\u3068\u3044\u3046\u304B\u4E2D\u306E\u4EBA\u3064\u306A\u304C\u308A\u304B\uFF57\u82E5\u5E72\u5206\u304B\u3089\u306A\u304B\u3063\u305F\uFF3E\uFF50\uFF3E #ookaminananin",
-  "id" : 18604992688,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ookaminananin",
-      "indices" : [ 31, 45 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18605131391",
-  "text" : "\u3055\u3063\u3066\u3069\u3046\u306A\u308B\u3053\u3068\u3084\u3089\u30FB\u30FB\u30FB\u307E\u3041\u30D5\u30E9\u30B0\u7ACB\u3063\u3061\u3083\u3066\u308B\u304B\u3089\uFF08\uFF52\uFF59 #ookaminananin",
-  "id" : 18605131391,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ookaminananin",
-      "indices" : [ 28, 42 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18605237210",
-  "text" : "\u96FB\u6CE2\u7684\u306A\u5F7C\u5973\u304B\u3089\u79FB\u884C\u3057\u305F\u73FE\u72B6\u3001\u4F5C\u753B\u3082\u3044\u3044\u611F\u3058\u3067\u3059\uFF3E\uFF51\uFF3E #ookaminananin",
-  "id" : 18605237210,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ookaminananin",
-      "indices" : [ 30, 44 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18605297433",
-  "text" : "\u5408\u6CD5\u30ED\u30EA\uFF57\u305D\u308C\u3063\u3066\u30CB\u30B3\u30CB\u30B3\u306D\uFF08\uFF52\uFF59\u3000\u3042\u308C\u3001\u306A\u306A\u25CB\u3089\u6C0F\u3060\u3063\u3051 #ookaminananin",
-  "id" : 18605297433,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ookaminananin",
-      "indices" : [ 9, 23 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18605386549",
-  "text" : "\u8B0E\u306E\u7F8E\u5C11\u5973\uFF57\uFF57\uFF57 #ookaminananin",
-  "id" : 18605386549,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ookaminananin",
-      "indices" : [ 29, 43 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18605469697",
-  "text" : "\u3082\u3046\u304F\u304E\u307F\u30FC\u304C\u5927\u6CB3\u3067\u3059\u672C\u5F53\u306B\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3057\uFF54\uFF08\uFF52\uFF59 #ookaminananin",
-  "id" : 18605469697,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ookaminananin",
-      "indices" : [ 13, 27 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18605542448",
-  "text" : "\u6D66\u5CF6\u30A4\u30B1\u30E1\u30F3\u3059\u304E\u3066\u6CE3\u3051\u308B #ookaminananin",
-  "id" : 18605542448,
+  "id_str" : "18562863521",
+  "text" : "\u3080\u304F\u308A",
+  "id" : 18562863521,
   "created_at" : "2010-07-15 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
@@ -25922,21 +26075,252 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
-      "screen_name" : "why_tathibana",
-      "indices" : [ 30, 44 ],
-      "id_str" : "262494533",
-      "id" : 262494533
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
+      "screen_name" : "ayaka_chicken",
+      "indices" : [ 0, 14 ],
+      "id_str" : "3322453124",
+      "id" : 3322453124
+    }, {
+      "name" : "\u897F\u732B\u3042\u3044",
+      "screen_name" : "aihime0301",
+      "indices" : [ 15, 26 ],
+      "id_str" : "76395256",
+      "id" : 76395256
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18605619025",
-  "text" : "\u6CE3\u3051\u308B\u306B\u53CD\u5FDC\u3057\u305Fbot\u304C\uFF57\uFF57RT: @yui_nyhan: @why_tathibana why\u5148\u8F29\u3001\u5143\u6C17\u51FA\u3057\u3066!!",
-  "id" : 18605619025,
+  "id_str" : "18564254637",
+  "text" : "@Ayaka_chicken @aihime0301 \u304A\u3084\u3059\u3042\u3058\u3083\u3058\u3083\u3057\u305F\uFF01",
+  "id" : 18564254637,
   "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18564729954",
+  "text" : "@Johnny_nm7 \u304A\u306F\u304A\u306F\uFF01",
+  "id" : 18564729954,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u5BAE\u65B9 \u7720",
+      "screen_name" : "mirufi_0714",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1227653384",
+      "id" : 1227653384
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18564740871",
+  "text" : "@mirufi_0714 \u304A\u3046\u3055\uFF01",
+  "id" : 18564740871,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3042\u306B\u307E\u306F\u6B4C\u304C\u5927\u597D\u304D\u306A\u30D5\u30EC\u30F3\u30BA",
+      "screen_name" : "anima913",
+      "indices" : [ 3, 12 ],
+      "id_str" : "90374149",
+      "id" : 90374149
+    }, {
+      "name" : "\u30CB\u30B3\u30E1\u30ED\u5B9F\u884C\u59D4\u54E1\u4F1A",
+      "screen_name" : "nicomelo_staff",
+      "indices" : [ 17, 32 ],
+      "id_str" : "133600746",
+      "id" : 133600746
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18565113517",
+  "text" : "RT @anima913: RT @nicomelo_staff: \u30CB\u30B3\u30E1\u30EDLIVE2010\u3010\u8FFD\u52A0\u30C1\u30B1\u30C3\u30C8\u3011\u5FDC\u52DF\u306F\u672C\u65E5\u307E\u3067\u3067\u3059(\u00B4\uFF1B\u03C9\uFF1B\uFF40)http:\/\/bit.ly\/aKMNTk",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/sites.google.com\/site\/tweentwitterclient\/\" rel=\"nofollow\"\u003ETween\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "\u30CB\u30B3\u30E1\u30ED\u5B9F\u884C\u59D4\u54E1\u4F1A",
+        "screen_name" : "nicomelo_staff",
+        "indices" : [ 3, 18 ],
+        "id_str" : "133600746",
+        "id" : 133600746
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "18564939138",
+    "text" : "RT @nicomelo_staff: \u30CB\u30B3\u30E1\u30EDLIVE2010\u3010\u8FFD\u52A0\u30C1\u30B1\u30C3\u30C8\u3011\u5FDC\u52DF\u306F\u672C\u65E5\u307E\u3067\u3067\u3059(\u00B4\uFF1B\u03C9\uFF1B\uFF40)http:\/\/bit.ly\/aKMNTk",
+    "id" : 18564939138,
+    "created_at" : "2010-07-15 01:40:12 +0000",
+    "user" : {
+      "name" : "\u3042\u306B\u307E\u306F\u6B4C\u304C\u5927\u597D\u304D\u306A\u30D5\u30EC\u30F3\u30BA",
+      "screen_name" : "anima913",
+      "protected" : false,
+      "id_str" : "90374149",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744429685493227521\/lP-jnlPY_normal.jpg",
+      "id" : 90374149,
+      "verified" : false
+    }
+  },
+  "id" : 18565113517,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30DF\u30F3\u30DF\u30F3@\u30B3\u30DF\u30B1\u304A\u75B2\u308C\u69D8\u3067\u3057\u305F",
+      "screen_name" : "linelinet",
+      "indices" : [ 3, 13 ],
+      "id_str" : "116694698",
+      "id" : 116694698
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18567844632",
+  "text" : "RT @linelinet: linelinet\u3055\u3093\u306E\u590F\u4F11\u307F\u306E\u8AB2\u984C\u306F\u300E\u9AD8\u6821\u751F\u3068\u604B\u3092\u3059\u308B\u3053\u3068\u300F\u3067\u3059\u3002\u307E\u305F\u3001\u305D\u308C\u306B\u5408\u308F\u305B\u300C\u604B\u306E\u4FEE\u7F85\u5834\u300D\u306B\u3064\u3044\u3066\u306E\u30EC\u30DD\u30FC\u30C8\u3092800\u5B57\u3067\u4F5C\u6210\u3057\u306A\u3055\u3044\u3002\u63D0\u51FA\u65E5\u306F\uFF19\u6708\uFF17\u65E5\u3067\u3059\u3002 http:\/\/shindanmaker.com\/32288  \u3067\u304D\u305D\u3046\u306B\u306A\u3044\u308F\u2026\uFF1A",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "18567637443",
+    "text" : "linelinet\u3055\u3093\u306E\u590F\u4F11\u307F\u306E\u8AB2\u984C\u306F\u300E\u9AD8\u6821\u751F\u3068\u604B\u3092\u3059\u308B\u3053\u3068\u300F\u3067\u3059\u3002\u307E\u305F\u3001\u305D\u308C\u306B\u5408\u308F\u305B\u300C\u604B\u306E\u4FEE\u7F85\u5834\u300D\u306B\u3064\u3044\u3066\u306E\u30EC\u30DD\u30FC\u30C8\u3092800\u5B57\u3067\u4F5C\u6210\u3057\u306A\u3055\u3044\u3002\u63D0\u51FA\u65E5\u306F\uFF19\u6708\uFF17\u65E5\u3067\u3059\u3002 http:\/\/shindanmaker.com\/32288  \u3067\u304D\u305D\u3046\u306B\u306A\u3044\u308F\u2026\uFF1A",
+    "id" : 18567637443,
+    "created_at" : "2010-07-15 02:22:00 +0000",
+    "user" : {
+      "name" : "\u30DF\u30F3\u30DF\u30F3@\u30B3\u30DF\u30B1\u304A\u75B2\u308C\u69D8\u3067\u3057\u305F",
+      "screen_name" : "linelinet",
+      "protected" : false,
+      "id_str" : "116694698",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422002216711360512\/B9JOaxP7_normal.jpeg",
+      "id" : 116694698,
+      "verified" : false
+    }
+  },
+  "id" : 18567844632,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "nico",
+      "screen_name" : "nico_news",
+      "indices" : [ 20, 30 ],
+      "id_str" : "209144065",
+      "id" : 209144065
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18568398387",
+  "text" : "\u304A\u3001\u304D\u305F\u304B\u30FB\u30FB\u30FB\uFF3C\u3084\u3063\u3068\u3067\u3059\u304B\uFF0FRT: @nico_news: \u3010\u304A\u77E5\u3089\u305B\u3011NG\u30B3\u30E1\u30F3\u30C8\u3001NG\u30E6\u30FC\u30B6\u30FC\u306E\u767B\u9332\u4E0A\u9650\u304C\u3001\u305D\u308C\u305E\u308C2\u500D\u306B\u306A\u308A\u307E\u3057\u305F\u3000http:\/\/bit.ly\/9MzNHn",
+  "id" : 18568398387,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u5E79\u4E8B\u7537",
+      "screen_name" : "kanji_man",
+      "indices" : [ 0, 10 ],
+      "id_str" : "56417997",
+      "id" : 56417997
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18569885239",
+  "geo" : { },
+  "id_str" : "18570183503",
+  "in_reply_to_user_id" : 56417997,
+  "text" : "@kanji_man \u3044\u3063\u3066\u3089\u3063\u3057\u3083\u3044\u307E\u305B\uFF57",
+  "id" : 18570183503,
+  "in_reply_to_status_id" : 18569885239,
+  "created_at" : "2010-07-15 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kanji_man",
+  "in_reply_to_user_id_str" : "56417997",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -26224,7 +26608,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
       "screen_name" : "erogewota",
       "indices" : [ 3, 13 ],
       "id_str" : "50268644",
@@ -26251,11 +26635,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18587213023,
     "created_at" : "2010-07-15 08:27:11 +0000",
     "user" : {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
       "screen_name" : "erogewota",
       "protected" : false,
       "id_str" : "50268644",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748827590081650688\/bCIbmsBi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/834720434645897218\/bUGGML4O_normal.jpg",
       "id" : 50268644,
       "verified" : false
     }
@@ -26302,13 +26686,13 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Foo\u3055\u3093",
+      "name" : "Foo\u3055\u3093@#\u30B3\u30F3\u30D1\u30B9",
       "screen_name" : "Foo_san",
       "indices" : [ 21, 29 ],
       "id_str" : "88633646",
       "id" : 88633646
     }, {
-      "name" : "Foo\u3055\u3093",
+      "name" : "Foo\u3055\u3093@#\u30B3\u30F3\u30D1\u30B9",
       "screen_name" : "Foo_san",
       "indices" : [ 75, 83 ],
       "id_str" : "88633646",
@@ -26349,10 +26733,7 @@ Grailbird.data.tweets_2010_07 =
       "id" : 159092509
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "tenga_ochugen",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -26385,7 +26766,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "TENGA_PR",
       "protected" : false,
       "id_str" : "159092509",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752409950178021376\/5Ser6z0Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811792072009129984\/n_aRX270_normal.jpg",
       "id" : 159092509,
       "verified" : true
     }
@@ -26454,7 +26835,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AC\u30A4\u30DCGO",
+      "name" : "\u30AC\u30A4\u30DC\uFF08\u6709\uFF09",
       "screen_name" : "gaibo86",
       "indices" : [ 12, 20 ],
       "id_str" : "123141447",
@@ -26482,7 +26863,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30B7\u30F3\u30FB\u30B4\u30B8\u30E9\u3044\u3044\u3088\u306D",
+      "name" : "\u308D",
       "screen_name" : "launch726",
       "indices" : [ 0, 10 ],
       "id_str" : "2403908924",
@@ -26537,7 +26918,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -26618,7 +26999,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "zyunki1224",
       "protected" : false,
       "id_str" : "113068631",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756815751613263872\/ugWSab4k_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/828200669232324608\/QeLuEOI0_normal.png",
       "id" : 113068631,
       "verified" : false
     }
@@ -26982,416 +27363,71 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
-      "screen_name" : "minardikaivbx",
-      "indices" : [ 13, 27 ],
-      "id_str" : "66997484",
-      "id" : 66997484
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18599906574",
-  "text" : "\u3069\u3046\u3057\u3066\u305D\u3046\u306A\u3063\u305FRT: @minardikaivbx: \u30B5\u30E9\u30C0\u306E\u4E0B\u306B\u30C9\u30EC\u30C3\u30B7\u30F3\u30B0\u306E\u888B\u3092\u5165\u308C\u308B\u3068\u3044\u3046\u914D\u7F6E\u306F\u3001\u9AD8\u51FA\u529B\u30FB\u9AD8\u51FA\u529B\u306A\u672C\u4F53\u30E1\u30AC\u7C92\u5B50\u7832\u3092\u30B3\u30AF\u30D4\u30C3\u30C8\u306E\u76F4\u4E0B\u306B\u914D\u7F6E\u3057\u3066\u3044\u308B\u30E2\u30D3\u30EB\u30B9\u30FC\u30C4\u30C9\u30FC\u30D9\u30F3\u30A6\u30EB\u30D5\u306E\u8A2D\u8A08\u601D\u60F3\u3068\u4F3C\u3066\u3044\u308B\u3002",
-  "id" : 18599906574,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "denpatekinakanojo",
-      "indices" : [ 40, 58 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18600154828",
-  "text" : "\u96E8\u306E\u76EE\u306E\u898B\u305B\u65B9\u304C\u306A\u3041\u30FB\u30FB\u30FB\u307E\u3001\u30D0\u30E9\u30F3\u30B9\u304C\u60AA\u3044\u3053\u306E\u72B6\u614B\u3001\u9AEA\u3067\u96A0\u308C\u3066\u308B\u304B\u3089\u304B\u30FB\u30FB\u30FB #denpatekinakanojo",
-  "id" : 18600154828,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
-      "screen_name" : "minardikaivbx",
-      "indices" : [ 0, 14 ],
-      "id_str" : "66997484",
-      "id" : 66997484
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18600047958",
-  "geo" : { },
-  "id_str" : "18600268992",
-  "in_reply_to_user_id" : 66997484,
-  "text" : "@minardikaivbx \u305D\u308C\u3060\u3051\u5206\u304B\u308C\u3070\u5927\u4E08\u592B\u3067\u3059\uFF3E\uFF50\uFF3E",
-  "id" : 18600268992,
-  "in_reply_to_status_id" : 18600047958,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "minardikaivbx",
-  "in_reply_to_user_id_str" : "66997484",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "denpatekinakanojo",
-      "indices" : [ 17, 35 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18600318747",
-  "text" : "\u3048\u3001\u4ECA\u306E\u96EA\u59EB\uFF1F\u5186\uFF1F\u3046\u3063\u308F\u3041\u30FB\u30FB\u30FB #denpatekinakanojo",
-  "id" : 18600318747,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "denpatekinakanojo",
-      "indices" : [ 21, 39 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18600359211",
-  "text" : "\u5149\u3082\u5149\u3060\u30FB\u30FB\u30FB\u3082\u3046\u5206\u304B\u3089\u3093\u3002\u3084\u3060\u3041orz #denpatekinakanojo",
-  "id" : 18600359211,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "denpatekinakanojo",
-      "indices" : [ 30, 48 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18600447930",
-  "text" : "\u7D05\u306F\u539F\u4F5C\u3068\u5225\u7269\u3068\u3057\u3066\u8003\u3048\u308C\u3070\u9762\u767D\u304B\u3063\u305F\u3002\u3067\u3082\u3001\u3053\u308C\u306F\u30FB\u30FB\u30FB #denpatekinakanojo",
-  "id" : 18600447930,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18600641000",
-  "text" : "\u4E00\u4EBA\u79F0\u304C\u300C\u5C0F\u751F\u300D\u3060\u3063\u305F\u6642\u671F\u304C\u4FFA\u306B\u3082\u3042\u308A\u307E\u3057\u305F",
-  "id" : 18600641000,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "marlhollo2",
-      "screen_name" : "marlhollo",
-      "indices" : [ 3, 13 ],
-      "id_str" : "131491157",
-      "id" : 131491157
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18600728105",
-  "text" : "RT @marlhollo: \u300C\u3084\u3001\u3084\u3060\u305D\u3093\u306A\u3068\u3053\u3063\u3001\u6C5A\u3044\u2026\u2026\uFF01\u300D\u300C\u25CB\u25CB\u306B\u6C5A\u3044\u3068\u3053\u308D\u306A\u3093\u3066\u306A\u3044\u3088\u300D\u3068\u3044\u3046\u639B\u3051\u5408\u3044\u3092\u308F\u308A\u304B\u3057\u898B\u304B\u3051\u308B\u3088\u3046\u306A\u6C17\u304C\u3059\u308B\u304C\u3001\u672A\u3060\u306B\u3053\u306E\u5FDC\u916C\u304C\u4F55\u3092\u610F\u5473\u3059\u308B\u3082\u306E\u306A\u306E\u304B\u3088\u304F\u308F\u304B\u3089\u306A\u3044\u3067\u3044\u308B\u3002\u30A8\u30ED\u7684\u306B\u306F\u300C\u3080\u3001\u3080\u3057\u308D\u6C5A\u3044\u65B9\u304C\u8208\u596E\u3059\u308B\u3093\u3060\u306A\u3063\u3001\u30CF\u30A1\u30CF\u30A1\u300D\u3068\u304B\u306E ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "18600595834",
-    "text" : "\u300C\u3084\u3001\u3084\u3060\u305D\u3093\u306A\u3068\u3053\u3063\u3001\u6C5A\u3044\u2026\u2026\uFF01\u300D\u300C\u25CB\u25CB\u306B\u6C5A\u3044\u3068\u3053\u308D\u306A\u3093\u3066\u306A\u3044\u3088\u300D\u3068\u3044\u3046\u639B\u3051\u5408\u3044\u3092\u308F\u308A\u304B\u3057\u898B\u304B\u3051\u308B\u3088\u3046\u306A\u6C17\u304C\u3059\u308B\u304C\u3001\u672A\u3060\u306B\u3053\u306E\u5FDC\u916C\u304C\u4F55\u3092\u610F\u5473\u3059\u308B\u3082\u306E\u306A\u306E\u304B\u3088\u304F\u308F\u304B\u3089\u306A\u3044\u3067\u3044\u308B\u3002\u30A8\u30ED\u7684\u306B\u306F\u300C\u3080\u3001\u3080\u3057\u308D\u6C5A\u3044\u65B9\u304C\u8208\u596E\u3059\u308B\u3093\u3060\u306A\u3063\u3001\u30CF\u30A1\u30CF\u30A1\u300D\u3068\u304B\u306E\u65B9\u304C\u3044\u3044\u3093\u3058\u3083\u306A\u3044\u306E\u304B",
-    "id" : 18600595834,
-    "created_at" : "2010-07-15 13:08:43 +0000",
-    "user" : {
-      "name" : "marlhollo2",
-      "screen_name" : "marlhollo",
-      "protected" : false,
-      "id_str" : "131491157",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/415821369142566912\/n_07fEdw_normal.png",
-      "id" : 131491157,
-      "verified" : false
-    }
-  },
-  "id" : 18600728105,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ookaminananin",
-      "indices" : [ 19, 33 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18600942890",
-  "text" : "\u30AA\u30AA\u30AB\u30DF\u3055\u3093\u3068\u4E03\u4EBA\u306E\u4EF2\u9593\u305F\u3061\u307F\u308B\u3088\uFF01 #ookaminananin",
-  "id" : 18600942890,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ookaminananin",
-      "indices" : [ 22, 36 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18600994452",
-  "text" : "\u3084\u306F\u308A\u9ED2\u5B50\u30FB\u5927\u6CB3\u30FB\u5B50\u840C\u5148\u751F\u306E\u5171\u6F14\u3060\u3088\u306A\u3041\uFF57 #ookaminananin",
-  "id" : 18600994452,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ookaminananin",
-      "indices" : [ 22, 36 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18601267368",
-  "text" : "\u3061\u3087\u3063\u3068\u5F85\u3066\uFF57\uFF57\uFF57\u5316\u7269\u8A9E\u304B\u3089\u3082\u767B\u5834\u304B\u3088\uFF57\uFF57 #ookaminananin",
-  "id" : 18601267368,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ookaminananin",
-      "indices" : [ 20, 34 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18601324811",
-  "text" : "\u73FE\u5728\u30FB\u5927\u6CB3\u30FB\u9ED2\u5B50\u30FB\u5B50\u840C\u5148\u751F\u30FB\u963F\u826F\u3005\u6728\u66A6 #ookaminananin",
-  "id" : 18601324811,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3055\u304F\u3089\u3041",
-      "screen_name" : "autumncherry",
-      "indices" : [ 0, 13 ],
-      "id_str" : "109654734",
-      "id" : 109654734
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18562297275",
-  "geo" : { },
-  "id_str" : "18562859018",
-  "in_reply_to_user_id" : 109654734,
-  "text" : "@autumncherry \u306E\u3069\u304B\u3084\uFF57\uFF57\u3000\u304A\u306F\u3088\u30FC",
-  "id" : 18562859018,
-  "in_reply_to_status_id" : 18562297275,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "autumncherry",
-  "in_reply_to_user_id_str" : "109654734",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18562863521",
-  "text" : "\u3080\u304F\u308A",
-  "id" : 18562863521,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
       "id" : 3322453124
-    }, {
-      "name" : "\u897F\u732B\u3042\u3044",
-      "screen_name" : "aihime0301",
-      "indices" : [ 15, 26 ],
-      "id_str" : "76395256",
-      "id" : 76395256
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18564254637",
-  "text" : "@Ayaka_chicken @aihime0301 \u304A\u3084\u3059\u3042\u3058\u3083\u3058\u3083\u3057\u305F\uFF01",
-  "id" : 18564254637,
-  "created_at" : "2010-07-15 00:00:00 +0000",
+  "id_str" : "18527452673",
+  "text" : "@Ayaka_chicken \u304D\u306E\u305B\u3044\uFF3E\uFF50\uFF3E",
+  "id" : 18527452673,
+  "created_at" : "2010-07-14 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/live.nicovideo.jp\/\" rel=\"nofollow\"\u003E\u30CB\u30B3\u30CB\u30B3\u751F\u653E\u9001\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "lv21562246",
+      "indices" : [ 39, 50 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18527714447",
+  "text" : "\u30B0\u30C0\u53A8\u30E1\u30F3\u30D0\u30FC\u304C\u5C45\u308B\u306A\u3046 http:\/\/nico.ms\/lv21562246 #lv21562246",
+  "id" : 18527714447,
+  "created_at" : "2010-07-14 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/live.nicovideo.jp\/\" rel=\"nofollow\"\u003E\u30CB\u30B3\u30CB\u30B3\u751F\u653E\u9001\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "lv21562246",
+      "indices" : [ 38, 49 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18528222538",
+  "text" : "who\u3055\u3093\u672C\u6C17\u306A\u3046\uFF57\uFF57 http:\/\/nico.ms\/lv21562246 #lv21562246",
+  "id" : 18528222538,
+  "created_at" : "2010-07-14 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -27410,213 +27446,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18564729954",
-  "text" : "@Johnny_nm7 \u304A\u306F\u304A\u306F\uFF01",
-  "id" : 18564729954,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u5BAE\u65B9 \u7720",
-      "screen_name" : "mirufi_0714",
-      "indices" : [ 0, 12 ],
-      "id_str" : "1227653384",
-      "id" : 1227653384
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18564740871",
-  "text" : "@mirufi_0714 \u304A\u3046\u3055\uFF01",
-  "id" : 18564740871,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3042\u306B\u307E@\u6B4C\u3046\u63D0\u7763\u30E9\u30A4\u30D0\u30FCP",
-      "screen_name" : "anima913",
-      "indices" : [ 3, 12 ],
-      "id_str" : "90374149",
-      "id" : 90374149
-    }, {
-      "name" : "\u30CB\u30B3\u30E1\u30ED\u5B9F\u884C\u59D4\u54E1\u4F1A",
-      "screen_name" : "nicomelo_staff",
-      "indices" : [ 17, 32 ],
-      "id_str" : "133600746",
-      "id" : 133600746
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18565113517",
-  "text" : "RT @anima913: RT @nicomelo_staff: \u30CB\u30B3\u30E1\u30EDLIVE2010\u3010\u8FFD\u52A0\u30C1\u30B1\u30C3\u30C8\u3011\u5FDC\u52DF\u306F\u672C\u65E5\u307E\u3067\u3067\u3059(\u00B4\uFF1B\u03C9\uFF1B\uFF40)http:\/\/bit.ly\/aKMNTk",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/sites.google.com\/site\/tweentwitterclient\/\" rel=\"nofollow\"\u003ETween\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "\u30CB\u30B3\u30E1\u30ED\u5B9F\u884C\u59D4\u54E1\u4F1A",
-        "screen_name" : "nicomelo_staff",
-        "indices" : [ 3, 18 ],
-        "id_str" : "133600746",
-        "id" : 133600746
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "18564939138",
-    "text" : "RT @nicomelo_staff: \u30CB\u30B3\u30E1\u30EDLIVE2010\u3010\u8FFD\u52A0\u30C1\u30B1\u30C3\u30C8\u3011\u5FDC\u52DF\u306F\u672C\u65E5\u307E\u3067\u3067\u3059(\u00B4\uFF1B\u03C9\uFF1B\uFF40)http:\/\/bit.ly\/aKMNTk",
-    "id" : 18564939138,
-    "created_at" : "2010-07-15 01:40:12 +0000",
-    "user" : {
-      "name" : "\u3042\u306B\u307E@\u6B4C\u3046\u63D0\u7763\u30E9\u30A4\u30D0\u30FCP",
-      "screen_name" : "anima913",
-      "protected" : false,
-      "id_str" : "90374149",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744429685493227521\/lP-jnlPY_normal.jpg",
-      "id" : 90374149,
-      "verified" : false
-    }
-  },
-  "id" : 18565113517,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30DF\u30F3\u30DF\u30F3\u30BC\u30DF\u3055\u3093\u30C1\u30FC\u30E0",
-      "screen_name" : "linelinet",
-      "indices" : [ 3, 13 ],
-      "id_str" : "116694698",
-      "id" : 116694698
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18567844632",
-  "text" : "RT @linelinet: linelinet\u3055\u3093\u306E\u590F\u4F11\u307F\u306E\u8AB2\u984C\u306F\u300E\u9AD8\u6821\u751F\u3068\u604B\u3092\u3059\u308B\u3053\u3068\u300F\u3067\u3059\u3002\u307E\u305F\u3001\u305D\u308C\u306B\u5408\u308F\u305B\u300C\u604B\u306E\u4FEE\u7F85\u5834\u300D\u306B\u3064\u3044\u3066\u306E\u30EC\u30DD\u30FC\u30C8\u3092800\u5B57\u3067\u4F5C\u6210\u3057\u306A\u3055\u3044\u3002\u63D0\u51FA\u65E5\u306F\uFF19\u6708\uFF17\u65E5\u3067\u3059\u3002 http:\/\/shindanmaker.com\/32288  \u3067\u304D\u305D\u3046\u306B\u306A\u3044\u308F\u2026\uFF1A",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "18567637443",
-    "text" : "linelinet\u3055\u3093\u306E\u590F\u4F11\u307F\u306E\u8AB2\u984C\u306F\u300E\u9AD8\u6821\u751F\u3068\u604B\u3092\u3059\u308B\u3053\u3068\u300F\u3067\u3059\u3002\u307E\u305F\u3001\u305D\u308C\u306B\u5408\u308F\u305B\u300C\u604B\u306E\u4FEE\u7F85\u5834\u300D\u306B\u3064\u3044\u3066\u306E\u30EC\u30DD\u30FC\u30C8\u3092800\u5B57\u3067\u4F5C\u6210\u3057\u306A\u3055\u3044\u3002\u63D0\u51FA\u65E5\u306F\uFF19\u6708\uFF17\u65E5\u3067\u3059\u3002 http:\/\/shindanmaker.com\/32288  \u3067\u304D\u305D\u3046\u306B\u306A\u3044\u308F\u2026\uFF1A",
-    "id" : 18567637443,
-    "created_at" : "2010-07-15 02:22:00 +0000",
-    "user" : {
-      "name" : "\u30DF\u30F3\u30DF\u30F3\u30BC\u30DF\u3055\u3093\u30C1\u30FC\u30E0",
-      "screen_name" : "linelinet",
-      "protected" : false,
-      "id_str" : "116694698",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422002216711360512\/B9JOaxP7_normal.jpeg",
-      "id" : 116694698,
-      "verified" : false
-    }
-  },
-  "id" : 18567844632,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "nico",
-      "screen_name" : "nico_news",
-      "indices" : [ 20, 30 ],
-      "id_str" : "209144065",
-      "id" : 209144065
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18568398387",
-  "text" : "\u304A\u3001\u304D\u305F\u304B\u30FB\u30FB\u30FB\uFF3C\u3084\u3063\u3068\u3067\u3059\u304B\uFF0FRT: @nico_news: \u3010\u304A\u77E5\u3089\u305B\u3011NG\u30B3\u30E1\u30F3\u30C8\u3001NG\u30E6\u30FC\u30B6\u30FC\u306E\u767B\u9332\u4E0A\u9650\u304C\u3001\u305D\u308C\u305E\u308C2\u500D\u306B\u306A\u308A\u307E\u3057\u305F\u3000http:\/\/bit.ly\/9MzNHn",
-  "id" : 18568398387,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u5E79\u4E8B\u7537",
-      "screen_name" : "kanji_man",
-      "indices" : [ 0, 10 ],
-      "id_str" : "56417997",
-      "id" : 56417997
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18569885239",
-  "geo" : { },
-  "id_str" : "18570183503",
-  "in_reply_to_user_id" : 56417997,
-  "text" : "@kanji_man \u3044\u3063\u3066\u3089\u3063\u3057\u3083\u3044\u307E\u305B\uFF57",
-  "id" : 18570183503,
-  "in_reply_to_status_id" : 18569885239,
-  "created_at" : "2010-07-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kanji_man",
-  "in_reply_to_user_id_str" : "56417997",
+  "id_str" : "18528744902",
+  "text" : "\u306D\u308A\u3085\u3002\u304A\u3084\u3059\u307F\u306A\u3055\u30FC\u3044",
+  "id" : 18528744902,
+  "created_at" : "2010-07-14 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -27630,7 +27463,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u306B\u307E@\u6B4C\u3046\u63D0\u7763\u30E9\u30A4\u30D0\u30FCP",
+      "name" : "\u3042\u306B\u307E\u306F\u6B4C\u304C\u5927\u597D\u304D\u306A\u30D5\u30EC\u30F3\u30BA",
       "screen_name" : "anima913",
       "indices" : [ 0, 9 ],
       "id_str" : "90374149",
@@ -27787,7 +27620,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 12, 26 ],
       "id_str" : "3322453124",
@@ -27924,7 +27757,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u304B\u3055\u3093\u306F\u304A\u9152\u304C\u98F2\u307F\u305F\u3044",
+      "name" : "\u307F\u304B\u3055\u3093\u3002",
       "screen_name" : "pinkrit",
       "indices" : [ 0, 8 ],
       "id_str" : "100307622",
@@ -27957,7 +27790,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3064\u306E\u304C\u308F Jumping Heart",
+      "name" : "\u6298\u308C\u306A\u3044\u3064\u306E\u304C\u308F",
       "screen_name" : "angleriver",
       "indices" : [ 3, 14 ],
       "id_str" : "77215910",
@@ -27984,11 +27817,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18523926092,
     "created_at" : "2010-07-14 14:38:07 +0000",
     "user" : {
-      "name" : "\u3064\u306E\u304C\u308F Jumping Heart",
+      "name" : "\u6298\u308C\u306A\u3044\u3064\u306E\u304C\u308F",
       "screen_name" : "angleriver",
       "protected" : false,
       "id_str" : "77215910",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756864057601236993\/7WS4Ft8z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795966690483810304\/LkVg_fYE_normal.jpg",
       "id" : 77215910,
       "verified" : false
     }
@@ -28036,7 +27869,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -28064,7 +27897,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -28145,13 +27978,13 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4F0A\u4E88\u67D1@MFT2016",
+      "name" : "\u4F0A\u4E88\u67D1",
       "screen_name" : "iyokan_nico",
       "indices" : [ 3, 15 ],
       "id_str" : "24653768",
       "id" : 24653768
     }, {
-      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)",
+      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)\u306E\u30D5\u30EC\u30F3\u30BA",
       "screen_name" : "niconicokikka",
       "indices" : [ 71, 85 ],
       "id_str" : "36291433",
@@ -28171,7 +28004,7 @@ Grailbird.data.tweets_2010_07 =
     "source" : "\u003Ca href=\"https:\/\/sites.google.com\/site\/tweentwitterclient\/\" rel=\"nofollow\"\u003ETween\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)",
+        "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)\u306E\u30D5\u30EC\u30F3\u30BA",
         "screen_name" : "niconicokikka",
         "indices" : [ 54, 68 ],
         "id_str" : "36291433",
@@ -28190,7 +28023,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18527286960,
     "created_at" : "2010-07-14 15:24:50 +0000",
     "user" : {
-      "name" : "\u4F0A\u4E88\u67D1@MFT2016",
+      "name" : "\u4F0A\u4E88\u67D1",
       "screen_name" : "iyokan_nico",
       "protected" : false,
       "id_str" : "24653768",
@@ -28211,74 +28044,240 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
-      "screen_name" : "ayaka_chicken",
-      "indices" : [ 0, 14 ],
-      "id_str" : "3322453124",
-      "id" : 3322453124
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18527452673",
-  "text" : "@Ayaka_chicken \u304D\u306E\u305B\u3044\uFF3E\uFF50\uFF3E",
-  "id" : 18527452673,
-  "created_at" : "2010-07-14 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/live.nicovideo.jp\/\" rel=\"nofollow\"\u003E\u30CB\u30B3\u30CB\u30B3\u751F\u653E\u9001\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "lv21562246",
-      "indices" : [ 39, 50 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18527714447",
-  "text" : "\u30B0\u30C0\u53A8\u30E1\u30F3\u30D0\u30FC\u304C\u5C45\u308B\u306A\u3046 http:\/\/nico.ms\/lv21562246 #lv21562246",
-  "id" : 18527714447,
-  "created_at" : "2010-07-14 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/live.nicovideo.jp\/\" rel=\"nofollow\"\u003E\u30CB\u30B3\u30CB\u30B3\u751F\u653E\u9001\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "lv21562246",
+      "text" : "lv21452115",
       "indices" : [ 38, 49 ]
     } ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18528222538",
-  "text" : "who\u3055\u3093\u672C\u6C17\u306A\u3046\uFF57\uFF57 http:\/\/nico.ms\/lv21562246 #lv21562246",
-  "id" : 18528222538,
-  "created_at" : "2010-07-14 00:00:00 +0000",
+  "id_str" : "18422769983",
+  "text" : "\u30CB\u30B3\u751F\u53C2\u52A0\u4E2D : \u96D1\u8AC7 http:\/\/nico.ms\/lv21452115 #lv21452115",
+  "id" : 18422769983,
+  "created_at" : "2010-07-13 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30DF\u30F3\u30DF\u30F3@\u30B3\u30DF\u30B1\u304A\u75B2\u308C\u69D8\u3067\u3057\u305F",
+      "screen_name" : "linelinet",
+      "indices" : [ 3, 13 ],
+      "id_str" : "116694698",
+      "id" : 116694698
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18423824415",
+  "text" : "RT @linelinet: \u5FC3\u3068\u4F53\u304C\u5C11\u5973\u3067\u3042\u308B\u9650\u308A\uFF01\u4EBA\u306F\u4F55\u6B73\u306B\u306A\u3063\u3066\u3082\uFF01\u5C11\u5973\u3067\u3042\u308A\u7D9A\u3051\u308B\u3053\u3068\u304C\u51FA\u6765\u308B\u3093\u3060\u3088\uFF01",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "18423675819",
+    "text" : "\u5FC3\u3068\u4F53\u304C\u5C11\u5973\u3067\u3042\u308B\u9650\u308A\uFF01\u4EBA\u306F\u4F55\u6B73\u306B\u306A\u3063\u3066\u3082\uFF01\u5C11\u5973\u3067\u3042\u308A\u7D9A\u3051\u308B\u3053\u3068\u304C\u51FA\u6765\u308B\u3093\u3060\u3088\uFF01",
+    "id" : 18423675819,
+    "created_at" : "2010-07-13 09:07:28 +0000",
+    "user" : {
+      "name" : "\u30DF\u30F3\u30DF\u30F3@\u30B3\u30DF\u30B1\u304A\u75B2\u308C\u69D8\u3067\u3057\u305F",
+      "screen_name" : "linelinet",
+      "protected" : false,
+      "id_str" : "116694698",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422002216711360512\/B9JOaxP7_normal.jpeg",
+      "id" : 116694698,
+      "verified" : false
+    }
+  },
+  "id" : 18423824415,
+  "created_at" : "2010-07-13 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "lv21454140",
+      "indices" : [ 44, 55 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18424370108",
+  "text" : "\u30CB\u30B3\u751F\u8996\u8074\u4E2D : \u25BC\u6016\u3044\u8A71\u3059\u308B\u3088\uFF01 http:\/\/nico.ms\/lv21454140 #lv21454140",
+  "id" : 18424370108,
+  "created_at" : "2010-07-13 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18424379811",
+  "text" : "\u3042\u3001\u53C2\u52A0\u4E2D\u3067\u3059\u3002",
+  "id" : 18424379811,
+  "created_at" : "2010-07-13 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "lv21454140",
+      "indices" : [ 44, 55 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18424725405",
+  "text" : "\u30CB\u30B3\u751F\u53C2\u52A0\u4E2D : \u25BC\u6016\u3044\u8A71\u3059\u308B\u3088\uFF01 http:\/\/nico.ms\/lv21454140 #lv21454140",
+  "id" : 18424725405,
+  "created_at" : "2010-07-13 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18426440236",
+  "text" : "\u30D6\u30EB\u30B9\u30AF\u306A\u3046\u3002\u4F1A\u8B70\u653E\u9001\u3057\u3066\u305F\u306E\u306B(;_;) pc\uFF6A\u2026",
+  "id" : 18426440236,
+  "created_at" : "2010-07-13 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u5BAE\u65B9 \u7720",
+      "screen_name" : "mirufi_0714",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1227653384",
+      "id" : 1227653384
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18435591705",
+  "text" : "@mirufi_0714 \u304A\u3084\u3059\u307F\u30FC",
+  "id" : 18435591705,
+  "created_at" : "2010-07-13 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u795E\u4E3B\u3042\u3093\u3071\u3093",
+      "screen_name" : "kannusiAP",
+      "indices" : [ 8, 18 ],
+      "id_str" : "101756063",
+      "id" : 101756063
+    }, {
+      "name" : "\u9752",
+      "screen_name" : "blue3373",
+      "indices" : [ 29, 38 ],
+      "id_str" : "106449521",
+      "id" : 106449521
+    }, {
+      "name" : "\u308A\u3085\u3046",
+      "screen_name" : "ryuu_key",
+      "indices" : [ 49, 58 ],
+      "id_str" : "106477287",
+      "id" : 106477287
+    }, {
+      "name" : "\u305F\u3060\u306E\u304C\u3093\u3067\u3043",
+      "screen_name" : "Key_GunD",
+      "indices" : [ 89, 98 ],
+      "id_str" : "70974616",
+      "id" : 70974616
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18437055750",
+  "text" : "\u674F\u3060\u308D\u3046RT: @kannusiAP: \u552F\u6E56\u3060\u308D\u5E38\u8003RT @blue3373: \u611A\u554F\uFF08\u30DE\u30C6 RT @ryuu_key    \u60A9\u3093\u3067\u6E1A RT @Johnny_nm7: \u667A\u4EE3 RT @Key_GunD: \u3010\u9375\u3063\u5B50\u306B\u8CEA\u554F\u3011Key\u4F5C\u54C1\u306E\u4E2D\u3067\u770B\u75C5\u3055\u308C\u305F\u3044\u30AD\u30E3\u30E9\u30AF\u30BF\u30FC\u306F\u8AB0\uFF1F",
+  "id" : 18437055750,
+  "created_at" : "2010-07-13 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -28297,10 +28296,120 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18528744902",
-  "text" : "\u306D\u308A\u3085\u3002\u304A\u3084\u3059\u307F\u306A\u3055\u30FC\u3044",
-  "id" : 18528744902,
-  "created_at" : "2010-07-14 00:00:00 +0000",
+  "id_str" : "18437447461",
+  "text" : "\u67D0\u8336\u306B\u6F5C\u5165\u3057\u3066\u307F\u305F",
+  "id" : 18437447461,
+  "created_at" : "2010-07-13 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u99AC\u5834\u9686\u535A",
+      "screen_name" : "vavasyatyou",
+      "indices" : [ 0, 12 ],
+      "id_str" : "45341400",
+      "id" : 45341400
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18437684854",
+  "geo" : { },
+  "id_str" : "18437841473",
+  "in_reply_to_user_id" : 45341400,
+  "text" : "@vavasyatyou \u30BF\u30A4\u30DF\u30F3\u30B0\u3082\u3042\u3063\u305F\u304B\u3082\u3067\u3059\u306D\uFF57",
+  "id" : 18437841473,
+  "in_reply_to_status_id" : 18437684854,
+  "created_at" : "2010-07-13 00:00:00 +0000",
+  "in_reply_to_screen_name" : "vavasyatyou",
+  "in_reply_to_user_id_str" : "45341400",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18437917258",
+  "text" : "\u3042\u3001\u3051\u3044\u304A\u3093\uFF01\uFF01\u306E\u65B0\u3057\u3044OP\u3084\u30FC\u306F\u3058\u3081\u3066\u307F\u305F(\uFF8F\uFF83",
+  "id" : 18437917258,
+  "created_at" : "2010-07-13 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18437977821",
+  "text" : "\u3053\u308C\u306F\u307E\u305F\u6B4C\u3044\u306B\u304F\u3044\uFF57\uFF57\u6163\u308C\u308C\u3070\u305D\u3046\u3067\u3082\u306A\u3044\u306E\u304B\u3082\u3057\u308C\u3093\u304C\uFF57",
+  "id" : 18437977821,
+  "created_at" : "2010-07-13 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3075\u3086\u308A\uFF20\u30DD\u30E0\u30DD\u30E0",
+      "screen_name" : "fuyurin_inran",
+      "indices" : [ 0, 14 ],
+      "id_str" : "127789298",
+      "id" : 127789298
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18438472699",
+  "geo" : { },
+  "id_str" : "18438572099",
+  "in_reply_to_user_id" : 127789298,
+  "text" : "@fuyurin_inran \u30C7\u30EC\u671F\u3060\u3088\u30C7\u30EC\u671F",
+  "id" : 18438572099,
+  "in_reply_to_status_id" : 18438472699,
+  "created_at" : "2010-07-13 00:00:00 +0000",
+  "in_reply_to_screen_name" : "fuyurin_inran",
+  "in_reply_to_user_id_str" : "127789298",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -28817,7 +28926,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u304B\u3055\u3093\u306F\u304A\u9152\u304C\u98F2\u307F\u305F\u3044",
+      "name" : "\u307F\u304B\u3055\u3093\u3002",
       "screen_name" : "pinkrit",
       "indices" : [ 12, 20 ],
       "id_str" : "100307622",
@@ -28995,7 +29104,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u304B\u3055\u3093\u306F\u304A\u9152\u304C\u98F2\u307F\u305F\u3044",
+      "name" : "\u307F\u304B\u3055\u3093\u3002",
       "screen_name" : "pinkrit",
       "indices" : [ 16, 24 ],
       "id_str" : "100307622",
@@ -29077,7 +29186,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -29160,7 +29269,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u304B\u3055\u3093\u306F\u304A\u9152\u304C\u98F2\u307F\u305F\u3044",
+      "name" : "\u307F\u304B\u3055\u3093\u3002",
       "screen_name" : "pinkrit",
       "indices" : [ 0, 8 ],
       "id_str" : "100307622",
@@ -29193,7 +29302,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u304B\u3055\u3093\u306F\u304A\u9152\u304C\u98F2\u307F\u305F\u3044",
+      "name" : "\u307F\u304B\u3055\u3093\u3002",
       "screen_name" : "pinkrit",
       "indices" : [ 0, 8 ],
       "id_str" : "100307622",
@@ -29435,21 +29544,53 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u3057\u3083\u30FC\u3093\u3061\u3083\u3093",
+      "screen_name" : "syaaan",
+      "indices" : [ 3, 10 ],
+      "id_str" : "126918670",
+      "id" : 126918670
+    } ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "lv21452115",
-      "indices" : [ 38, 49 ]
+      "text" : "loveplus",
+      "indices" : [ 87, 96 ]
     } ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18422769983",
-  "text" : "\u30CB\u30B3\u751F\u53C2\u52A0\u4E2D : \u96D1\u8AC7 http:\/\/nico.ms\/lv21452115 #lv21452115",
-  "id" : 18422769983,
-  "created_at" : "2010-07-13 00:00:00 +0000",
+  "id_str" : "18357094884",
+  "text" : "RT @syaaan: \u30E9\u30D6\u30D7\u30E9\u30B9\uFF0B\u3002\u51DB\u5B50\u3068\u3044\u3063\u3057\u3087\u306B\u8179\u7B4B\u3057\u305F\u3002\u3053\u308C\u306F\u30FB\u30FB\u30FB\u4E88\u60F3\u5916\u306B\u8F9B\u3044\u3002\u51DB\u5B50\u304C\u898B\u3066\u3044\u308B\u3068\u7121\u7406\u306B\u9811\u5F35\u3063\u3066\u3057\u307E\u3046\u3002\u30B3\u30CA\u30DF\u3055\u3093\u306F\u306A\u3093\u3066\u6050\u308D\u3057\u3044\u3082\u306E\u3092\u4F5C\u3063\u305F\u3093\u3060\u3002 #loveplus",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/sites.google.com\/site\/tweentwitterclient\/\" rel=\"nofollow\"\u003ETween\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "loveplus",
+        "indices" : [ 75, 84 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "18356973817",
+    "text" : "\u30E9\u30D6\u30D7\u30E9\u30B9\uFF0B\u3002\u51DB\u5B50\u3068\u3044\u3063\u3057\u3087\u306B\u8179\u7B4B\u3057\u305F\u3002\u3053\u308C\u306F\u30FB\u30FB\u30FB\u4E88\u60F3\u5916\u306B\u8F9B\u3044\u3002\u51DB\u5B50\u304C\u898B\u3066\u3044\u308B\u3068\u7121\u7406\u306B\u9811\u5F35\u3063\u3066\u3057\u307E\u3046\u3002\u30B3\u30CA\u30DF\u3055\u3093\u306F\u306A\u3093\u3066\u6050\u308D\u3057\u3044\u3082\u306E\u3092\u4F5C\u3063\u305F\u3093\u3060\u3002 #loveplus",
+    "id" : 18356973817,
+    "created_at" : "2010-07-12 14:12:29 +0000",
+    "user" : {
+      "name" : "\u3057\u3083\u30FC\u3093\u3061\u3083\u3093",
+      "screen_name" : "syaaan",
+      "protected" : false,
+      "id_str" : "126918670",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528267148347445249\/bRAXiTt7_normal.png",
+      "id" : 126918670,
+      "verified" : false
+    }
+  },
+  "id" : 18357094884,
+  "created_at" : "2010-07-12 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -29463,21 +29604,237 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30DF\u30F3\u30DF\u30F3\u30BC\u30DF\u3055\u3093\u30C1\u30FC\u30E0",
-      "screen_name" : "linelinet",
-      "indices" : [ 3, 13 ],
-      "id_str" : "116694698",
-      "id" : 116694698
+      "name" : "\uFF20\u30CE\uFF9E",
+      "screen_name" : "7_fh",
+      "indices" : [ 19, 24 ],
+      "id_str" : "386031995",
+      "id" : 386031995
+    }, {
+      "name" : "\u3057\u308A\u308B\u266A",
+      "screen_name" : "toma129",
+      "indices" : [ 28, 36 ],
+      "id_str" : "1169127523",
+      "id" : 1169127523
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18423824415",
-  "text" : "RT @linelinet: \u5FC3\u3068\u4F53\u304C\u5C11\u5973\u3067\u3042\u308B\u9650\u308A\uFF01\u4EBA\u306F\u4F55\u6B73\u306B\u306A\u3063\u3066\u3082\uFF01\u5C11\u5973\u3067\u3042\u308A\u7D9A\u3051\u308B\u3053\u3068\u304C\u51FA\u6765\u308B\u3093\u3060\u3088\uFF01",
+  "id_str" : "18359604799",
+  "text" : "RT: @gominorun: RT\u3000@7_fh RT @toma129: \u62B9\u8336\u3055\u3093\u3084\u3055\u3057\u3044\u3088\uFF01\u25CF\u30C3\u30AF\u30B9\u3057\u3066\u304F\u308C\u308B\u3068\u304D\u306F\uFF01",
+  "id" : 18359604799,
+  "created_at" : "2010-07-12 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18360451187",
+  "text" : "\u3046\u3080\u3002\u3058\u3083\u3042ATOK\u5C0E\u5165\u3057\u3066\u307F\u308B\u3002\u8A66\u3057\u3066\u307F\u308B\u4E8B\u306F\u5927\u4E8B\u3060\u3088\u306D\uFF01",
+  "id" : 18360451187,
+  "created_at" : "2010-07-12 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18360624025",
+  "text" : "@asnas_k \u307E\u3058\u304B\uFF01\u3046\u30FC\u3080\u3002Google\u304BATOK\u304B\u3067\u8FF7\u3063\u3066\u308B\u3093\u3060\u3088\u306D\u3047\u3002",
+  "id" : 18360624025,
+  "created_at" : "2010-07-12 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18360706403",
+  "text" : "\u3010\u6025\u52DF\u3011ATOKorGoogle\u3000\u5909\u63DB\u30BD\u30D5\u30C8\u3068\u3057\u3066\u3069\u3061\u3089\u304C\u826F\u3044\u304B?\u3000\u3061\u306A\u307F\u306B\u30D5\u30EA\u30FC\u7248\u3067\u3067\u3059\u3002",
+  "id" : 18360706403,
+  "created_at" : "2010-07-12 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u308A\u3085\u3046",
+      "screen_name" : "ryuu_key",
+      "indices" : [ 0, 9 ],
+      "id_str" : "106477287",
+      "id" : 106477287
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18361237524",
+  "geo" : { },
+  "id_str" : "18361411415",
+  "in_reply_to_user_id" : 106477287,
+  "text" : "@ryuu_key \u304A\u3084\u3059\u307F\u306A\u3055\u30FC\u3044",
+  "id" : 18361411415,
+  "in_reply_to_status_id" : 18361237524,
+  "created_at" : "2010-07-12 00:00:00 +0000",
+  "in_reply_to_screen_name" : "ryuu_key",
+  "in_reply_to_user_id_str" : "106477287",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18361663454",
+  "text" : "\u3051\u3044\u304A\u3093\uFF01\uFF01\u6E9C\u307E\u3063\u3066\u305F\u4E8B\u3092\u601D\u3044\u51FA\u3057\u3066\u307F\u3066\u307F\u308B\u3002\u306A\u3093\u304B\u66F2\u304C\u5909\u308F\u308B\u3063\u3066\u8A71\u3060\u3051\u3069\u307E\u3060GO!GO!(ry\u3067\u3059\u3002",
+  "id" : 18361663454,
+  "created_at" : "2010-07-12 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u4F0A\u4E88\u67D1",
+      "screen_name" : "iyokan_nico",
+      "indices" : [ 0, 12 ],
+      "id_str" : "24653768",
+      "id" : 24653768
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18361538081",
+  "geo" : { },
+  "id_str" : "18361781492",
+  "in_reply_to_user_id" : 24653768,
+  "text" : "@iyokan_nico \u306A\u306B\u3084\u3063\u3066\u3093\u3067\u3059\u304B\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57",
+  "id" : 18361781492,
+  "in_reply_to_status_id" : 18361538081,
+  "created_at" : "2010-07-12 00:00:00 +0000",
+  "in_reply_to_screen_name" : "iyokan_nico",
+  "in_reply_to_user_id_str" : "24653768",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u306A\u306A\u3072\u3089",
+      "screen_name" : "nanahira",
+      "indices" : [ 0, 9 ],
+      "id_str" : "231926590",
+      "id" : 231926590
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18362242916",
+  "text" : "@nanahira \u840C\u3048\u307E\u307F\u305F",
+  "id" : 18362242916,
+  "created_at" : "2010-07-12 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "KEIYA",
+      "screen_name" : "paradoxnote",
+      "indices" : [ 3, 15 ],
+      "id_str" : "42784942",
+      "id" : 42784942
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18362535938",
+  "text" : "RT @paradoxnote: \u5275\u4F5C\u3092\u3057\u306A\u3044\u4EBA\u306F\u3001\u7121\u65AD\u4F7F\u7528\u3084\u9055\u6CD5UP\u3092\u300C\u4F7F\u3063\u3066\u3042\u3052\u3066\u3044\u308B\u300D\u300C\u305F\u304F\u3055\u3093\u306E\u4EBA\u306B\u5BA3\u4F1D\u3057\u3066\u3042\u3052\u3066\u3044\u308B\u300D\u2015\u2015\u3064\u307E\u308A\u300C\u79C1\u306F\u3044\u3044\u3053\u3068\u3092\u3057\u3066\u3044\u308B\u300D\u3068\u601D\u3063\u3066\u3044\u308B\u3053\u3068\u304C\u591A\u3044\u3002\u4F5C\u308A\u624B\u3068\u53D7\u3051\u624B\u306E\u5E38\u8B58\u3092\u7D71\u4E00\u3057\u3001\u30AE\u30E3\u30C3\u30D7\u3092\u57CB\u3081\u306A\u3044\u9650\u308A\u9055\u53CD\u306F\u5897\u3048\u7D9A\u3051\u308B\u3088\u3002",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sites.google.com\/site\/tweentwitterclient\/\" rel=\"nofollow\"\u003ETween\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -29485,116 +29842,22 @@ Grailbird.data.tweets_2010_07 =
       "urls" : [ ]
     },
     "geo" : { },
-    "id_str" : "18423675819",
-    "text" : "\u5FC3\u3068\u4F53\u304C\u5C11\u5973\u3067\u3042\u308B\u9650\u308A\uFF01\u4EBA\u306F\u4F55\u6B73\u306B\u306A\u3063\u3066\u3082\uFF01\u5C11\u5973\u3067\u3042\u308A\u7D9A\u3051\u308B\u3053\u3068\u304C\u51FA\u6765\u308B\u3093\u3060\u3088\uFF01",
-    "id" : 18423675819,
-    "created_at" : "2010-07-13 09:07:28 +0000",
+    "id_str" : "18345950873",
+    "text" : "\u5275\u4F5C\u3092\u3057\u306A\u3044\u4EBA\u306F\u3001\u7121\u65AD\u4F7F\u7528\u3084\u9055\u6CD5UP\u3092\u300C\u4F7F\u3063\u3066\u3042\u3052\u3066\u3044\u308B\u300D\u300C\u305F\u304F\u3055\u3093\u306E\u4EBA\u306B\u5BA3\u4F1D\u3057\u3066\u3042\u3052\u3066\u3044\u308B\u300D\u2015\u2015\u3064\u307E\u308A\u300C\u79C1\u306F\u3044\u3044\u3053\u3068\u3092\u3057\u3066\u3044\u308B\u300D\u3068\u601D\u3063\u3066\u3044\u308B\u3053\u3068\u304C\u591A\u3044\u3002\u4F5C\u308A\u624B\u3068\u53D7\u3051\u624B\u306E\u5E38\u8B58\u3092\u7D71\u4E00\u3057\u3001\u30AE\u30E3\u30C3\u30D7\u3092\u57CB\u3081\u306A\u3044\u9650\u308A\u9055\u53CD\u306F\u5897\u3048\u7D9A\u3051\u308B\u3088\u3002",
+    "id" : 18345950873,
+    "created_at" : "2010-07-12 10:57:02 +0000",
     "user" : {
-      "name" : "\u30DF\u30F3\u30DF\u30F3\u30BC\u30DF\u3055\u3093\u30C1\u30FC\u30E0",
-      "screen_name" : "linelinet",
+      "name" : "KEIYA",
+      "screen_name" : "paradoxnote",
       "protected" : false,
-      "id_str" : "116694698",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422002216711360512\/B9JOaxP7_normal.jpeg",
-      "id" : 116694698,
+      "id_str" : "42784942",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/579762238\/jigazou01_normal.jpg",
+      "id" : 42784942,
       "verified" : false
     }
   },
-  "id" : 18423824415,
-  "created_at" : "2010-07-13 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "lv21454140",
-      "indices" : [ 44, 55 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18424370108",
-  "text" : "\u30CB\u30B3\u751F\u8996\u8074\u4E2D : \u25BC\u6016\u3044\u8A71\u3059\u308B\u3088\uFF01 http:\/\/nico.ms\/lv21454140 #lv21454140",
-  "id" : 18424370108,
-  "created_at" : "2010-07-13 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18424379811",
-  "text" : "\u3042\u3001\u53C2\u52A0\u4E2D\u3067\u3059\u3002",
-  "id" : 18424379811,
-  "created_at" : "2010-07-13 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "lv21454140",
-      "indices" : [ 44, 55 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18424725405",
-  "text" : "\u30CB\u30B3\u751F\u53C2\u52A0\u4E2D : \u25BC\u6016\u3044\u8A71\u3059\u308B\u3088\uFF01 http:\/\/nico.ms\/lv21454140 #lv21454140",
-  "id" : 18424725405,
-  "created_at" : "2010-07-13 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18426440236",
-  "text" : "\u30D6\u30EB\u30B9\u30AF\u306A\u3046\u3002\u4F1A\u8B70\u653E\u9001\u3057\u3066\u305F\u306E\u306B(;_;) pc\uFF6A\u2026",
-  "id" : 18426440236,
-  "created_at" : "2010-07-13 00:00:00 +0000",
+  "id" : 18362535938,
+  "created_at" : "2010-07-12 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -29608,89 +29871,39 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5BAE\u65B9 \u7720",
-      "screen_name" : "mirufi_0714",
-      "indices" : [ 0, 12 ],
-      "id_str" : "1227653384",
-      "id" : 1227653384
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18435591705",
-  "text" : "@mirufi_0714 \u304A\u3084\u3059\u307F\u30FC",
-  "id" : 18435591705,
-  "created_at" : "2010-07-13 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u795E\u4E3B\u3042\u3093\u3071\u3093",
-      "screen_name" : "kannusiAP",
-      "indices" : [ 8, 18 ],
-      "id_str" : "101756063",
-      "id" : 101756063
+      "name" : "\u3075\u308F\u3075\u308F\u30DA\u30C9\u3061\u3083\u3093",
+      "screen_name" : "pedoro24",
+      "indices" : [ 16, 25 ],
+      "id_str" : "98882068",
+      "id" : 98882068
     }, {
-      "name" : "\u9752",
-      "screen_name" : "blue3373",
-      "indices" : [ 29, 38 ],
-      "id_str" : "106449521",
-      "id" : 106449521
+      "name" : "\u3084\u307F",
+      "screen_name" : "yayami22",
+      "indices" : [ 35, 44 ],
+      "id_str" : "121251546",
+      "id" : 121251546
     }, {
-      "name" : "\u308A\u3085\u3046",
-      "screen_name" : "ryuu_key",
-      "indices" : [ 49, 58 ],
-      "id_str" : "106477287",
-      "id" : 106477287
+      "name" : "\u3075\u308F\u3075\u308F\u30DA\u30C9\u3061\u3083\u3093",
+      "screen_name" : "pedoro24",
+      "indices" : [ 64, 73 ],
+      "id_str" : "98882068",
+      "id" : 98882068
     }, {
-      "name" : "\u305F\u3060\u306E\u304C\u3093\u3067\u3043",
-      "screen_name" : "Key_GunD",
-      "indices" : [ 89, 98 ],
-      "id_str" : "70974616",
-      "id" : 70974616
+      "name" : "\u3084\u307F",
+      "screen_name" : "yayami22",
+      "indices" : [ 84, 93 ],
+      "id_str" : "121251546",
+      "id" : 121251546
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18437055750",
-  "text" : "\u674F\u3060\u308D\u3046RT: @kannusiAP: \u552F\u6E56\u3060\u308D\u5E38\u8003RT @blue3373: \u611A\u554F\uFF08\u30DE\u30C6 RT @ryuu_key    \u60A9\u3093\u3067\u6E1A RT @Johnny_nm7: \u667A\u4EE3 RT @Key_GunD: \u3010\u9375\u3063\u5B50\u306B\u8CEA\u554F\u3011Key\u4F5C\u54C1\u306E\u4E2D\u3067\u770B\u75C5\u3055\u308C\u305F\u3044\u30AD\u30E3\u30E9\u30AF\u30BF\u30FC\u306F\u8AB0\uFF1F",
-  "id" : 18437055750,
-  "created_at" : "2010-07-13 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18437447461",
-  "text" : "\u67D0\u8336\u306B\u6F5C\u5165\u3057\u3066\u307F\u305F",
-  "id" : 18437447461,
-  "created_at" : "2010-07-13 00:00:00 +0000",
+  "id_str" : "18362756214",
+  "text" : "\u30DA\u30C9\u30ED\uFF1D\u5E7C\u5973\u611B\u597D\u5BB6\u3060\u308D\uFF1FRT: @pedoro24: \u3057\u3066\u306A\u3044 RT @yayami22: \u307A\u3069\u308D\u3093\u5F31\u3044\u3082\u306E\u3044\u3058\u3081\u3084\u3081\u308D RT @pedoro24: \u3076\u3063\u98DB\u3070\u3059 RT @yayami22: \u307A\u3069\u308D\u3093\u30ED\u30EA\u30B3\u30F3\u3084\u3081\u308D",
+  "id" : 18362756214,
+  "created_at" : "2010-07-12 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -29704,26 +29917,21 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u99AC\u5834\u9686\u535A",
-      "screen_name" : "vavasyatyou",
-      "indices" : [ 0, 12 ],
-      "id_str" : "45341400",
-      "id" : 45341400
+      "name" : "\u3075\u308F\u3075\u308F\u30DA\u30C9\u3061\u3083\u3093",
+      "screen_name" : "pedoro24",
+      "indices" : [ 14, 23 ],
+      "id_str" : "98882068",
+      "id" : 98882068
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "18437684854",
   "geo" : { },
-  "id_str" : "18437841473",
-  "in_reply_to_user_id" : 45341400,
-  "text" : "@vavasyatyou \u30BF\u30A4\u30DF\u30F3\u30B0\u3082\u3042\u3063\u305F\u304B\u3082\u3067\u3059\u306D\uFF57",
-  "id" : 18437841473,
-  "in_reply_to_status_id" : 18437684854,
-  "created_at" : "2010-07-13 00:00:00 +0000",
-  "in_reply_to_screen_name" : "vavasyatyou",
-  "in_reply_to_user_id_str" : "45341400",
+  "id_str" : "18363238368",
+  "text" : "\uFF08\u6027\u7684\u306A\u610F\u5473\u3082\u542B\u3081\uFF09RT: @pedoro24: \u2190\u306A\u3093\u3067\u3082\u3059\u3050\u304F\u308F\u3048\u3061\u3083\u3046\u4EBA",
+  "id" : 18363238368,
+  "created_at" : "2010-07-12 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -29742,65 +29950,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18437917258",
-  "text" : "\u3042\u3001\u3051\u3044\u304A\u3093\uFF01\uFF01\u306E\u65B0\u3057\u3044OP\u3084\u30FC\u306F\u3058\u3081\u3066\u307F\u305F(\uFF8F\uFF83",
-  "id" : 18437917258,
-  "created_at" : "2010-07-13 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18437977821",
-  "text" : "\u3053\u308C\u306F\u307E\u305F\u6B4C\u3044\u306B\u304F\u3044\uFF57\uFF57\u6163\u308C\u308C\u3070\u305D\u3046\u3067\u3082\u306A\u3044\u306E\u304B\u3082\u3057\u308C\u3093\u304C\uFF57",
-  "id" : 18437977821,
-  "created_at" : "2010-07-13 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3075\u3086\u308A\uFF20\u30DD\u30E0\u30DD\u30E0",
-      "screen_name" : "fuyurin_inran",
-      "indices" : [ 0, 14 ],
-      "id_str" : "127789298",
-      "id" : 127789298
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18438472699",
-  "geo" : { },
-  "id_str" : "18438572099",
-  "in_reply_to_user_id" : 127789298,
-  "text" : "@fuyurin_inran \u30C7\u30EC\u671F\u3060\u3088\u30C7\u30EC\u671F",
-  "id" : 18438572099,
-  "in_reply_to_status_id" : 18438472699,
-  "created_at" : "2010-07-13 00:00:00 +0000",
-  "in_reply_to_screen_name" : "fuyurin_inran",
-  "in_reply_to_user_id_str" : "127789298",
+  "id_str" : "18363594348",
+  "text" : "\u30D2\u30B9\u30C8\u30EA\u30FC\u3061\u3083\u3093\u306E\u30A2\u30A4\u30B3\u30F3\u306E\u65B9\u304B\u3089\u306E\u30EA\u30D7\u898B\u76F4\u3057\u305F\u3089\u8003\u3048\u306A\u304C\u3089Google\u5165\u308C\u3066\u52A0\u7B46\u3002",
+  "id" : 18363594348,
+  "created_at" : "2010-07-12 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -30447,426 +30600,6 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3057\u3083\u30FC\u3093\u3061\u3083\u3093",
-      "screen_name" : "syaaan",
-      "indices" : [ 3, 10 ],
-      "id_str" : "126918670",
-      "id" : 126918670
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "loveplus",
-      "indices" : [ 87, 96 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18357094884",
-  "text" : "RT @syaaan: \u30E9\u30D6\u30D7\u30E9\u30B9\uFF0B\u3002\u51DB\u5B50\u3068\u3044\u3063\u3057\u3087\u306B\u8179\u7B4B\u3057\u305F\u3002\u3053\u308C\u306F\u30FB\u30FB\u30FB\u4E88\u60F3\u5916\u306B\u8F9B\u3044\u3002\u51DB\u5B50\u304C\u898B\u3066\u3044\u308B\u3068\u7121\u7406\u306B\u9811\u5F35\u3063\u3066\u3057\u307E\u3046\u3002\u30B3\u30CA\u30DF\u3055\u3093\u306F\u306A\u3093\u3066\u6050\u308D\u3057\u3044\u3082\u306E\u3092\u4F5C\u3063\u305F\u3093\u3060\u3002 #loveplus",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/sites.google.com\/site\/tweentwitterclient\/\" rel=\"nofollow\"\u003ETween\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "loveplus",
-        "indices" : [ 75, 84 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "18356973817",
-    "text" : "\u30E9\u30D6\u30D7\u30E9\u30B9\uFF0B\u3002\u51DB\u5B50\u3068\u3044\u3063\u3057\u3087\u306B\u8179\u7B4B\u3057\u305F\u3002\u3053\u308C\u306F\u30FB\u30FB\u30FB\u4E88\u60F3\u5916\u306B\u8F9B\u3044\u3002\u51DB\u5B50\u304C\u898B\u3066\u3044\u308B\u3068\u7121\u7406\u306B\u9811\u5F35\u3063\u3066\u3057\u307E\u3046\u3002\u30B3\u30CA\u30DF\u3055\u3093\u306F\u306A\u3093\u3066\u6050\u308D\u3057\u3044\u3082\u306E\u3092\u4F5C\u3063\u305F\u3093\u3060\u3002 #loveplus",
-    "id" : 18356973817,
-    "created_at" : "2010-07-12 14:12:29 +0000",
-    "user" : {
-      "name" : "\u3057\u3083\u30FC\u3093\u3061\u3083\u3093",
-      "screen_name" : "syaaan",
-      "protected" : false,
-      "id_str" : "126918670",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528267148347445249\/bRAXiTt7_normal.png",
-      "id" : 126918670,
-      "verified" : false
-    }
-  },
-  "id" : 18357094884,
-  "created_at" : "2010-07-12 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uFF20\u30CE\uFF9E",
-      "screen_name" : "7_fh",
-      "indices" : [ 19, 24 ],
-      "id_str" : "386031995",
-      "id" : 386031995
-    }, {
-      "name" : "\u3057\u308A\u308B\u266A",
-      "screen_name" : "toma129",
-      "indices" : [ 28, 36 ],
-      "id_str" : "1169127523",
-      "id" : 1169127523
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18359604799",
-  "text" : "RT: @gominorun: RT\u3000@7_fh RT @toma129: \u62B9\u8336\u3055\u3093\u3084\u3055\u3057\u3044\u3088\uFF01\u25CF\u30C3\u30AF\u30B9\u3057\u3066\u304F\u308C\u308B\u3068\u304D\u306F\uFF01",
-  "id" : 18359604799,
-  "created_at" : "2010-07-12 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18360451187",
-  "text" : "\u3046\u3080\u3002\u3058\u3083\u3042ATOK\u5C0E\u5165\u3057\u3066\u307F\u308B\u3002\u8A66\u3057\u3066\u307F\u308B\u4E8B\u306F\u5927\u4E8B\u3060\u3088\u306D\uFF01",
-  "id" : 18360451187,
-  "created_at" : "2010-07-12 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18360624025",
-  "text" : "@asnas_k \u307E\u3058\u304B\uFF01\u3046\u30FC\u3080\u3002Google\u304BATOK\u304B\u3067\u8FF7\u3063\u3066\u308B\u3093\u3060\u3088\u306D\u3047\u3002",
-  "id" : 18360624025,
-  "created_at" : "2010-07-12 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18360706403",
-  "text" : "\u3010\u6025\u52DF\u3011ATOKorGoogle\u3000\u5909\u63DB\u30BD\u30D5\u30C8\u3068\u3057\u3066\u3069\u3061\u3089\u304C\u826F\u3044\u304B?\u3000\u3061\u306A\u307F\u306B\u30D5\u30EA\u30FC\u7248\u3067\u3067\u3059\u3002",
-  "id" : 18360706403,
-  "created_at" : "2010-07-12 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u3085\u3046",
-      "screen_name" : "ryuu_key",
-      "indices" : [ 0, 9 ],
-      "id_str" : "106477287",
-      "id" : 106477287
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18361237524",
-  "geo" : { },
-  "id_str" : "18361411415",
-  "in_reply_to_user_id" : 106477287,
-  "text" : "@ryuu_key \u304A\u3084\u3059\u307F\u306A\u3055\u30FC\u3044",
-  "id" : 18361411415,
-  "in_reply_to_status_id" : 18361237524,
-  "created_at" : "2010-07-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ryuu_key",
-  "in_reply_to_user_id_str" : "106477287",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18361663454",
-  "text" : "\u3051\u3044\u304A\u3093\uFF01\uFF01\u6E9C\u307E\u3063\u3066\u305F\u4E8B\u3092\u601D\u3044\u51FA\u3057\u3066\u307F\u3066\u307F\u308B\u3002\u306A\u3093\u304B\u66F2\u304C\u5909\u308F\u308B\u3063\u3066\u8A71\u3060\u3051\u3069\u307E\u3060GO!GO!(ry\u3067\u3059\u3002",
-  "id" : 18361663454,
-  "created_at" : "2010-07-12 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u4F0A\u4E88\u67D1@MFT2016",
-      "screen_name" : "iyokan_nico",
-      "indices" : [ 0, 12 ],
-      "id_str" : "24653768",
-      "id" : 24653768
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18361538081",
-  "geo" : { },
-  "id_str" : "18361781492",
-  "in_reply_to_user_id" : 24653768,
-  "text" : "@iyokan_nico \u306A\u306B\u3084\u3063\u3066\u3093\u3067\u3059\u304B\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57",
-  "id" : 18361781492,
-  "in_reply_to_status_id" : 18361538081,
-  "created_at" : "2010-07-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "iyokan_nico",
-  "in_reply_to_user_id_str" : "24653768",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u306A\u306A\u3072\u3089@3\u65E5\u76EE \u897Fa-46b",
-      "screen_name" : "nanahira",
-      "indices" : [ 0, 9 ],
-      "id_str" : "231926590",
-      "id" : 231926590
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18362242916",
-  "text" : "@nanahira \u840C\u3048\u307E\u307F\u305F",
-  "id" : 18362242916,
-  "created_at" : "2010-07-12 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "KEIYA",
-      "screen_name" : "paradoxnote",
-      "indices" : [ 3, 15 ],
-      "id_str" : "42784942",
-      "id" : 42784942
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18362535938",
-  "text" : "RT @paradoxnote: \u5275\u4F5C\u3092\u3057\u306A\u3044\u4EBA\u306F\u3001\u7121\u65AD\u4F7F\u7528\u3084\u9055\u6CD5UP\u3092\u300C\u4F7F\u3063\u3066\u3042\u3052\u3066\u3044\u308B\u300D\u300C\u305F\u304F\u3055\u3093\u306E\u4EBA\u306B\u5BA3\u4F1D\u3057\u3066\u3042\u3052\u3066\u3044\u308B\u300D\u2015\u2015\u3064\u307E\u308A\u300C\u79C1\u306F\u3044\u3044\u3053\u3068\u3092\u3057\u3066\u3044\u308B\u300D\u3068\u601D\u3063\u3066\u3044\u308B\u3053\u3068\u304C\u591A\u3044\u3002\u4F5C\u308A\u624B\u3068\u53D7\u3051\u624B\u306E\u5E38\u8B58\u3092\u7D71\u4E00\u3057\u3001\u30AE\u30E3\u30C3\u30D7\u3092\u57CB\u3081\u306A\u3044\u9650\u308A\u9055\u53CD\u306F\u5897\u3048\u7D9A\u3051\u308B\u3088\u3002",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/sites.google.com\/site\/tweentwitterclient\/\" rel=\"nofollow\"\u003ETween\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "18345950873",
-    "text" : "\u5275\u4F5C\u3092\u3057\u306A\u3044\u4EBA\u306F\u3001\u7121\u65AD\u4F7F\u7528\u3084\u9055\u6CD5UP\u3092\u300C\u4F7F\u3063\u3066\u3042\u3052\u3066\u3044\u308B\u300D\u300C\u305F\u304F\u3055\u3093\u306E\u4EBA\u306B\u5BA3\u4F1D\u3057\u3066\u3042\u3052\u3066\u3044\u308B\u300D\u2015\u2015\u3064\u307E\u308A\u300C\u79C1\u306F\u3044\u3044\u3053\u3068\u3092\u3057\u3066\u3044\u308B\u300D\u3068\u601D\u3063\u3066\u3044\u308B\u3053\u3068\u304C\u591A\u3044\u3002\u4F5C\u308A\u624B\u3068\u53D7\u3051\u624B\u306E\u5E38\u8B58\u3092\u7D71\u4E00\u3057\u3001\u30AE\u30E3\u30C3\u30D7\u3092\u57CB\u3081\u306A\u3044\u9650\u308A\u9055\u53CD\u306F\u5897\u3048\u7D9A\u3051\u308B\u3088\u3002",
-    "id" : 18345950873,
-    "created_at" : "2010-07-12 10:57:02 +0000",
-    "user" : {
-      "name" : "KEIYA",
-      "screen_name" : "paradoxnote",
-      "protected" : false,
-      "id_str" : "42784942",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/579762238\/jigazou01_normal.jpg",
-      "id" : 42784942,
-      "verified" : false
-    }
-  },
-  "id" : 18362535938,
-  "created_at" : "2010-07-12 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3075\u308F\u3075\u308F\u30DA\u30C9\u3061\u3083\u3093",
-      "screen_name" : "pedoro24",
-      "indices" : [ 16, 25 ],
-      "id_str" : "98882068",
-      "id" : 98882068
-    }, {
-      "name" : "\u3084\u307F",
-      "screen_name" : "yayami22",
-      "indices" : [ 35, 44 ],
-      "id_str" : "121251546",
-      "id" : 121251546
-    }, {
-      "name" : "\u3075\u308F\u3075\u308F\u30DA\u30C9\u3061\u3083\u3093",
-      "screen_name" : "pedoro24",
-      "indices" : [ 64, 73 ],
-      "id_str" : "98882068",
-      "id" : 98882068
-    }, {
-      "name" : "\u3084\u307F",
-      "screen_name" : "yayami22",
-      "indices" : [ 84, 93 ],
-      "id_str" : "121251546",
-      "id" : 121251546
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18362756214",
-  "text" : "\u30DA\u30C9\u30ED\uFF1D\u5E7C\u5973\u611B\u597D\u5BB6\u3060\u308D\uFF1FRT: @pedoro24: \u3057\u3066\u306A\u3044 RT @yayami22: \u307A\u3069\u308D\u3093\u5F31\u3044\u3082\u306E\u3044\u3058\u3081\u3084\u3081\u308D RT @pedoro24: \u3076\u3063\u98DB\u3070\u3059 RT @yayami22: \u307A\u3069\u308D\u3093\u30ED\u30EA\u30B3\u30F3\u3084\u3081\u308D",
-  "id" : 18362756214,
-  "created_at" : "2010-07-12 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3075\u308F\u3075\u308F\u30DA\u30C9\u3061\u3083\u3093",
-      "screen_name" : "pedoro24",
-      "indices" : [ 14, 23 ],
-      "id_str" : "98882068",
-      "id" : 98882068
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18363238368",
-  "text" : "\uFF08\u6027\u7684\u306A\u610F\u5473\u3082\u542B\u3081\uFF09RT: @pedoro24: \u2190\u306A\u3093\u3067\u3082\u3059\u3050\u304F\u308F\u3048\u3061\u3083\u3046\u4EBA",
-  "id" : 18363238368,
-  "created_at" : "2010-07-12 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18363594348",
-  "text" : "\u30D2\u30B9\u30C8\u30EA\u30FC\u3061\u3083\u3093\u306E\u30A2\u30A4\u30B3\u30F3\u306E\u65B9\u304B\u3089\u306E\u30EA\u30D7\u898B\u76F4\u3057\u305F\u3089\u8003\u3048\u306A\u304C\u3089Google\u5165\u308C\u3066\u52A0\u7B46\u3002",
-  "id" : 18363594348,
-  "created_at" : "2010-07-12 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -31134,13 +30867,13 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4F0A\u4E88\u67D1@MFT2016",
+      "name" : "\u4F0A\u4E88\u67D1",
       "screen_name" : "iyokan_nico",
       "indices" : [ 21, 33 ],
       "id_str" : "24653768",
       "id" : 24653768
     }, {
-      "name" : "\u3055\u3044\u3068\u30FC\u3074\u30FC",
+      "name" : "\u3055\u3044\u3068\u30FC\u3074\u30FC Koji Saito",
       "screen_name" : "SaitoPPP",
       "indices" : [ 62, 71 ],
       "id_str" : "51262560",
@@ -31406,19 +31139,19 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
       "screen_name" : "erogewota",
       "indices" : [ 4, 14 ],
       "id_str" : "50268644",
       "id" : 50268644
     }, {
-      "name" : "\u3086\u3061\u3083",
+      "name" : "\u3086\u3061\u3083\uD83C\uDF38",
       "screen_name" : "ychhhh",
       "indices" : [ 29, 36 ],
       "id_str" : "16903036",
       "id" : 16903036
     }, {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
       "screen_name" : "erogewota",
       "indices" : [ 38, 48 ],
       "id_str" : "50268644",
@@ -31446,7 +31179,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Foo\u3055\u3093",
+      "name" : "Foo\u3055\u3093@#\u30B3\u30F3\u30D1\u30B9",
       "screen_name" : "Foo_san",
       "indices" : [ 0, 8 ],
       "id_str" : "88633646",
@@ -31479,7 +31212,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u7C73\u5009\u671B",
+      "name" : "\u7C73",
       "screen_name" : "Steiner02",
       "indices" : [ 0, 10 ],
       "id_str" : "101044478",
@@ -31644,7 +31377,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u306A\u306A\u3072\u3089@3\u65E5\u76EE \u897Fa-46b",
+      "name" : "\u306A\u306A\u3072\u3089",
       "screen_name" : "nanahira",
       "indices" : [ 0, 9 ],
       "id_str" : "231926590",
@@ -31725,13 +31458,13 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "2383590295",
       "id" : 2383590295
     }, {
-      "name" : "\u2220\u30D7\u30E9\u30C1\u30CA\u3042\u304D\u305A\u307FP",
+      "name" : "\u2220\u3042\u304D\u305A\u307FP@L\u30EC\u30F3\u30BA\u6B32\u3057\u3044\u30DE\u30F3",
       "screen_name" : "akzm_vtec",
       "indices" : [ 81, 91 ],
       "id_str" : "95202452",
       "id" : 95202452
     }, {
-      "name" : "\uFF2B\uFF39\uFF2F@",
+      "name" : "KYO@\uFF8A\uFF9E\uFF7C\uFF6C\uFF85\uFF6F\uFF84\u333E\uFF97\uFF9D\uFF84\uFF9E",
       "screen_name" : "mtzkkyo",
       "indices" : [ 103, 111 ],
       "id_str" : "101802532",
@@ -31780,133 +31513,6 @@ Grailbird.data.tweets_2010_07 =
   "text" : "@nekonata \u5B9F\u8CEA\u8077\u306A\u3057\u3067\u3059\u304B\u3089\u306D\u3047\u3002\u751F\u6D3B\u5927\u5909\u3067\u3059\u3002",
   "id" : 18269198165,
   "created_at" : "2010-07-11 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18184028130",
-  "text" : "\u3058\u3083\u3042\u3001\u7528\u610F\u59CB\u3081\u307E\u3059\u3002\u305D\u3053\u304B\u3089\u30AD\u30E3\u30F3\u30D7\u884C\u304F\u3093\u3067\u623B\u308A\u307E\u305B\u306C\uFF01\u5E30\u5B85\u4E88\u5B9A\u306F\u660E\u65E5\u306E\u5915\u65B9\u3002\u3067\u306F\u3067\u306F\uFF01",
-  "id" : 18184028130,
-  "created_at" : "2010-07-10 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18173652722",
-  "text" : "\u3057\u3051\u3093\u304A\u308F\u305F\uFF01 \u3053\u308C\u3067\u590F\u4F11\u307F\u7A81\u5165\u3067\u304D\u308B\u305C\u3084\u3063\u307B\u3044\uFF01",
-  "id" : 18173652722,
-  "created_at" : "2010-07-10 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18173718381",
-  "text" : "\u590F\u91CE\u3055\u3093(\u30CB\u30B3\u30CB\u30B3)\u5E30\u7701\u3057\u306A\u3044\u304B\u306A\u3041",
-  "id" : 18173718381,
-  "created_at" : "2010-07-10 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u304D\u304A",
-      "screen_name" : "rikio0505",
-      "indices" : [ 0, 10 ],
-      "id_str" : "74137135",
-      "id" : 74137135
-    }, {
-      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
-      "screen_name" : "minardikaivbx",
-      "indices" : [ 11, 25 ],
-      "id_str" : "66997484",
-      "id" : 66997484
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18136022221",
-  "geo" : { },
-  "id_str" : "18176616322",
-  "in_reply_to_user_id" : 74137135,
-  "text" : "@rikio0505 @minardikaivbx \u304A\u3084\u3059\u3042\u308A\u3067\u3057\u305F\uFF01",
-  "id" : 18176616322,
-  "in_reply_to_status_id" : 18136022221,
-  "created_at" : "2010-07-10 00:00:00 +0000",
-  "in_reply_to_screen_name" : "rikio0505",
-  "in_reply_to_user_id_str" : "74137135",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18176795728",
-  "text" : "\u3064\u30FC\u308F\u3051\u3067pc\u8D77\u52D5\u3002\u4ECA\u65E5\u306E\u5915\u65B9\u304B\u3089\u30AD\u30E3\u30F3\u30D7\u306B\u884C\u3063\u3066\u304D\u307E\u3059\u3002",
-  "id" : 18176795728,
-  "created_at" : "2010-07-10 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -32075,7 +31681,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u304B\u3055\u3093\u306F\u304A\u9152\u304C\u98F2\u307F\u305F\u3044",
+      "name" : "\u307F\u304B\u3055\u3093\u3002",
       "screen_name" : "pinkrit",
       "indices" : [ 0, 8 ],
       "id_str" : "100307622",
@@ -32322,6 +31928,475 @@ Grailbird.data.tweets_2010_07 =
   "created_at" : "2010-07-10 00:00:00 +0000",
   "in_reply_to_screen_name" : "minardikaivbx",
   "in_reply_to_user_id_str" : "66997484",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18184028130",
+  "text" : "\u3058\u3083\u3042\u3001\u7528\u610F\u59CB\u3081\u307E\u3059\u3002\u305D\u3053\u304B\u3089\u30AD\u30E3\u30F3\u30D7\u884C\u304F\u3093\u3067\u623B\u308A\u307E\u305B\u306C\uFF01\u5E30\u5B85\u4E88\u5B9A\u306F\u660E\u65E5\u306E\u5915\u65B9\u3002\u3067\u306F\u3067\u306F\uFF01",
+  "id" : 18184028130,
+  "created_at" : "2010-07-10 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18173652722",
+  "text" : "\u3057\u3051\u3093\u304A\u308F\u305F\uFF01 \u3053\u308C\u3067\u590F\u4F11\u307F\u7A81\u5165\u3067\u304D\u308B\u305C\u3084\u3063\u307B\u3044\uFF01",
+  "id" : 18173652722,
+  "created_at" : "2010-07-10 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18173718381",
+  "text" : "\u590F\u91CE\u3055\u3093(\u30CB\u30B3\u30CB\u30B3)\u5E30\u7701\u3057\u306A\u3044\u304B\u306A\u3041",
+  "id" : 18173718381,
+  "created_at" : "2010-07-10 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u308A\u304D\u304A",
+      "screen_name" : "rikio0505",
+      "indices" : [ 0, 10 ],
+      "id_str" : "74137135",
+      "id" : 74137135
+    }, {
+      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
+      "screen_name" : "minardikaivbx",
+      "indices" : [ 11, 25 ],
+      "id_str" : "66997484",
+      "id" : 66997484
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18136022221",
+  "geo" : { },
+  "id_str" : "18176616322",
+  "in_reply_to_user_id" : 74137135,
+  "text" : "@rikio0505 @minardikaivbx \u304A\u3084\u3059\u3042\u308A\u3067\u3057\u305F\uFF01",
+  "id" : 18176616322,
+  "in_reply_to_status_id" : 18136022221,
+  "created_at" : "2010-07-10 00:00:00 +0000",
+  "in_reply_to_screen_name" : "rikio0505",
+  "in_reply_to_user_id_str" : "74137135",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18176795728",
+  "text" : "\u3064\u30FC\u308F\u3051\u3067pc\u8D77\u52D5\u3002\u4ECA\u65E5\u306E\u5915\u65B9\u304B\u3089\u30AD\u30E3\u30F3\u30D7\u306B\u884C\u3063\u3066\u304D\u307E\u3059\u3002",
+  "id" : 18176795728,
+  "created_at" : "2010-07-10 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "nico",
+      "screen_name" : "nico_news",
+      "indices" : [ 14, 24 ],
+      "id_str" : "209144065",
+      "id" : 209144065
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18101967193",
+  "text" : "wktk\u304C\u6B62\u307E\u3089\u306A\u3044RT: @nico_news: \u7F8E\u5C11\u5973\u30B2\u30FC\u30E0\u30D6\u30E9\u30F3\u30C9\u300EKey\u300F\u306E\u540D\u66F2\u309260\u5206\u30CE\u30F3\u30B9\u30C8\u30C3\u30D7\u3067\u30C1\u30E3\u30F3\u30CD\u30EB\u751F\u653E\u9001\uFF01\u300C\u8679\u8996\u8074\u899A\u5BA4\u300D\u4ECA\u591C21\u6642\uFF01http:\/\/bit.ly\/bSSlfJ",
+  "id" : 18101967193,
+  "created_at" : "2010-07-09 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Fiona Paterson",
+      "screen_name" : "tsukkun_555",
+      "indices" : [ 0, 12 ],
+      "id_str" : "99437114",
+      "id" : 99437114
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18102013577",
+  "geo" : { },
+  "id_str" : "18102111639",
+  "in_reply_to_user_id" : 99437114,
+  "text" : "@tsukkun_555 \u306A\u306B\u304C\u3042\u3063\u305F\u3057",
+  "id" : 18102111639,
+  "in_reply_to_status_id" : 18102013577,
+  "created_at" : "2010-07-09 00:00:00 +0000",
+  "in_reply_to_screen_name" : "tsukkun_555",
+  "in_reply_to_user_id_str" : "99437114",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Fiona Paterson",
+      "screen_name" : "tsukkun_555",
+      "indices" : [ 0, 12 ],
+      "id_str" : "99437114",
+      "id" : 99437114
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18102154720",
+  "geo" : { },
+  "id_str" : "18102210638",
+  "in_reply_to_user_id" : 99437114,
+  "text" : "@tsukkun_555 \u4FFA\u3001\u30EA\u30D7\u30E9\u30A4\u6CBB\u7642\u5E2B\u3060\u304B\u3089\u30FB\u30FB\u30FB",
+  "id" : 18102210638,
+  "in_reply_to_status_id" : 18102154720,
+  "created_at" : "2010-07-09 00:00:00 +0000",
+  "in_reply_to_screen_name" : "tsukkun_555",
+  "in_reply_to_user_id_str" : "99437114",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"erased_81836\" rel=\"nofollow\"\u003Eerased_81836\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18102313900",
+  "text" : "\u304A\u3001\u3064\u3044\u306B\u51FA\u6765\u305F\u306E\u304B\uFF01\u3000\u3053\u3053\u307E\u3067\u3084\u308A\u9042\u3052\u308B\u4EBA\u306F\u3044\u306A\u304B\u3063\u305F\u304B\u3089\u306A\u3041 - \u898B\u3066\u308B\u306A\u3046: \u3042\u3089\u3086\u308B\u97F3\u58F0\u3092\u7ACB\u4F53\u97F3\u97FF\u5316\u2010\u30CB\u30B3\u30CB\u30B3\u52D5\u753B(9) - http:\/\/j.mp\/cDRUi5",
+  "id" : 18102313900,
+  "created_at" : "2010-07-09 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18102527650",
+  "text" : "@coill929 \u304A\u304B\u30FC\uFF01",
+  "id" : 18102527650,
+  "created_at" : "2010-07-09 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u308A\u3085\u3046",
+      "screen_name" : "ryuu_key",
+      "indices" : [ 0, 9 ],
+      "id_str" : "106477287",
+      "id" : 106477287
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18102580633",
+  "geo" : { },
+  "id_str" : "18102756863",
+  "in_reply_to_user_id" : 106477287,
+  "text" : "@ryuu_key \u304A\u304B\u3048\u308A\u306A\u3055\u3044\uFF5E",
+  "id" : 18102756863,
+  "in_reply_to_status_id" : 18102580633,
+  "created_at" : "2010-07-09 00:00:00 +0000",
+  "in_reply_to_screen_name" : "ryuu_key",
+  "in_reply_to_user_id_str" : "106477287",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Fiona Paterson",
+      "screen_name" : "tsukkun_555",
+      "indices" : [ 0, 12 ],
+      "id_str" : "99437114",
+      "id" : 99437114
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18102307993",
+  "geo" : { },
+  "id_str" : "18102990829",
+  "in_reply_to_user_id" : 99437114,
+  "text" : "@tsukkun_555 \u307E\u3060\u305D\u3053\u307E\u3067\u5E74\u3092\u53D6\u3063\u3066\u3044\u306A\u3044\u3068\u601D\u3063\u3066\u3044\u307E\u3057\u305F",
+  "id" : 18102990829,
+  "in_reply_to_status_id" : 18102307993,
+  "created_at" : "2010-07-09 00:00:00 +0000",
+  "in_reply_to_screen_name" : "tsukkun_555",
+  "in_reply_to_user_id_str" : "99437114",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/photozou.jp\/\" rel=\"nofollow\"\u003E\u30D5\u30A9\u30C8\u8535\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18104786481",
+  "text" : "\u3053\u3061\u3089why\u3001\u6575\u30A2\u30B8\u30C8\u306B\u6F5C\u5165\u3057\u305F\u3002 http:\/\/photozou.jp\/photo\/show\/642523\/42524488",
+  "id" : 18104786481,
+  "created_at" : "2010-07-09 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18113251509",
+  "text" : "\u3055\u3066\u5E30\u308A\u307E\u3059\u304B\u306D",
+  "id" : 18113251509,
+  "created_at" : "2010-07-09 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/photozou.jp\/\" rel=\"nofollow\"\u003E\u30D5\u30A9\u30C8\u8535\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18113694326",
+  "text" : "\u753B\u30FBwhy http:\/\/photozou.jp\/photo\/show\/642523\/42536689",
+  "id" : 18113694326,
+  "created_at" : "2010-07-09 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18118282266",
+  "text" : "pc\u8D77\u52D5\u306A\u3046",
+  "id" : 18118282266,
+  "created_at" : "2010-07-09 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "andrea smith",
+      "screen_name" : "reinbow11",
+      "indices" : [ 0, 10 ],
+      "id_str" : "764430506",
+      "id" : 764430506
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18119017041",
+  "text" : "@reinbow11 \u304A\u304B\u3048\u308A\u30FC",
+  "id" : 18119017041,
+  "created_at" : "2010-07-09 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18127507951",
+  "text" : "@Johnny_nm7 \u304A\u3084\u3059\u307F\u306A\u3055\u30FC\u3044",
+  "id" : 18127507951,
+  "created_at" : "2010-07-09 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -33454,101 +33529,7 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "nico",
-      "screen_name" : "nico_news",
-      "indices" : [ 14, 24 ],
-      "id_str" : "209144065",
-      "id" : 209144065
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18101967193",
-  "text" : "wktk\u304C\u6B62\u307E\u3089\u306A\u3044RT: @nico_news: \u7F8E\u5C11\u5973\u30B2\u30FC\u30E0\u30D6\u30E9\u30F3\u30C9\u300EKey\u300F\u306E\u540D\u66F2\u309260\u5206\u30CE\u30F3\u30B9\u30C8\u30C3\u30D7\u3067\u30C1\u30E3\u30F3\u30CD\u30EB\u751F\u653E\u9001\uFF01\u300C\u8679\u8996\u8074\u899A\u5BA4\u300D\u4ECA\u591C21\u6642\uFF01http:\/\/bit.ly\/bSSlfJ",
-  "id" : 18101967193,
-  "created_at" : "2010-07-09 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
-      "screen_name" : "tsukkun_555",
-      "indices" : [ 0, 12 ],
-      "id_str" : "99437114",
-      "id" : 99437114
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18102013577",
-  "geo" : { },
-  "id_str" : "18102111639",
-  "in_reply_to_user_id" : 99437114,
-  "text" : "@tsukkun_555 \u306A\u306B\u304C\u3042\u3063\u305F\u3057",
-  "id" : 18102111639,
-  "in_reply_to_status_id" : 18102013577,
-  "created_at" : "2010-07-09 00:00:00 +0000",
-  "in_reply_to_screen_name" : "tsukkun_555",
-  "in_reply_to_user_id_str" : "99437114",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
-      "screen_name" : "tsukkun_555",
-      "indices" : [ 0, 12 ],
-      "id_str" : "99437114",
-      "id" : 99437114
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18102154720",
-  "geo" : { },
-  "id_str" : "18102210638",
-  "in_reply_to_user_id" : 99437114,
-  "text" : "@tsukkun_555 \u4FFA\u3001\u30EA\u30D7\u30E9\u30A4\u6CBB\u7642\u5E2B\u3060\u304B\u3089\u30FB\u30FB\u30FB",
-  "id" : 18102210638,
-  "in_reply_to_status_id" : 18102154720,
-  "created_at" : "2010-07-09 00:00:00 +0000",
-  "in_reply_to_screen_name" : "tsukkun_555",
-  "in_reply_to_user_id_str" : "99437114",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"erased_81836\" rel=\"nofollow\"\u003Eerased_81836\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -33556,120 +33537,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18102313900",
-  "text" : "\u304A\u3001\u3064\u3044\u306B\u51FA\u6765\u305F\u306E\u304B\uFF01\u3000\u3053\u3053\u307E\u3067\u3084\u308A\u9042\u3052\u308B\u4EBA\u306F\u3044\u306A\u304B\u3063\u305F\u304B\u3089\u306A\u3041 - \u898B\u3066\u308B\u306A\u3046: \u3042\u3089\u3086\u308B\u97F3\u58F0\u3092\u7ACB\u4F53\u97F3\u97FF\u5316\u2010\u30CB\u30B3\u30CB\u30B3\u52D5\u753B(9) - http:\/\/j.mp\/cDRUi5",
-  "id" : 18102313900,
-  "created_at" : "2010-07-09 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18102527650",
-  "text" : "@coill929 \u304A\u304B\u30FC\uFF01",
-  "id" : 18102527650,
-  "created_at" : "2010-07-09 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u3085\u3046",
-      "screen_name" : "ryuu_key",
-      "indices" : [ 0, 9 ],
-      "id_str" : "106477287",
-      "id" : 106477287
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18102580633",
-  "geo" : { },
-  "id_str" : "18102756863",
-  "in_reply_to_user_id" : 106477287,
-  "text" : "@ryuu_key \u304A\u304B\u3048\u308A\u306A\u3055\u3044\uFF5E",
-  "id" : 18102756863,
-  "in_reply_to_status_id" : 18102580633,
-  "created_at" : "2010-07-09 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ryuu_key",
-  "in_reply_to_user_id_str" : "106477287",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3064\u3063\u304F\u3093",
-      "screen_name" : "tsukkun_555",
-      "indices" : [ 0, 12 ],
-      "id_str" : "99437114",
-      "id" : 99437114
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18102307993",
-  "geo" : { },
-  "id_str" : "18102990829",
-  "in_reply_to_user_id" : 99437114,
-  "text" : "@tsukkun_555 \u307E\u3060\u305D\u3053\u307E\u3067\u5E74\u3092\u53D6\u3063\u3066\u3044\u306A\u3044\u3068\u601D\u3063\u3066\u3044\u307E\u3057\u305F",
-  "id" : 18102990829,
-  "in_reply_to_status_id" : 18102307993,
-  "created_at" : "2010-07-09 00:00:00 +0000",
-  "in_reply_to_screen_name" : "tsukkun_555",
-  "in_reply_to_user_id_str" : "99437114",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/photozou.jp\/\" rel=\"nofollow\"\u003E\u30D5\u30A9\u30C8\u8535\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18104786481",
-  "text" : "\u3053\u3061\u3089why\u3001\u6575\u30A2\u30B8\u30C8\u306B\u6F5C\u5165\u3057\u305F\u3002 http:\/\/photozou.jp\/photo\/show\/642523\/42524488",
-  "id" : 18104786481,
-  "created_at" : "2010-07-09 00:00:00 +0000",
+  "id_str" : "18016487808",
+  "text" : "\u305F\u3060\u3044\u307E\u30FC",
+  "id" : 18016487808,
+  "created_at" : "2010-07-08 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -33688,10 +33559,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18113251509",
-  "text" : "\u3055\u3066\u5E30\u308A\u307E\u3059\u304B\u306D",
-  "id" : 18113251509,
-  "created_at" : "2010-07-09 00:00:00 +0000",
+  "id_str" : "18016551427",
+  "text" : "\u3048\u3001\u306A\u306B\u306A\u306B\uFF1F\u307E\u305F\u904B\u55B6\u304C\u5927\u7269\u751F\u4E3B\u30D7\u30C3\u30B7\u30E5\u3067\u3082\u3057\u305F\u306E\uFF1F",
+  "id" : 18016551427,
+  "created_at" : "2010-07-08 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -33702,68 +33573,24 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/photozou.jp\/\" rel=\"nofollow\"\u003E\u30D5\u30A9\u30C8\u8535\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18113694326",
-  "text" : "\u753B\u30FBwhy http:\/\/photozou.jp\/photo\/show\/642523\/42536689",
-  "id" : 18113694326,
-  "created_at" : "2010-07-09 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18118282266",
-  "text" : "pc\u8D77\u52D5\u306A\u3046",
-  "id" : 18118282266,
-  "created_at" : "2010-07-09 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "andrea smith",
-      "screen_name" : "reinbow11",
-      "indices" : [ 0, 10 ],
-      "id_str" : "764430506",
-      "id" : 764430506
+      "name" : "\u5C11\u5E74\uFF34\uFF08Tomohisa\uFF09",
+      "screen_name" : "syounen_t",
+      "indices" : [ 10, 20 ],
+      "id_str" : "103009176",
+      "id" : 103009176
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18119017041",
-  "text" : "@reinbow11 \u304A\u304B\u3048\u308A\u30FC",
-  "id" : 18119017041,
-  "created_at" : "2010-07-09 00:00:00 +0000",
+  "id_str" : "18016587112",
+  "text" : "\u8A73\u7D30kwsk QT @syounen_t: \u3084\u3070\u3044\u3002\u5C11\u5E74\uFF54\u306F\u7D20\u6674\u3089\u3057\u3044\u6280\u8853\u3092\u624B\u306B\u5165\u308C\u3066\u3057\u307E\u3063\u305F\u3002",
+  "id" : 18016587112,
+  "created_at" : "2010-07-08 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -33774,7 +33601,35 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
+      "screen_name" : "ayaka_chicken",
+      "indices" : [ 0, 14 ],
+      "id_str" : "3322453124",
+      "id" : 3322453124
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18016656985",
+  "text" : "@Ayaka_chicken \u305F\u3060\u3044\u307E\u30FC",
+  "id" : 18016656985,
+  "created_at" : "2010-07-08 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -33782,10 +33637,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18127507951",
-  "text" : "@Johnny_nm7 \u304A\u3084\u3059\u307F\u306A\u3055\u30FC\u3044",
-  "id" : 18127507951,
-  "created_at" : "2010-07-09 00:00:00 +0000",
+  "id_str" : "18016693802",
+  "text" : "\u3082\u3046\u3061\u3087\u3063\u3068\u3057\u305F\u3089\u30B9\u30AB\u30A4\u30D7\u4ED8\u3051\u3088\u3046\u3002\u3069\u3046\u305B\u6687\u3060\u3051\u3069\u3002",
+  "id" : 18016693802,
+  "created_at" : "2010-07-08 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -33826,6 +33681,12 @@ Grailbird.data.tweets_2010_07 =
       "indices" : [ 7, 17 ],
       "id_str" : "1538161099",
       "id" : 1538161099
+    }, {
+      "name" : "\u6BD2\u5410\u304D\u3064\u3044\u3063\u305F\u3089\u30FC",
+      "screen_name" : "poison_4949",
+      "indices" : [ 26, 38 ],
+      "id_str" : "814557746183835648",
+      "id" : 814557746183835648
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -33981,7 +33842,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
       "screen_name" : "erogewota",
       "indices" : [ 3, 13 ],
       "id_str" : "50268644",
@@ -34008,11 +33869,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18033067760,
     "created_at" : "2010-07-08 13:10:11 +0000",
     "user" : {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
       "screen_name" : "erogewota",
       "protected" : false,
       "id_str" : "50268644",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748827590081650688\/bCIbmsBi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/834720434645897218\/bUGGML4O_normal.jpg",
       "id" : 50268644,
       "verified" : false
     }
@@ -34060,7 +33921,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
       "screen_name" : "erogewota",
       "indices" : [ 4, 14 ],
       "id_str" : "50268644",
@@ -34171,57 +34032,6 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5FD7\u9EBB@\u6D66\u5CF6\u5742\u7530\u8239\u2654",
-      "screen_name" : "shima_s2",
-      "indices" : [ 3, 12 ],
-      "id_str" : "49379814",
-      "id" : 49379814
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18036271268",
-  "text" : "RT @shima_s2: \u3061\u3087\uFF57\uFF57\uFF57\uFF57\uFF57\uFF27\u30AB\u30C3\u30D7\u306E\uFF2A\uFF2B\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\u3000http:\/\/an.to\/sf_agitato",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "18035532456",
-    "text" : "\u3061\u3087\uFF57\uFF57\uFF57\uFF57\uFF57\uFF27\u30AB\u30C3\u30D7\u306E\uFF2A\uFF2B\uFF57\uFF57\uFF57\uFF57\uFF57\uFF57\u3000http:\/\/an.to\/sf_agitato",
-    "id" : 18035532456,
-    "created_at" : "2010-07-08 13:49:35 +0000",
-    "user" : {
-      "name" : "\u5FD7\u9EBB@\u6D66\u5CF6\u5742\u7530\u8239\u2654",
-      "screen_name" : "shima_s2",
-      "protected" : false,
-      "id_str" : "49379814",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749201710464184320\/wyIStM24_normal.jpg",
-      "id" : 49379814,
-      "verified" : false
-    }
-  },
-  "id" : 18036271268,
-  "created_at" : "2010-07-08 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "\u30B8\u30ED\u30FC",
       "screen_name" : "JiRo_ym",
       "indices" : [ 25, 33 ],
@@ -34278,7 +34088,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)",
+      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)\u306E\u30D5\u30EC\u30F3\u30BA",
       "screen_name" : "niconicokikka",
       "indices" : [ 10, 24 ],
       "id_str" : "36291433",
@@ -34383,7 +34193,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30DF\u30F3\u30DF\u30F3\u30BC\u30DF\u3055\u3093\u30C1\u30FC\u30E0",
+      "name" : "\u30DF\u30F3\u30DF\u30F3@\u30B3\u30DF\u30B1\u304A\u75B2\u308C\u69D8\u3067\u3057\u305F",
       "screen_name" : "linelinet",
       "indices" : [ 33, 43 ],
       "id_str" : "116694698",
@@ -34614,7 +34424,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)",
+      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)\u306E\u30D5\u30EC\u30F3\u30BA",
       "screen_name" : "niconicokikka",
       "indices" : [ 0, 14 ],
       "id_str" : "36291433",
@@ -34729,7 +34539,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u306B\u307E@\u6B4C\u3046\u63D0\u7763\u30E9\u30A4\u30D0\u30FCP",
+      "name" : "\u3042\u306B\u307E\u306F\u6B4C\u304C\u5927\u597D\u304D\u306A\u30D5\u30EC\u30F3\u30BA",
       "screen_name" : "anima913",
       "indices" : [ 0, 9 ],
       "id_str" : "90374149",
@@ -34759,1199 +34569,6 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18016487808",
-  "text" : "\u305F\u3060\u3044\u307E\u30FC",
-  "id" : 18016487808,
-  "created_at" : "2010-07-08 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18016551427",
-  "text" : "\u3048\u3001\u306A\u306B\u306A\u306B\uFF1F\u307E\u305F\u904B\u55B6\u304C\u5927\u7269\u751F\u4E3B\u30D7\u30C3\u30B7\u30E5\u3067\u3082\u3057\u305F\u306E\uFF1F",
-  "id" : 18016551427,
-  "created_at" : "2010-07-08 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u5C11\u5E74\uFF34\uFF08Tomohisa\uFF09",
-      "screen_name" : "syounen_t",
-      "indices" : [ 10, 20 ],
-      "id_str" : "103009176",
-      "id" : 103009176
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18016587112",
-  "text" : "\u8A73\u7D30kwsk QT @syounen_t: \u3084\u3070\u3044\u3002\u5C11\u5E74\uFF54\u306F\u7D20\u6674\u3089\u3057\u3044\u6280\u8853\u3092\u624B\u306B\u5165\u308C\u3066\u3057\u307E\u3063\u305F\u3002",
-  "id" : 18016587112,
-  "created_at" : "2010-07-08 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
-      "screen_name" : "ayaka_chicken",
-      "indices" : [ 0, 14 ],
-      "id_str" : "3322453124",
-      "id" : 3322453124
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18016656985",
-  "text" : "@Ayaka_chicken \u305F\u3060\u3044\u307E\u30FC",
-  "id" : 18016656985,
-  "created_at" : "2010-07-08 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18016693802",
-  "text" : "\u3082\u3046\u3061\u3087\u3063\u3068\u3057\u305F\u3089\u30B9\u30AB\u30A4\u30D7\u4ED8\u3051\u3088\u3046\u3002\u3069\u3046\u305B\u6687\u3060\u3051\u3069\u3002",
-  "id" : 18016693802,
-  "created_at" : "2010-07-08 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17934289388",
-  "text" : "\u3055\u3041\u587E\u884C\u3063\u3066\u304F\u308B\u3002",
-  "id" : 17934289388,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17941349356",
-  "text" : "\u3010\u6025\u52DF\u3011\u30E4\u30F3\u30C7\u30EC\u58F0\u304C\u51FA\u6765\u308B\u30CD\u30C3\u30C8\u58F0\u512A\u3055\u3093\u3002HP\u7B49\u3082\u3042\u308B\u3068\u5B09\u3057\u3044\u3067\u3059\u3002\u3042\u3001\u5973\u306E\u65B9\u3067\u3059",
-  "id" : 17941349356,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/photozou.jp\/\" rel=\"nofollow\"\u003E\u30D5\u30A9\u30C8\u8535\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17947571676",
-  "text" : "2010070721240000 http:\/\/photozou.jp\/photo\/show\/642523\/42422165",
-  "id" : 17947571676,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
-      "screen_name" : "why_tathibana",
-      "indices" : [ 38, 52 ],
-      "id_str" : "262494533",
-      "id" : 262494533
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17948348298",
-  "text" : "\u3053\u3053\u3067\u307E\u3063\u3066\u308C\u3070\u3001\u304C\u308B\u3067\u3082\u306E\u3089\u3044\u3076\u304C\u307F\u308C\u308B\u3063\u3066\u3055\u306A\u3048\u3055\u3093\u304C\u3044\u3063\u3066\u305F\u3002 RT @why_tathibana: 2010070721240000 http:\/\/photozou.jp\/photo\/show\/642523\/42422165",
-  "id" : 17948348298,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17948389348",
-  "text" : "\u3042\u3001\u5E30\u5B85\u3057\u307E\u3057\u305F",
-  "id" : 17948389348,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17948500436",
-  "text" : "\u30B4\u30FC\u30EB\u30C9\u53CD\u5FDC\u306F\u3048\u3047w",
-  "id" : 17948500436,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17948615331",
-  "text" : "\u30AD\u30B9\u3001\u306D\u3047\u2026\u3042\u3042\u3001\u6614\u521D\u604B\u306E\u4EBA\u3068\u3084\u3063\u305F\u3088\u3046\u306A\u3002\u3055\u3066\u3069\u3046\u3060\u3063\u305F\u304B\u306A \u3068\u3001\u3053\u306E\u30AD\u30B9\uFF34\uFF2C\u306B\u6295\u4E0B\u3057\u3066\u307F\u308B",
-  "id" : 17948615331,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u307F\u304B\u3055\u3093\u306F\u304A\u9152\u304C\u98F2\u307F\u305F\u3044",
-      "screen_name" : "pinkrit",
-      "indices" : [ 0, 8 ],
-      "id_str" : "100307622",
-      "id" : 100307622
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17948356414",
-  "geo" : { },
-  "id_str" : "17948695085",
-  "in_reply_to_user_id" : 100307622,
-  "text" : "@pinkrit \u304A\u3081\u30FC\uFF01 \uFF72\uFF72\uFF85\uFF72\uFF72\uFF85\u30FC",
-  "id" : 17948695085,
-  "in_reply_to_status_id" : 17948356414,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "pinkrit",
-  "in_reply_to_user_id_str" : "100307622",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17948804048",
-  "text" : "\u3010\u901F\u5831\u3011\u6B21\u306E\u30B8\u30E9\u30FC\u30C1\u306E\u76EE\u899A\u3081\u307E\u3067\u3042\u3068998\u5E74\u3050\u3089\u3044",
-  "id" : 17948804048,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30B9\u30C6\u30A3-sty-",
-      "screen_name" : "sty_5",
-      "indices" : [ 0, 6 ],
-      "id_str" : "94279144",
-      "id" : 94279144
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17948731496",
-  "geo" : { },
-  "id_str" : "17948866383",
-  "in_reply_to_user_id" : 94279144,
-  "text" : "@sty_5 \u3069\u3046\u3057\u305F\u306E\u304D\u307F\u30FC\uFF1F",
-  "id" : 17948866383,
-  "in_reply_to_status_id" : 17948731496,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "sty_5",
-  "in_reply_to_user_id_str" : "94279144",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "hinaki",
-      "screen_name" : "Hinaki03",
-      "indices" : [ 0, 9 ],
-      "id_str" : "2757041808",
-      "id" : 2757041808
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17948780449",
-  "geo" : { },
-  "id_str" : "17949391620",
-  "in_reply_to_user_id" : 100762060,
-  "text" : "@hinaki03 \u306A\u3093\u3058\u3083\u3044\uFF57\uFF57",
-  "id" : 17949391620,
-  "in_reply_to_status_id" : 17948780449,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "hina9533",
-  "in_reply_to_user_id_str" : "100762060",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30B9\u30C6\u30A3-sty-",
-      "screen_name" : "sty_5",
-      "indices" : [ 0, 6 ],
-      "id_str" : "94279144",
-      "id" : 94279144
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17948945887",
-  "geo" : { },
-  "id_str" : "17949403842",
-  "in_reply_to_user_id" : 94279144,
-  "text" : "@sty_5 \u5927\u30D2\u30F3\u30C8\u3084\u306A\u3044\u304B\u3041\uFF01",
-  "id" : 17949403842,
-  "in_reply_to_status_id" : 17948945887,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "sty_5",
-  "in_reply_to_user_id_str" : "94279144",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "hinaki",
-      "screen_name" : "Hinaki03",
-      "indices" : [ 0, 9 ],
-      "id_str" : "2757041808",
-      "id" : 2757041808
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17949616299",
-  "geo" : { },
-  "id_str" : "17949799809",
-  "in_reply_to_user_id" : 100762060,
-  "text" : "@hinaki03 \u3053\u3063\u3061\u306ETL\u304C\u30D5\u30A1\u30FC\u30B9\u30C8\u30AD\u30B9TL\u3060\u305F\u304B\u3089\uFF3E\uFF50\uFF3E",
-  "id" : 17949799809,
-  "in_reply_to_status_id" : 17949616299,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "hina9533",
-  "in_reply_to_user_id_str" : "100762060",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u795E\u4E3B\u3042\u3093\u3071\u3093",
-      "screen_name" : "kannusiAP",
-      "indices" : [ 0, 10 ],
-      "id_str" : "101756063",
-      "id" : 101756063
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17949819580",
-  "geo" : { },
-  "id_str" : "17949896964",
-  "in_reply_to_user_id" : 101756063,
-  "text" : "@kannusiAP \u304A\u304B\u3048\u308A\u30FC",
-  "id" : 17949896964,
-  "in_reply_to_status_id" : 17949819580,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kannusiAP",
-  "in_reply_to_user_id_str" : "101756063",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17950249546",
-  "text" : "\u3053\u3053\u3067\u307E\u3063\u3066\u305F\u3089\u3001\u304C\u308B\u3067\u3082\u3089\u3044\u3076\u307F\u308C\u308B\u3063\u3066\u3055\u306A\u3048\u3055\u3093\u304C\u3044\u3063\u3066\u305F http:\/\/photozou.jp\/photo\/show\/642523\/42422165",
-  "id" : 17950249546,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17950554083",
-  "text" : "\u3042\u308C\u3001\u30AC\u30EB\u30C7\u30E2\u30E9\u30A4\u30D6\u307E\u3060\uFF1F\u3084\u308B\u3063\u3066\u805E\u3044\u305F\u304B\u3089\u5F85\u3063\u3066\u3093\u3060\u3051\u3069",
-  "id" : 17950554083,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
-      "screen_name" : "erogewota",
-      "indices" : [ 9, 19 ],
-      "id_str" : "50268644",
-      "id" : 50268644
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17951062610",
-  "text" : "\u30C4\u30F3\u30C7\u30EC\u4E59RT: @erogewota: ( \uFF9F,_\u03C5\uFF9F)\uFF1C\u3079\u3001\u5225\u306B\u304A\u307E\u3048\u3089\uFF32\uFF27\uFF08\u30AD\u30FC\u30DC\u30FC\u30C9\u7684\u306A\u610F\u5473\u3067\uFF09\u3058\u3083\u306D\u3047\u3057\uFF01\uFF01\u52D8\u9055\u3044\u3059\u3093\u306A\u3088\uFF01",
-  "id" : 17951062610,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u306A\u306A\u3072\u3089@3\u65E5\u76EE \u897Fa-46b",
-      "screen_name" : "nanahira",
-      "indices" : [ 0, 9 ],
-      "id_str" : "231926590",
-      "id" : 231926590
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "tanzaku",
-      "indices" : [ 24, 32 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17951345864",
-  "text" : "@nanahira \u3053\u3044\u3064\u306A\u3089\u307E\u3060\u751F\u304D\u3066\u308B\u3088\uFF01 #tanzaku",
-  "id" : 17951345864,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u3085\u3046",
-      "screen_name" : "ryuu_key",
-      "indices" : [ 0, 9 ],
-      "id_str" : "106477287",
-      "id" : 106477287
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17950956555",
-  "geo" : { },
-  "id_str" : "17951368796",
-  "in_reply_to_user_id" : 106477287,
-  "text" : "@ryuu_key \u304A\u304B\u3048\u308A\u306A\u3055\u30FC\u3044",
-  "id" : 17951368796,
-  "in_reply_to_status_id" : 17950956555,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ryuu_key",
-  "in_reply_to_user_id_str" : "106477287",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30B7\u30E3\u30C9\u30D0\u30CD@A1",
-      "screen_name" : "akabane_g",
-      "indices" : [ 3, 13 ],
-      "id_str" : "112524387",
-      "id" : 112524387
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17951746601",
-  "text" : "RT @akabane_g: \u3088\u3057\u3053\u306E\u30C4\u30A4\u30FC\u30C8\u304C\uFF11\uFF15\uFF32\uFF34\u3055\u308C\u305F\u3089\u30AB\u30F3\u30AC\u30EB\u30FC\u304D\u306A\u304C\u3089\u982C\u8D64\u3089\u3081\u3066\u308B\uFF1F\u5199\u30E1\u3046\uFF50\u3057\u307E\u3059\u3088",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twipple.jp\/\" rel=\"nofollow\"\u003E\u3064\u3044\u3063\u3077\u308B\u3000\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "17950384029",
-    "text" : "\u3088\u3057\u3053\u306E\u30C4\u30A4\u30FC\u30C8\u304C\uFF11\uFF15\uFF32\uFF34\u3055\u308C\u305F\u3089\u30AB\u30F3\u30AC\u30EB\u30FC\u304D\u306A\u304C\u3089\u982C\u8D64\u3089\u3081\u3066\u308B\uFF1F\u5199\u30E1\u3046\uFF50\u3057\u307E\u3059\u3088",
-    "id" : 17950384029,
-    "created_at" : "2010-07-07 13:55:59 +0000",
-    "user" : {
-      "name" : "\u30B7\u30E3\u30C9\u30D0\u30CD@A1",
-      "screen_name" : "akabane_g",
-      "protected" : false,
-      "id_str" : "112524387",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/715708931390119936\/n5pZNROv_normal.jpg",
-      "id" : 112524387,
-      "verified" : false
-    }
-  },
-  "id" : 17951746601,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17951792069",
-  "text" : "\u3042\u3001\u91D1\u6CA2\u306E\u30AC\u30EB\u30C7\u30E2\u30E9\u30A4\u30D6\u307E\u3060\u3055\u304D\u3084\u3093\uFF01",
-  "id" : 17951792069,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uFF2B\u30FB\u60A0\u30FB\uFF28\uFF20\u30E2\u30D0\u30B3\u30A4\u30F3\u306B\u5451\u307E\u308C\u308B",
-      "screen_name" : "KH_TOKIDO",
-      "indices" : [ 0, 10 ],
-      "id_str" : "94539288",
-      "id" : 94539288
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17951697547",
-  "geo" : { },
-  "id_str" : "17951934462",
-  "in_reply_to_user_id" : 94539288,
-  "text" : "@KH_TOKIDO \u3042\u306840\u5206\u3061\u3087\u3044\u3067\u3059\u304C\u9811\u5F35\u3063\u3066\u304F\u3060\u3055\u3044w",
-  "id" : 17951934462,
-  "in_reply_to_status_id" : 17951697547,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "KH_TOKIDO",
-  "in_reply_to_user_id_str" : "94539288",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uFF2B\u30FB\u60A0\u30FB\uFF28\uFF20\u30E2\u30D0\u30B3\u30A4\u30F3\u306B\u5451\u307E\u308C\u308B",
-      "screen_name" : "KH_TOKIDO",
-      "indices" : [ 0, 10 ],
-      "id_str" : "94539288",
-      "id" : 94539288
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17952191031",
-  "geo" : { },
-  "id_str" : "17952381483",
-  "in_reply_to_user_id" : 94539288,
-  "text" : "@KH_TOKIDO \u306A\u3089\u5927\u4E08\u592B\u3067\u3059\u306A\uFF57\u3000\u81EA\u5206\u306F\u6025\u5834\u5408\u308F\u305B\u306B1\u6642\u9593\u3082\u304B\u3051\u305A\u306B\u4F5C\u3063\u3066\u3057\u307E\u3063\u305F\uFF3E\uFF50\uFF3E",
-  "id" : 17952381483,
-  "in_reply_to_status_id" : 17952191031,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "KH_TOKIDO",
-  "in_reply_to_user_id_str" : "94539288",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uFF2B\u30FB\u60A0\u30FB\uFF28\uFF20\u30E2\u30D0\u30B3\u30A4\u30F3\u306B\u5451\u307E\u308C\u308B",
-      "screen_name" : "KH_TOKIDO",
-      "indices" : [ 13, 23 ],
-      "id_str" : "94539288",
-      "id" : 94539288
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17952685154",
-  "text" : "\u306A\u3093\u3068\u3044\u3046\u6559\u80B2\u6E08\u307FRT: @KH_TOKIDO: \u3084\u3079\u3047\u3001\u898B\u76F4\u3057\u305F\u3089\u3059\u3054\u3044\u8AA4\u5B57\u304C\u3042\u3063\u305F \u7528\u4E8B\u3042\u3063\u305F \u3092 \u5E7C\u5150\u4F1A\u3063\u305F \u306B\u3057\u3066\u3044\u305F\u3002\u3055\u3059\u304C\u4FFA",
-  "id" : 17952685154,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uFF2B\u30FB\u60A0\u30FB\uFF28\uFF20\u30E2\u30D0\u30B3\u30A4\u30F3\u306B\u5451\u307E\u308C\u308B",
-      "screen_name" : "KH_TOKIDO",
-      "indices" : [ 0, 10 ],
-      "id_str" : "94539288",
-      "id" : 94539288
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17952764746",
-  "geo" : { },
-  "id_str" : "17952908369",
-  "in_reply_to_user_id" : 94539288,
-  "text" : "@KH_TOKIDO \u3080\u3080\u3046\u3001\u3082\u3046\u5C11\u3057\u66F8\u3044\u305F\u3089\u3082\u3063\u3068\u67D3\u307E\u308B\u304B\u306A\u3041",
-  "id" : 17952908369,
-  "in_reply_to_status_id" : 17952764746,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "KH_TOKIDO",
-  "in_reply_to_user_id_str" : "94539288",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
-      "screen_name" : "minardikaivbx",
-      "indices" : [ 0, 14 ],
-      "id_str" : "66997484",
-      "id" : 66997484
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17954084955",
-  "geo" : { },
-  "id_str" : "17954252535",
-  "in_reply_to_user_id" : 66997484,
-  "text" : "@minardikaivbx \u66F4\u65B0\u304C\u9577\u5F15\u3044\u305F\u3089\u3042\u306E\u5A18\u304C\u30FB\u30FB\u30FB",
-  "id" : 17954252535,
-  "in_reply_to_status_id" : 17954084955,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "minardikaivbx",
-  "in_reply_to_user_id_str" : "66997484",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
-      "screen_name" : "minardikaivbx",
-      "indices" : [ 0, 14 ],
-      "id_str" : "66997484",
-      "id" : 66997484
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17954368411",
-  "geo" : { },
-  "id_str" : "17954644232",
-  "in_reply_to_user_id" : 66997484,
-  "text" : "@minardikaivbx \u304A\u30FC\u3051\u30FC\u30B8\u30E3\u30C3\u30AF\u3001\u3068\u308A\u3042\u3048\u305A\u4ECA\u306E\u72B6\u6CC1\u3092\u78BA\u8A8D\u3059\u308B\u3093\u3060",
-  "id" : 17954644232,
-  "in_reply_to_status_id" : 17954368411,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "minardikaivbx",
-  "in_reply_to_user_id_str" : "66997484",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "tanzaku",
-      "indices" : [ 43, 51 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17954942181",
-  "text" : "\u3055\u3066\u3001\u3082\u3046\u305D\u308D\u305D\u308D\u4E03\u5915\u3082\u7D42\u308F\u308B\u308F\u3051\u3060\u3002\u3000\u4E00\u5E74\u5F8C\u3001\u307E\u305F\u7686\u3068\u3053\u3053\u3067\u4EF2\u826F\u304F\u3067\u304D\u307E\u3059\u3088\u3046\u306B\uFF01 #tanzaku",
-  "id" : 17954942181,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Akihiko Koizuka",
-      "screen_name" : "koizuka",
-      "indices" : [ 0, 8 ],
-      "id_str" : "5523632",
-      "id" : 5523632
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17955285294",
-  "geo" : { },
-  "id_str" : "17955419238",
-  "in_reply_to_user_id" : 5523632,
-  "text" : "@koizuka \u65B0\u65B0\u30D7\u30EC\u30A4\u30E4\u30FC\u306B\u3064\u3044\u3066\u306E\u30CF\u30C3\u30B7\u30E5\u30BF\u30B0\u6559\u3048\u3066\u304F\u3060\u3055\u3044\u307E\u305B\u3093\u304B\uFF1F",
-  "id" : 17955419238,
-  "in_reply_to_status_id" : 17955285294,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "koizuka",
-  "in_reply_to_user_id_str" : "5523632",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Liv",
-      "screen_name" : "AsakoSenpai",
-      "indices" : [ 15, 27 ],
-      "id_str" : "2764468667",
-      "id" : 2764468667
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17955438019",
-  "text" : "\u5148\u8F29\u8D85\u304A\u3093\u306A\u306E\u3053\u3063\u3059\uFF01RT: @ASAkoSenpai: \u3042\u305F\u3057\u306F\u5973\u306E\u5B50\u3089\u3057\u304F\u306A\u304F\u306A\u3044\u3067\u3059\u304B\uFF1F\uFF57\uFF57\uFF57\uFF57\uFF57",
-  "id" : 17955438019,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30B9\u30C6\u30A3-sty-",
-      "screen_name" : "sty_5",
-      "indices" : [ 3, 9 ],
-      "id_str" : "94279144",
-      "id" : 94279144
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17955446388",
-  "text" : "RT @sty_5: \u3082\u3046\u4E00\u5EA6\u3001\u4E00\u90E8\u5730\u65B9\u306F\u4E03\u5915\u306F\uFF18\u6708\u3001\u6545\u306B\u5974\u3089\u306F\u307E\u305F\u3059\u3050\u51FA\u4F1A\u3044\u307E\u3059\u3002",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "17955306485",
-    "text" : "\u3082\u3046\u4E00\u5EA6\u3001\u4E00\u90E8\u5730\u65B9\u306F\u4E03\u5915\u306F\uFF18\u6708\u3001\u6545\u306B\u5974\u3089\u306F\u307E\u305F\u3059\u3050\u51FA\u4F1A\u3044\u307E\u3059\u3002",
-    "id" : 17955306485,
-    "created_at" : "2010-07-07 15:04:09 +0000",
-    "user" : {
-      "name" : "\u30B9\u30C6\u30A3-sty-",
-      "screen_name" : "sty_5",
-      "protected" : false,
-      "id_str" : "94279144",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564054897427877890\/fNprvZTi_normal.jpeg",
-      "id" : 94279144,
-      "verified" : false
-    }
-  },
-  "id" : 17955446388,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u307E\u308B\u3061",
-      "screen_name" : "multi2525",
-      "indices" : [ 0, 10 ],
-      "id_str" : "1683307860",
-      "id" : 1683307860
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17955845466",
-  "text" : "@multi2525 \u304A\u3084\u3059\u3059\u3059\u30FC",
-  "id" : 17955845466,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Akihiko Koizuka",
-      "screen_name" : "koizuka",
-      "indices" : [ 9, 17 ],
-      "id_str" : "5523632",
-      "id" : 5523632
-    }, {
-      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
-      "screen_name" : "why_tathibana",
-      "indices" : [ 35, 49 ],
-      "id_str" : "262494533",
-      "id" : 262494533
-    }, {
-      "name" : "Akihiko Koizuka",
-      "screen_name" : "koizuka",
-      "indices" : [ 51, 59 ],
-      "id_str" : "5523632",
-      "id" : 5523632
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "nicoplayer4",
-      "indices" : [ 19, 31 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17955866533",
-  "text" : "\u3042\u3056\u307E\u3059\uFF01RT: @koizuka: #nicoplayer4 RT @why_tathibana: @koizuka \u65B0\u65B0\u30D7\u30EC\u30A4\u30E4\u30FC\u306B\u3064\u3044\u3066\u306E\u30CF\u30C3\u30B7\u30E5\u30BF\u30B0\u6559\u3048\u3066\u304F\u3060\u3055\u3044\u307E\u305B\u3093\u304B\uFF1F",
-  "id" : 17955866533,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u306A\u306A\u3072\u3089@3\u65E5\u76EE \u897Fa-46b",
-      "screen_name" : "nanahira",
-      "indices" : [ 0, 9 ],
-      "id_str" : "231926590",
-      "id" : 231926590
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17956207233",
-  "text" : "@nanahira \u3042\u306E\u7F8E\u8C8C\u306A\u3089\u82E5\u5965\u3055\u3093\u304B\u304A\u306D\u3047\u3061\u3083\u3093\u306B\u898B\u3048\u308B\u304B\u3089\u5927\u4E08\u592B\uFF01",
-  "id" : 17956207233,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u306A\u306A\u3072\u3089@3\u65E5\u76EE \u897Fa-46b",
-      "screen_name" : "nanahira",
-      "indices" : [ 0, 9 ],
-      "id_str" : "231926590",
-      "id" : 231926590
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17956447542",
-  "text" : "@nanahira \u304D\u3063\u3068\u3044\u3051\u307E\u3059\u3088\uFF57",
-  "id" : 17956447542,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "tanabata",
-      "indices" : [ 12, 21 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17956660964",
-  "text" : "\u7E54\u59EB\u300C\u3054\u3081\u3093\u3001\u9045\u308C\u305F\u300D #tanabata",
-  "id" : 17956660964,
-  "created_at" : "2010-07-07 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -35961,7 +34578,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "101756063",
       "id" : 101756063
     }, {
-      "name" : "\u7FD4\u83DC\uFF20\u795E\u98A8\u3061\u3083\u3093\u304B\u308F\u3044\u3044\u3093\u3058\u3083\uFF5E",
+      "name" : "\u7FD4\u83DC\uFF20\u30B7\u30F3\u30B9\u30C6 \u306D\uFF0D\uFF16\uFF12 \u58F2\u308A\u5B50",
       "screen_name" : "kakenappa",
       "indices" : [ 19, 29 ],
       "id_str" : "80633453",
@@ -36033,7 +34650,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3072\u306A\u306E\u3059\u3051*LINE\u30B9\u30BF\u30F3\u30D7\u767A\u58F2\u4E2D",
+      "name" : "\u3072\u306A\u306E\u3059\u3051(\u4E0A\u5D8B\u30CF\u30EB\u30AD)",
       "screen_name" : "hinanon1217",
       "indices" : [ 19, 31 ],
       "id_str" : "71551815",
@@ -36089,7 +34706,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)",
+      "name" : "\u305F\u3074\u304A\u304BP(\u30AD\u30C3\u30AB)\u306E\u30D5\u30EC\u30F3\u30BA",
       "screen_name" : "niconicokikka",
       "indices" : [ 0, 14 ],
       "id_str" : "36291433",
@@ -36585,6 +35202,1251 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17934289388",
+  "text" : "\u3055\u3041\u587E\u884C\u3063\u3066\u304F\u308B\u3002",
+  "id" : 17934289388,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17941349356",
+  "text" : "\u3010\u6025\u52DF\u3011\u30E4\u30F3\u30C7\u30EC\u58F0\u304C\u51FA\u6765\u308B\u30CD\u30C3\u30C8\u58F0\u512A\u3055\u3093\u3002HP\u7B49\u3082\u3042\u308B\u3068\u5B09\u3057\u3044\u3067\u3059\u3002\u3042\u3001\u5973\u306E\u65B9\u3067\u3059",
+  "id" : 17941349356,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/photozou.jp\/\" rel=\"nofollow\"\u003E\u30D5\u30A9\u30C8\u8535\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17947571676",
+  "text" : "2010070721240000 http:\/\/photozou.jp\/photo\/show\/642523\/42422165",
+  "id" : 17947571676,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
+      "screen_name" : "why_tathibana",
+      "indices" : [ 38, 52 ],
+      "id_str" : "262494533",
+      "id" : 262494533
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17948348298",
+  "text" : "\u3053\u3053\u3067\u307E\u3063\u3066\u308C\u3070\u3001\u304C\u308B\u3067\u3082\u306E\u3089\u3044\u3076\u304C\u307F\u308C\u308B\u3063\u3066\u3055\u306A\u3048\u3055\u3093\u304C\u3044\u3063\u3066\u305F\u3002 RT @why_tathibana: 2010070721240000 http:\/\/photozou.jp\/photo\/show\/642523\/42422165",
+  "id" : 17948348298,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17948389348",
+  "text" : "\u3042\u3001\u5E30\u5B85\u3057\u307E\u3057\u305F",
+  "id" : 17948389348,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17948500436",
+  "text" : "\u30B4\u30FC\u30EB\u30C9\u53CD\u5FDC\u306F\u3048\u3047w",
+  "id" : 17948500436,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17948615331",
+  "text" : "\u30AD\u30B9\u3001\u306D\u3047\u2026\u3042\u3042\u3001\u6614\u521D\u604B\u306E\u4EBA\u3068\u3084\u3063\u305F\u3088\u3046\u306A\u3002\u3055\u3066\u3069\u3046\u3060\u3063\u305F\u304B\u306A \u3068\u3001\u3053\u306E\u30AD\u30B9\uFF34\uFF2C\u306B\u6295\u4E0B\u3057\u3066\u307F\u308B",
+  "id" : 17948615331,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u307F\u304B\u3055\u3093\u3002",
+      "screen_name" : "pinkrit",
+      "indices" : [ 0, 8 ],
+      "id_str" : "100307622",
+      "id" : 100307622
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17948356414",
+  "geo" : { },
+  "id_str" : "17948695085",
+  "in_reply_to_user_id" : 100307622,
+  "text" : "@pinkrit \u304A\u3081\u30FC\uFF01 \uFF72\uFF72\uFF85\uFF72\uFF72\uFF85\u30FC",
+  "id" : 17948695085,
+  "in_reply_to_status_id" : 17948356414,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "pinkrit",
+  "in_reply_to_user_id_str" : "100307622",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17948804048",
+  "text" : "\u3010\u901F\u5831\u3011\u6B21\u306E\u30B8\u30E9\u30FC\u30C1\u306E\u76EE\u899A\u3081\u307E\u3067\u3042\u3068998\u5E74\u3050\u3089\u3044",
+  "id" : 17948804048,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30B9\u30C6\u30A3-sty-",
+      "screen_name" : "sty_5",
+      "indices" : [ 0, 6 ],
+      "id_str" : "94279144",
+      "id" : 94279144
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17948731496",
+  "geo" : { },
+  "id_str" : "17948866383",
+  "in_reply_to_user_id" : 94279144,
+  "text" : "@sty_5 \u3069\u3046\u3057\u305F\u306E\u304D\u307F\u30FC\uFF1F",
+  "id" : 17948866383,
+  "in_reply_to_status_id" : 17948731496,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "sty_5",
+  "in_reply_to_user_id_str" : "94279144",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "hinaki",
+      "screen_name" : "Hinaki03",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2757041808",
+      "id" : 2757041808
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17948780449",
+  "geo" : { },
+  "id_str" : "17949391620",
+  "in_reply_to_user_id" : 100762060,
+  "text" : "@hinaki03 \u306A\u3093\u3058\u3083\u3044\uFF57\uFF57",
+  "id" : 17949391620,
+  "in_reply_to_status_id" : 17948780449,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "hina9533",
+  "in_reply_to_user_id_str" : "100762060",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30B9\u30C6\u30A3-sty-",
+      "screen_name" : "sty_5",
+      "indices" : [ 0, 6 ],
+      "id_str" : "94279144",
+      "id" : 94279144
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17948945887",
+  "geo" : { },
+  "id_str" : "17949403842",
+  "in_reply_to_user_id" : 94279144,
+  "text" : "@sty_5 \u5927\u30D2\u30F3\u30C8\u3084\u306A\u3044\u304B\u3041\uFF01",
+  "id" : 17949403842,
+  "in_reply_to_status_id" : 17948945887,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "sty_5",
+  "in_reply_to_user_id_str" : "94279144",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "hinaki",
+      "screen_name" : "Hinaki03",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2757041808",
+      "id" : 2757041808
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17949616299",
+  "geo" : { },
+  "id_str" : "17949799809",
+  "in_reply_to_user_id" : 100762060,
+  "text" : "@hinaki03 \u3053\u3063\u3061\u306ETL\u304C\u30D5\u30A1\u30FC\u30B9\u30C8\u30AD\u30B9TL\u3060\u305F\u304B\u3089\uFF3E\uFF50\uFF3E",
+  "id" : 17949799809,
+  "in_reply_to_status_id" : 17949616299,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "hina9533",
+  "in_reply_to_user_id_str" : "100762060",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u795E\u4E3B\u3042\u3093\u3071\u3093",
+      "screen_name" : "kannusiAP",
+      "indices" : [ 0, 10 ],
+      "id_str" : "101756063",
+      "id" : 101756063
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17949819580",
+  "geo" : { },
+  "id_str" : "17949896964",
+  "in_reply_to_user_id" : 101756063,
+  "text" : "@kannusiAP \u304A\u304B\u3048\u308A\u30FC",
+  "id" : 17949896964,
+  "in_reply_to_status_id" : 17949819580,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kannusiAP",
+  "in_reply_to_user_id_str" : "101756063",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17950249546",
+  "text" : "\u3053\u3053\u3067\u307E\u3063\u3066\u305F\u3089\u3001\u304C\u308B\u3067\u3082\u3089\u3044\u3076\u307F\u308C\u308B\u3063\u3066\u3055\u306A\u3048\u3055\u3093\u304C\u3044\u3063\u3066\u305F http:\/\/photozou.jp\/photo\/show\/642523\/42422165",
+  "id" : 17950249546,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17950554083",
+  "text" : "\u3042\u308C\u3001\u30AC\u30EB\u30C7\u30E2\u30E9\u30A4\u30D6\u307E\u3060\uFF1F\u3084\u308B\u3063\u3066\u805E\u3044\u305F\u304B\u3089\u5F85\u3063\u3066\u3093\u3060\u3051\u3069",
+  "id" : 17950554083,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
+      "screen_name" : "erogewota",
+      "indices" : [ 9, 19 ],
+      "id_str" : "50268644",
+      "id" : 50268644
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17951062610",
+  "text" : "\u30C4\u30F3\u30C7\u30EC\u4E59RT: @erogewota: ( \uFF9F,_\u03C5\uFF9F)\uFF1C\u3079\u3001\u5225\u306B\u304A\u307E\u3048\u3089\uFF32\uFF27\uFF08\u30AD\u30FC\u30DC\u30FC\u30C9\u7684\u306A\u610F\u5473\u3067\uFF09\u3058\u3083\u306D\u3047\u3057\uFF01\uFF01\u52D8\u9055\u3044\u3059\u3093\u306A\u3088\uFF01",
+  "id" : 17951062610,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u306A\u306A\u3072\u3089",
+      "screen_name" : "nanahira",
+      "indices" : [ 0, 9 ],
+      "id_str" : "231926590",
+      "id" : 231926590
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "tanzaku",
+      "indices" : [ 24, 32 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17951345864",
+  "text" : "@nanahira \u3053\u3044\u3064\u306A\u3089\u307E\u3060\u751F\u304D\u3066\u308B\u3088\uFF01 #tanzaku",
+  "id" : 17951345864,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u308A\u3085\u3046",
+      "screen_name" : "ryuu_key",
+      "indices" : [ 0, 9 ],
+      "id_str" : "106477287",
+      "id" : 106477287
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17950956555",
+  "geo" : { },
+  "id_str" : "17951368796",
+  "in_reply_to_user_id" : 106477287,
+  "text" : "@ryuu_key \u304A\u304B\u3048\u308A\u306A\u3055\u30FC\u3044",
+  "id" : 17951368796,
+  "in_reply_to_status_id" : 17950956555,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "ryuu_key",
+  "in_reply_to_user_id_str" : "106477287",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3042\u304B\u3070\u306D\u306B\u3043",
+      "screen_name" : "akabane_g",
+      "indices" : [ 3, 13 ],
+      "id_str" : "112524387",
+      "id" : 112524387
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17951746601",
+  "text" : "RT @akabane_g: \u3088\u3057\u3053\u306E\u30C4\u30A4\u30FC\u30C8\u304C\uFF11\uFF15\uFF32\uFF34\u3055\u308C\u305F\u3089\u30AB\u30F3\u30AC\u30EB\u30FC\u304D\u306A\u304C\u3089\u982C\u8D64\u3089\u3081\u3066\u308B\uFF1F\u5199\u30E1\u3046\uFF50\u3057\u307E\u3059\u3088",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twipple.jp\/\" rel=\"nofollow\"\u003E\u3064\u3044\u3063\u3077\u308B\u3000\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "17950384029",
+    "text" : "\u3088\u3057\u3053\u306E\u30C4\u30A4\u30FC\u30C8\u304C\uFF11\uFF15\uFF32\uFF34\u3055\u308C\u305F\u3089\u30AB\u30F3\u30AC\u30EB\u30FC\u304D\u306A\u304C\u3089\u982C\u8D64\u3089\u3081\u3066\u308B\uFF1F\u5199\u30E1\u3046\uFF50\u3057\u307E\u3059\u3088",
+    "id" : 17950384029,
+    "created_at" : "2010-07-07 13:55:59 +0000",
+    "user" : {
+      "name" : "\u3042\u304B\u3070\u306D\u306B\u3043",
+      "screen_name" : "akabane_g",
+      "protected" : false,
+      "id_str" : "112524387",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/715708931390119936\/n5pZNROv_normal.jpg",
+      "id" : 112524387,
+      "verified" : false
+    }
+  },
+  "id" : 17951746601,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17951792069",
+  "text" : "\u3042\u3001\u91D1\u6CA2\u306E\u30AC\u30EB\u30C7\u30E2\u30E9\u30A4\u30D6\u307E\u3060\u3055\u304D\u3084\u3093\uFF01",
+  "id" : 17951792069,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uFF2B\u30FB\u60A0\u30FB\uFF28\uFF20\u30E2\u30D0\u30B3\u30A4\u30F3\u306B\u5451\u307E\u308C\u308B",
+      "screen_name" : "KH_TOKIDO",
+      "indices" : [ 0, 10 ],
+      "id_str" : "94539288",
+      "id" : 94539288
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17951697547",
+  "geo" : { },
+  "id_str" : "17951934462",
+  "in_reply_to_user_id" : 94539288,
+  "text" : "@KH_TOKIDO \u3042\u306840\u5206\u3061\u3087\u3044\u3067\u3059\u304C\u9811\u5F35\u3063\u3066\u304F\u3060\u3055\u3044w",
+  "id" : 17951934462,
+  "in_reply_to_status_id" : 17951697547,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "KH_TOKIDO",
+  "in_reply_to_user_id_str" : "94539288",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uFF2B\u30FB\u60A0\u30FB\uFF28\uFF20\u30E2\u30D0\u30B3\u30A4\u30F3\u306B\u5451\u307E\u308C\u308B",
+      "screen_name" : "KH_TOKIDO",
+      "indices" : [ 0, 10 ],
+      "id_str" : "94539288",
+      "id" : 94539288
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17952191031",
+  "geo" : { },
+  "id_str" : "17952381483",
+  "in_reply_to_user_id" : 94539288,
+  "text" : "@KH_TOKIDO \u306A\u3089\u5927\u4E08\u592B\u3067\u3059\u306A\uFF57\u3000\u81EA\u5206\u306F\u6025\u5834\u5408\u308F\u305B\u306B1\u6642\u9593\u3082\u304B\u3051\u305A\u306B\u4F5C\u3063\u3066\u3057\u307E\u3063\u305F\uFF3E\uFF50\uFF3E",
+  "id" : 17952381483,
+  "in_reply_to_status_id" : 17952191031,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "KH_TOKIDO",
+  "in_reply_to_user_id_str" : "94539288",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uFF2B\u30FB\u60A0\u30FB\uFF28\uFF20\u30E2\u30D0\u30B3\u30A4\u30F3\u306B\u5451\u307E\u308C\u308B",
+      "screen_name" : "KH_TOKIDO",
+      "indices" : [ 13, 23 ],
+      "id_str" : "94539288",
+      "id" : 94539288
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17952685154",
+  "text" : "\u306A\u3093\u3068\u3044\u3046\u6559\u80B2\u6E08\u307FRT: @KH_TOKIDO: \u3084\u3079\u3047\u3001\u898B\u76F4\u3057\u305F\u3089\u3059\u3054\u3044\u8AA4\u5B57\u304C\u3042\u3063\u305F \u7528\u4E8B\u3042\u3063\u305F \u3092 \u5E7C\u5150\u4F1A\u3063\u305F \u306B\u3057\u3066\u3044\u305F\u3002\u3055\u3059\u304C\u4FFA",
+  "id" : 17952685154,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uFF2B\u30FB\u60A0\u30FB\uFF28\uFF20\u30E2\u30D0\u30B3\u30A4\u30F3\u306B\u5451\u307E\u308C\u308B",
+      "screen_name" : "KH_TOKIDO",
+      "indices" : [ 0, 10 ],
+      "id_str" : "94539288",
+      "id" : 94539288
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17952764746",
+  "geo" : { },
+  "id_str" : "17952908369",
+  "in_reply_to_user_id" : 94539288,
+  "text" : "@KH_TOKIDO \u3080\u3080\u3046\u3001\u3082\u3046\u5C11\u3057\u66F8\u3044\u305F\u3089\u3082\u3063\u3068\u67D3\u307E\u308B\u304B\u306A\u3041",
+  "id" : 17952908369,
+  "in_reply_to_status_id" : 17952764746,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "KH_TOKIDO",
+  "in_reply_to_user_id_str" : "94539288",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
+      "screen_name" : "minardikaivbx",
+      "indices" : [ 0, 14 ],
+      "id_str" : "66997484",
+      "id" : 66997484
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17954084955",
+  "geo" : { },
+  "id_str" : "17954252535",
+  "in_reply_to_user_id" : 66997484,
+  "text" : "@minardikaivbx \u66F4\u65B0\u304C\u9577\u5F15\u3044\u305F\u3089\u3042\u306E\u5A18\u304C\u30FB\u30FB\u30FB",
+  "id" : 17954252535,
+  "in_reply_to_status_id" : 17954084955,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "minardikaivbx",
+  "in_reply_to_user_id_str" : "66997484",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
+      "screen_name" : "minardikaivbx",
+      "indices" : [ 0, 14 ],
+      "id_str" : "66997484",
+      "id" : 66997484
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17954368411",
+  "geo" : { },
+  "id_str" : "17954644232",
+  "in_reply_to_user_id" : 66997484,
+  "text" : "@minardikaivbx \u304A\u30FC\u3051\u30FC\u30B8\u30E3\u30C3\u30AF\u3001\u3068\u308A\u3042\u3048\u305A\u4ECA\u306E\u72B6\u6CC1\u3092\u78BA\u8A8D\u3059\u308B\u3093\u3060",
+  "id" : 17954644232,
+  "in_reply_to_status_id" : 17954368411,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "minardikaivbx",
+  "in_reply_to_user_id_str" : "66997484",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "tanzaku",
+      "indices" : [ 43, 51 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17954942181",
+  "text" : "\u3055\u3066\u3001\u3082\u3046\u305D\u308D\u305D\u308D\u4E03\u5915\u3082\u7D42\u308F\u308B\u308F\u3051\u3060\u3002\u3000\u4E00\u5E74\u5F8C\u3001\u307E\u305F\u7686\u3068\u3053\u3053\u3067\u4EF2\u826F\u304F\u3067\u304D\u307E\u3059\u3088\u3046\u306B\uFF01 #tanzaku",
+  "id" : 17954942181,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Akihiko Koizuka",
+      "screen_name" : "koizuka",
+      "indices" : [ 0, 8 ],
+      "id_str" : "5523632",
+      "id" : 5523632
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17955285294",
+  "geo" : { },
+  "id_str" : "17955419238",
+  "in_reply_to_user_id" : 5523632,
+  "text" : "@koizuka \u65B0\u65B0\u30D7\u30EC\u30A4\u30E4\u30FC\u306B\u3064\u3044\u3066\u306E\u30CF\u30C3\u30B7\u30E5\u30BF\u30B0\u6559\u3048\u3066\u304F\u3060\u3055\u3044\u307E\u305B\u3093\u304B\uFF1F",
+  "id" : 17955419238,
+  "in_reply_to_status_id" : 17955285294,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "koizuka",
+  "in_reply_to_user_id_str" : "5523632",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\/\/",
+      "screen_name" : "AsakoSenpai",
+      "indices" : [ 15, 27 ],
+      "id_str" : "2764468667",
+      "id" : 2764468667
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17955438019",
+  "text" : "\u5148\u8F29\u8D85\u304A\u3093\u306A\u306E\u3053\u3063\u3059\uFF01RT: @ASAkoSenpai: \u3042\u305F\u3057\u306F\u5973\u306E\u5B50\u3089\u3057\u304F\u306A\u304F\u306A\u3044\u3067\u3059\u304B\uFF1F\uFF57\uFF57\uFF57\uFF57\uFF57",
+  "id" : 17955438019,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u30B9\u30C6\u30A3-sty-",
+      "screen_name" : "sty_5",
+      "indices" : [ 3, 9 ],
+      "id_str" : "94279144",
+      "id" : 94279144
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17955446388",
+  "text" : "RT @sty_5: \u3082\u3046\u4E00\u5EA6\u3001\u4E00\u90E8\u5730\u65B9\u306F\u4E03\u5915\u306F\uFF18\u6708\u3001\u6545\u306B\u5974\u3089\u306F\u307E\u305F\u3059\u3050\u51FA\u4F1A\u3044\u307E\u3059\u3002",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "17955306485",
+    "text" : "\u3082\u3046\u4E00\u5EA6\u3001\u4E00\u90E8\u5730\u65B9\u306F\u4E03\u5915\u306F\uFF18\u6708\u3001\u6545\u306B\u5974\u3089\u306F\u307E\u305F\u3059\u3050\u51FA\u4F1A\u3044\u307E\u3059\u3002",
+    "id" : 17955306485,
+    "created_at" : "2010-07-07 15:04:09 +0000",
+    "user" : {
+      "name" : "\u30B9\u30C6\u30A3-sty-",
+      "screen_name" : "sty_5",
+      "protected" : false,
+      "id_str" : "94279144",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564054897427877890\/fNprvZTi_normal.jpeg",
+      "id" : 94279144,
+      "verified" : false
+    }
+  },
+  "id" : 17955446388,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u307E\u308B\u3061@\u307E\u308B\u3061\u30BA\u30E0",
+      "screen_name" : "multi2525",
+      "indices" : [ 0, 10 ],
+      "id_str" : "1683307860",
+      "id" : 1683307860
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17955845466",
+  "text" : "@multi2525 \u304A\u3084\u3059\u3059\u3059\u30FC",
+  "id" : 17955845466,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Akihiko Koizuka",
+      "screen_name" : "koizuka",
+      "indices" : [ 9, 17 ],
+      "id_str" : "5523632",
+      "id" : 5523632
+    }, {
+      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
+      "screen_name" : "why_tathibana",
+      "indices" : [ 35, 49 ],
+      "id_str" : "262494533",
+      "id" : 262494533
+    }, {
+      "name" : "Akihiko Koizuka",
+      "screen_name" : "koizuka",
+      "indices" : [ 51, 59 ],
+      "id_str" : "5523632",
+      "id" : 5523632
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "nicoplayer4",
+      "indices" : [ 19, 31 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17955866533",
+  "text" : "\u3042\u3056\u307E\u3059\uFF01RT: @koizuka: #nicoplayer4 RT @why_tathibana: @koizuka \u65B0\u65B0\u30D7\u30EC\u30A4\u30E4\u30FC\u306B\u3064\u3044\u3066\u306E\u30CF\u30C3\u30B7\u30E5\u30BF\u30B0\u6559\u3048\u3066\u304F\u3060\u3055\u3044\u307E\u305B\u3093\u304B\uFF1F",
+  "id" : 17955866533,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u306A\u306A\u3072\u3089",
+      "screen_name" : "nanahira",
+      "indices" : [ 0, 9 ],
+      "id_str" : "231926590",
+      "id" : 231926590
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17956207233",
+  "text" : "@nanahira \u3042\u306E\u7F8E\u8C8C\u306A\u3089\u82E5\u5965\u3055\u3093\u304B\u304A\u306D\u3047\u3061\u3083\u3093\u306B\u898B\u3048\u308B\u304B\u3089\u5927\u4E08\u592B\uFF01",
+  "id" : 17956207233,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u306A\u306A\u3072\u3089",
+      "screen_name" : "nanahira",
+      "indices" : [ 0, 9 ],
+      "id_str" : "231926590",
+      "id" : 231926590
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17956447542",
+  "text" : "@nanahira \u304D\u3063\u3068\u3044\u3051\u307E\u3059\u3088\uFF57",
+  "id" : 17956447542,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "tanabata",
+      "indices" : [ 12, 21 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17956660964",
+  "text" : "\u7E54\u59EB\u300C\u3054\u3081\u3093\u3001\u9045\u308C\u305F\u300D #tanabata",
+  "id" : 17956660964,
+  "created_at" : "2010-07-07 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u5E79\u4E8B\u7537",
+      "screen_name" : "kanji_man",
+      "indices" : [ 24, 34 ],
+      "id_str" : "56417997",
+      "id" : 56417997
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17846238803",
+  "text" : "\u591A\u5206\u5C0F\u5B66\u6821\u306E\u540C\u7A93\u4F1A\u306E\u5E79\u4E8B\u3092\u983C\u3093\u3067\u308B\u3093\u3060\u3088 RT @kanji_man: \u96A3\u306B\u5EA7\u308B\u30B9\u30DD\u30FC\u30C6\u30A3\u306A\u53A8\u623F\u5C11\u5973\u304C\u3074\u3068\u3074\u3068\u8098\u3067\u89E6\u308C\u3066\u304F\u308B\u306E\u3067\u3059\u304C\u30D5\u30E9\u30B0\u3067\u3057\u3087\u3046\u304B\u2026\u2026\u304A\u5B22\u3055\u3093\u3001\u53CD\u5BFE\u5074\u7A7A\u3044\u3066\u307E\u3059\u3088\u3002\u591A\u5206\u7AEF\u304B\u3089\u898B\u308B\u3068\u7570\u5E38\u306A\u307E\u3067\u306B\u3053\u3063\u3061\u306B\u5BC4\u3063\u3066\u307E\u3059\u3088",
+  "id" : 17846238803,
+  "created_at" : "2010-07-06 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17846420651",
+  "text" : "\u77F3\u9E78\u305F\u3093\u306B\u6559\u3048\u3066\u3082\u3089\u3063\u305F\u5800\u5BAE\u3001\u3059\u3054\u3044\u6709\u540D\u306B\u306A\u3063\u3066\u304A\u3044\u3089\u3073\u3063\u304F\u308A",
+  "id" : 17846420651,
+  "created_at" : "2010-07-06 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u306A\u306A\u3072\u3089",
+      "screen_name" : "nanahira",
+      "indices" : [ 0, 9 ],
+      "id_str" : "231926590",
+      "id" : 231926590
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17846701135",
+  "text" : "@nanahira \u547C\u3070\u308C\u305F\u3089\u3067\u307E\u3059\u30FC\uFF1F",
+  "id" : 17846701135,
+  "created_at" : "2010-07-06 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u9175\u7D20\uFF08\u30A8\u30F3\u30B6\u30A4\u30E0\uFF09\u3067\u30D5\u30A1\u30B9\u30C8\u30C0\u30A4\u30A8\u30C3\u30C8",
+      "screen_name" : "sekken777",
+      "indices" : [ 0, 10 ],
+      "id_str" : "1538161099",
+      "id" : 1538161099
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17846864007",
+  "text" : "@sekken777 \u3044\u3084\u3001\u58F0\u5F53\u3066\u3068\u304B\u3044\u308D\u3044\u308D\u3042\u308B\u3089\u3057\u304F\u3066\u3001\u6709\u540D\u306B\u306A\u3063\u305F\u306A\u3041\u3001\u3068\u3002\u4F5C\u8005\u306E\u4EBA\u306E\u3064\u3044\u3063\u305F\u30FC\u306E\u30D5\u30A9\u30ED\u30FC\u6570\u5897\u3048\u3066\u308B\u3057",
+  "id" : 17846864007,
+  "created_at" : "2010-07-06 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u9175\u7D20\uFF08\u30A8\u30F3\u30B6\u30A4\u30E0\uFF09\u3067\u30D5\u30A1\u30B9\u30C8\u30C0\u30A4\u30A8\u30C3\u30C8",
+      "screen_name" : "sekken777",
+      "indices" : [ 0, 10 ],
+      "id_str" : "1538161099",
+      "id" : 1538161099
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17847101815",
+  "text" : "@sekken777 \u306D\u3002\u3084\u3063\u3068\u8A55\u4FA1\u3055\u308C\u305F\u611F\u3058",
+  "id" : 17847101815,
+  "created_at" : "2010-07-06 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u306A\u306A\u3072\u3089",
+      "screen_name" : "nanahira",
+      "indices" : [ 8, 17 ],
+      "id_str" : "231926590",
+      "id" : 231926590
+    }, {
+      "name" : "\u30A8\u30CA\u30E1\u30EB",
+      "screen_name" : "enamel_hachi",
+      "indices" : [ 29, 42 ],
+      "id_str" : "82801680",
+      "id" : 82801680
+    }, {
+      "name" : "CAFFEIN\/\u30DC\u30D1\u30E9\u95A2\u897FG11",
+      "screen_name" : "caffein89",
+      "indices" : [ 65, 75 ],
+      "id_str" : "32200114",
+      "id" : 32200114
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17847108225",
+  "text" : "\u307E\u3060\u30FC\uFF1FRT: @nanahira: \u653E\u6620\u307E\u3060\u30FC\uFF1F RT @enamel_hachi: \u304B\u308F\u3044\u3044\u306A\u3041\u3001\u3044\u3064\u59CB\u307E\u308B\u3093\u3067\u3059\u304B\uFF01 RT @caffein89: \u30CA\u30CA\u30CA\u30CA\u5857\u3063\u305F\u3000\u306A\u3093\u304B\u6559\u80B2\u30C6\u30EC\u30D3\u306E\u5915\u65B9\u306E\u30A2\u30CB\u30E1\u3063\u307D\u3044\u2026 http:\/\/twitpic.com\/22uvq3",
+  "id" : 17847108225,
+  "created_at" : "2010-07-06 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/live.nicovideo.jp\/\" rel=\"nofollow\"\u003E\u30CB\u30B3\u30CB\u30B3\u751F\u653E\u9001\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -36646,7 +36508,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u306A\u306A\u3072\u3089@3\u65E5\u76EE \u897Fa-46b",
+      "name" : "\u306A\u306A\u3072\u3089",
       "screen_name" : "nanahira",
       "indices" : [ 0, 9 ],
       "id_str" : "231926590",
@@ -36828,19 +36690,19 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u306A\u306A\u3072\u3089@3\u65E5\u76EE \u897Fa-46b",
+      "name" : "\u306A\u306A\u3072\u3089",
       "screen_name" : "nanahira",
       "indices" : [ 4, 13 ],
       "id_str" : "231926590",
       "id" : 231926590
     }, {
-      "name" : "\u30AB\u30A4@\u30A8\u30ED\u30B2\u30F2\u30BF",
+      "name" : "\u30AB\u30A4@\u3081\u3050\u6C11",
       "screen_name" : "erogewota",
       "indices" : [ 18, 28 ],
       "id_str" : "50268644",
       "id" : 50268644
     }, {
-      "name" : "\u9B31P@8\/11\u6E0B\u8C37&\u4E09\u65E5\u76EE\u897FA40a",
+      "name" : "\u9B31P@3\/5\u4EAC\u90FD\u30DC\u30FC\u30D1\u30E9 3\/20\u6A2A\u6D5C",
       "screen_name" : "asshole_wii",
       "indices" : [ 33, 45 ],
       "id_str" : "47679066",
@@ -36995,7 +36857,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "56417997",
       "id" : 56417997
     }, {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 31, 45 ],
       "id_str" : "3322453124",
@@ -37023,7 +36885,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH\u30C7\u30D3\u30D5\u30A1\u30DF",
+      "name" : "\u3068\u308A\u3061\u3083\u3093@EARTH",
       "screen_name" : "ayaka_chicken",
       "indices" : [ 0, 14 ],
       "id_str" : "3322453124",
@@ -37238,7 +37100,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u308F\u304C\u305B\/\u30DD\u30B1\u30E2\u30F3\u65B0\u4F5C\u5F85\u6A5F",
+      "name" : "\u308F\u304C\u305B\/\u30DD\u30B1\u30E2\u30F3\u30E0\u30FC\u30F3",
       "screen_name" : "wagase",
       "indices" : [ 84, 91 ],
       "id_str" : "95377661",
@@ -37518,7 +37380,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liv",
+      "name" : "\/\/",
       "screen_name" : "AsakoSenpai",
       "indices" : [ 0, 12 ],
       "id_str" : "2764468667",
@@ -37568,21 +37430,54 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5E79\u4E8B\u7537",
-      "screen_name" : "kanji_man",
-      "indices" : [ 24, 34 ],
-      "id_str" : "56417997",
-      "id" : 56417997
+      "name" : "\u308A\u304D\u304A",
+      "screen_name" : "rikio0505",
+      "indices" : [ 12, 22 ],
+      "id_str" : "74137135",
+      "id" : 74137135
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "17846238803",
-  "text" : "\u591A\u5206\u5C0F\u5B66\u6821\u306E\u540C\u7A93\u4F1A\u306E\u5E79\u4E8B\u3092\u983C\u3093\u3067\u308B\u3093\u3060\u3088 RT @kanji_man: \u96A3\u306B\u5EA7\u308B\u30B9\u30DD\u30FC\u30C6\u30A3\u306A\u53A8\u623F\u5C11\u5973\u304C\u3074\u3068\u3074\u3068\u8098\u3067\u89E6\u308C\u3066\u304F\u308B\u306E\u3067\u3059\u304C\u30D5\u30E9\u30B0\u3067\u3057\u3087\u3046\u304B\u2026\u2026\u304A\u5B22\u3055\u3093\u3001\u53CD\u5BFE\u5074\u7A7A\u3044\u3066\u307E\u3059\u3088\u3002\u591A\u5206\u7AEF\u304B\u3089\u898B\u308B\u3068\u7570\u5E38\u306A\u307E\u3067\u306B\u3053\u3063\u3061\u306B\u5BC4\u3063\u3066\u307E\u3059\u3088",
-  "id" : 17846238803,
-  "created_at" : "2010-07-06 00:00:00 +0000",
+  "id_str" : "17786586165",
+  "text" : "\u547C\u3070\u308C\u305F\u6C17\u304C\u3057\u305F QT @rikio0505: @Johnny_Yurippe \u91D1\u6CA2\u306B\u3082\u3042\u308B\u3089\u3057\u304F\u3066\u305D\u3061\u3089\u306B\u30D3\u30C3\u30AF\u30EA\u3057\u307E\u3057\u305F\uFF57",
+  "id" : 17786586165,
+  "created_at" : "2010-07-05 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u308A\u304D\u304A",
+      "screen_name" : "rikio0505",
+      "indices" : [ 0, 10 ],
+      "id_str" : "74137135",
+      "id" : 74137135
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17786548488",
+  "geo" : { },
+  "id_str" : "17786751807",
+  "in_reply_to_user_id" : 74137135,
+  "text" : "@rikio0505 \u3044\u3066\u3089\u3055\u30FC\u3044",
+  "id" : 17786751807,
+  "in_reply_to_status_id" : 17786548488,
+  "created_at" : "2010-07-05 00:00:00 +0000",
+  "in_reply_to_screen_name" : "rikio0505",
+  "in_reply_to_user_id_str" : "74137135",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -37601,10 +37496,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "17846420651",
-  "text" : "\u77F3\u9E78\u305F\u3093\u306B\u6559\u3048\u3066\u3082\u3089\u3063\u305F\u5800\u5BAE\u3001\u3059\u3054\u3044\u6709\u540D\u306B\u306A\u3063\u3066\u304A\u3044\u3089\u3073\u3063\u304F\u308A",
-  "id" : 17846420651,
-  "created_at" : "2010-07-06 00:00:00 +0000",
+  "id_str" : "17786920924",
+  "text" : "\u308A\u304D\u304A\u6C0F\u304C\u91D1\u6CA2\u51FA\u8EAB\u306E\u9375\u3063\u5B50\u3068\u8A71\u3057\u3066\u305F\u306E\u3067\u30D5\u30A9\u30ED\u30FC\u3057\u3066\u307F\u308B\u3002",
+  "id" : 17786920924,
+  "created_at" : "2010-07-05 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -37615,24 +37510,18 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u306A\u306A\u3072\u3089@3\u65E5\u76EE \u897Fa-46b",
-      "screen_name" : "nanahira",
-      "indices" : [ 0, 9 ],
-      "id_str" : "231926590",
-      "id" : 231926590
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "17846701135",
-  "text" : "@nanahira \u547C\u3070\u308C\u305F\u3089\u3067\u307E\u3059\u30FC\uFF1F",
-  "id" : 17846701135,
-  "created_at" : "2010-07-06 00:00:00 +0000",
+  "id_str" : "17789954747",
+  "text" : "@Johnny_Yurippe \u5B9C\u3057\u304F\u3067\u3059\u301C \u77F3\u5DDD\u304C\u3082\u3063\u3068\u767A\u5C55\u3059\u308C\u3070\u3044\u3044\u3067\u3059\u306Aw \u56E0\u307F\u306B\u81EA\u5206\u3082\u91D1\u6CA2\u306E\u9999\u6797\u574A\u306E\u65B9\u3067\u3059w",
+  "id" : 17789954747,
+  "created_at" : "2010-07-05 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -37643,24 +37532,29 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u9175\u7D20\uFF08\u30A8\u30F3\u30B6\u30A4\u30E0\uFF09\u3067\u30D5\u30A1\u30B9\u30C8\u30C0\u30A4\u30A8\u30C3\u30C8",
-      "screen_name" : "sekken777",
+      "name" : "\u308A\u304D\u304A",
+      "screen_name" : "rikio0505",
       "indices" : [ 0, 10 ],
-      "id_str" : "1538161099",
-      "id" : 1538161099
+      "id_str" : "74137135",
+      "id" : 74137135
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "17788077927",
   "geo" : { },
-  "id_str" : "17846864007",
-  "text" : "@sekken777 \u3044\u3084\u3001\u58F0\u5F53\u3066\u3068\u304B\u3044\u308D\u3044\u308D\u3042\u308B\u3089\u3057\u304F\u3066\u3001\u6709\u540D\u306B\u306A\u3063\u305F\u306A\u3041\u3001\u3068\u3002\u4F5C\u8005\u306E\u4EBA\u306E\u3064\u3044\u3063\u305F\u30FC\u306E\u30D5\u30A9\u30ED\u30FC\u6570\u5897\u3048\u3066\u308B\u3057",
-  "id" : 17846864007,
-  "created_at" : "2010-07-06 00:00:00 +0000",
+  "id_str" : "17790081507",
+  "in_reply_to_user_id" : 74137135,
+  "text" : "@rikio0505 \u3048\u3048\u3053\u3063\u3061\u3067\u3059w \u3044\u3044\u3068\u3053\u3060\u3068\u601D\u3046\u3093\u3067\u307E\u305F\u6765\u3066\u304F\u3060\u3055\u3044\u306D",
+  "id" : 17790081507,
+  "in_reply_to_status_id" : 17788077927,
+  "created_at" : "2010-07-05 00:00:00 +0000",
+  "in_reply_to_screen_name" : "rikio0505",
+  "in_reply_to_user_id_str" : "74137135",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -37671,24 +37565,18 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u9175\u7D20\uFF08\u30A8\u30F3\u30B6\u30A4\u30E0\uFF09\u3067\u30D5\u30A1\u30B9\u30C8\u30C0\u30A4\u30A8\u30C3\u30C8",
-      "screen_name" : "sekken777",
-      "indices" : [ 0, 10 ],
-      "id_str" : "1538161099",
-      "id" : 1538161099
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "17847101815",
-  "text" : "@sekken777 \u306D\u3002\u3084\u3063\u3068\u8A55\u4FA1\u3055\u308C\u305F\u611F\u3058",
-  "id" : 17847101815,
-  "created_at" : "2010-07-06 00:00:00 +0000",
+  "id_str" : "17790185221",
+  "text" : "\u3042\u3001\u4ECA\u65E5\u306E\u6B4C\u5531\u30BF\u30A4\u30E0\u306F\u3044\u308B\u3088\uFF01",
+  "id" : 17790185221,
+  "created_at" : "2010-07-05 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -37699,36 +37587,46 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17790548072",
+  "text" : "@Johnny_Yurippe \u3042\u3089\u3089\u3001\u305D\u3046\u306A\u3093\u3067\u3059\u304Bw",
+  "id" : 17790548072,
+  "created_at" : "2010-07-05 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u306A\u306A\u3072\u3089@3\u65E5\u76EE \u897Fa-46b",
-      "screen_name" : "nanahira",
-      "indices" : [ 8, 17 ],
-      "id_str" : "231926590",
-      "id" : 231926590
-    }, {
-      "name" : "\u30A8\u30CA\u30E1\u30EB",
-      "screen_name" : "enamel_hachi",
-      "indices" : [ 29, 42 ],
-      "id_str" : "82801680",
-      "id" : 82801680
-    }, {
-      "name" : "CAFFEIN\/3\u65E5\u76EE\u897Fn17a",
-      "screen_name" : "caffein89",
-      "indices" : [ 65, 75 ],
-      "id_str" : "32200114",
-      "id" : 32200114
+      "name" : "\u5BAE\u65B9 \u7720",
+      "screen_name" : "mirufi_0714",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1227653384",
+      "id" : 1227653384
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "17847108225",
-  "text" : "\u307E\u3060\u30FC\uFF1FRT: @nanahira: \u653E\u6620\u307E\u3060\u30FC\uFF1F RT @enamel_hachi: \u304B\u308F\u3044\u3044\u306A\u3041\u3001\u3044\u3064\u59CB\u307E\u308B\u3093\u3067\u3059\u304B\uFF01 RT @caffein89: \u30CA\u30CA\u30CA\u30CA\u5857\u3063\u305F\u3000\u306A\u3093\u304B\u6559\u80B2\u30C6\u30EC\u30D3\u306E\u5915\u65B9\u306E\u30A2\u30CB\u30E1\u3063\u307D\u3044\u2026 http:\/\/twitpic.com\/22uvq3",
-  "id" : 17847108225,
-  "created_at" : "2010-07-06 00:00:00 +0000",
+  "id_str" : "17790621188",
+  "text" : "@mirufi_0714 \u304A\u3084\u3059\u307F\u30FC\uFF01",
+  "id" : 17790621188,
+  "created_at" : "2010-07-05 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -37764,19 +37662,19 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30DF\u30F3\u30DF\u30F3\u30BC\u30DF\u3055\u3093\u30C1\u30FC\u30E0",
+      "name" : "\u30DF\u30F3\u30DF\u30F3@\u30B3\u30DF\u30B1\u304A\u75B2\u308C\u69D8\u3067\u3057\u305F",
       "screen_name" : "linelinet",
       "indices" : [ 40, 50 ],
       "id_str" : "116694698",
       "id" : 116694698
     }, {
-      "name" : "Liv",
+      "name" : "\/\/",
       "screen_name" : "AsakoSenpai",
       "indices" : [ 71, 83 ],
       "id_str" : "2764468667",
       "id" : 2764468667
     }, {
-      "name" : "\u30DF\u30F3\u30DF\u30F3\u30BC\u30DF\u3055\u3093\u30C1\u30FC\u30E0",
+      "name" : "\u30DF\u30F3\u30DF\u30F3@\u30B3\u30DF\u30B1\u304A\u75B2\u308C\u69D8\u3067\u3057\u305F",
       "screen_name" : "linelinet",
       "indices" : [ 98, 108 ],
       "id_str" : "116694698",
@@ -37832,7 +37730,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "74137135",
       "id" : 74137135
     }, {
-      "name" : "Liv",
+      "name" : "\/\/",
       "screen_name" : "AsakoSenpai",
       "indices" : [ 11, 23 ],
       "id_str" : "2764468667",
@@ -38106,206 +38004,29 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u308A\u304D\u304A",
-      "screen_name" : "rikio0505",
-      "indices" : [ 12, 22 ],
-      "id_str" : "74137135",
-      "id" : 74137135
+      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
+      "screen_name" : "minardikaivbx",
+      "indices" : [ 0, 14 ],
+      "id_str" : "66997484",
+      "id" : 66997484
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "17727368887",
   "geo" : { },
-  "id_str" : "17786586165",
-  "text" : "\u547C\u3070\u308C\u305F\u6C17\u304C\u3057\u305F QT @rikio0505: @Johnny_Yurippe \u91D1\u6CA2\u306B\u3082\u3042\u308B\u3089\u3057\u304F\u3066\u305D\u3061\u3089\u306B\u30D3\u30C3\u30AF\u30EA\u3057\u307E\u3057\u305F\uFF57",
-  "id" : 17786586165,
-  "created_at" : "2010-07-05 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u304D\u304A",
-      "screen_name" : "rikio0505",
-      "indices" : [ 0, 10 ],
-      "id_str" : "74137135",
-      "id" : 74137135
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17786548488",
-  "geo" : { },
-  "id_str" : "17786751807",
-  "in_reply_to_user_id" : 74137135,
-  "text" : "@rikio0505 \u3044\u3066\u3089\u3055\u30FC\u3044",
-  "id" : 17786751807,
-  "in_reply_to_status_id" : 17786548488,
-  "created_at" : "2010-07-05 00:00:00 +0000",
-  "in_reply_to_screen_name" : "rikio0505",
-  "in_reply_to_user_id_str" : "74137135",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17786920924",
-  "text" : "\u308A\u304D\u304A\u6C0F\u304C\u91D1\u6CA2\u51FA\u8EAB\u306E\u9375\u3063\u5B50\u3068\u8A71\u3057\u3066\u305F\u306E\u3067\u30D5\u30A9\u30ED\u30FC\u3057\u3066\u307F\u308B\u3002",
-  "id" : 17786920924,
-  "created_at" : "2010-07-05 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17789954747",
-  "text" : "@Johnny_Yurippe \u5B9C\u3057\u304F\u3067\u3059\u301C \u77F3\u5DDD\u304C\u3082\u3063\u3068\u767A\u5C55\u3059\u308C\u3070\u3044\u3044\u3067\u3059\u306Aw \u56E0\u307F\u306B\u81EA\u5206\u3082\u91D1\u6CA2\u306E\u9999\u6797\u574A\u306E\u65B9\u3067\u3059w",
-  "id" : 17789954747,
-  "created_at" : "2010-07-05 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u304D\u304A",
-      "screen_name" : "rikio0505",
-      "indices" : [ 0, 10 ],
-      "id_str" : "74137135",
-      "id" : 74137135
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17788077927",
-  "geo" : { },
-  "id_str" : "17790081507",
-  "in_reply_to_user_id" : 74137135,
-  "text" : "@rikio0505 \u3048\u3048\u3053\u3063\u3061\u3067\u3059w \u3044\u3044\u3068\u3053\u3060\u3068\u601D\u3046\u3093\u3067\u307E\u305F\u6765\u3066\u304F\u3060\u3055\u3044\u306D",
-  "id" : 17790081507,
-  "in_reply_to_status_id" : 17788077927,
-  "created_at" : "2010-07-05 00:00:00 +0000",
-  "in_reply_to_screen_name" : "rikio0505",
-  "in_reply_to_user_id_str" : "74137135",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17790185221",
-  "text" : "\u3042\u3001\u4ECA\u65E5\u306E\u6B4C\u5531\u30BF\u30A4\u30E0\u306F\u3044\u308B\u3088\uFF01",
-  "id" : 17790185221,
-  "created_at" : "2010-07-05 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17790548072",
-  "text" : "@Johnny_Yurippe \u3042\u3089\u3089\u3001\u305D\u3046\u306A\u3093\u3067\u3059\u304Bw",
-  "id" : 17790548072,
-  "created_at" : "2010-07-05 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u5BAE\u65B9 \u7720",
-      "screen_name" : "mirufi_0714",
-      "indices" : [ 0, 12 ],
-      "id_str" : "1227653384",
-      "id" : 1227653384
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17790621188",
-  "text" : "@mirufi_0714 \u304A\u3084\u3059\u307F\u30FC\uFF01",
-  "id" : 17790621188,
-  "created_at" : "2010-07-05 00:00:00 +0000",
+  "id_str" : "17727431655",
+  "in_reply_to_user_id" : 66997484,
+  "text" : "@minardikaivbx \u53F8\u66F8\u3055\u3093\u306B\u805E\u3044\u305F\u3089\u5206\u304B\u308B\u304B\u306A\u3041\u30FB\u30FB\u30FB\uFF57",
+  "id" : 17727431655,
+  "in_reply_to_status_id" : 17727368887,
+  "created_at" : "2010-07-04 00:00:00 +0000",
+  "in_reply_to_screen_name" : "minardikaivbx",
+  "in_reply_to_user_id_str" : "66997484",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -38319,7 +38040,393 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u306A\u306A\u3072\u3089@3\u65E5\u76EE \u897Fa-46b",
+      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
+      "screen_name" : "minardikaivbx",
+      "indices" : [ 0, 14 ],
+      "id_str" : "66997484",
+      "id" : 66997484
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17727597386",
+  "geo" : { },
+  "id_str" : "17727798205",
+  "in_reply_to_user_id" : 66997484,
+  "text" : "@minardikaivbx \u512A\u79C0\u3067\u3059\u304B\u3089\u306D\u3002\u4FFA\u3082\u512A\u79C0\u306A\u4EBA\u751F\u307F\u51FA\u305D\u3046\u304B\u306A\u3041\u2190",
+  "id" : 17727798205,
+  "in_reply_to_status_id" : 17727597386,
+  "created_at" : "2010-07-04 00:00:00 +0000",
+  "in_reply_to_screen_name" : "minardikaivbx",
+  "in_reply_to_user_id_str" : "66997484",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17727936775",
+  "text" : "\u3046\u30FC\u3080\u30FB\u30FB\u30FB\u4F55\u304B\u66F8\u304F\u304B\u3001\u590F\u306E\u30A2\u30CB\u30E11\u8A71\u3067\u3082\u898B\u308B\u304B\u30FB\u30FB\u30FB\u3055\u3066\u3069\u3046\u3059\u308B\u304B\u306A",
+  "id" : 17727936775,
+  "created_at" : "2010-07-04 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17727985392",
+  "text" : "\u3042\u3001\u751F\u5F92\u4F1A\u5F79\u54E1\u4F9B\u6765\u3066\u308B\u306E\u304B\u3002\u306A\u3089\u898B\u308B\u304B\u306A\u3002",
+  "id" : 17727985392,
+  "created_at" : "2010-07-04 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17728138307",
+  "text" : "\u4EBA\u9593\u30AD\u30EC\u305F\u3063\u3066\u9762\u5012\u306A\u3060\u3051\u3060\u3088\u307E\u3063\u305F\u304F\u3002\u3068\u3044\u3046\u4E8B\u3092\u770C\u3067\u30C8\u30C3\u30D7\u30AF\u30E9\u30B9\u306B\u6CBB\u5B89\u304C\u60AA\u3044\u4E8B\u3067\u6709\u540D\u306A\u4E2D\u5B66\u3092\u5352\u696D\u3057\u3066\u899A\u3048\u305F\u4E8B\u3067\u3059\u3002",
+  "id" : 17728138307,
+  "created_at" : "2010-07-04 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "hinaki",
+      "screen_name" : "Hinaki03",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2757041808",
+      "id" : 2757041808
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17728077953",
+  "geo" : { },
+  "id_str" : "17728170713",
+  "in_reply_to_user_id" : 100762060,
+  "text" : "@hinaki03 \u306B\u307E\u306B\u307E",
+  "id" : 17728170713,
+  "in_reply_to_status_id" : 17728077953,
+  "created_at" : "2010-07-04 00:00:00 +0000",
+  "in_reply_to_screen_name" : "hina9533",
+  "in_reply_to_user_id_str" : "100762060",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "hinaki",
+      "screen_name" : "Hinaki03",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2757041808",
+      "id" : 2757041808
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17728208161",
+  "geo" : { },
+  "id_str" : "17728253345",
+  "in_reply_to_user_id" : 100762060,
+  "text" : "@hinaki03 \u3069\u3093\u307E\u3044\uFF01\u3067\u3082\u3057\u304B\u305F\u306A\u3044\uFF01",
+  "id" : 17728253345,
+  "in_reply_to_status_id" : 17728208161,
+  "created_at" : "2010-07-04 00:00:00 +0000",
+  "in_reply_to_screen_name" : "hina9533",
+  "in_reply_to_user_id_str" : "100762060",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17728356584",
+  "text" : "\u3084\u3063\u3071veoh\u306E\u30BD\u30FC\u30B9\u306F\u9762\u767D\u3044\u3050\u3089\u3044\u306B\u8907\u96D1\u3060\uFF57\u3000\u52D5\u753B\u30B5\u30A4\u30C8\u95A2\u4FC2\u306F\u3084\u306F\u308A\u30BD\u30FC\u30B9\u304C\u8907\u96D1\u3067\u697D\u3057\u3044\uFF3E\uFF50\uFF3E",
+  "id" : 17728356584,
+  "created_at" : "2010-07-04 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "hinaki",
+      "screen_name" : "Hinaki03",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2757041808",
+      "id" : 2757041808
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17728324112",
+  "geo" : { },
+  "id_str" : "17728410546",
+  "in_reply_to_user_id" : 100762060,
+  "text" : "@hinaki03 \u307E\u3060\u9AD8\u6821\u3067\u30D7\u30FC\u30EB\u3084\u3063\u3066\u306A\u3044\u306E\u3067\u3057\u3089\u3093\u3057\u3089\u3093\uFF3E\uFF50\uFF3E",
+  "id" : 17728410546,
+  "in_reply_to_status_id" : 17728324112,
+  "created_at" : "2010-07-04 00:00:00 +0000",
+  "in_reply_to_screen_name" : "hina9533",
+  "in_reply_to_user_id_str" : "100762060",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "hinaki",
+      "screen_name" : "Hinaki03",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2757041808",
+      "id" : 2757041808
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17728497228",
+  "geo" : { },
+  "id_str" : "17728560976",
+  "in_reply_to_user_id" : 100762060,
+  "text" : "@hinaki03 \u773C\u93E1\u5916\u3059\u306E\u3067\u7279\u306B\u4F55\u3082\u898B\u3048\u307E\u305B\u3093\uFF3E\uFF50\uFF3E",
+  "id" : 17728560976,
+  "in_reply_to_status_id" : 17728497228,
+  "created_at" : "2010-07-04 00:00:00 +0000",
+  "in_reply_to_screen_name" : "hina9533",
+  "in_reply_to_user_id_str" : "100762060",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u308A\u3085\u3046",
+      "screen_name" : "ryuu_key",
+      "indices" : [ 0, 9 ],
+      "id_str" : "106477287",
+      "id" : 106477287
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17728536281",
+  "geo" : { },
+  "id_str" : "17728601010",
+  "in_reply_to_user_id" : 106477287,
+  "text" : "@ryuu_key \u304A\u3084\u3059\u307F\u306A\u3055\u3044\uFF01",
+  "id" : 17728601010,
+  "in_reply_to_status_id" : 17728536281,
+  "created_at" : "2010-07-04 00:00:00 +0000",
+  "in_reply_to_screen_name" : "ryuu_key",
+  "in_reply_to_user_id_str" : "106477287",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "hinaki",
+      "screen_name" : "Hinaki03",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2757041808",
+      "id" : 2757041808
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17728662602",
+  "geo" : { },
+  "id_str" : "17728740419",
+  "in_reply_to_user_id" : 100762060,
+  "text" : "@hinaki03 \u3048\u3063\u3061\u3043\u306E\u306F\u826F\u304F\u306A\u3044\u3068\u601D\u3044\u307E\u3059\uFF01",
+  "id" : 17728740419,
+  "in_reply_to_status_id" : 17728662602,
+  "created_at" : "2010-07-04 00:00:00 +0000",
+  "in_reply_to_screen_name" : "hina9533",
+  "in_reply_to_user_id_str" : "100762060",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "hinaki",
+      "screen_name" : "Hinaki03",
+      "indices" : [ 4, 13 ],
+      "id_str" : "2757041808",
+      "id" : 2757041808
+    }, {
+      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
+      "screen_name" : "why_tathibana",
+      "indices" : [ 15, 29 ],
+      "id_str" : "262494533",
+      "id" : 262494533
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17728896707",
+  "text" : "RT: @hinaki03: @why_tathibana \u3000\u3042\u3089\u6B8B\u5FF5\uFF57\uFF57\uFF57\u3000\u79C1\u306F\u660E\u65E5\u304A\u306B\u3083\u306E\u3053\u306E\u592A\u3082\u3082\u3092\u898B\u3066\u3053\u3088\u3046\u3068\u601D\u3044\u307Es\u2190",
+  "id" : 17728896707,
+  "created_at" : "2010-07-04 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "hinaki",
+      "screen_name" : "Hinaki03",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2757041808",
+      "id" : 2757041808
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17728805324",
+  "geo" : { },
+  "id_str" : "17728906563",
+  "in_reply_to_user_id" : 100762060,
+  "text" : "@hinaki03 \u3058\u30FC",
+  "id" : 17728906563,
+  "in_reply_to_status_id" : 17728805324,
+  "created_at" : "2010-07-04 00:00:00 +0000",
+  "in_reply_to_screen_name" : "hina9533",
+  "in_reply_to_user_id_str" : "100762060",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u306A\u306A\u3072\u3089",
       "screen_name" : "nanahira",
       "indices" : [ 0, 9 ],
       "id_str" : "231926590",
@@ -39663,26 +39770,269 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
-      "screen_name" : "minardikaivbx",
-      "indices" : [ 0, 14 ],
-      "id_str" : "66997484",
-      "id" : 66997484
+      "name" : "\uFF15\u6708\u75C5\u30DE\u30EA\u30AA",
+      "screen_name" : "5mario",
+      "indices" : [ 0, 7 ],
+      "id_str" : "68070552",
+      "id" : 68070552
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "17727368887",
+  "in_reply_to_status_id_str" : "17632623894",
   "geo" : { },
-  "id_str" : "17727431655",
-  "in_reply_to_user_id" : 66997484,
-  "text" : "@minardikaivbx \u53F8\u66F8\u3055\u3093\u306B\u805E\u3044\u305F\u3089\u5206\u304B\u308B\u304B\u306A\u3041\u30FB\u30FB\u30FB\uFF57",
-  "id" : 17727431655,
-  "in_reply_to_status_id" : 17727368887,
-  "created_at" : "2010-07-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "minardikaivbx",
-  "in_reply_to_user_id_str" : "66997484",
+  "id_str" : "17632666535",
+  "in_reply_to_user_id" : 68070552,
+  "text" : "@5mario \u5927\u4E08\u592B\u3067\u3059\u304B\uFF1F\u3000\u304A\u4F53\u306F\u304A\u5927\u4E8B\u306B\uFF01",
+  "id" : 17632666535,
+  "in_reply_to_status_id" : 17632623894,
+  "created_at" : "2010-07-03 00:00:00 +0000",
+  "in_reply_to_screen_name" : "5mario",
+  "in_reply_to_user_id_str" : "68070552",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17640773809",
+  "text" : "\u587E\u306A\u3046\u3002 \u3055\u3063\u304D\u307E\u3067\u5BDD\u3066\u305F\u3051\u3069",
+  "id" : 17640773809,
+  "created_at" : "2010-07-03 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17641646619",
+  "text" : "\u3046\u3057\u3001\u5E30\u308A\u307E\u3059\u304B\u306D",
+  "id" : 17641646619,
+  "created_at" : "2010-07-03 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17654309191",
+  "text" : "@dgw_kbo \u4ECA\u65E5\u306F\u3082\u3046\u304B\u3070\u305F\u3093\u306E\u30B5\u30E0\u30CD\u306F\u898B\u306A\u3044\u3053\u3068\u306B\u3057\u3088\u3046\u305D\u3046\u3057\u3088\u3046\u3002",
+  "id" : 17654309191,
+  "created_at" : "2010-07-03 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u5E79\u4E8B\u7537",
+      "screen_name" : "kanji_man",
+      "indices" : [ 0, 10 ],
+      "id_str" : "56417997",
+      "id" : 56417997
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "kanji_HBD",
+      "indices" : [ 34, 44 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17654491323",
+  "in_reply_to_user_id" : 56417997,
+  "text" : "@kanji_man \u3080\u3001\u304A\u8A95\u751F\u65E5\u3067\u3057\u305F\u304B\u3002\u304A\u3081\u3067\u3068\u3046\u3054\u3056\u3044\u307E\u3059\u3002 #kanji_HBD",
+  "id" : 17654491323,
+  "created_at" : "2010-07-03 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kanji_man",
+  "in_reply_to_user_id_str" : "56417997",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17654677500",
+  "text" : "\u305D\u308C\u8A00\u3046\u5FC5\u8981\u306D\u3047\u3058\u3083\u306D\u30FC\u306E RT @dgw_kbo: \u306A\u308B\u307B\u3069\uFF34\uFF4F\uFF4D\uFF4F\uFF52\uFF52\uFF4F\uFF57\u306F\uFF2D\uFF4F\uFF4E\uFF44\uFF41\uFF59\u3058\u3083\u306D\u30FC\u306E",
+  "id" : 17654677500,
+  "created_at" : "2010-07-03 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17654904036",
+  "text" : "\u643A\u5E2F\u30AF\u30E9\u30A4\u30A2\u30F3\u30C8\u3067\u898B\u3066\u308B\u306E\u306B\u5FC5\u305A\uFF34\uFF2C\u306B\u306A\u308B\u307B\u3069\u304C\u8907\u6570\u3042\u308B\u3002\u30C9\u30A6\u30A4\u30A6\u30B3\u30C8\u30CA\u30CE\u30FB\u30FB\u30FB\uFF1F",
+  "id" : 17654904036,
+  "created_at" : "2010-07-03 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17655171232",
+  "text" : "\u6700\u8FD1\u306F\u5E74\u4E0B\u5897\u3048\u3066\u304D\u305F\u306A\u3041\u3068\u611F\u3058\u3001\u81EA\u5206\u3082\u5E74\u3092\u3068\u3063\u305F\u3068\u611F\u3058\u305F\u3068\u601D\u3063\u305F\u3089\u3001\u5E74\u5B63\u306E\u9055\u3044\u3092\u898B\u305F\u308A\u3002\u5E45\u5E83\u3044\u306E\u3049",
+  "id" : 17655171232,
+  "created_at" : "2010-07-03 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17655345045",
+  "text" : "\u3068\u3042\u308B\u4E8B\u3092\u601D\u3044\u4ED8\u3044\u305F\u304C\u3001\u5F62\u306B\u3059\u308B\u304B\u3069\u3046\u304B\u306F\u308F\u304B\u308A\u307E\u305B\u3093\uFF01\uFF77\uFF98\uFF6F",
+  "id" : 17655345045,
+  "created_at" : "2010-07-03 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17655594910",
+  "text" : "\u3010\u5B9A\u671F\u3011\u3053\u306E\u30B5\u30E0\u30CD\u306F\u3068\u3042\u308B\u304A\u3061\u3083\u3081\u6A5F\u80FD\u30A2\u30CB\u30E1\u98A8PV? \u306E\u4EBA\u304C\u914D\u5E03\u3057\u3066\u305F\u306E\u3082\u3089\u3063\u305F\u3002",
+  "id" : 17655594910,
+  "created_at" : "2010-07-03 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3072\u306A\u306E\u3059\u3051(\u4E0A\u5D8B\u30CF\u30EB\u30AD)",
+      "screen_name" : "hinanon1217",
+      "indices" : [ 0, 12 ],
+      "id_str" : "71551815",
+      "id" : 71551815
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17655509012",
+  "geo" : { },
+  "id_str" : "17655769279",
+  "in_reply_to_user_id" : 71551815,
+  "text" : "@hinanon1217 \u3042\u3089\u304B\u308F\u3044\u3044",
+  "id" : 17655769279,
+  "in_reply_to_status_id" : 17655509012,
+  "created_at" : "2010-07-03 00:00:00 +0000",
+  "in_reply_to_screen_name" : "hinanon1217",
+  "in_reply_to_user_id_str" : "71551815",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -39696,26 +40046,26 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u306A\u308B\u3067\u3043\u6539",
-      "screen_name" : "minardikaivbx",
-      "indices" : [ 0, 14 ],
-      "id_str" : "66997484",
-      "id" : 66997484
+      "name" : "\u5E79\u4E8B\u7537",
+      "screen_name" : "kanji_man",
+      "indices" : [ 0, 10 ],
+      "id_str" : "56417997",
+      "id" : 56417997
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "17727597386",
+  "in_reply_to_status_id_str" : "17659527625",
   "geo" : { },
-  "id_str" : "17727798205",
-  "in_reply_to_user_id" : 66997484,
-  "text" : "@minardikaivbx \u512A\u79C0\u3067\u3059\u304B\u3089\u306D\u3002\u4FFA\u3082\u512A\u79C0\u306A\u4EBA\u751F\u307F\u51FA\u305D\u3046\u304B\u306A\u3041\u2190",
-  "id" : 17727798205,
-  "in_reply_to_status_id" : 17727597386,
-  "created_at" : "2010-07-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "minardikaivbx",
-  "in_reply_to_user_id_str" : "66997484",
+  "id_str" : "17659721783",
+  "in_reply_to_user_id" : 56417997,
+  "text" : "@kanji_man \u304A\u3084\u3059\u307F\u306A\u3055\u3044\u3002",
+  "id" : 17659721783,
+  "in_reply_to_status_id" : 17659527625,
+  "created_at" : "2010-07-03 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kanji_man",
+  "in_reply_to_user_id_str" : "56417997",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -39734,54 +40084,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "17727936775",
-  "text" : "\u3046\u30FC\u3080\u30FB\u30FB\u30FB\u4F55\u304B\u66F8\u304F\u304B\u3001\u590F\u306E\u30A2\u30CB\u30E11\u8A71\u3067\u3082\u898B\u308B\u304B\u30FB\u30FB\u30FB\u3055\u3066\u3069\u3046\u3059\u308B\u304B\u306A",
-  "id" : 17727936775,
-  "created_at" : "2010-07-04 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17727985392",
-  "text" : "\u3042\u3001\u751F\u5F92\u4F1A\u5F79\u54E1\u4F9B\u6765\u3066\u308B\u306E\u304B\u3002\u306A\u3089\u898B\u308B\u304B\u306A\u3002",
-  "id" : 17727985392,
-  "created_at" : "2010-07-04 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17728138307",
-  "text" : "\u4EBA\u9593\u30AD\u30EC\u305F\u3063\u3066\u9762\u5012\u306A\u3060\u3051\u3060\u3088\u307E\u3063\u305F\u304F\u3002\u3068\u3044\u3046\u4E8B\u3092\u770C\u3067\u30C8\u30C3\u30D7\u30AF\u30E9\u30B9\u306B\u6CBB\u5B89\u304C\u60AA\u3044\u4E8B\u3067\u6709\u540D\u306A\u4E2D\u5B66\u3092\u5352\u696D\u3057\u3066\u899A\u3048\u305F\u4E8B\u3067\u3059\u3002",
-  "id" : 17728138307,
-  "created_at" : "2010-07-04 00:00:00 +0000",
+  "id_str" : "17659972798",
+  "text" : "@daiflux \u304A\u3084\u3059\u307F\u306A\u3055\u3044\uFF01",
+  "id" : 17659972798,
+  "created_at" : "2010-07-03 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -39795,235 +40101,9 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hinaki",
-      "screen_name" : "Hinaki03",
-      "indices" : [ 0, 9 ],
-      "id_str" : "2757041808",
-      "id" : 2757041808
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17728077953",
-  "geo" : { },
-  "id_str" : "17728170713",
-  "in_reply_to_user_id" : 100762060,
-  "text" : "@hinaki03 \u306B\u307E\u306B\u307E",
-  "id" : 17728170713,
-  "in_reply_to_status_id" : 17728077953,
-  "created_at" : "2010-07-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "hina9533",
-  "in_reply_to_user_id_str" : "100762060",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "hinaki",
-      "screen_name" : "Hinaki03",
-      "indices" : [ 0, 9 ],
-      "id_str" : "2757041808",
-      "id" : 2757041808
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17728208161",
-  "geo" : { },
-  "id_str" : "17728253345",
-  "in_reply_to_user_id" : 100762060,
-  "text" : "@hinaki03 \u3069\u3093\u307E\u3044\uFF01\u3067\u3082\u3057\u304B\u305F\u306A\u3044\uFF01",
-  "id" : 17728253345,
-  "in_reply_to_status_id" : 17728208161,
-  "created_at" : "2010-07-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "hina9533",
-  "in_reply_to_user_id_str" : "100762060",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17728356584",
-  "text" : "\u3084\u3063\u3071veoh\u306E\u30BD\u30FC\u30B9\u306F\u9762\u767D\u3044\u3050\u3089\u3044\u306B\u8907\u96D1\u3060\uFF57\u3000\u52D5\u753B\u30B5\u30A4\u30C8\u95A2\u4FC2\u306F\u3084\u306F\u308A\u30BD\u30FC\u30B9\u304C\u8907\u96D1\u3067\u697D\u3057\u3044\uFF3E\uFF50\uFF3E",
-  "id" : 17728356584,
-  "created_at" : "2010-07-04 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "hinaki",
-      "screen_name" : "Hinaki03",
-      "indices" : [ 0, 9 ],
-      "id_str" : "2757041808",
-      "id" : 2757041808
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17728324112",
-  "geo" : { },
-  "id_str" : "17728410546",
-  "in_reply_to_user_id" : 100762060,
-  "text" : "@hinaki03 \u307E\u3060\u9AD8\u6821\u3067\u30D7\u30FC\u30EB\u3084\u3063\u3066\u306A\u3044\u306E\u3067\u3057\u3089\u3093\u3057\u3089\u3093\uFF3E\uFF50\uFF3E",
-  "id" : 17728410546,
-  "in_reply_to_status_id" : 17728324112,
-  "created_at" : "2010-07-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "hina9533",
-  "in_reply_to_user_id_str" : "100762060",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "hinaki",
-      "screen_name" : "Hinaki03",
-      "indices" : [ 0, 9 ],
-      "id_str" : "2757041808",
-      "id" : 2757041808
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17728497228",
-  "geo" : { },
-  "id_str" : "17728560976",
-  "in_reply_to_user_id" : 100762060,
-  "text" : "@hinaki03 \u773C\u93E1\u5916\u3059\u306E\u3067\u7279\u306B\u4F55\u3082\u898B\u3048\u307E\u305B\u3093\uFF3E\uFF50\uFF3E",
-  "id" : 17728560976,
-  "in_reply_to_status_id" : 17728497228,
-  "created_at" : "2010-07-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "hina9533",
-  "in_reply_to_user_id_str" : "100762060",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u308A\u3085\u3046",
-      "screen_name" : "ryuu_key",
-      "indices" : [ 0, 9 ],
-      "id_str" : "106477287",
-      "id" : 106477287
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17728536281",
-  "geo" : { },
-  "id_str" : "17728601010",
-  "in_reply_to_user_id" : 106477287,
-  "text" : "@ryuu_key \u304A\u3084\u3059\u307F\u306A\u3055\u3044\uFF01",
-  "id" : 17728601010,
-  "in_reply_to_status_id" : 17728536281,
-  "created_at" : "2010-07-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ryuu_key",
-  "in_reply_to_user_id_str" : "106477287",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "hinaki",
-      "screen_name" : "Hinaki03",
-      "indices" : [ 0, 9 ],
-      "id_str" : "2757041808",
-      "id" : 2757041808
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17728662602",
-  "geo" : { },
-  "id_str" : "17728740419",
-  "in_reply_to_user_id" : 100762060,
-  "text" : "@hinaki03 \u3048\u3063\u3061\u3043\u306E\u306F\u826F\u304F\u306A\u3044\u3068\u601D\u3044\u307E\u3059\uFF01",
-  "id" : 17728740419,
-  "in_reply_to_status_id" : 17728662602,
-  "created_at" : "2010-07-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "hina9533",
-  "in_reply_to_user_id_str" : "100762060",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "hinaki",
-      "screen_name" : "Hinaki03",
-      "indices" : [ 4, 13 ],
-      "id_str" : "2757041808",
-      "id" : 2757041808
-    }, {
       "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
       "screen_name" : "why_tathibana",
-      "indices" : [ 15, 29 ],
+      "indices" : [ 43, 57 ],
       "id_str" : "262494533",
       "id" : 262494533
     } ],
@@ -40032,43 +40112,10 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "17728896707",
-  "text" : "RT: @hinaki03: @why_tathibana \u3000\u3042\u3089\u6B8B\u5FF5\uFF57\uFF57\uFF57\u3000\u79C1\u306F\u660E\u65E5\u304A\u306B\u3083\u306E\u3053\u306E\u592A\u3082\u3082\u3092\u898B\u3066\u3053\u3088\u3046\u3068\u601D\u3044\u307Es\u2190",
-  "id" : 17728896707,
-  "created_at" : "2010-07-04 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "hinaki",
-      "screen_name" : "Hinaki03",
-      "indices" : [ 0, 9 ],
-      "id_str" : "2757041808",
-      "id" : 2757041808
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17728805324",
-  "geo" : { },
-  "id_str" : "17728906563",
-  "in_reply_to_user_id" : 100762060,
-  "text" : "@hinaki03 \u3058\u30FC",
-  "id" : 17728906563,
-  "in_reply_to_status_id" : 17728805324,
-  "created_at" : "2010-07-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "hina9533",
-  "in_reply_to_user_id_str" : "100762060",
+  "id_str" : "17661553469",
+  "text" : "\u6C17\u306E\u305B\u3044RT: @coma0105: \u55A7\u5629\u3092\u58F2\u3089\u308C\u305F\u3088\u3046\u306A\u6C17\u304C\u3059\u308B\uFF1C\u3007\uFF1E\uFF1C\u3007\uFF1E RT @why_tathibana: \u6700\u8FD1\u306F\u5E74\u4E0B\u5897\u3048\u3066\u304D\u305F\u306A\u3041\u3068\u611F\u3058\u3001\u81EA\u5206\u3082\u5E74\u3092\u3068\u3063\u305F\u3068\u611F\u3058\u305F\u3068\u601D\u3063\u305F\u3089\u3001\u5E74\u5B63\u306E\u9055\u3044\u3092\u898B\u305F\u308A\u3002\u5E45\u5E83\u3044\u306E\u3049",
+  "id" : 17661553469,
+  "created_at" : "2010-07-03 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
@@ -40091,12 +40138,6 @@ Grailbird.data.tweets_2010_07 =
       "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
       "screen_name" : "why_tathibana",
       "indices" : [ 23, 37 ],
-      "id_str" : "262494533",
-      "id" : 262494533
-    }, {
-      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
-      "screen_name" : "why_tathibana",
-      "indices" : [ 82, 96 ],
       "id_str" : "262494533",
       "id" : 262494533
     } ],
@@ -40137,7 +40178,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "rikio0505",
       "protected" : false,
       "id_str" : "74137135",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/760072422317928448\/icoEgOaJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/784036851967328256\/SrPOBCPv_normal.jpg",
       "id" : 74137135,
       "verified" : false
     }
@@ -40630,365 +40671,6 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uFF15\u6708\u75C5\u30DE\u30EA\u30AA",
-      "screen_name" : "5mario",
-      "indices" : [ 0, 7 ],
-      "id_str" : "68070552",
-      "id" : 68070552
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17632623894",
-  "geo" : { },
-  "id_str" : "17632666535",
-  "in_reply_to_user_id" : 68070552,
-  "text" : "@5mario \u5927\u4E08\u592B\u3067\u3059\u304B\uFF1F\u3000\u304A\u4F53\u306F\u304A\u5927\u4E8B\u306B\uFF01",
-  "id" : 17632666535,
-  "in_reply_to_status_id" : 17632623894,
-  "created_at" : "2010-07-03 00:00:00 +0000",
-  "in_reply_to_screen_name" : "5mario",
-  "in_reply_to_user_id_str" : "68070552",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17640773809",
-  "text" : "\u587E\u306A\u3046\u3002 \u3055\u3063\u304D\u307E\u3067\u5BDD\u3066\u305F\u3051\u3069",
-  "id" : 17640773809,
-  "created_at" : "2010-07-03 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17641646619",
-  "text" : "\u3046\u3057\u3001\u5E30\u308A\u307E\u3059\u304B\u306D",
-  "id" : 17641646619,
-  "created_at" : "2010-07-03 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17654309191",
-  "text" : "@dgw_kbo \u4ECA\u65E5\u306F\u3082\u3046\u304B\u3070\u305F\u3093\u306E\u30B5\u30E0\u30CD\u306F\u898B\u306A\u3044\u3053\u3068\u306B\u3057\u3088\u3046\u305D\u3046\u3057\u3088\u3046\u3002",
-  "id" : 17654309191,
-  "created_at" : "2010-07-03 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u5E79\u4E8B\u7537",
-      "screen_name" : "kanji_man",
-      "indices" : [ 0, 10 ],
-      "id_str" : "56417997",
-      "id" : 56417997
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "kanji_HBD",
-      "indices" : [ 34, 44 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17654491323",
-  "in_reply_to_user_id" : 56417997,
-  "text" : "@kanji_man \u3080\u3001\u304A\u8A95\u751F\u65E5\u3067\u3057\u305F\u304B\u3002\u304A\u3081\u3067\u3068\u3046\u3054\u3056\u3044\u307E\u3059\u3002 #kanji_HBD",
-  "id" : 17654491323,
-  "created_at" : "2010-07-03 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kanji_man",
-  "in_reply_to_user_id_str" : "56417997",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17654677500",
-  "text" : "\u305D\u308C\u8A00\u3046\u5FC5\u8981\u306D\u3047\u3058\u3083\u306D\u30FC\u306E RT @dgw_kbo: \u306A\u308B\u307B\u3069\uFF34\uFF4F\uFF4D\uFF4F\uFF52\uFF52\uFF4F\uFF57\u306F\uFF2D\uFF4F\uFF4E\uFF44\uFF41\uFF59\u3058\u3083\u306D\u30FC\u306E",
-  "id" : 17654677500,
-  "created_at" : "2010-07-03 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17654904036",
-  "text" : "\u643A\u5E2F\u30AF\u30E9\u30A4\u30A2\u30F3\u30C8\u3067\u898B\u3066\u308B\u306E\u306B\u5FC5\u305A\uFF34\uFF2C\u306B\u306A\u308B\u307B\u3069\u304C\u8907\u6570\u3042\u308B\u3002\u30C9\u30A6\u30A4\u30A6\u30B3\u30C8\u30CA\u30CE\u30FB\u30FB\u30FB\uFF1F",
-  "id" : 17654904036,
-  "created_at" : "2010-07-03 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17655171232",
-  "text" : "\u6700\u8FD1\u306F\u5E74\u4E0B\u5897\u3048\u3066\u304D\u305F\u306A\u3041\u3068\u611F\u3058\u3001\u81EA\u5206\u3082\u5E74\u3092\u3068\u3063\u305F\u3068\u611F\u3058\u305F\u3068\u601D\u3063\u305F\u3089\u3001\u5E74\u5B63\u306E\u9055\u3044\u3092\u898B\u305F\u308A\u3002\u5E45\u5E83\u3044\u306E\u3049",
-  "id" : 17655171232,
-  "created_at" : "2010-07-03 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17655345045",
-  "text" : "\u3068\u3042\u308B\u4E8B\u3092\u601D\u3044\u4ED8\u3044\u305F\u304C\u3001\u5F62\u306B\u3059\u308B\u304B\u3069\u3046\u304B\u306F\u308F\u304B\u308A\u307E\u305B\u3093\uFF01\uFF77\uFF98\uFF6F",
-  "id" : 17655345045,
-  "created_at" : "2010-07-03 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17655594910",
-  "text" : "\u3010\u5B9A\u671F\u3011\u3053\u306E\u30B5\u30E0\u30CD\u306F\u3068\u3042\u308B\u304A\u3061\u3083\u3081\u6A5F\u80FD\u30A2\u30CB\u30E1\u98A8PV? \u306E\u4EBA\u304C\u914D\u5E03\u3057\u3066\u305F\u306E\u3082\u3089\u3063\u305F\u3002",
-  "id" : 17655594910,
-  "created_at" : "2010-07-03 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u3072\u306A\u306E\u3059\u3051*LINE\u30B9\u30BF\u30F3\u30D7\u767A\u58F2\u4E2D",
-      "screen_name" : "hinanon1217",
-      "indices" : [ 0, 12 ],
-      "id_str" : "71551815",
-      "id" : 71551815
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17655509012",
-  "geo" : { },
-  "id_str" : "17655769279",
-  "in_reply_to_user_id" : 71551815,
-  "text" : "@hinanon1217 \u3042\u3089\u304B\u308F\u3044\u3044",
-  "id" : 17655769279,
-  "in_reply_to_status_id" : 17655509012,
-  "created_at" : "2010-07-03 00:00:00 +0000",
-  "in_reply_to_screen_name" : "hinanon1217",
-  "in_reply_to_user_id_str" : "71551815",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u5E79\u4E8B\u7537",
-      "screen_name" : "kanji_man",
-      "indices" : [ 0, 10 ],
-      "id_str" : "56417997",
-      "id" : 56417997
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17659527625",
-  "geo" : { },
-  "id_str" : "17659721783",
-  "in_reply_to_user_id" : 56417997,
-  "text" : "@kanji_man \u304A\u3084\u3059\u307F\u306A\u3055\u3044\u3002",
-  "id" : 17659721783,
-  "in_reply_to_status_id" : 17659527625,
-  "created_at" : "2010-07-03 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kanji_man",
-  "in_reply_to_user_id_str" : "56417997",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17659972798",
-  "text" : "@daiflux \u304A\u3084\u3059\u307F\u306A\u3055\u3044\uFF01",
-  "id" : 17659972798,
-  "created_at" : "2010-07-03 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "why\u3060\u3063\u305F\u3089\u3057\u3044\u305C\u30FC",
-      "screen_name" : "why_tathibana",
-      "indices" : [ 43, 57 ],
-      "id_str" : "262494533",
-      "id" : 262494533
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17661553469",
-  "text" : "\u6C17\u306E\u305B\u3044RT: @coma0105: \u55A7\u5629\u3092\u58F2\u3089\u308C\u305F\u3088\u3046\u306A\u6C17\u304C\u3059\u308B\uFF1C\u3007\uFF1E\uFF1C\u3007\uFF1E RT @why_tathibana: \u6700\u8FD1\u306F\u5E74\u4E0B\u5897\u3048\u3066\u304D\u305F\u306A\u3041\u3068\u611F\u3058\u3001\u81EA\u5206\u3082\u5E74\u3092\u3068\u3063\u305F\u3068\u611F\u3058\u305F\u3068\u601D\u3063\u305F\u3089\u3001\u5E74\u5B63\u306E\u9055\u3044\u3092\u898B\u305F\u308A\u3002\u5E45\u5E83\u3044\u306E\u3049",
-  "id" : 17661553469,
-  "created_at" : "2010-07-03 00:00:00 +0000",
-  "user" : {
-    "name" : "why\/\u6A58\u548C\u677F",
-    "screen_name" : "whywaita",
-    "protected" : false,
-    "id_str" : "73845680",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
-    "id" : 73845680,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -41239,6 +40921,340 @@ Grailbird.data.tweets_2010_07 =
   "text" : "\u308A\u3080\u3063\u305F\u30FC\u5165\u308C\u3066\u305F\u3089\u305F\u307E\u306B\u3061\u3087\u3063\u3068\u6D99\u76EE\u306A\u308B\u308F\uFF3C(^o^)\uFF0F \u5916\u305D\u3046\u304B\u3057\u3089",
   "id" : 17565352759,
   "created_at" : "2010-07-02 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17472799139",
+  "text" : "\u305F\u3060\u3044\u307E\u3002",
+  "id" : 17472799139,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3057\u3083\u308F\u6C70@\u898F\u5236\u57A2",
+      "screen_name" : "syawatan",
+      "indices" : [ 0, 9 ],
+      "id_str" : "1147707150",
+      "id" : 1147707150
+    }, {
+      "name" : "\u3046\u3055",
+      "screen_name" : "usa0926",
+      "indices" : [ 10, 18 ],
+      "id_str" : "1547624924",
+      "id" : 1547624924
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17472929148",
+  "geo" : { },
+  "id_str" : "17473315821",
+  "in_reply_to_user_id" : 48647469,
+  "text" : "@syawatan @usa0926 @Category_K \u305F\u3060\u3044\u307E\u3002",
+  "id" : 17473315821,
+  "in_reply_to_status_id" : 17472929148,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "atochi1",
+  "in_reply_to_user_id_str" : "48647469",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "ve_sobatyu",
+      "screen_name" : "ve_sobatyu",
+      "indices" : [ 0, 11 ],
+      "id_str" : "3062046595",
+      "id" : 3062046595
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17473546860",
+  "text" : "@ve_sobatyu \u300Cw\u300D\u3063\u3066\u300C\uFF56\u300D\u304C\u4E8C\u3064\u3001\u4F55\u6C17\u306B\u96A0\u308C\u3066\u5C45\u308B\u3093\u3060\u3088\u30FB\u30FB\u30FB\uFF01",
+  "id" : 17473546860,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17473846708",
+  "text" : "@kiritomukuro \u3080\u3063\u304F\u3093\u306F\u304E\u3085\u30FC\u3063\u3066\u3059\u308B\u306E\u3059\u304D\u3084\u304B\u3089\u306D\uFF01",
+  "id" : 17473846708,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u306A\u3059\u304D",
+      "screen_name" : "nasuki_ko",
+      "indices" : [ 3, 13 ],
+      "id_str" : "96699680",
+      "id" : 96699680
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17473983774",
+  "text" : "RT @nasuki_ko: \u3010\u7DCA\u6025\u3011\u4E2D\u592E\u533A\u7B39\u4E18\u306E\u30A8\u30E0\u30B6\u30B9\u4ED8\u8FD1\u3067\u901A\u308A\u9B54\u6BBA\u4EBA\u4E8B\u4EF6\u767A\u751F\u3002\u72AF\u4EBA\u306F\u9003\u8D70\u4E2D\u3067\u3059\u3001\u5916\u51FA\u4E2D\u306E\u65B9\u3084\u8FD1\u96A3\u306E\u65B9\u306F\u8B66\u6212\u3057\u3066\u304F\u3060\u3055\u3044\uFF01",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/t.colopl.jp\/t\/\" rel=\"nofollow\"\u003EColotwi\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "17471567299",
+    "text" : "\u3010\u7DCA\u6025\u3011\u4E2D\u592E\u533A\u7B39\u4E18\u306E\u30A8\u30E0\u30B6\u30B9\u4ED8\u8FD1\u3067\u901A\u308A\u9B54\u6BBA\u4EBA\u4E8B\u4EF6\u767A\u751F\u3002\u72AF\u4EBA\u306F\u9003\u8D70\u4E2D\u3067\u3059\u3001\u5916\u51FA\u4E2D\u306E\u65B9\u3084\u8FD1\u96A3\u306E\u65B9\u306F\u8B66\u6212\u3057\u3066\u304F\u3060\u3055\u3044\uFF01",
+    "id" : 17471567299,
+    "created_at" : "2010-07-01 05:34:40 +0000",
+    "user" : {
+      "name" : "\u306A\u3059\u304D",
+      "screen_name" : "nasuki_ko",
+      "protected" : false,
+      "id_str" : "96699680",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/787629798285729793\/ghTPQQlo_normal.jpg",
+      "id" : 96699680,
+      "verified" : false
+    }
+  },
+  "id" : 17473983774,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u306A\u3059\u304D",
+      "screen_name" : "nasuki_ko",
+      "indices" : [ 3, 13 ],
+      "id_str" : "96699680",
+      "id" : 96699680
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17473985796",
+  "text" : "RT @nasuki_ko: \u3010\u7DCA\u6025\u6539\u8A02\u3011\u901A\u308A\u9B54\u306E\u88AB\u5BB3\u8005\u306F\u751F\u5B58\u3002\u72AF\u4EBA\u306F50\u4EE3\u7537\u6027\u3001\u6CB9\u5C71\u65B9\u9762\u306B\u9003\u8D70\u3002\u897F\u533A\u58F1\u5C90\u56E3\u5730\u3067\u98DB\u3073\u964D\u308A\u3068\u306E\u95A2\u9023\u3042\u308A\u3002",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/t.colopl.jp\/t\/\" rel=\"nofollow\"\u003EColotwi\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "17472154452",
+    "text" : "\u3010\u7DCA\u6025\u6539\u8A02\u3011\u901A\u308A\u9B54\u306E\u88AB\u5BB3\u8005\u306F\u751F\u5B58\u3002\u72AF\u4EBA\u306F50\u4EE3\u7537\u6027\u3001\u6CB9\u5C71\u65B9\u9762\u306B\u9003\u8D70\u3002\u897F\u533A\u58F1\u5C90\u56E3\u5730\u3067\u98DB\u3073\u964D\u308A\u3068\u306E\u95A2\u9023\u3042\u308A\u3002",
+    "id" : 17472154452,
+    "created_at" : "2010-07-01 05:46:30 +0000",
+    "user" : {
+      "name" : "\u306A\u3059\u304D",
+      "screen_name" : "nasuki_ko",
+      "protected" : false,
+      "id_str" : "96699680",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/787629798285729793\/ghTPQQlo_normal.jpg",
+      "id" : 96699680,
+      "verified" : false
+    }
+  },
+  "id" : 17473985796,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17474032731",
+  "text" : "@kiritomukuro \u305D\u306E\u76EE\u306F\u51B7\u3081\u3066\u308B\u3093\u3058\u3083\u306A\u3044\uFF01\u305D\u308C\u306F\u30C4\u30F3\u3060\uFF01\u304D\u3063\u3068\u30C7\u30EC\u308B\u305C\uFF01\u30C7\u30EC\u78BA\u7ACB\u30C4\u30F3\u30C7\u30EC\u5B50\u4E26\u3060\u304C\u306A\uFF01",
+  "id" : 17474032731,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17474252072",
+  "text" : "@kiritomukuro \u3048\u3001\u30C4\u30F3\u30C7\u30EC\u5B50\u91CE\u90CE\u8AAC\uFF01\uFF1F",
+  "id" : 17474252072,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3075\u308F\u3075\u308F\u30DA\u30C9\u3061\u3083\u3093",
+      "screen_name" : "pedoro24",
+      "indices" : [ 0, 9 ],
+      "id_str" : "98882068",
+      "id" : 98882068
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17474234997",
+  "geo" : { },
+  "id_str" : "17474380843",
+  "in_reply_to_user_id" : 98882068,
+  "text" : "@pedoro24 \u4E00\u56DE\u7236\u306B\u6C34\uFF13\u713C\u914E\uFF17\u3067\u4F5C\u3063\u305F\u8A18\u61B6\u304C",
+  "id" : 17474380843,
+  "in_reply_to_status_id" : 17474234997,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "pedoro24",
+  "in_reply_to_user_id_str" : "98882068",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17474516449",
+  "text" : "@kiritomukuro \u3057\u304B\u305F\u306A\u3044\u3088\uFF01\u66B4\u8D70\u72B6\u614B\u306E\u4FFA\u3060\u3082\u3093\uFF01",
+  "id" : 17474516449,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "why\/\u6A58\u548C\u677F",
+    "screen_name" : "whywaita",
+    "protected" : false,
+    "id_str" : "73845680",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662657101592813568\/-7EA58q2_normal.png",
+    "id" : 73845680,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/movatter.jp\/\" rel=\"nofollow\"\u003EMovatter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17487689388",
+  "text" : "\u587E\u7D42\u308F\u3063\u305F\u306E\u3066\u309B\u4ECA\u304B\u3089\u5E30\u308B\u3088\uFF01",
+  "id" : 17487689388,
+  "created_at" : "2010-07-01 00:00:00 +0000",
   "user" : {
     "name" : "why\/\u6A58\u548C\u677F",
     "screen_name" : "whywaita",
